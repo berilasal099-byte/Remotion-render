@@ -1,0 +1,5280 @@
+[
+  {
+    "type": "imagefocus",
+    "kicker": "DEAD QUIET",
+    "emphasis": [
+      "DUSTY",
+      "ATTIC"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a dusty London attic study under a grimy skylight, a highback chair and a ticking clock, a red wooden tray on a table, stale still air, Edwardian 1900",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The room is dead still and stale.",
+      "concreteVisual": "Dusty attic study under grimy light, a highback chair, a ticking clock on the wall.",
+      "onScreenText": "STALE AIR, 1900 LONDON",
+      "relationToPrevious": "Opening.",
+      "addedInformation": "Setting: 1900 London attic."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DIM LIGHT",
+    "emphasis": [
+      "GRIMY",
+      "MAN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, standing in dim grimy light in a dusty attic",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "An eccentric man stands in the dim attic.",
+      "concreteVisual": "Uncle Andrew stands in the dim grey light of the attic window.",
+      "onScreenText": "UNCLE ANDREW",
+      "relationToPrevious": "Follows the room.",
+      "addedInformation": "Introduces Uncle Andrew."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "UNCLE ANDREW",
+    "emphasis": [
+      "GREY HAIR",
+      "CHAIR"
+    ],
+    "items": [],
+    "image": {
+      "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, leaning by a highback chair beside a ticking clock",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew by the highback chair, clock ticking.",
+      "concreteVisual": "Uncle Andrew stands beside the highback chair, a clock ticking behind him.",
+      "onScreenText": "A WILD, SHARP-NOSED MAN",
+      "relationToPrevious": "Same man, closer.",
+      "addedInformation": "The ticking clock marks the silence."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "RED TRAY",
+    "emphasis": [
+      "RED TRAY",
+      "RINGS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a bright red wooden tray on a dusty table, holding shiny yellow and green rings catching the dim light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The rings sit on a red tray.",
+      "concreteVisual": "A bright red wooden tray on a dusty table holds shiny yellow and green rings.",
+      "onScreenText": "RINGS THAT HUM",
+      "relationToPrevious": "Andrew's room now shows the objects.",
+      "addedInformation": "The rings are the central mechanism."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "TWO RINGS",
+    "emphasis": [
+      "YELLOW",
+      "GREEN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, holding a yellow ring in one hand and a green ring in the other over a red wooden tray",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A boy holds a yellow ring and a green ring.",
+      "concreteVisual": "Digory holds a yellow ring in one hand and a green ring in the other, over the red tray.",
+      "onScreenText": "DIGORY HOLDS BOTH",
+      "relationToPrevious": "The tray is now in use.",
+      "addedInformation": "Digory is holding them."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ABOUT TO LEAVE",
+    "emphasis": [
+      "RINGS",
+      "VICTORIAN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "two glowing rings, one yellow and one green, spinning above a dusty Victorian attic floor, light streaking outward and the room shaking",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The rings are about to pull you out of the era.",
+      "concreteVisual": "The yellow and green rings spin above the attic floor, light streaking out as the room blurs.",
+      "onScreenText": "OUT OF THE VICTORIAN ERA",
+      "relationToPrevious": "The rings begin to act.",
+      "addedInformation": "They will drag through time and worlds."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "NEW UNIVERSE",
+    "emphasis": [
+      "MULTIVERSE",
+      "NEW"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a swirl of stars and deep blue light opening onto a newborn bright sky over a faint green world, seen from far off",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The rings throw you into a new universe.",
+      "concreteVisual": "A swirl of stars opens onto a new bright sky over a faint green world.",
+      "onScreenText": "A NEW UNIVERSE IS BORN",
+      "relationToPrevious": "The journey begins.",
+      "addedInformation": "This is the birth of Narnia."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "THE KEYS",
+    "emphasis": [
+      "KEYS",
+      "COSMOS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "You hold the literal keys to the cosmos.",
+      "concreteVisual": "Digory's two hands hold the yellow and green rings over the tray.",
+      "onScreenText": "KEYS TO THE COSMOS",
+      "relationToPrevious": "Pause on the stakes.",
+      "addedInformation": "Power, not toys."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "NO IDEA",
+    "emphasis": [
+      "LOCKS",
+      "IGNORANCE"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "You do not know how the locks work.",
+      "concreteVisual": "A hand hovers over the rings on the tray, not yet touching them.",
+      "onScreenText": "NO IDEA HOW IT WORKS",
+      "relationToPrevious": "Follows the keys.",
+      "addedInformation": "Ignorance drives the story."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE AXIS",
+    "emphasis": [
+      "NEPHEW",
+      "STORY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "an old closed leather-bound book on a dusty wooden desk beside a red tray of rings",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The story turns on this ignorance.",
+      "concreteVisual": "A closed leather-bound book lies on the dusty desk beside the red tray.",
+      "onScreenText": "THE MAGICIAN'S NEPHEW",
+      "relationToPrevious": "Introduces the book.",
+      "addedInformation": "The Magician's Nephew."
+    }
+  },
+  {
+    "type": "list",
+    "kicker": "THE THESIS",
+    "emphasis": [
+      "MYTH",
+      "POWER"
+    ],
+    "items": [
+      "CREATION MYTH",
+      "CHILDREN'S BOOK",
+      "REAL SUBJECT: POWER"
+    ],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The book is a creation myth in a children's disguise.",
+      "concreteVisual": "A card with three lines stacked one under another on a dark page.",
+      "onScreenText": "ONE ARGUABLE THESIS",
+      "relationToPrevious": "States the thesis.",
+      "addedInformation": "Three claims."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "WHAT A PERSON DOES",
+    "emphasis": [
+      "POWER",
+      "DIGORY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, staring uneasily down at glowing rings, his face tense",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The core obsession is what a person does with power.",
+      "concreteVisual": "Digory stares uneasily down at the glowing rings in his hands.",
+      "onScreenText": "THE REAL SUBJECT",
+      "relationToPrevious": "Turns the thesis onto Digory.",
+      "addedInformation": "Power is the subject."
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "THE QUESTION",
+    "emphasis": [
+      "POWER"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "What do you do with power you cannot control?",
+      "concreteVisual": "A plain question card over a dark attic floor.",
+      "onScreenText": "POWER YOU CANNOT CONTROL?",
+      "relationToPrevious": "Poses the question.",
+      "addedInformation": "Frames every chapter."
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "NOT A TOY",
+    "emphasis": [
+      "TOY",
+      "WEAPON"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "FUN TOY",
+        "subject": "a child's yellow toy ring rolling across a nursery rug in sunlight, a child laughing"
+      },
+      "right": {
+        "label": "WEAPON",
+        "subject": "a glowing yellow ring held high above a ruined street, its light cracking the air"
+      }
+    },
+    "storyboard": {
+      "claim": "The rings are weapons, not plot toys.",
+      "concreteVisual": "Toy ring on the left, weapon ring on the right.",
+      "onScreenText": "FUN TOY / WEAPON",
+      "relationToPrevious": "Reframes the rings.",
+      "addedInformation": "The rings are dangerous."
+    }
+  },
+  {
+    "type": "punchline",
+    "kicker": "MASS DISRUPTION",
+    "emphasis": [
+      "WEAPONS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The rings are weapons of mass disruption.",
+      "concreteVisual": "Two glowing rings hang over a cracked, empty floor.",
+      "onScreenText": "WORLD-SCALE DANGER",
+      "relationToPrevious": "Punchline on the reframe.",
+      "addedInformation": "Scale of the danger."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SUMMER 1900",
+    "emphasis": [
+      "LONDON",
+      "1900"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a cold, wet Edwardian London street in summer 1900, gaslamps glowing, a horse cab on the cobbles, rain falling",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The story begins in London, summer 1900.",
+      "concreteVisual": "Wet London street, gaslamps, horse cab.",
+      "onScreenText": "LONDON, SUMMER 1900",
+      "relationToPrevious": "Moves to the mundane reality.",
+      "addedInformation": "Date and place."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "COLD AND WET",
+    "emphasis": [
+      "MISERABLE",
+      "EDWARDIAN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "an empty grey sky over a row of rooftops, low clouds, soft rain light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A cold, wet, miserable summer.",
+      "concreteVisual": "A row of soot-stained brick houses under low grey rain clouds.",
+      "onScreenText": "EDWARDIAN DAWN",
+      "relationToPrevious": "Continues the setting.",
+      "addedInformation": "Edwardian mood."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "TRAPPED INDOORS",
+    "emphasis": [
+      "DIGORY",
+      "POLLY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket, beside a girl of about eleven, dark plaited hair, a long-sleeved cotton dress with a pinafore, both sitting indoors at a rain-streaked window",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory and Polly are trapped indoors.",
+      "concreteVisual": "Digory and Polly sit indoors at a rain-streaked window.",
+      "onScreenText": "DIGORY AND POLLY",
+      "relationToPrevious": "Introduces the two children.",
+      "addedInformation": "Digory and Polly, neighbours."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DIGORY'S STATE",
+    "emphasis": [
+      "DIGORY",
+      "GRIEF"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket, lying on a narrow bed in a cold room, staring at the ceiling with a closed face",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory's state of mind drives the whole book.",
+      "concreteVisual": "Digory lies alone on a narrow bed in a cold room, staring up at the ceiling.",
+      "onScreenText": "GRIEF DRIVES EVERYTHING",
+      "relationToPrevious": "Turns to Digory himself.",
+      "addedInformation": "The catalyst is his grief."
+    }
+  },
+  {
+    "type": "document",
+    "kicker": "FATHER IN INDIA",
+    "emphasis": [
+      "INDIA",
+      "LONDON"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory's father is away in India.",
+      "concreteVisual": "A plain typed card lies on a hall table, marked with India.",
+      "onScreenText": "FATHER IN INDIA",
+      "relationToPrevious": "Explains his situation.",
+      "addedInformation": "Dragged to London."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DRAFTY HOUSE",
+    "emphasis": [
+      "AUNT",
+      "UNCLE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a stout middle-aged Edwardian woman, hair pinned up, high-necked grey dress with a lace collar, stern face, beside an old man, wild grey hair, a dressing gown over a waistcoat, at a dim dinner table in a drafty house",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory lives with an unpredictable aunt and uncle.",
+      "concreteVisual": "Aunt Letty and Uncle Andrew sit at a dim dinner table in a drafty house.",
+      "onScreenText": "AUNT LETTY, UNCLE ANDREW",
+      "relationToPrevious": "Introduces the household.",
+      "addedInformation": "Fatherless, in a creaky house."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "MOTHER UPSTAIRS",
+    "emphasis": [
+      "MOTHER",
+      "DYING"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a pale thin Edwardian woman in a white nightgown and shawl, lying in a bed, frail and weary, a window light falling across the blankets",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "His mother is upstairs, slowly dying.",
+      "concreteVisual": "Mrs Kirke lies frail in bed, window light falling across the blankets.",
+      "onScreenText": "MRS KIRKE, UPSTAIRS",
+      "relationToPrevious": "The crushing weight.",
+      "addedInformation": "The illness is the stakes."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SUFFOCATING GRIEF",
+    "emphasis": [
+      "GRIEF",
+      "DIGORY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket, sitting on a dark stair outside a closed door, head bowed in grief",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory is enveloped in grief.",
+      "concreteVisual": "Digory sits on a dark stair outside a closed door, head bowed.",
+      "onScreenText": "A BOY ALONE ON THE STAIR",
+      "relationToPrevious": "Follows the mother.",
+      "addedInformation": "Grief as his state."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A SECRET DOOR",
+    "emphasis": [
+      "POWERLESS",
+      "DOOR"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a small wooden door ajar in dark panelled wallpaper, a thin line of light spilling out onto a dusty floor",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A powerless child is drawn to a secret door.",
+      "concreteVisual": "A small wooden door stands ajar in dark panelled wall, light spilling onto the dusty floor.",
+      "onScreenText": "ENTIRELY POWERLESS",
+      "relationToPrevious": "Turns to the lure.",
+      "addedInformation": "The door is the lure."
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "THE LURE",
+    "emphasis": [
+      "SECRET",
+      "CONTROL"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Why does a powerless child crave a secret?",
+      "concreteVisual": "A dark panelled wall with a thin line of light under a door.",
+      "onScreenText": "WHY CRAVE A SECRET?",
+      "relationToPrevious": "Pauses on the lure.",
+      "addedInformation": "Control and hidden knowledge."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE ATTIC",
+    "emphasis": [
+      "ATTIC",
+      "EXPLOITATION"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a wooden attic hatch in a ceiling with a ladder pulled down, dust hanging in the air above it",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Curiosity makes the children vulnerable.",
+      "concreteVisual": "A wooden attic hatch in the ceiling, its ladder pulled down.",
+      "onScreenText": "VULNERABLE",
+      "relationToPrevious": "Leads to the attic.",
+      "addedInformation": "The first major beat."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "CLIMBING IN",
+    "emphasis": [
+      "DIGORY",
+      "POLLY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a slim English boy of about eleven and a girl of about eleven with dark plaited hair, climbing up a ladder into an attic hatch, one candle in hand",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The children climb into the attic.",
+      "concreteVisual": "Digory and Polly climb the ladder into the attic hatch, one candle in hand.",
+      "onScreenText": "UP THE LADDER",
+      "relationToPrevious": "The physical exploration begins.",
+      "addedInformation": "Geography of the house."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "UNDER THE SLATES",
+    "emphasis": [
+      "TUNNEL",
+      "SLATES"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a dark drafty tunnel under the roof slates, two children crouched and lit by one candle, dusty beams stretching ahead",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A dark tunnel runs under the slates.",
+      "concreteVisual": "Two children crouch in a dark roof tunnel, lit by one candle, beams stretching ahead.",
+      "onScreenText": "A DARK ROOF TUNNEL",
+      "relationToPrevious": "The tunnel is entered.",
+      "addedInformation": "It runs along the row of houses."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "RAFTER TO RAFTER",
+    "emphasis": [
+      "RAFTERS",
+      "PLASTER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "two children stepping from rafter to rafter over pale plaster ceilings, a row of Victorian rooftops visible beyond the beams",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "They step rafter to rafter over the ceilings.",
+      "concreteVisual": "Two children step beam to beam over pale plaster ceilings.",
+      "onScreenText": "STEP ON THE RAFTERS",
+      "relationToPrevious": "Continues the tunnel.",
+      "addedInformation": "The row of houses."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ONE CANDLE",
+    "emphasis": [
+      "CANDLE",
+      "DUST"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a single candle flame in the dark beam space under the roof, dust motes drifting through its light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A single candle guides them and smells of dust.",
+      "concreteVisual": "A single candle flame in the dark beams, dust motes drifting through its light.",
+      "onScreenText": "ONE FLICKERING CANDLE",
+      "relationToPrevious": "Sensory detail.",
+      "addedInformation": "Only one light."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "DRY ROT",
+    "emphasis": [
+      "DRY ROT",
+      "PRECARIOUS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The physical danger mirrors the emotional one.",
+      "concreteVisual": "A crumbling wooden beam with rot, flakes of dust falling from it.",
+      "onScreenText": "THE FLOOR AND THE HEART",
+      "relationToPrevious": "Pause on the mirror.",
+      "addedInformation": "Physical and emotional danger."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "FALLING THROUGH",
+    "emphasis": [
+      "PLASTER",
+      "FALL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a boy's scuffed boot stepping onto cracked plaster between roof beams, the plaster breaking away and a dark hole opening below",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Stepping on plaster drops you through the ceiling.",
+      "concreteVisual": "A scuffed boot breaks through cracked plaster between roof beams.",
+      "onScreenText": "PLASTER IS NOT A FLOOR",
+      "relationToPrevious": "The danger made concrete.",
+      "addedInformation": "Plaster is not a floor."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "NOT FOR HUMANS",
+    "emphasis": [
+      "DANGEROUS",
+      "HUMAN"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "This space is not meant for humans.",
+      "concreteVisual": "A child crouches on the beams over a dark drop.",
+      "onScreenText": "NOT BUILT FOR PEOPLE",
+      "relationToPrevious": "Follows the danger.",
+      "addedInformation": "Inherently dangerous."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SMUGGLER'S CAVE",
+    "emphasis": [
+      "POLLY",
+      "CASH BOX"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a girl of about eleven, dark plaited hair, a long-sleeved cotton dress with a pinafore, hiding in a tunnel behind a cistern beside a cash box, apples and a bottle of ginger beer",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Polly keeps a smuggler's stash behind the cistern.",
+      "concreteVisual": "Polly crouches behind the cistern beside her cash box, apples and ginger beer.",
+      "onScreenText": "POLLY'S SMUGGLER STASH",
+      "relationToPrevious": "Introduces Polly's hideout.",
+      "addedInformation": "Innocent childhood secrecy."
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "TWO KINDS OF SECRET",
+    "emphasis": [
+      "POLLY",
+      "DIGORY"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "POLLY",
+        "subject": "a girl hiding a cash box and apples in a dusty tunnel behind a cistern"
+      },
+      "right": {
+        "label": "DIGORY",
+        "subject": "a boy with a candle pushing forward along the rafters toward a far door"
+      }
+    },
+    "storyboard": {
+      "claim": "Polly's secret is innocent; Digory pushes further.",
+      "concreteVisual": "Polly's stash on the left; Digory's candle moving along the rafters toward a far door on the right.",
+      "onScreenText": "INNOCENT / PUSHING FURTHER",
+      "relationToPrevious": "Contrast.",
+      "addedInformation": "Digory wants the whole row."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A SMALL DOOR",
+    "emphasis": [
+      "DOOR",
+      "BRICK"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a plain wooden door in a sloping attic wall, dust on the floor",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "They open a little door expecting cobwebs.",
+      "concreteVisual": "Digory and Polly open a low brick door, cobwebs on its edges, a candle held up.",
+      "onScreenText": "EXPECTING COBWEBS",
+      "relationToPrevious": "The door is opened.",
+      "addedInformation": "They expect an empty room."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DAYLIGHT",
+    "emphasis": [
+      "DAYLIGHT",
+      "SURPRISE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory and Polly, shielding their eyes with raised arms, stand in a dusty room while a bright shaft of daylight falls across the floor through a broken wall",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Instead of cobwebs, they meet daylight.",
+      "concreteVisual": "Two children shield their eyes from a sudden shaft of daylight in a dusty room.",
+      "onScreenText": "DAYLIGHT, NOT COBWEBS",
+      "relationToPrevious": "The surprise.",
+      "addedInformation": "The room is not empty."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ANCIENT BOOKS",
+    "emphasis": [
+      "FIRE",
+      "BOOKS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a fire burning in a stone hearth in a vast study whose walls are lined with ancient leather books, a long table in the centre",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A fire burns in a room lined with ancient books.",
+      "concreteVisual": "A fire burns in a stone hearth in a vast study, its walls lined with old leather books.",
+      "onScreenText": "A FIRE IN A ROOM OF BOOKS",
+      "relationToPrevious": "Reveals the room.",
+      "addedInformation": "Uncle Andrew's study."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "HUMMING RINGS",
+    "emphasis": [
+      "HUMMING",
+      "RINGS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a red wooden tray with yellow and green rings glowing faintly, a thin hum of light rising from them in the warm study",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A faint humming comes from the tray of rings.",
+      "concreteVisual": "Yellow and green rings glow faintly on the red tray, a thin light rising from them.",
+      "onScreenText": "A FAINT MUSICAL HUM",
+      "relationToPrevious": "The contrast closes the chunk.",
+      "addedInformation": "The rings are active again."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "LOCKED IN",
+    "emphasis": [
+      "ANDREW",
+      "LOCKED"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew, an old man with wild grey hair and a dressing gown, turning a key in a locked study door while Digory and Polly stand behind him in a dusty Edwardian 1900 London attic",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew traps the children in his study.",
+      "concreteVisual": "Andrew locks the door on the two children.",
+      "onScreenText": "LOCKED IN",
+      "relationToPrevious": "Continues from the smugglers cave to the locked study.",
+      "addedInformation": "Andrew is the one who controls the door."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE MAGICIAN'S EGO",
+    "emphasis": [
+      "MAGICIAN",
+      "PRESTIGE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew, wild grey hair and a sharply pointed nose, standing proudly before a tall bookcase of old leather tomes in his study, one hand raised as if lecturing",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew is a magician driven by ego.",
+      "concreteVisual": "Andrew posing as a lecturing scholar-magician.",
+      "onScreenText": "THE MAGICIAN'S EGO",
+      "relationToPrevious": "Andrew is now introduced after being locked in.",
+      "addedInformation": "His vanity is visible in his posture."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ALL PRESTIGE",
+    "emphasis": [
+      "PRESTIGE",
+      "RISK"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew in his dressing gown peering into a gilt mirror in a candlelit study, admiring himself while a yellow ring sits untouched on a table nearby",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew wants wisdom but will not take risks.",
+      "concreteVisual": "Andrew admires himself but keeps away from the ring.",
+      "onScreenText": "PRESTIGE, NOT RISK",
+      "relationToPrevious": "Follows Andrew's ego with his refusal to risk anything.",
+      "addedInformation": "The ring stays on the table, showing he avoids danger."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE GUINEA PIG",
+    "emphasis": [
+      "YELLOW RING",
+      "GUINEA PIG"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A red wooden tray in a dusty attic study holding a glowing yellow ring beside a small empty wire cage, the guinea pig gone",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew has already sent a guinea pig away with a yellow ring.",
+      "concreteVisual": "The guinea pig has vanished; a yellow ring glows on the tray beside its empty cage.",
+      "onScreenText": "YELLOW RING",
+      "relationToPrevious": "Turns from Andrew's ego to his experiment.",
+      "addedInformation": "The guinea pig is the first test subject, already gone."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "NOTES, NOT CARE",
+    "emphasis": [
+      "GUINEA PIG",
+      "NOTES"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew's complaint is that the guinea pig cannot take notes.",
+      "concreteVisual": "Text only.",
+      "onScreenText": "THE COMPLAINT: NO NOTES",
+      "relationToPrevious": "Andrew's complaint follows the experiment.",
+      "addedInformation": "It shows he cares about results, not the animal."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "LONDON, 1900",
+    "emphasis": [
+      "LONDON",
+      "1900"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A busy Edwardian London street in 1900 with horse cabs, gaslamps and people in heavy coats under a grey sky",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "London at the height of the empire, 1900.",
+      "concreteVisual": "A horse-cab street in 1900 London.",
+      "onScreenText": "LONDON, 1900",
+      "relationToPrevious": "Moves from Andrew to the wider time and place.",
+      "addedInformation": "The era is shown through the street."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "OCCULT CRAZE",
+    "emphasis": [
+      "OCCULT",
+      "UPPER CLASS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Well-dressed Edwardian gentlemen and ladies seated around a candlelit seance table in a dim London drawing room, hands joined",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Upper-class London was obsessed with the occult.",
+      "concreteVisual": "A candlelit seance in a London drawing room.",
+      "onScreenText": "OCCULT CRAZE",
+      "relationToPrevious": "Explains the London setting that produced Andrew.",
+      "addedInformation": "The occult interest belongs to the upper classes."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "STOLEN MYSTICISM",
+    "emphasis": [
+      "MYSTICISM",
+      "EXTRACTED"
+    ],
+    "items": [],
+    "image": {
+      "subject": "An ornate ancient carved box with foreign symbols sitting on a polished Victorian study desk beside a pile of brass instruments",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Ancient mysticism was treated as a resource to extract.",
+      "concreteVisual": "An ancient carved box treated as a collectors object.",
+      "onScreenText": "MYSTICISM, EXTRACTED",
+      "relationToPrevious": "Explains the attitude behind Andrew's study.",
+      "addedInformation": "The box is the source of Andrew's power."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "INHERITED BOX",
+    "emphasis": [
+      "ATLANTEAN",
+      "INHERITED"
+    ],
+    "items": [],
+    "image": {
+      "subject": "An elderly relative's pale hand pushing a heavy carved wooden box across a bedside table in an Edwardian bedroom",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew inherited the box from a dying relative.",
+      "concreteVisual": "An elderly hand passing a carved box across a bedside table.",
+      "onScreenText": "FROM A DYING RELATIVE",
+      "relationToPrevious": "Explains where Andrew got the box.",
+      "addedInformation": "The box passed down through a family death."
+    }
+  },
+  {
+    "type": "list",
+    "kicker": "ANDREW'S METHOD",
+    "emphasis": [
+      "BRUTE FORCE"
+    ],
+    "items": [
+      "BRUTE FORCE",
+      "TRUST FUND",
+      "RADIOACTIVE"
+    ],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew brute forced the box as a trust fund academic.",
+      "concreteVisual": "Text list only.",
+      "onScreenText": "BRUTE FORCE / TRUST FUND / RADIOACTIVE",
+      "relationToPrevious": "Describes how Andrew used the box.",
+      "addedInformation": "Three traits of Andrew."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "ANDREW SPEAKS",
+    "emphasis": [
+      "HIGH AND LONELY DESTINY"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew says his is a high and lonely destiny.",
+      "concreteVisual": "Text only.",
+      "onScreenText": "A HIGH AND LONELY DESTINY",
+      "relationToPrevious": "Andrew's own words after the method.",
+      "addedInformation": "The quote is his self-image."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "FREED FROM RULES",
+    "emphasis": [
+      "HIDDEN WISDOM",
+      "RULES"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew standing before a shelf of leather-bound books in his study, chin lifted, as if he is above the common rules",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew argues that men of hidden wisdom are above common rules.",
+      "concreteVisual": "Andrew stands above ordinary life among his books.",
+      "onScreenText": "ABOVE THE RULES",
+      "relationToPrevious": "Continues Andrew's self-image.",
+      "addedInformation": "Shows his belief in his own superiority."
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "IS HE A MASTERMIND?",
+    "emphasis": [
+      "ANDREW"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Should we see Andrew as a mastermind?",
+      "concreteVisual": "Text only.",
+      "onScreenText": "IS ANDREW A MASTERMIND?",
+      "relationToPrevious": "The commentary challenges the earlier view.",
+      "addedInformation": "Asks the viewer to reassess Andrew."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A COWARD",
+    "emphasis": [
+      "COWARD",
+      "TOYS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew cowering behind a high-backed chair in his dressing gown, eyes wide, while a glowing yellow ring sits on a tray across the room",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew is a pathetic coward terrified of his own toys.",
+      "concreteVisual": "Andrew hides behind a chair from the ring.",
+      "onScreenText": "A COWARD",
+      "relationToPrevious": "Answers the mastermind question.",
+      "addedInformation": "His fear is shown physically."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "BORROWED LANGUAGE",
+    "emphasis": [
+      "SUPERMAN",
+      "DESTINY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A leather-bound philosophy book open on a study desk, beside a yellow ring and a half-empty glass of wine",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew dresses his cowardice in grand philosophical language.",
+      "concreteVisual": "An open philosophy book on a desk with the ring.",
+      "onScreenText": "NIETZSCHEAN SUPERMAN",
+      "relationToPrevious": "Explains the grandiose talk of the coward.",
+      "addedInformation": "The book gives him the language."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SHAKING",
+    "emphasis": [
+      "SHAKING",
+      "FEAR"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew's trembling hands gripping the edge of a study table, his knuckles pale, his pointed nose raised toward a humming ring",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew is shaking with terror of the unknown.",
+      "concreteVisual": "Trembling hands gripping a table.",
+      "onScreenText": "SHAKING IN HIS BOOTS",
+      "relationToPrevious": "Continues the coward view.",
+      "addedInformation": "Fear is shown in his hands."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "UNDENIABLE",
+    "emphasis": [
+      "COWARDICE",
+      "UNKNOWN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew peering at a humming ring from across a dusty attic, keeping a safe distance behind a wooden chair",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "His cowardice is undeniable, rooted in fear of the unknown.",
+      "concreteVisual": "Andrew keeps his distance from the ring.",
+      "onScreenText": "THE UNKNOWN",
+      "relationToPrevious": "Explains the cause of his cowardice.",
+      "addedInformation": "Distance shows the fear."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "COWARDICE AMPLIFIES",
+    "emphasis": [
+      "ARROGANCE",
+      "CRUELTY"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Cowardice does not cancel his arrogance; it amplifies his cruelty.",
+      "concreteVisual": "Text only.",
+      "onScreenText": "COWARDICE AMPLIFIES CRUELTY",
+      "relationToPrevious": "Turns the coward view into a danger.",
+      "addedInformation": "Cowardice makes him more cruel."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "HE MANIPULATES",
+    "emphasis": [
+      "MANIPULATES",
+      "POLLY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew at his study table holding out a glowing yellow ring to Polly, a girl of about eleven with dark plaited hair and a pinafore dress, while Digory watches",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew uses a child to test the ring.",
+      "concreteVisual": "Andrew offers the ring to Polly.",
+      "onScreenText": "HE MANIPULATES",
+      "relationToPrevious": "Turns from Andrew's fear to his cruelty.",
+      "addedInformation": "Polly is the test subject."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SHE VANISHES",
+    "emphasis": [
+      "POLLY",
+      "VANISHES"
+    ],
+    "items": [],
+    "image": {
+      "subject": "An empty study chair beside a red wooden tray where a humming yellow ring still glows, and a single dark plait ribbon lies on the rug",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Polly disappears after touching the ring.",
+      "concreteVisual": "Empty chair and glowing ring, no person.",
+      "onScreenText": "SHE VANISHES",
+      "relationToPrevious": "Follows the manipulation with the result.",
+      "addedInformation": "Polly is gone; the ring remains."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "TAKE THE RINGS",
+    "emphasis": [
+      "DIGORY",
+      "GREEN RINGS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke, a slim English boy of about eleven with short untidy brown hair, pocketing two green rings while Uncle Andrew watches from the doorway",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew forces Digory to take green rings to go after Polly.",
+      "concreteVisual": "Digory pockets the green rings under Andrew's eye.",
+      "onScreenText": "GREEN RINGS",
+      "relationToPrevious": "Digory is now the one who must act.",
+      "addedInformation": "Digory is forced to follow."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A POWER HE CANNOT UNDO",
+    "emphasis": [
+      "DIGORY",
+      "POWER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke standing alone in the attic, two green rings in his palm and a yellow ring on a tray in front of him, his face grave",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A grieving child is handed power he cannot undo.",
+      "concreteVisual": "Digory alone holding the rings.",
+      "onScreenText": "A POWER HE CANNOT UNDO",
+      "relationToPrevious": "Shows the burden on Digory.",
+      "addedInformation": "The weight falls on the child."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "INTO THE VOID",
+    "emphasis": [
+      "VOID",
+      "DIGORY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke mid-leap in a swirling dark void, a yellow ring glowing on his finger, his grey jacket flung out",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory plunges into the void to fix Andrew's mistake.",
+      "concreteVisual": "Digory falling into a swirling void.",
+      "onScreenText": "INTO THE VOID",
+      "relationToPrevious": "Digory is sent after Polly.",
+      "addedInformation": "The void is the passage between worlds."
+    }
+  },
+  {
+    "type": "place",
+    "kicker": "THE WOOD BETWEEN",
+    "emphasis": [
+      "WOOD BETWEEN"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory is pulled out of the study into the wood between the worlds.",
+      "concreteVisual": "Text only.",
+      "onScreenText": "THE WOOD BETWEEN THE WORLDS",
+      "relationToPrevious": "The void drops him in a new place.",
+      "addedInformation": "Names the setting."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "A SHOCK",
+    "emphasis": [
+      "SHOCK"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The move from the study to the wood is a sensory shock.",
+      "concreteVisual": "Text only.",
+      "onScreenText": "A SENSORY SHOCK",
+      "relationToPrevious": "Follows the place card.",
+      "addedInformation": "Lewis makes the change feel abrupt."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "STUFFY TO LUSH",
+    "emphasis": [
+      "STUFFY",
+      "LUSH"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory and Polly standing in a warm green wood with dense leaves, the stuffy attic gone behind them",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The children go from the stuffy room to a lush wood.",
+      "concreteVisual": "Two children in green light, no attic.",
+      "onScreenText": "STUFFY TO LUSH",
+      "relationToPrevious": "Follows the shock with the arrival.",
+      "addedInformation": "Contrast between the two places."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "RICHEST GREEN",
+    "emphasis": [
+      "GREEN",
+      "WARM"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A warm lush green wood with dense leaves and sunlight filtering down, the richest greenest woods imaginable",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The wood is the richest, warmest woods.",
+      "concreteVisual": "A lush green wood.",
+      "onScreenText": "WARMEST GREEN",
+      "relationToPrevious": "Describes the wood Digory has entered.",
+      "addedInformation": "Warmth and richness."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DEAD QUIET",
+    "emphasis": [
+      "GREEN LIGHT",
+      "QUIET"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A forest floor bathed entirely in green light under dense leaves, perfectly still and silent",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The light is green and the quiet is dead and still.",
+      "concreteVisual": "Still green forest floor.",
+      "onScreenText": "DEAD QUIET",
+      "relationToPrevious": "Continues the wood description.",
+      "addedInformation": "The quiet is calm, not tense."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "CIRCULAR POOLS",
+    "emphasis": [
+      "POOLS",
+      "EARTHY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A mossy forest floor dotted with dozens of perfectly circular still pools of water, one pool reflecting green leaves",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The ground is dotted with circular pools of water.",
+      "concreteVisual": "Round still pools on the mossy floor.",
+      "onScreenText": "CIRCULAR POOLS",
+      "relationToPrevious": "Describes the ground of the wood.",
+      "addedInformation": "The pools are the doorways."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "HEAVY APATHY",
+    "emphasis": [
+      "DIGORY",
+      "APATHY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke leaning against a tree trunk in green light, eyes half-closed, looking heavy and warm with apathy",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory feels a heavy warm apathy in the wood.",
+      "concreteVisual": "Digory leaning against a tree.",
+      "onScreenText": "HEAVY APATHY",
+      "relationToPrevious": "Digory reacts to the wood.",
+      "addedInformation": "His mood is shown."
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "SAME TUNNEL",
+    "emphasis": [
+      "TUNNEL",
+      "WOOD"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "LONDON",
+        "subject": "a dark crawlspace tunnel under rooftop slates in a Victorian London house"
+      },
+      "right": {
+        "label": "THE WOOD",
+        "subject": "a still circular pool of water in a green forest"
+      }
+    },
+    "storyboard": {
+      "claim": "The wood is like the dark tunnel under London roofs.",
+      "concreteVisual": "A London roof-slate crawlspace on one side, a still pool in the green wood on the other.",
+      "onScreenText": "TUNNEL / POOL",
+      "relationToPrevious": "Digory compares the wood to London.",
+      "addedInformation": "The wood connects the houses."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "COSMIC PLUMBING",
+    "emphasis": [
+      "PLUMBING",
+      "BETWEEN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A branching network of still pools reflecting green light across a forest floor, each pool linking to another",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The wood is cosmic plumbing between the universes.",
+      "concreteVisual": "Linked pools like connecting pipes.",
+      "onScreenText": "COSMIC PLUMBING",
+      "relationToPrevious": "Explains what the wood is.",
+      "addedInformation": "The wood is not a universe itself."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE UNDERGROUND",
+    "emphasis": [
+      "UNDERGROUND",
+      "JUNCTION"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A dim Victorian London Underground tunnel junction in 1900, rails crossing under gaslight, no train in sight",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The wood is like a subway junction where lines cross.",
+      "concreteVisual": "A dim tunnel junction with crossing rails.",
+      "onScreenText": "WHERE LINES CROSS",
+      "relationToPrevious": "Follows the plumbing analogy.",
+      "addedInformation": "Era-correct underground."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "CONNECTIVE TISSUE",
+    "emphasis": [
+      "NOTHING HAPPENS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Nothing happens in the wood; it only connects.",
+      "concreteVisual": "Text only.",
+      "onScreenText": "NOTHING HAPPENS THERE",
+      "relationToPrevious": "Continues the junction analogy.",
+      "addedInformation": "The wood is purely a link."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ANDREW'S MISTAKE",
+    "emphasis": [
+      "ANDREW",
+      "SIMPLE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew in his study holding a yellow ring up triumphantly, confident that the magic is simple",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew thought the magic was simple.",
+      "concreteVisual": "Andrew confidently holding a ring.",
+      "onScreenText": "THE MAGIC WAS SIMPLE",
+      "relationToPrevious": "Explains Andrew's misunderstanding.",
+      "addedInformation": "His overconfidence is the flaw."
+    }
+  },
+  {
+    "type": "list",
+    "kicker": "THE TWO RINGS",
+    "emphasis": [
+      "YELLOW",
+      "GREEN"
+    ],
+    "items": [
+      "YELLOW: OUTWARD",
+      "GREEN: HOMEWARD"
+    ],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Yellow means outward, green means homeward.",
+      "concreteVisual": "Text list only.",
+      "onScreenText": "YELLOW: OUTWARD / GREEN: HOMEWARD",
+      "relationToPrevious": "Andrew's binary understanding.",
+      "addedInformation": "The rule Andrew believed."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE PHYSICS",
+    "emphasis": [
+      "DUST",
+      "PHYSICS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Close view of glittering dust grains caught in a sunbeam above a red wooden tray with yellow and green rings",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The physics of the rings is more than Andrew knows.",
+      "concreteVisual": "Dust in a sunbeam above the rings.",
+      "onScreenText": "WHAT THE RINGS ARE MADE OF",
+      "relationToPrevious": "Moves from the binary rule to what the rings are made of.",
+      "addedInformation": "The dust is the key."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ORIGIN DUST",
+    "emphasis": [
+      "DUST",
+      "WOOD"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A pinch of glittering dust on a red wooden tray beside yellow and green rings, the dust carried to London from a green wood long ago",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The rings are made of dust from the wood.",
+      "concreteVisual": "Dust on a tray beside the rings.",
+      "onScreenText": "DUST FROM THE WOOD",
+      "relationToPrevious": "Follows the physics.",
+      "addedInformation": "Origin of the rings."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "PULLED HOME",
+    "emphasis": [
+      "YELLOW",
+      "HOME"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A yellow ring glowing and being drawn toward a green pool in the wood, the light stretching toward the water",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Yellow rings are drawn back to their origin.",
+      "concreteVisual": "Yellow ring pulled toward a pool.",
+      "onScreenText": "YELLOW PULLS HOME",
+      "relationToPrevious": "Explains the yellow ring's pull.",
+      "addedInformation": "Yellow pulls you into the wood."
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "OPPOSITE POLES",
+    "emphasis": [
+      "GREEN",
+      "YELLOW"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "YELLOW",
+        "subject": "a yellow ring pulled inward toward a green pool"
+      },
+      "right": {
+        "label": "GREEN",
+        "subject": "a green ring pushed outward away from a green pool"
+      }
+    },
+    "storyboard": {
+      "claim": "Green rings push out, yellow rings pull in, like magnetic poles.",
+      "concreteVisual": "Yellow pulled in, green pushed out.",
+      "onScreenText": "PULLED IN / PUSHED OUT",
+      "relationToPrevious": "Answers the yellow pull with the green push.",
+      "addedInformation": "Magnetic polarity."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "LIKE A TODDLER",
+    "emphasis": [
+      "ANDREW",
+      "MAGNETS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew kneeling on the attic floor and scattering rings across a tray, like a careless child playing with magnets",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew is like a toddler with powerful magnets.",
+      "concreteVisual": "Andrew careless with the rings.",
+      "onScreenText": "LIKE A TODDLER",
+      "relationToPrevious": "Puts Andrew in the magnet analogy.",
+      "addedInformation": "He is careless with power."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "NOT HOME",
+    "emphasis": [
+      "GREEN",
+      "LONDON"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A green ring glowing above a cold wet London street with gaslamps, the ring pointing away from home",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A green ring does not take you home to London.",
+      "concreteVisual": "Green ring over a London street, not leading there.",
+      "onScreenText": "NOT HOME",
+      "relationToPrevious": "The green ring's false promise.",
+      "addedInformation": "Green does not return to London."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ANY POOL",
+    "emphasis": [
+      "POOL",
+      "REPELLED"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A green ring glowing above a still circular pool, ripples spreading, the ring shoving the wearer toward the water",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The green ring repels you into any pool.",
+      "concreteVisual": "Ripples from a pool beneath a green ring.",
+      "onScreenText": "ANY POOL",
+      "relationToPrevious": "Follows the green ring not going home.",
+      "addedInformation": "Random destination."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "UNEARNED POWER",
+    "emphasis": [
+      "UNEARNED POWER"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The realisation is terrifying: power without understanding.",
+      "concreteVisual": "Text only.",
+      "onScreenText": "UNEARNED POWER",
+      "relationToPrevious": "Summarises the ring physics.",
+      "addedInformation": "Power without understanding."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "WITHOUT UNDERSTANDING",
+    "emphasis": [
+      "UNDERSTAND"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Wielding forces you do not understand leaves you at their mercy.",
+      "concreteVisual": "Text only.",
+      "onScreenText": "WITHOUT UNDERSTANDING",
+      "relationToPrevious": "Continues the lesson.",
+      "addedInformation": "General warning."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ACTUAL NATURE",
+    "emphasis": [
+      "NATURE",
+      "WATER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "The reflection of a green ring in dark still water, the surface barely moving under green light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "You are at the mercy of the forces' actual nature.",
+      "concreteVisual": "Green ring reflected in still water.",
+      "onScreenText": "ACTUAL NATURE",
+      "relationToPrevious": "Follows the warning.",
+      "addedInformation": "The water shows the real nature."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "INSIDIOUS",
+    "emphasis": [
+      "INSIDIOUS",
+      "WOOD"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A dense green wood with still pools in soft light, quiet and inviting, nothing visibly threatening",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The actual nature of the wood is insidious.",
+      "concreteVisual": "Calm dense wood with pools.",
+      "onScreenText": "INSIDIOUS",
+      "relationToPrevious": "Ends the passage on the wood.",
+      "addedInformation": "The threat is quiet, not shown."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "GREEN STILLNESS",
+    "emphasis": [
+      "APATHY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory and Polly standing side by side in a warm green wood, faces slack and eyes half-closed, soft green light falling through the leaves",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The wood's calm makes the children forget who they are.",
+      "concreteVisual": "Digory and Polly standing side by side in green light, faces slack and eyes half-closed.",
+      "onScreenText": "NARCOTIC CALM",
+      "relationToPrevious": "Opens the wood section after the warning about its nature.",
+      "addedInformation": "The danger is the wood's calm, not a monster."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "FORGETTING",
+    "emphasis": [
+      "FORGET"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory and Polly stand side by side in green light beside still pools, both with calm loose faces and hands at their sides, gazing away and not touching",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "They almost forget they must rescue each other.",
+      "concreteVisual": "Two children stand still side by side in green light, relaxed, not touching.",
+      "onScreenText": "THEY FORGET EACH OTHER",
+      "relationToPrevious": "Continues the apathy from the wood.",
+      "addedInformation": "The rescue bond is what is at risk."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "PEACE OF NOTHING",
+    "emphasis": [
+      "TERRIFYING"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory standing motionless beside a still green pool, face blank and calm, leaves drifting around him",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The peace of non-existence is more frightening than a monster.",
+      "concreteVisual": "Digory standing motionless beside a still green pool, blank face, leaves drifting around him.",
+      "onScreenText": "WORSE THAN A MONSTER",
+      "relationToPrevious": "Explains the apathy in the previous beat.",
+      "addedInformation": "Blank calm reads as the threat."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE TURF MARK",
+    "emphasis": [
+      "TURF",
+      "LONDON"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A strip of cut turf laid on the mossy bank beside one pool, marking the way back to London, a boy's hand resting on it",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A strip of turf marks the pool that leads back to London.",
+      "concreteVisual": "Turf laid on the bank beside the London pool.",
+      "onScreenText": "TURF MARKS THE WAY HOME",
+      "relationToPrevious": "The children have to act to stay themselves.",
+      "addedInformation": "The turf is their anchor to reality."
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "CURIOSITY",
+    "emphasis": [
+      "GREEN RINGS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "UNCLE ANDREW",
+        "subject": "Uncle Andrew, wild grey hair and a dressing gown, bending eagerly over a pool with greedy curiosity"
+      },
+      "right": {
+        "label": "DIGORY",
+        "subject": "Digory, a slim boy in a grey jacket, looking down at a green ring on his finger beside a pool, uncertain"
+      }
+    },
+    "storyboard": {
+      "claim": "Digory's curiosity mirrors his uncle's, with one difference.",
+      "concreteVisual": "Uncle Andrew and Digory each eyeing a pool with a ring.",
+      "onScreenText": "SAME CURIOSITY",
+      "relationToPrevious": "Turns from the turf to the pools.",
+      "addedInformation": "Digory repeats the uncle's habit."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ONE MORE POOL",
+    "emphasis": [
+      "EXPLORE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory and Polly at the edge of a ring of several still pools, each reflecting a different sky, Digory pointing to another",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "They could go home, but Digory wants to explore one more pool.",
+      "concreteVisual": "Digory pointing to one more pool among the ring of still pools.",
+      "onScreenText": "ONE MORE POOL",
+      "relationToPrevious": "Follows the turf decision.",
+      "addedInformation": "Shows the choice to continue."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "HAND IN HAND",
+    "emphasis": [
+      "GREEN RINGS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory and Polly holding hands, green rings on their fingers, stepping together toward the edge of a dark pool",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory takes the physical risk himself, and they go together.",
+      "concreteVisual": "Two hands joined, rings on, stepping to a pool.",
+      "onScreenText": "DIGORY TAKES THE RISK",
+      "relationToPrevious": "The choice is made.",
+      "addedInformation": "Digory leads, Polly follows."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A SUDDEN CHANGE",
+    "emphasis": [
+      "COLD"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A blur of warm green light giving way to a grey cold sky, a pool's water still rippling",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The warm green is instantly replaced by a biting cold.",
+      "concreteVisual": "A blur of green light giving way to a grey, cold sky over a rippling pool.",
+      "onScreenText": "WARM TO COLD",
+      "relationToPrevious": "Immediate jump from the pool.",
+      "addedInformation": "The world changes in one cut."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "CHARN",
+    "emphasis": [
+      "RED SUN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory and Polly standing in a cracked stone courtyard under a swollen dying red sun, black ruined towers around them",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "They stand in the ruins of a massive dead courtyard under a dying red sun.",
+      "concreteVisual": "Two small figures in a ruined courtyard under a red sun.",
+      "onScreenText": "THE DEAD WORLD OF CHARN",
+      "relationToPrevious": "Arrival in Charn.",
+      "addedInformation": "The red sun marks Charn as dying."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE HALL OF KINGS",
+    "emphasis": [
+      "WAX FIGURES"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Two children walking slowly down a long stone hall lined with pale statues of royalty, red light falling across the cold floor",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "They enter a great hall of frozen royal figures under bloody light.",
+      "concreteVisual": "Children walking in a hall lined with pale royal statues.",
+      "onScreenText": "WAX FIGURES",
+      "relationToPrevious": "Moves inside the ruined palace.",
+      "addedInformation": "The statues are a line of rulers."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "FIRST FACES",
+    "emphasis": [
+      "KIND"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A row of pale stone royal statues, the nearest with gentle kind faces, lit in blood-red light beside the children",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The first rulers' faces are noble and kind.",
+      "concreteVisual": "Two children stopping before the nearest pale statues, which have gentle faces in red light.",
+      "onScreenText": "NOBLE AND KIND",
+      "relationToPrevious": "Start of the progression.",
+      "addedInformation": "Sets the baseline for the decline."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE LINE DECAYS",
+    "emphasis": [
+      "CRUEL",
+      "ARROGANT"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Close view of a line of pale stone royal faces, each further along harder and crueler, carved in red light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Generation by generation the faces grow crueler and more arrogant.",
+      "concreteVisual": "Close view of the statues' faces, each one harder than the last, down the line.",
+      "onScreenText": "FACES TURN CRUEL",
+      "relationToPrevious": "Continues the progression.",
+      "addedInformation": "The decline is visible in the faces."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "JADIS",
+    "emphasis": [
+      "JADIS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis, a tall, beautiful woman with black hair and a cold white face, a long dark gown with a silver crown, standing at the end of the line of statues in red light",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "At the end of the line stands Jadis, terrifying and beautiful.",
+      "concreteVisual": "Jadis standing as the tallest figure at the end of the line of statues.",
+      "onScreenText": "QUEEN OF QUEENS",
+      "relationToPrevious": "Reveal of the final figure.",
+      "addedInformation": "Introduces Jadis's look."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE BELL",
+    "emphasis": [
+      "GOLDEN BELL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A small pillar with a golden bell and a hammer resting beside it, in front of Jadis's statue, red light on the metal",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A pillar holds a golden bell in front of Jadis.",
+      "concreteVisual": "Golden bell on a pillar with a hammer.",
+      "onScreenText": "A PILLAR, A BELL",
+      "relationToPrevious": "The bell is introduced.",
+      "addedInformation": "The bell is the trap."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "THE INSCRIPTION",
+    "emphasis": [
+      "MAKE YOUR CHOICE"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "An inscription tells the stranger to make a choice.",
+      "concreteVisual": "The inscription carved into the pillar beside the bell.",
+      "onScreenText": "MAKE YOUR CHOICE",
+      "relationToPrevious": "Reads the inscription.",
+      "addedInformation": "The words are the invitation."
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "WHAT IF",
+    "emphasis": [
+      "DANGER",
+      "WONDER"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Striking the bell brings danger or wonder.",
+      "concreteVisual": "The bell and pillar in dark red light, the question printed over them.",
+      "onScreenText": "STRIKE THE BELL?",
+      "relationToPrevious": "Continues the inscription.",
+      "addedInformation": "The question tempts the reader."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "CURIOSITY TRAP",
+    "emphasis": [
+      "MYSTERY"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The trap exploits the human inability to tolerate mystery.",
+      "concreteVisual": "Plain statement on a dark ground, no picture.",
+      "onScreenText": "CAN'T TOLERATE MYSTERY",
+      "relationToPrevious": "Explains the trap.",
+      "addedInformation": "The point is the psychology."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "POLLY SEES DANGER",
+    "emphasis": [
+      "LEAVE NOW"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Polly gripping Digory's sleeve, eyes wide, urging him toward the way out under the red light",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Polly feels the malice and says they must leave.",
+      "concreteVisual": "Polly pulling at Digory's sleeve.",
+      "onScreenText": "LEAVE NOW",
+      "relationToPrevious": "The conflict begins.",
+      "addedInformation": "Polly is the sensible one."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DIGORY FIGHTS",
+    "emphasis": [
+      "PRIDE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory struggling with Polly, pulling her back by the arm across a stone floor, both straining in red light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory is infected by the same arrogant curiosity as his uncle.",
+      "concreteVisual": "Digory physically holding Polly back.",
+      "onScreenText": "PRIDE",
+      "relationToPrevious": "Escalation of the conflict.",
+      "addedInformation": "Digory's pride becomes action."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE HAMMER",
+    "emphasis": [
+      "HAMMER",
+      "BELL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory swinging a hammer at a golden bell on a pillar, his other hand gripping Polly's arm, red light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory grabs Polly and strikes the bell with the hammer.",
+      "concreteVisual": "Digory swings a hammer at the bell while holding Polly's arm.",
+      "onScreenText": "HE STRIKES THE BELL",
+      "relationToPrevious": "The defining failure.",
+      "addedInformation": "Two actions at once."
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "WILL OVER WILL",
+    "emphasis": [
+      "OVERPOWERS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "POLLY",
+        "subject": "Polly pulled back by the arm, holding her ring hand to her chest, frowning in red light"
+      },
+      "right": {
+        "label": "DIGORY",
+        "subject": "Digory's firm grip on her wrist, face set in determination"
+      }
+    },
+    "storyboard": {
+      "claim": "Digory forces his will onto Polly to satisfy his ego.",
+      "concreteVisual": "Polly held back by Digory.",
+      "onScreenText": "FORCED WILL",
+      "relationToPrevious": "Follows the hammer strike.",
+      "addedInformation": "Shows the overpowering."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE BELL RINGS",
+    "emphasis": [
+      "ROOF",
+      "JADIS WAKES"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Cracked stone ceiling of a ruined palace falling in clouds of dust, the golden bell glowing, a tall black-haired shape stirring on a stone throne",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The bell rings, the roof collapses, and Jadis wakes.",
+      "concreteVisual": "The ceiling cracking and falling in dust while a tall black-haired figure stirs.",
+      "onScreenText": "JADIS WAKES",
+      "relationToPrevious": "Consequence of the strike.",
+      "addedInformation": "The disaster is set in motion."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE WAY OUT",
+    "emphasis": [
+      "CHARN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis leading the children through a crumbling palace corridor, her silver crown catching red light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis leads them out and reveals the history of Charn.",
+      "concreteVisual": "Jadis leading through ruins.",
+      "onScreenText": "CHARN",
+      "relationToPrevious": "Escape begins.",
+      "addedInformation": "Jadis becomes the guide."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE SISTER'S ARMIES",
+    "emphasis": [
+      "SISTER",
+      "SURRENDER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A ruined palace wall at dusk, torn banners hanging over a broken gate, red sky overhead",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis refused to surrender to her sister's winning armies.",
+      "concreteVisual": "Broken gate and torn banners.",
+      "onScreenText": "REFUSED TO SURRENDER",
+      "relationToPrevious": "Backstory of the war.",
+      "addedInformation": "Shows the stakes of her refusal."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "THE DEPLORABLE WORD",
+    "emphasis": [
+      "WORD"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The word destroys every living thing except the one who speaks it.",
+      "concreteVisual": "Plain statement on a dark ground, no picture.",
+      "onScreenText": "EVERYONE BUT THE SPEAKER",
+      "relationToPrevious": "Explains the word.",
+      "addedInformation": "The cost of the word is total."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "THE COLD WAR",
+    "emphasis": [
+      "1950S",
+      "DESTRUCTION"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Lewis writes at the dawn of mutually assured destruction.",
+      "concreteVisual": "Text statement.",
+      "onScreenText": "MUTUALLY ASSURED DESTRUCTION",
+      "relationToPrevious": "Real-world context.",
+      "addedInformation": "Ties the story to the Cold War."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "THE QUEEN",
+    "emphasis": [
+      "I WAS THE QUEEN"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis says she was the queen.",
+      "concreteVisual": "Jadis's own words on screen, the line she speaks to Digory.",
+      "onScreenText": "I WAS THE QUEEN",
+      "relationToPrevious": "Her own voice.",
+      "addedInformation": "Her identity."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "MY PEOPLE",
+    "emphasis": [
+      "MY WILL"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis preferred a dead world over a world she could not rule.",
+      "concreteVisual": "Jadis's words on a dark ground, the line about her people.",
+      "onScreenText": "WHAT ELSE WERE THEY FOR?",
+      "relationToPrevious": "Continues her quote.",
+      "addedInformation": "The extreme of her thesis."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "ULTIMATE POWER",
+    "emphasis": [
+      "POWER"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The deplorable word is the pinnacle of power you cannot take back.",
+      "concreteVisual": "Text statement.",
+      "onScreenText": "THE PINNACLE OF POWER",
+      "relationToPrevious": "Thesis of the passage.",
+      "addedInformation": "Power without limit."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE MISTAKE",
+    "emphasis": [
+      "COLOSSAL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory alone in a red-lit ruin, one hand pressed to his forehead, realizing his mistake, Jadis's shadow behind him",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory realizes he woke the architect of destruction.",
+      "concreteVisual": "Digory alone with a hand to his forehead, Jadis's shadow behind him.",
+      "onScreenText": "HE WOKE THE QUEEN",
+      "relationToPrevious": "Turn of the scene.",
+      "addedInformation": "His guilt is visible."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "YELLOW RINGS",
+    "emphasis": [
+      "YELLOW RING"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Two children's hands touching yellow rings together over a stone floor in red light, the rings glowing",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "They touch their rings, but magic requires physical contact.",
+      "concreteVisual": "Hands touching glowing yellow rings.",
+      "onScreenText": "TOUCH TO TRAVEL",
+      "relationToPrevious": "Escape attempt.",
+      "addedInformation": "The rule of contact."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE EAR",
+    "emphasis": [
+      "DRAGGED"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A tall black-haired woman's hand gripping a boy's ear at the edge of a glowing ring, both pulled toward a swirl of light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis grabs Digory's ear and is dragged along by the ring.",
+      "concreteVisual": "Jadis's hand gripping Digory's ear at the edge of a glowing ring.",
+      "onScreenText": "SHE GRABS HIS EAR",
+      "relationToPrevious": "Jadis is caught.",
+      "addedInformation": "Jadis is pulled along."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE WOOD",
+    "emphasis": [
+      "BETWEEN WORLDS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Three figures clinging together in a swirling dark wood of pools and lights, a woman's hair streaming, the rings glowing",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "They are pulled through the wood between the worlds with Jadis clinging.",
+      "concreteVisual": "Three figures clinging together in the swirling wood of pools and lights.",
+      "onScreenText": "BETWEEN WORLDS",
+      "relationToPrevious": "In transit.",
+      "addedInformation": "The wood between worlds."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "BACK IN LONDON",
+    "emphasis": [
+      "1900"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "They are dragged back into Uncle Andrew's study in 1900.",
+      "concreteVisual": "Text statement.",
+      "onScreenText": "1900 LONDON",
+      "relationToPrevious": "Arrival back in London.",
+      "addedInformation": "Crosses the two realities."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "STREET RAMPAGE",
+    "emphasis": [
+      "LONDON STREET"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A wet Edwardian London street at night with gaslamps and a horse cab, a dark tall figure hurrying past under the lamps",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The collision of realities hurls us into the London street.",
+      "concreteVisual": "A wet London street at night, gaslamps and a horse cab, a tall dark figure hurrying past.",
+      "onScreenText": "LONDON STREET",
+      "relationToPrevious": "Next beat in the London street.",
+      "addedInformation": "The street setting."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "VICTORIAN STUDY",
+    "emphasis": [
+      "VELVET CHAIRS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "A stuffy Victorian study with velvet chairs and a ticking clock, a tall black-haired woman in a long dark gown standing in dim light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis is alarming in the dead red light but out of place in a Victorian study.",
+      "concreteVisual": "Jadis in the study.",
+      "onScreenText": "IN A STUFFY STUDY",
+      "relationToPrevious": "Contrast with Charn.",
+      "addedInformation": "The setting is ordinary."
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "SEVEN FEET TALL",
+    "emphasis": [
+      "WARLORD",
+      "AUNT LETTY"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "JADIS",
+        "subject": "Jadis, a towering black-haired woman in a long dark gown and silver crown, fury in her face"
+      },
+      "right": {
+        "label": "AUNT LETTY",
+        "subject": "Aunt Letty, a stout middle-aged woman with hair pinned up and a lace collar, stern face"
+      }
+    },
+    "storyboard": {
+      "claim": "Jadis towers over Aunt Letty, who walks in.",
+      "concreteVisual": "Jadis beside Letty.",
+      "onScreenText": "AUNT LETTY WALKS IN",
+      "relationToPrevious": "Letty arrives.",
+      "addedInformation": "Scale contrast."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE CIRCUS",
+    "emphasis": [
+      "SHAMELESS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Aunt Letty in a study doorway, arms crossed, frowning at a tall woman in strange clothes",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Letty sees a shameless woman from a circus, not a sorceress.",
+      "concreteVisual": "Letty frowning in the doorway.",
+      "onScreenText": "SHE SEES A CIRCUS WOMAN",
+      "relationToPrevious": "Letty's view.",
+      "addedInformation": "Her disapproval is the joke."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "NO STRONG LANGUAGE",
+    "emphasis": [
+      "NO STRONG LANGUAGE"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Letty tells her there is no strong language in this house.",
+      "concreteVisual": "Quoted line.",
+      "onScreenText": "NO STRONG LANGUAGE",
+      "relationToPrevious": "Letty speaks.",
+      "addedInformation": "The domestic rule."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE WORDS",
+    "emphasis": [
+      "FIRE",
+      "DUST"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis towering over Aunt Letty, fire flashing in her eyes, one hand raised",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis speaks the words that destroyed her world, aiming at Letty.",
+      "concreteVisual": "Jadis raising her hand over Letty.",
+      "onScreenText": "FIRE IN HER EYES",
+      "relationToPrevious": "Jadis attacks.",
+      "addedInformation": "The power is shown."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "NOTHING HAPPENS",
+    "emphasis": [
+      "NOTHING"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Aunt Letty standing calm and unmoved before a stunned Jadis, both in the dim Victorian study",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Nothing happens; power is contextual.",
+      "concreteVisual": "Letty unmoved, Jadis stunned.",
+      "onScreenText": "POWER IS CONTEXTUAL",
+      "relationToPrevious": "The attack fails.",
+      "addedInformation": "Power depends on the world."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "AUNT LETTY'S VERDICT",
+    "emphasis": [
+      "DRUNK"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Aunt Letty, a stout middle-aged Edwardian woman, hair pinned up, high-necked grey dress with a lace collar, stern face, hands on her hips in a Victorian drawing room, looking unimpressed at a tall woman with black hair",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Letty decides Jadis is simply drunk, and the mystical terror collapses into a laugh.",
+      "concreteVisual": "Letty stands unbothered, hands on hips, while the tall black-haired woman glares back.",
+      "onScreenText": "DRUNK",
+      "relationToPrevious": "Jadis threatened Letty with her world's power; Letty answers with a flat domestic judgement.",
+      "addedInformation": "Letty's deflating reaction, shown on her face and posture."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "DIFFERENT PHYSICS",
+    "emphasis": [
+      "PHYSICS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Charn's magic does not work on Earth.",
+      "concreteVisual": "A plain statement card on a dark ground, no picture needed for the rule itself.",
+      "onScreenText": "MAGIC DOESN'T TRAVEL",
+      "relationToPrevious": "Letty's laugh set up the failure of Jadis's power.",
+      "addedInformation": "The rule that magic does not cross worlds."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "STRIPPED OF POWER",
+    "emphasis": [
+      "POWER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis, a tall, beautiful woman with black hair and a cold white face, a long dark gown with a silver crown, standing in a plain grey London sitting room, her raised hands open and empty, no fire around them",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis has lost her magic on Earth.",
+      "concreteVisual": "Her raised hands are empty, no flame or light, the silver crown catching only ordinary gaslight.",
+      "onScreenText": "POWER",
+      "relationToPrevious": "The narration says the physics of Charn no longer apply.",
+      "addedInformation": "Her open empty hands show the lost power."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "NO PANIC",
+    "emphasis": [
+      "PANIC"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis, a tall, beautiful woman with black hair and a cold white face, a long dark gown with a silver crown, standing calm and composed in a London hallway, eyes steady, looking ahead, not frightened",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis does not panic when her magic fails.",
+      "concreteVisual": "Her face is composed and still, her posture upright, no fear in her eyes.",
+      "onScreenText": "CALM, NOT FRIGHTENED",
+      "relationToPrevious": "Her power is gone and the narration says she does not react with fear.",
+      "addedInformation": "Her composure reads as calculation rather than panic."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "OUT INTO LONDON",
+    "emphasis": [
+      "CAB"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a tall woman in a long dark gown strides out through the open front door of a grey Edwardian London house onto a wet street, a stout woman in a grey dress with a lace collar is flung back against a hallway table",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis throws Letty aside and storms out of the house into the London streets.",
+      "concreteVisual": "Letty is flung back against a hallway table; Jadis strides through the open front door onto the wet street.",
+      "onScreenText": "INTO THE STREETS",
+      "relationToPrevious": "Jadis has just been dismissed by Letty and loses her magic.",
+      "addedInformation": "She is heading for transport, the cab on the street."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "VICTORIAN LONDON",
+    "emphasis": [
+      "COBBLESTONES"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a wet cobblestone London street at dusk, gaslamps glowing, horse-drawn cabs and carriages, Edwardian pedestrians in long coats and hats",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The sensory chaos of the London street.",
+      "concreteVisual": "Cobblestones, gaslamps, horse cabs and carriages in a wet 1900 street.",
+      "onScreenText": "STREET CHAOS",
+      "relationToPrevious": "Jadis has stepped out into this street.",
+      "addedInformation": "The scene's setting and period."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "STOLEN CAB",
+    "emphasis": [
+      "CAB",
+      "QUEEN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a tall woman with long black hair and a dark gown with a silver crown, standing in a stone hall, calm and regal",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis rides on top of a stolen cab.",
+      "concreteVisual": "She stands astride the cab roof, hair streaming, the horse pulling through the street.",
+      "onScreenText": "A STOLEN CAB",
+      "relationToPrevious": "She walked out into the street and now commandeers a cab.",
+      "addedInformation": "The image of a queen riding a cab through London."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "URGING THE HORSE",
+    "emphasis": [
+      "STRAWBERRY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a tall woman with black hair flying out behind her like a comet's tail, gripping the reins of a strong chestnut cab horse, driving it hard down a London street",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis drives the horse Strawberry with fierce energy.",
+      "concreteVisual": "Her hair streams like a comet's tail while she drives the chestnut horse.",
+      "onScreenText": "STRAWBERRY",
+      "relationToPrevious": "She is standing on the cab, now she drives the horse.",
+      "addedInformation": "The horse's name is given on screen."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "CRASHED CAB",
+    "emphasis": [
+      "LAMP-POST",
+      "IRON BAR"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a cab crashed against an iron lamp-post on a London street, a tall woman in a long dark gown pulling a heavy iron bar from the lamp-post, gaslight on the wet cobbles",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis wrecks the cab and pulls an iron bar from the lamp-post as a weapon.",
+      "concreteVisual": "The cab is crashed into the lamp-post, the woman holds up a torn iron bar.",
+      "onScreenText": "IRON BAR",
+      "relationToPrevious": "She is driving the cab and now she has crashed it.",
+      "addedInformation": "The iron bar is a physical weapon she improvises from London itself."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "CONTRAST",
+    "emphasis": [
+      "ANDREW",
+      "TABLE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a wooden study desk with open books and a single lamp, a long shadow on the wall",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Uncle Andrew, the supposed mastermind, hides from Jadis.",
+      "concreteVisual": "He is folded under a table, eyes wide, not the master of anything.",
+      "onScreenText": "HIDING",
+      "relationToPrevious": "Jadis is the powerful figure in the chaos, now she arrives at his door.",
+      "addedInformation": "The contrast between a self-styled magician and the real power."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "BEST SUIT",
+    "emphasis": [
+      "BEST SUIT"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew, an old man, wild grey hair, a sharply pointed nose, pale vain face, in a black frock suit with a white collar, fussing with his cravat in a tall mirror in a Victorian study",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew dresses in his finest suit to impress Jadis.",
+      "concreteVisual": "He straightens his cravat in front of a mirror, vain and nervous.",
+      "onScreenText": "BEST SUIT",
+      "relationToPrevious": "He is terrified of Jadis and now prepares to win her over.",
+      "addedInformation": "His vanity shows in his grooming."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "REWRITTEN MEMORY",
+    "emphasis": [
+      "DEMURE"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew rewrites his memory of Jadis as a demure woman.",
+      "concreteVisual": "A quotation card printing Andrew's own words, 'a demure woman', as the way he now describes her.",
+      "onScreenText": "A DEMURE WOMAN",
+      "relationToPrevious": "He was cowering and infatuated; now he protects his ego.",
+      "addedInformation": "His false description of her, in his own words."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "OUT OF HER DEPTH",
+    "emphasis": [
+      "OUT OF DEPTH"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis is out of her depth yet acts with brutal certainty.",
+      "concreteVisual": "A statement card; the contrast is in the words.",
+      "onScreenText": "OUT OF HER DEPTH",
+      "relationToPrevious": "The narration moves from Andrew to Jadis.",
+      "addedInformation": "Her certainty despite not understanding this world."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "A DIFFERENT READ",
+    "emphasis": [
+      "HER POWER"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The narrator draws a different conclusion about Jadis's power.",
+      "concreteVisual": "A statement card, commentary rather than action.",
+      "onScreenText": "HER POWER",
+      "relationToPrevious": "The previous beat described her brutal certainty; this reframes it.",
+      "addedInformation": "The narrator's reading of the street scene."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "LOCAL COPS",
+    "emphasis": [
+      "LOCAL COPS",
+      "ERRAND BOYS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a group of Victorian London policemen in tall helmets and dark tunics facing a tall woman in a long dark gown with a silver crown, on a wet cobblestone street, no weapons drawn",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "She is fighting local police and errand boys in a street.",
+      "concreteVisual": "Bobbies in helmets stand facing a tall woman in a crown, no violence shown.",
+      "onScreenText": "LOCAL COPS",
+      "relationToPrevious": "She has just torn the iron bar from the lamp-post.",
+      "addedInformation": "The small, local, ordinary authority she is facing."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ABSURD",
+    "emphasis": [
+      "QUEEN OF QUEENS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a tall woman in a silver crown and long dark gown in the middle of a jeering London street, surrounded by errand boys tossing vegetables at her, Edwardian gaslamps and cabs behind",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The queen's majesty is reduced to a Victorian street brawl.",
+      "concreteVisual": "The regal crown in an ordinary jeering street, vegetables thrown.",
+      "onScreenText": "QUEEN OF QUEENS",
+      "relationToPrevious": "The police and errand boys are the people she fights.",
+      "addedInformation": "The absurdity of the scene, the grandeur undercut by the setting."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "RIVAL WARLORDS",
+    "emphasis": [
+      "RIVAL WARLORDS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "She treats the London police as rival warlords.",
+      "concreteVisual": "A statement card carrying the idea of ego rather than a picture.",
+      "onScreenText": "RIVAL WARLORDS",
+      "relationToPrevious": "The absurd street scene is now interpreted as her ego.",
+      "addedInformation": "Her self-image, which refuses the absurdity."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DIGORY'S GUILT",
+    "emphasis": [
+      "DIGORY",
+      "RESPONSIBLE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, standing alone on a wet London street corner, looking at a crashed cab and a bent lamp-post, guilty",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory sees the damage and knows he is responsible.",
+      "concreteVisual": "He stands small on the street, looking at the wreckage, shoulders tight.",
+      "onScreenText": "HE BROUGHT HER HERE",
+      "relationToPrevious": "Jadis's chaos is the result of what Digory did.",
+      "addedInformation": "His guilt is the emotional center of the scene."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "GET HER OUT",
+    "emphasis": [
+      "GET HER OUT"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, looking across a wet London street at a tall woman in a long dark gown, a yellow ring on his finger",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory must get Jadis out of London.",
+      "concreteVisual": "Digory looks across the street at Jadis, the yellow ring on his hand.",
+      "onScreenText": "GET HER OUT",
+      "relationToPrevious": "He feels responsible and now has a plan.",
+      "addedInformation": "The yellow ring is the means of his escape plan."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE YELLOW RING",
+    "emphasis": [
+      "YELLOW RING",
+      "ANKLE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket, reaching out and grabbing the ankle of a tall woman in a long dark gown on a cobblestone street, a yellow ring held up in his other hand, a tangle of people sprawled around them",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory grabs Jadis's ankle while holding the yellow ring.",
+      "concreteVisual": "Digory lunges, a yellow ring in his fist, grabbing the woman's ankle in a tangled heap.",
+      "onScreenText": "YELLOW RING",
+      "relationToPrevious": "He decided to get her out, now he acts.",
+      "addedInformation": "The ring is the mechanism that will take her out."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ONE CHAIN",
+    "emphasis": [
+      "POLLY",
+      "FRANK",
+      "STRAWBERRY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a chain of figures on a wet London street all holding each other: a girl of about eleven with dark plaited hair in a pinafore dress, a tall woman with black hair, an old man in a dressing gown, a cabman in a flat cap and heavy wool coat, and a strong chestnut horse, all touching",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory's grip pulls a whole chain of people with him.",
+      "concreteVisual": "Polly, Jadis, Andrew, the cabman Frank and the horse Strawberry all linked by touch.",
+      "onScreenText": "ALL HOLDING ON",
+      "relationToPrevious": "Digory grabbed Jadis, and the others touch her and each other.",
+      "addedInformation": "Everyone in the chain is named, so the viewer can follow who goes with them."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "WOOD BETWEEN WORLDS",
+    "emphasis": [
+      "WOOD",
+      "POOL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a warm, lush wood of still pools, figures tumbling down into dark water with a splash under the trees, a faint glow between the trunks",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The group is pulled through the wood between the worlds into an unmapped pool.",
+      "concreteVisual": "Still pools in a lush wood; the group falls into one with a splash.",
+      "onScreenText": "AN UNMAPPED POOL",
+      "relationToPrevious": "They were pulled out of London in a chain.",
+      "addedInformation": "The wood between worlds, the transit space."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "NEXT SCENE",
+    "emphasis": [
+      "LAMP POST"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The next beat is the lamp-post in the void.",
+      "concreteVisual": "A plain transition card.",
+      "onScreenText": "LAMP POST",
+      "relationToPrevious": "The pool dropped them somewhere unknown.",
+      "addedInformation": "Signals the transition to the next scene."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "PITCH BLACK",
+    "emphasis": [
+      "PITCH BLACK"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis, a tall, beautiful woman with black hair and a long dark gown, Digory, a slim English boy of about eleven in a grey wool jacket, and Polly, a girl of about eleven with dark plaited hair in a pinafore dress, huddled together in complete darkness, faintly lit at their edges, standing on nothing, arms raised for balance",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "They land in pitch black nothingness.",
+      "concreteVisual": "Three figures in an empty black void, nothing under their feet.",
+      "onScreenText": "PITCH BLACK",
+      "relationToPrevious": "They fell out of the pool.",
+      "addedInformation": "The void is abstract and empty."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "COMPLETE VOID",
+    "emphasis": [
+      "NO LIGHT"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The void has no wind, light or ground.",
+      "concreteVisual": "A statement card; the absence is the point.",
+      "onScreenText": "NO LIGHT",
+      "relationToPrevious": "The darkness is described in more detail.",
+      "addedInformation": "No wind, no light, no ground."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "STILL GRIPPING",
+    "emphasis": [
+      "IRON BAR"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a tall woman in a long dark gown gripping a rough iron bar in the darkness, lit only by a thin edge of light on the metal",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis still holds the iron bar from the lamp-post.",
+      "concreteVisual": "Her hand tight on the iron bar in darkness.",
+      "onScreenText": "IRON FROM A LAMP-POST",
+      "relationToPrevious": "The void and the iron bar she tore from the lamp-post.",
+      "addedInformation": "The bar she carried from London now lies in the void."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE IRON BAR",
+    "emphasis": [
+      "INDUSTRIAL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a close-up of a rough, dark iron bar, cold and dented, its paint flaking, resting in a dark void",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The iron bar symbolises the industrial revolution.",
+      "concreteVisual": "A single cold iron object in darkness.",
+      "onScreenText": "MECHANICAL FORCE",
+      "relationToPrevious": "The narration introduces the bar as a symbol.",
+      "addedInformation": "The bar stands for mechanical industrial force."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "DEAD METAL",
+    "emphasis": [
+      "DEAD METAL"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Dead metal brought into a place of pure magic.",
+      "concreteVisual": "A statement card carrying the idea.",
+      "onScreenText": "DEAD METAL",
+      "relationToPrevious": "The iron bar symbol continues.",
+      "addedInformation": "The contrast of dead metal and living magic."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE MUSIC",
+    "emphasis": [
+      "STARS SING"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a boy and a girl of about eleven looking up in wonder at a dark sky, the faint stars beginning to glow over them, a cold silence in the air",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A cold, tingling music begins in the darkness; the stars sing.",
+      "concreteVisual": "Digory and Polly look upward as the stars begin to shine.",
+      "onScreenText": "STARS SING",
+      "relationToPrevious": "The darkness was silent, now a sound begins.",
+      "addedInformation": "The stars are the source of the singing."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "CONSTELLATIONS",
+    "emphasis": [
+      "CONSTELLATIONS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a dense night sky full of bright constellations spread wide over a dark land",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The sky fills with constellations and a deep voice joins the music.",
+      "concreteVisual": "A crowded sky of constellations.",
+      "onScreenText": "CONSTELLATIONS",
+      "relationToPrevious": "The stars were singing; now the sky is full.",
+      "addedInformation": "The sky becomes populated, the world starts to form."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE SINGER",
+    "emphasis": [
+      "ASLAN",
+      "SINGING"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a huge golden-tawny lion with a shining mane, calm and majestic, standing in light, mouth open, singing",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The deep voice is Aslan, and as he sings the world begins to exist.",
+      "concreteVisual": "Aslan stands in light, singing.",
+      "onScreenText": "ASLAN",
+      "relationToPrevious": "The sky of constellations was waiting for a voice.",
+      "addedInformation": "The singer is Aslan."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "CREATION BY FIRE",
+    "emphasis": [
+      "FIRE",
+      "SKY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a streak of golden fire arcing across a dark sky above a bare plain, bright and clean, burning no one",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Creation by fire: a flash of fire shoots across the sky.",
+      "concreteVisual": "A golden flash of fire crosses the night sky above bare land.",
+      "onScreenText": "BURNS NO ONE",
+      "relationToPrevious": "Aslan sang; now the world is created.",
+      "addedInformation": "The fire is the creation act, harmless."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SUNRISE",
+    "emphasis": [
+      "DAWN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a huge golden-tawny lion with a shining mane, calm and majestic, pacing back and forth across bare dirt at dawn, the sun rising behind him",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The sun rises and they see the singer, a massive golden lion, pacing in the empty dirt.",
+      "concreteVisual": "Aslan paces the bare earth as the sun comes up.",
+      "onScreenText": "DAWN",
+      "relationToPrevious": "The fire flashed; now the sun rises and reveals Aslan.",
+      "addedInformation": "The lion is seen for the first time."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A GREEN VALLEY",
+    "emphasis": [
+      "VALLEY",
+      "TREES"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a huge golden-tawny lion with a shining mane singing with his head raised, above a green valley swelling into being, young trees rising out of the soil",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A green valley swells into existence and trees grow out of the soil.",
+      "concreteVisual": "Aslan sings and a green valley with young trees appears.",
+      "onScreenText": "TREES FROM THE SOIL",
+      "relationToPrevious": "Aslan paced the bare dirt; now he sings the land into being.",
+      "addedInformation": "The valley and trees are created by singing."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "GREEN FIRE",
+    "emphasis": [
+      "GREEN FIRE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "green grass spreading across rolling hills under a bright sky, a warm sunrise over a new valley, a wide empty landscape",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The grass spreads like a green fire across the hills.",
+      "concreteVisual": "A wide view of green hills being covered with grass.",
+      "onScreenText": "GREEN FIRE",
+      "relationToPrevious": "The valley and trees appeared; now the grass spreads.",
+      "addedInformation": "The land is alive and spreading."
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "TWO KINDS OF MAGIC",
+    "emphasis": [
+      "MECHANICAL",
+      "ORGANIC"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "ANDREW AND JADIS",
+        "subject": "an old man in a dressing gown bent over a cluttered table of rings and instruments, a tall woman with a silver crown beside him in a dim red-lit room"
+      },
+      "right": {
+        "label": "ASLAN'S MAGIC",
+        "subject": "a huge golden-tawny lion singing with his head raised above a green valley, trees rising from the earth"
+      }
+    },
+    "storyboard": {
+      "claim": "Aslan's magic is the opposite of Andrew's and Jadis's mechanical magic.",
+      "concreteVisual": "Two pictures side by side: exploitative magic at a table, organic magic in a valley.",
+      "onScreenText": "MECHANICAL VS ORGANIC",
+      "relationToPrevious": "The narration recontextualises magic after the valley appeared.",
+      "addedInformation": "The comparison of two kinds of power."
+    }
+  },
+  {
+    "type": "list",
+    "kicker": "TWO KINDS OF MAGIC",
+    "emphasis": [
+      "TOOLS"
+    ],
+    "items": [
+      "MANIPULATE",
+      "DESTROY",
+      "USE OTHERS"
+    ],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew and Jadis manipulate, destroy and use others as tools.",
+      "concreteVisual": "Three short items, text carries the list.",
+      "onScreenText": "MECHANICAL MAGIC",
+      "relationToPrevious": "The comparison of the two kinds of magic continues.",
+      "addedInformation": "The three ways the mechanical magic works."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "CALLS IT FORTH",
+    "emphasis": [
+      "CALLS IT FORTH"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a huge golden-tawny lion with a shining mane standing in a green valley with his paws raised, grass and young trees rising around him from the earth",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan does not construct Narnia; he calls it forth and the earth responds.",
+      "concreteVisual": "Aslan calls, the grass and trees rise around him.",
+      "onScreenText": "CALLS IT FORTH",
+      "relationToPrevious": "The list contrasted mechanical and organic magic; now Aslan's way is shown.",
+      "addedInformation": "The earth responds to Aslan's call, not a construction."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "PARTICIPATION",
+    "emphasis": [
+      "PARTICIPATION",
+      "DOMINATION"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Aslan, a huge golden-tawny lion with a shining mane, calm and majestic, standing in light on bare new earth at the edge of a young wood, lifting his head as the soil around him stirs",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan's power joins with the world instead of forcing it.",
+      "concreteVisual": "the lion stands calm in light while the ground stirs around him",
+      "onScreenText": "PARTICIPATION DOMINATION",
+      "relationToPrevious": "opens the contrast between the two kinds of power",
+      "addedInformation": "calm participatory power, not domination"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "JADIS SEES IT",
+    "emphasis": [
+      "JADIS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a tall woman with long black hair in a dark gown and silver crown, standing in a stone hall, calm and regal",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis recognises a magic older than her own.",
+      "concreteVisual": "Jadis at the wood's edge, face shadowed with fear, looking at the lion",
+      "onScreenText": "OLDER MAGIC",
+      "relationToPrevious": "follows the lion's calm power",
+      "addedInformation": "her fear shows the power is older than hers"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE IRON BAR",
+    "emphasis": [
+      "IRON BAR"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis in her long dark gown gripping a heavy black iron bar in both hands, stepping forward into a clearing, her face fearful",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis arms herself with an iron bar brought from London.",
+      "concreteVisual": "Jadis in a clearing with the iron bar raised",
+      "onScreenText": "IRON BAR",
+      "relationToPrevious": "her fear turns into an attack",
+      "addedInformation": "the bar is a London object, the mechanical weapon of the story"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DIRECT HIT",
+    "emphasis": [
+      "LION'S HEAD",
+      "STRIDE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a heavy iron bar flying through the air toward a golden lion's head, the lion calm and unflinching, walking on with his head level",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis throws the bar at the lion, and he does not react.",
+      "concreteVisual": "the iron bar in mid-air aimed at the lion's head",
+      "onScreenText": "DOESN'T FLINCH",
+      "relationToPrevious": "the attack from the previous beat",
+      "addedInformation": "the lion is unharmed"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SWALLOWED BY SOIL",
+    "emphasis": [
+      "NEWLY CREATED SOIL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Aslan walking on through a clearing, the iron bar lying half-buried in dark fresh soil at his feet",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The bar falls into the new soil and does nothing to the lion.",
+      "concreteVisual": "the iron bar sinking into dark earth while the lion walks past",
+      "onScreenText": "UNHARMED",
+      "relationToPrevious": "the bar lands after the failed strike",
+      "addedInformation": "the new soil is the first sign of the world's power"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE SOIL RESPONDS",
+    "emphasis": [
+      "ORGANIC GROWTH"
+    ],
+    "items": [],
+    "image": {
+      "subject": "close view of the iron bar lying in fresh dark soil, pale green shoots pushing up beside it",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The new soil is full of growth, and it begins to act on the metal.",
+      "concreteVisual": "green shoots rising beside the iron bar in dark soil",
+      "onScreenText": "IRON STARTS TO GROW",
+      "relationToPrevious": "the bar in the soil from the previous beat",
+      "addedInformation": "growth has started on the dead metal"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A LIVING LAMP-POST",
+    "emphasis": [
+      "LAMP-POST"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a black iron bar rising from the soil as a lamp-post, its metal branching out and its lamp flickering with yellow flame, in a bright new forest",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The iron bar grows into a living lamp-post.",
+      "concreteVisual": "an iron lamp-post growing branches and flickering with flame",
+      "onScreenText": "LAMP-POST",
+      "relationToPrevious": "the shoots from the previous beat turn the bar into a plant",
+      "addedInformation": "the lamp-post is the London street object that becomes a living thing"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A LIMIT ON POWER",
+    "emphasis": [
+      "JADIS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis at the edge of the wood, her face half in shadow, looking at the sprouting lamp-post",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis's power has a limit: here everything is absorbed into growth.",
+      "concreteVisual": "Jadis staring at the lamp-post that is growing",
+      "onScreenText": "HER POWER HAS A LIMIT",
+      "relationToPrevious": "the lamp-post shows the change",
+      "addedInformation": "her destructive intent meets a world that creates"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SUBVERTED",
+    "emphasis": [
+      "SUBVERTED"
+    ],
+    "items": [],
+    "image": {
+      "subject": "the lamp-post's iron branches softly sprouting green leaves, its flame steady, in a sunlit new wood",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A weapon of destruction becomes something that grows.",
+      "concreteVisual": "iron branches now in leaf around a lamp-post",
+      "onScreenText": "SUBVERTED",
+      "relationToPrevious": "the lamp-post's transformation continues",
+      "addedInformation": "the end of the destructive object"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SHE FLEES",
+    "emphasis": [
+      "FLEES",
+      "WOODS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis running in her long dark gown through a dim new wood between pale trunks, her silver crown glinting, fleeing",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis cannot undo the making, so she runs into the woods.",
+      "concreteVisual": "Jadis fleeing through the trees",
+      "onScreenText": "SHE CANNOT UNMAKE IT",
+      "relationToPrevious": "the lamp-post shows she cannot stop creation",
+      "addedInformation": "she is driven out by creation"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ANIMALS EMERGE",
+    "emphasis": [
+      "ANIMALS",
+      "EARTH"
+    ],
+    "items": [],
+    "image": {
+      "subject": "mounds of dark earth heaving open in a sunlit clearing, a deer and a panther shaking soil from their coats",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Animals burst out of the earth in a solemn, majestic moment.",
+      "concreteVisual": "a deer and a panther shaking earth from their coats in a clearing",
+      "onScreenText": "BURSTING FROM THE EARTH",
+      "relationToPrevious": "the forest where Jadis fled",
+      "addedInformation": "the animals are born from the earth"
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "TONE SHIFT",
+    "emphasis": [
+      "SHOCKING"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The grand creation scene is about to be undercut by a joke.",
+      "concreteVisual": "a plain dark card with one word set large, the stillness of creation held before the turn",
+      "onScreenText": "A JOKE?",
+      "relationToPrevious": "the awe of the creation scene",
+      "addedInformation": "sets up the comic turn"
+    }
+  },
+  {
+    "type": "punchline",
+    "kicker": "THE JOKE",
+    "emphasis": [
+      "GIFT OF CONSCIOUSNESS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan gives the animals consciousness, and the joke lands.",
+      "concreteVisual": "a clearing of animals, one after another lifting their heads to look at each other for the first time",
+      "onScreenText": "GIFT OF CONSCIOUSNESS",
+      "relationToPrevious": "the setup just before",
+      "addedInformation": "the punchline announces the gift"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "LOVE, THINK, SPEAK",
+    "emphasis": [
+      "BREATHES",
+      "SPEAK"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Aslan lowering his great golden head over a pair of deer, warm breath visibly misting in the cold air of a new clearing",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan breathes life into the animals.",
+      "concreteVisual": "Aslan's breath misting over a pair of deer",
+      "onScreenText": "BREATH GIVES SPEECH",
+      "relationToPrevious": "the gift of consciousness from the joke",
+      "addedInformation": "the breath is the act of giving speech"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "STRAWBERRY SPEAKS",
+    "emphasis": [
+      "STRAWBERRY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a chestnut London cab horse still wearing worn leather harness, turning its head in a bright new forest, mouth open as if speaking",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The cab horse Strawberry speaks first and undercuts the tension.",
+      "concreteVisual": "Strawberry turning to speak in a new forest",
+      "onScreenText": "WE DON'T KNOW MUCH YET",
+      "relationToPrevious": "the breath gave the animals speech",
+      "addedInformation": "the first words are humble, not grand"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "NO FEAR",
+    "emphasis": [
+      "NO FEAR",
+      "JACKDAW"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a black jackdaw perched on a low branch, wings half open, beak open mid-shout, while a line of animals stares up at it in silence",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A jackdaw shouts a poorly timed comment in a silent crowd.",
+      "concreteVisual": "a jackdaw on a branch with beak open above silent animals",
+      "onScreenText": "NO FEAR!",
+      "relationToPrevious": "the animals' pledge",
+      "addedInformation": "a comic break in the silence"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "TRYING NOT TO LAUGH",
+    "emphasis": [
+      "LAUGH"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a rabbit and a fox with their faces screwed up, stifling laughter, in a sunlit clearing",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The animals struggle not to laugh at the jackdaw.",
+      "concreteVisual": "a rabbit and a fox stifling laughter",
+      "onScreenText": "TRYING NOT TO LAUGH",
+      "relationToPrevious": "the jackdaw's shout in the silence",
+      "addedInformation": "the humour is shared by the animals"
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "WHY A JOKE?",
+    "emphasis": [
+      "FREE WILL"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Why undercut the majesty of creation with humour?",
+      "concreteVisual": "a plain dark card, the jackdaw's shout still hanging over a silent clearing",
+      "onScreenText": "WHY LAUGH HERE?",
+      "relationToPrevious": "the joke just shown",
+      "addedInformation": "humour is proof of free will"
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "SILENT VS FREE",
+    "emphasis": [
+      "DICTATORSHIP"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "CHARN",
+        "subject": "the silent, red-lit ruined city of Charn, empty towers and a great bell in a dead square, no living thing in sight"
+      },
+      "right": {
+        "label": "NARNIA",
+        "subject": "a bright new Narnian clearing with animals gathered and laughing together under a new sky"
+      }
+    },
+    "storyboard": {
+      "claim": "A solemn, fearful creation would be a dictatorship like Charn.",
+      "concreteVisual": "Charn's silent square beside a laughing Narnian clearing",
+      "onScreenText": "DICTATORSHIP",
+      "relationToPrevious": "the question about humour",
+      "addedInformation": "the difference between Jadis's world and Aslan's"
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "LAUGH AND FEAR NOT",
+    "emphasis": [
+      "LAUGH",
+      "FEAR NOT"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan tells the animals to laugh and fear not, so the universe is built on joy.",
+      "concreteVisual": "a plain card with Aslan's command set large, the animals in the background of a bright clearing",
+      "onScreenText": "LAUGH AND FEAR NOT",
+      "relationToPrevious": "the comparison with Charn",
+      "addedInformation": "Aslan's explicit permission to laugh"
+    }
+  },
+  {
+    "type": "list",
+    "kicker": "WHAT LAUGHTER NEEDS",
+    "emphasis": [
+      "JOY"
+    ],
+    "items": [
+      "PERSPECTIVE",
+      "SURPRISE",
+      "NO FEAR"
+    ],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Laughter needs perspective, surprise and no fear.",
+      "concreteVisual": "three short lines on a bright card, with the animals laughing in the background",
+      "onScreenText": "PERSPECTIVE / SURPRISE / NO FEAR",
+      "relationToPrevious": "the joy of the previous beat",
+      "addedInformation": "the three conditions for laughter"
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "THE APPLE AND THE GARDEN'S GATE",
+    "emphasis": [
+      "GRIEF"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The emotional climax begins, and Digory's grief is still there.",
+      "concreteVisual": "a chapter title card on a dark ground, the turn to the climax held in the silence",
+      "onScreenText": "THE APPLE AND THE GARDEN'S GATE",
+      "relationToPrevious": "the end of the joy",
+      "addedInformation": "chapter card for the climax"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "MOTHER IN LONDON",
+    "emphasis": [
+      "DYING"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Mrs Kirke: a pale thin Edwardian woman in a white nightgown and shawl, lying in a narrow bed in a dim upstairs room, frail and weary",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory's mother is still dying in London.",
+      "concreteVisual": "Mrs Kirke in bed in a dim room",
+      "onScreenText": "DYING",
+      "relationToPrevious": "the climax chapter card",
+      "addedInformation": "the reason for Digory's grief and his burden"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "FACING THE LION",
+    "emphasis": [
+      "SELF-PRESERVATION"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, shifting his weight and turning his face away from a huge golden-tawny lion",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory faces the lion and tries to avoid blame.",
+      "concreteVisual": "Digory turning his face away from the lion",
+      "onScreenText": "HE TRIES TO DEFLECT",
+      "relationToPrevious": "his mother's illness",
+      "addedInformation": "his instinct to deflect"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "UNCLE ANDREW",
+    "emphasis": [
+      "UNCLE ANDREW"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Uncle Andrew: an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, holding up a yellow ring in a dusty attic study",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory blames his uncle for sending the children away by magic.",
+      "concreteVisual": "Uncle Andrew holding up a yellow ring in the attic",
+      "onScreenText": "UNCLE ANDREW",
+      "relationToPrevious": "Digory's deflection to the lion",
+      "addedInformation": "the uncle who sent them into other worlds"
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "THE WITCH?",
+    "emphasis": [
+      "THE WITCH"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan asks whether Digory met the witch, and he cannot hide.",
+      "concreteVisual": "a plain card with the question, the lion's great face bending close in the background",
+      "onScreenText": "YOU MET THE WITCH?",
+      "relationToPrevious": "Digory's deflection to Uncle Andrew",
+      "addedInformation": "the lion sees through the excuse"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "HE STRUCK THE BELL",
+    "emphasis": [
+      "BELL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory standing beside a great bell in the red-lit ruined city of Charn, his head bowed, a grey wool jacket on a small slim boy",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory admits he struck the bell that woke Jadis.",
+      "concreteVisual": "Digory bowed beside the great bell of Charn",
+      "onScreenText": "I STRUCK THE BELL",
+      "relationToPrevious": "the lion's question",
+      "addedInformation": "the bell is the origin of the disaster"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ABSOLUTE VULNERABILITY",
+    "emphasis": [
+      "PRIDE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory kneeling on dusty ground in a sunlit clearing, head bowed, hands open at his sides, shaking",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory chose his pride and is now completely exposed.",
+      "concreteVisual": "Digory kneeling, head bowed, in a clearing",
+      "onScreenText": "PRIDE",
+      "relationToPrevious": "the admission of the bell",
+      "addedInformation": "his grief starts to overwhelm his fear"
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "NO LEVERAGE",
+    "emphasis": [
+      "NO LEVERAGE"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory begs for a cure, but he has nothing to bargain with.",
+      "concreteVisual": "Digory's empty hands open on the grass, the lion's shadow falling over him",
+      "onScreenText": "NO LEVERAGE",
+      "relationToPrevious": "Digory's kneeling vulnerability",
+      "addedInformation": "he cannot bargain with a god"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "EXPECTING JUDGMENT",
+    "emphasis": [
+      "JUDGMENT"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory looking up at the stern, unyielding face of a huge golden-tawny lion, lit from above, expecting judgment",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory expects a stern judgment from the lion.",
+      "concreteVisual": "Digory looking up at the lion's stern face",
+      "onScreenText": "JUDGMENT",
+      "relationToPrevious": "the no-leverage moment",
+      "addedInformation": "the expected face of judgment"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "SHINING TEARS",
+    "emphasis": [
+      "TEARS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "close view of a huge golden lion's face, his eyes glistening with great shining tears standing in his fur",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The lion's eyes hold tears, not judgment.",
+      "concreteVisual": "a close view of the lion's eyes with shining tears",
+      "onScreenText": "THE LION WEEPS",
+      "relationToPrevious": "the expected judgment is absent",
+      "addedInformation": "the lion weeps"
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "ASLAN SPEAKS",
+    "emphasis": [
+      "MY SON"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan says: my son, my son, I know.",
+      "concreteVisual": "a plain quotation card with Aslan's words set large, the lion's voice implied by the empty ground",
+      "onScreenText": "MY SON, MY SON, I KNOW",
+      "relationToPrevious": "the lion's tears",
+      "addedInformation": "a direct quotation of the lion's words"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ONLY WE KNOW",
+    "emphasis": [
+      "GRIEF"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a grey-jacketed boy with short untidy brown hair, resting his hand on a golden lion's mane, both standing in soft light",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan and Digory share the grief, and only they know it.",
+      "concreteVisual": "Digory's hand on the lion's mane in soft light",
+      "onScreenText": "ONLY WE KNOW",
+      "relationToPrevious": "the quotation about grief",
+      "addedInformation": "the tender bond between the boy and the lion"
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "REMOTE GODS",
+    "emphasis": [
+      "UNTOUCHED"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "JADIS",
+        "subject": "Jadis, cold and untouched, standing apart in a red-lit ruined hall"
+      },
+      "right": {
+        "label": "ASLAN",
+        "subject": "Aslan, a huge golden lion with tears in his eyes, leaning close to a small boy in soft light"
+      }
+    },
+    "storyboard": {
+      "claim": "Mythic gods stand untouched by suffering; Aslan is touched by it.",
+      "concreteVisual": "Jadis apart in a ruined hall beside Aslan leaning close to the boy",
+      "onScreenText": "UNTOUCHED VS MOVED",
+      "relationToPrevious": "the lion's tears",
+      "addedInformation": "the contrast of the removed god and the compassionate one"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A COSMOS",
+    "emphasis": [
+      "COSMOS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Aslan, a huge golden-tawny lion, standing on a hill under a sky full of new stars, the first forest spreading below, a single tear on his cheek",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan is creating a whole cosmos and still weeps for one boy.",
+      "concreteVisual": "the lion on a hill under a sky of stars with a tear",
+      "onScreenText": "A WHOLE COSMOS, ONE TEAR",
+      "relationToPrevious": "the contrast with the removed gods",
+      "addedInformation": "the scale of the cosmos against one grief"
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "VULNERABLE POWER",
+    "emphasis": [
+      "DIVINE",
+      "TYRANNICAL"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Vulnerability separates the divine from the tyrannical.",
+      "concreteVisual": "two words set against each other on a dark ground, one soft and one hard",
+      "onScreenText": "DIVINE VS TYRANNICAL",
+      "relationToPrevious": "the cosmos image",
+      "addedInformation": "empathy legitimises his power"
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "NO QUICK FIX",
+    "emphasis": [
+      "QUICK FIX"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Empathy is not a magical quick fix; Aslan does not cure the mother with a snap.",
+      "concreteVisual": "a plain card with a question, a bed-side silence and no cure in sight",
+      "onScreenText": "A MAGICAL QUICK FIX?",
+      "relationToPrevious": "the vulnerability of power",
+      "addedInformation": "sets up the healing quest"
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A MISSION",
+    "emphasis": [
+      "WEST",
+      "GARDEN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, stands small in a warm lush wood of still pools while Aslan, a huge golden-tawny lion with a shining mane, calm and majestic, stands in light and looks down at him",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan sends Digory on a quest west to the garden.",
+      "concreteVisual": "Digory standing small before the lion in the wood.",
+      "onScreenText": "A MISSION WEST",
+      "relationToPrevious": "Opens the healing arc after the grief in London.",
+      "addedInformation": "The lion gives the task in person."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE SILVER APPLE",
+    "emphasis": [
+      "SILVER APPLE",
+      "WITCH"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a single silver apple resting on a mossy stone in green dappled light, a lush wood of still pools behind it",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The apple will grow a tree that keeps the witch out of Narnia.",
+      "concreteVisual": "One silver apple on a mossy stone.",
+      "onScreenText": "PROTECTS NARNIA",
+      "relationToPrevious": "Names the object of the quest.",
+      "addedInformation": "The apple's purpose is protection."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "FLYING WEST",
+    "emphasis": [
+      "FLEDGE",
+      "FLIES"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven in a grey wool jacket, rides on the back of Fledge, a strong chestnut horse with large feathered wings spread wide, flying over green hills under a bright sky",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory flies on Fledge, the winged horse, to the garden.",
+      "concreteVisual": "Boy riding a winged chestnut horse over hills.",
+      "onScreenText": "STRAWBERRY IS FLEDGE",
+      "relationToPrevious": "The quest begins with transport.",
+      "addedInformation": "Strawberry is now Fledge."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE GOLDEN WALL",
+    "emphasis": [
+      "GOLD WALL",
+      "EAST GATE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a high wall of gold on a steep hill, with a tall gate facing east and a garden of overgrown sweet flowers and fruit trees glowing inside it",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The garden is walled in gold with a gate facing east.",
+      "concreteVisual": "A golden wall on a steep hill with a gate.",
+      "onScreenText": "WALLED IN GOLD",
+      "relationToPrevious": "Arrival at the garden.",
+      "addedInformation": "The garden is life-giving and sweet."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "THE GATE WARNS",
+    "emphasis": [
+      "WARNING",
+      "WALL"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The gate carries a warning against stealing or climbing the wall.",
+      "concreteVisual": "Iron gate in a golden wall, the inscription cut into it.",
+      "onScreenText": "DESIRE, THEN DESPAIR",
+      "relationToPrevious": "Digory reads the gate after arriving.",
+      "addedInformation": "Stealing or climbing brings despair."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE STOLEN CHOICE",
+    "emphasis": [
+      "APPLE",
+      "POCKET"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven in a grey wool jacket, reaches up to a branch and lifts a silver apple, then slips it into his jacket pocket inside a walled golden garden",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory takes the apple and pockets it.",
+      "concreteVisual": "Boy's hand lifting an apple from a branch.",
+      "onScreenText": "HE TAKES IT",
+      "relationToPrevious": "He ignores the warning on the gate.",
+      "addedInformation": "He has now broken the rule."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A WITCH IN THE GARDEN",
+    "emphasis": [
+      "JADIS",
+      "TURNS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory turns in a golden garden and sees Jadis, a tall, beautiful woman with black hair and a cold white face, a long dark gown with a silver crown, regal and terrifying, standing among the apple trees",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory turns and finds Jadis in the garden.",
+      "concreteVisual": "Boy turning to see the tall witch under the trees.",
+      "onScreenText": "JADIS",
+      "relationToPrevious": "Digory is caught after taking the apple.",
+      "addedInformation": "Jadis has climbed the wall too."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ALREADY EATEN",
+    "emphasis": [
+      "JUICE",
+      "APPLE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis, a tall woman with black hair and a cold white face, a long dark gown and silver crown, holds a half-eaten silver apple with juice running down her chin inside a golden garden wall",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis has eaten an apple of her own.",
+      "concreteVisual": "Witch with juice on chin and a bitten apple.",
+      "onScreenText": "SHE ATE ONE FIRST",
+      "relationToPrevious": "Follows Digory seeing her.",
+      "addedInformation": "She has already climbed and eaten."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DEAD WHITE SKIN",
+    "emphasis": [
+      "IMMORTAL",
+      "WHITE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "close view of Jadis, a tall woman with black hair and a cold white face, skin drained to a dead white, a silver crown above her dark eyes, in the shadow of a golden garden wall",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Eating the apple made her immortal but her skin turned dead white.",
+      "concreteVisual": "Close view of the witch's dead-white face.",
+      "onScreenText": "IMMORTAL",
+      "relationToPrevious": "Explains the cost of the apple.",
+      "addedInformation": "Her immortality is cursed."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "CURSED EXISTENCE",
+    "emphasis": [
+      "CURSED",
+      "MISERABLE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis, a tall woman with black hair and a cold white face in a long dark gown, sits alone in the shadow of a golden garden wall, one hand resting on her knee, looking weary and trapped",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The magic sustains her, but her life is cursed and miserable.",
+      "concreteVisual": "Jadis alone in shadow, weary.",
+      "onScreenText": "CURSED LIFE",
+      "relationToPrevious": "Consequence of the apple.",
+      "addedInformation": "Her immortality is a sentence, not a gift."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE TEMPTATION",
+    "emphasis": [
+      "TEMPTATION",
+      "POCKET"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis leans close to Digory, a slim English boy of about eleven in a grey wool jacket, and points at his jacket pocket inside a golden garden, her cold white face bent toward him",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis tempts Digory to look at the apple in his pocket.",
+      "concreteVisual": "Witch leaning in, pointing at the pocket.",
+      "onScreenText": "THE POCKET",
+      "relationToPrevious": "The witch presses her offer.",
+      "addedInformation": "She offers a use for the apple."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "TAKE IT HOME",
+    "emphasis": [
+      "LONDON",
+      "MOTHER"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis urges Digory to take the apple to London and save his mother.",
+      "concreteVisual": "Jadis's words set over a pocket and a London street.",
+      "onScreenText": "LONDON, NOW",
+      "relationToPrevious": "The temptation becomes concrete.",
+      "addedInformation": "She offers the mother's life as the reason."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE CROSSROADS",
+    "emphasis": [
+      "CROSSROADS",
+      "DIGORY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven in a grey wool jacket, stands alone at a stone crossroads in a lush wood, two paths splitting away from him in pale light",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory stands at the same crossroads Uncle Andrew stood at.",
+      "concreteVisual": "Boy alone at a fork in the path.",
+      "onScreenText": "ANDREW'S CROSSROADS",
+      "relationToPrevious": "Parallel to Uncle Andrew's temptation.",
+      "addedInformation": "Digory faces the same choice."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "UNEARNED POWER",
+    "emphasis": [
+      "UNEARNED",
+      "POWER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, stands in a golden garden with his hand pressed against the pocket holding the silver apple, his face torn",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory has the power to take something unearned.",
+      "concreteVisual": "Boy's hand on his pocket, face torn.",
+      "onScreenText": "UNEARNED",
+      "relationToPrevious": "The choice is named.",
+      "addedInformation": "The desire is personal, not vain."
+    }
+  },
+  {
+    "type": "compare",
+    "kicker": "TWO DESIRES",
+    "emphasis": [
+      "EGO",
+      "MOTHER"
+    ],
+    "items": [],
+    "image": null,
+    "compare": {
+      "left": {
+        "label": "UNCLE ANDREW",
+        "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, Victorian scholar-magician, admiring himself in a dim study mirror"
+      },
+      "right": {
+        "label": "DIGORY",
+        "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket, kneeling by a bed where a pale thin Edwardian woman in a white nightgown and shawl lies weary"
+      }
+    },
+    "storyboard": {
+      "claim": "Digory's desire is more sympathetic than Uncle Andrew's ego.",
+      "concreteVisual": "Vain old man beside a boy kneeling by a sick bed.",
+      "onScreenText": "EGO VS MOTHER",
+      "relationToPrevious": "Compares Digory with Uncle Andrew.",
+      "addedInformation": "Digory wants to save his mother."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "HIS MOTHER'S VOICE",
+    "emphasis": [
+      "MOTHER",
+      "VOICE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, head bowed in a dim sickroom, his hand near a pale thin Edwardian woman lying in a white nightgown and shawl, frail and weary",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory almost breaks, hearing his mother's voice.",
+      "concreteVisual": "Boy's bowed head at the sickbed.",
+      "onScreenText": "HE HEARS HER",
+      "relationToPrevious": "The pull toward the apple.",
+      "addedInformation": "The sickroom is the source of the temptation."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A FATAL OFFER",
+    "emphasis": [
+      "POLLY",
+      "LEFT BEHIND"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Jadis leans close to Digory, a slim English boy of about eleven, while Polly Plummer, a girl of about eleven with dark plaited hair and a pinafore, stands apart in a golden garden looking worried",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Jadis suggests Digory leave Polly behind so the lion would not know.",
+      "concreteVisual": "Witch whispering; Polly apart and worried.",
+      "onScreenText": "LEAVE POLLY",
+      "relationToPrevious": "The temptation turns cruel.",
+      "addedInformation": "Polly is put at risk."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "BACK TO REALITY",
+    "emphasis": [
+      "LOYALTY",
+      "SACRIFICE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, turns sharply away from Jadis, a tall woman with black hair and a cold white face, his jaw set hard in a golden garden",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory realizes Jadis does not understand loyalty, love or sacrifice.",
+      "concreteVisual": "Boy turning sharply away from the witch.",
+      "onScreenText": "NO LOVE IN HER",
+      "relationToPrevious": "The offer is rejected.",
+      "addedInformation": "The witch is shown to lack love."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "HE WALKS AWAY",
+    "emphasis": [
+      "WALKS AWAY",
+      "FLEDGE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, walks away from a tall woman in a dark gown under golden garden trees, toward a chestnut horse with folded feathered wings waiting in the light",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory walks away from the witch and flies back to Aslan.",
+      "concreteVisual": "Boy walking away toward the waiting winged horse.",
+      "onScreenText": "TOWARD FLEDGE",
+      "relationToPrevious": "The choice is made.",
+      "addedInformation": "He returns to Fledge."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE APPLE RETURNED",
+    "emphasis": [
+      "APPLE",
+      "ASLAN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, holds out a silver apple to Aslan, a huge golden-tawny lion with a shining mane, calm and majestic, standing in light",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory hands the apple over to Aslan.",
+      "concreteVisual": "Boy offering the apple to the lion.",
+      "onScreenText": "HANDS OVER",
+      "relationToPrevious": "Follows his refusal.",
+      "addedInformation": "Next: the return to London."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE SILVER TREE",
+    "emphasis": [
+      "SILVER TREE",
+      "GROWS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a young silver tree rising quickly from green ground under a new bright sky full of stars, in a newborn Narnian forest",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The apple is planted and a magnificent silver tree grows rapidly.",
+      "concreteVisual": "Young silver tree under stars.",
+      "onScreenText": "A TREE RISES",
+      "relationToPrevious": "The planting follows the handover.",
+      "addedInformation": "The tree will shelter Narnia."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "NOT DIGORY",
+    "emphasis": [
+      "KING",
+      "QUEEN"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Aslan, a huge golden-tawny lion with a shining mane, stands in light beneath a silver tree in a newborn Narnian forest, a crown ready for a new king and queen",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan crowns the first king and queen of Narnia, and it is not Digory.",
+      "concreteVisual": "Lion beneath the silver tree with a crown.",
+      "onScreenText": "NOT DIGORY",
+      "relationToPrevious": "Follows the growing tree.",
+      "addedInformation": "The crown goes to ordinary people."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE CABBIE CROWNED",
+    "emphasis": [
+      "FRANK",
+      "CROWNED"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Frank the cabby, a weathered working-class London cabman, flat cap, heavy wool coat, thick moustache, kneels before a huge golden-tawny lion beneath a silver tree while his wife stands beside him",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan crowns Frank the cabby and his wife.",
+      "concreteVisual": "Cabman kneeling to be crowned.",
+      "onScreenText": "FRANK AND HIS WIFE",
+      "relationToPrevious": "Follows Aslan crowning.",
+      "addedInformation": "A London cabman becomes royalty."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE HORSE LOVER",
+    "emphasis": [
+      "FRANK",
+      "HORSE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Frank the cabby, a weathered working-class London cabman, flat cap, heavy wool coat, thick moustache, rests his hand on the neck of a horse beneath a silver tree",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Frank is a working man who loves his horse and is merciful and brave.",
+      "concreteVisual": "Cabman with hand on horse's neck.",
+      "onScreenText": "MERCIFUL, BRAVE",
+      "relationToPrevious": "Explains why Frank was chosen.",
+      "addedInformation": "Mercy and bravery, not cunning."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "WASHED CLEAN",
+    "emphasis": [
+      "ROYALTY",
+      "MERCIFUL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Frank the cabby and his wife Helen stand together under a young silver tree, both wearing thin silver crowns, calm faces, his flat cap resting on the grass",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The cunning and exhaustion of London wash away; they are elevated to royalty.",
+      "concreteVisual": "The cabbie and his wife stand crowned under the tree, calm and at peace.",
+      "onScreenText": "ROYALTY",
+      "relationToPrevious": "Describes the transformation.",
+      "addedInformation": "They serve the land rather than exploit it."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "TRUE STEWARDSHIP",
+    "emphasis": [
+      "STEWARDSHIP",
+      "CREATURES"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a golden-tawny lion beneath a silver tree and a chestnut horse with folded wings, standing peacefully together in a bright new Narnian forest",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The rulers serve the creatures rather than exploiting them.",
+      "concreteVisual": "Lion and winged horse in the new forest.",
+      "onScreenText": "SERVE, DON'T EXPLOIT",
+      "relationToPrevious": "Turns to the lesson.",
+      "addedInformation": "Creatures are protected, not used."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "THE SEQUENCE",
+    "emphasis": [
+      "RIGHT THING",
+      "TREE"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory does the right thing, Frank gets crowned, and the tree grows perfectly.",
+      "concreteVisual": "A silver tree grows over a crowned cabman and his wife while a boy in a grey jacket looks on.",
+      "onScreenText": "THE RIGHT THING",
+      "relationToPrevious": "A recap of the sequence.",
+      "addedInformation": "Sets up the critique."
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "TOO NEAT?",
+    "emphasis": [
+      "NEATNESS",
+      "FRAMEWORK"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Does the moral framework strain under its own neatness?",
+      "concreteVisual": "A question on screen above the silver tree.",
+      "onScreenText": "TOO NEAT?",
+      "relationToPrevious": "The honest critique begins.",
+      "addedInformation": "Raises the question of the book's moral system."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE REWARD",
+    "emphasis": [
+      "REWARD",
+      "APPLE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Aslan, a huge golden-tawny lion with a shining mane, calm and majestic, lowers his head to give Digory, a slim English boy of about eleven, an apple from a silver tree in light",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan rewards Digory with an apple from the new tree to take to his mother.",
+      "concreteVisual": "Lion handing the boy an apple.",
+      "onScreenText": "A REWARD",
+      "relationToPrevious": "Answers the critique with the reward.",
+      "addedInformation": "Andrew and Jadis are punished."
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "COSMIC VENDING MACHINE",
+    "emphasis": [
+      "VENDING MACHINE",
+      "OBEDIENCE"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Does it feel like a cosmic vending machine: obedience in, reward out?",
+      "concreteVisual": "A question on screen beside a brass vending machine under a starry sky.",
+      "onScreenText": "VENDING MACHINE?",
+      "relationToPrevious": "Continues the critique.",
+      "addedInformation": "A fair critique is raised."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "MORE NUANCED",
+    "emphasis": [
+      "NUANCED",
+      "DIDACTICISM"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Lewis skirts didacticism, but the system is more nuanced than simple reward.",
+      "concreteVisual": "Narrator's line on screen beside an open book.",
+      "onScreenText": "MORE NUANCED",
+      "relationToPrevious": "The reply to the critique.",
+      "addedInformation": "Argues against a simple reward reading."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE STOLEN APPLE",
+    "emphasis": [
+      "STOLEN APPLE",
+      "HEAL"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Mrs Kirke, a pale thin Edwardian woman in a white nightgown and shawl, lies in a bed in a dim sickroom, looking toward a silver apple resting on the blanket",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Aslan explains the stolen apple would have healed his mother.",
+      "concreteVisual": "Mother in bed with an apple on the blanket.",
+      "onScreenText": "WOULD HAVE HEALED",
+      "relationToPrevious": "Shows what the theft would have done.",
+      "addedInformation": "Healing was the stolen apple's promise."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "LIVED TO REGRET",
+    "emphasis": [
+      "REGRET",
+      "LIVED"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "She would have lived, and wished she had not, so the magic would have been corrupted.",
+      "concreteVisual": "Mrs Kirke alive in bed, turning her face away from an apple on the bedside table.",
+      "onScreenText": "LIVED TO REGRET",
+      "relationToPrevious": "Explains the cost of the theft.",
+      "addedInformation": "The theft corrupts the healing."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "MEANS AND ENDS",
+    "emphasis": [
+      "MEANS",
+      "ENDS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "The means dictate the ends: a corrupted act yields a corrupted result.",
+      "concreteVisual": "The lesson set on screen over a pale sickroom wall.",
+      "onScreenText": "MEANS SHAPE ENDS",
+      "relationToPrevious": "States the lesson.",
+      "addedInformation": "Lesson is not a prize for obedience."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "THE REAL REWARD",
+    "emphasis": [
+      "REWARD",
+      "PURE"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory's reward is not the apple but the purity of the choice.",
+      "concreteVisual": "Digory, a slim boy in a grey jacket, holds the silver apple at a sickroom doorway.",
+      "onScreenText": "THE REAL REWARD",
+      "relationToPrevious": "Follows the lesson.",
+      "addedInformation": "Reward is inward."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "PURE HEALING",
+    "emphasis": [
+      "PURE",
+      "CHOICE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, holds a silver apple in both hands, looking down at it in a warm lush wood of still pools",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The healing will be pure because the choice to obtain it was pure.",
+      "concreteVisual": "Boy holding the apple in both hands.",
+      "onScreenText": "PURE CHOICE",
+      "relationToPrevious": "Completes the reward line.",
+      "addedInformation": "The choice gives the healing its purity."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE RINGS",
+    "emphasis": [
+      "RINGS",
+      "HOME"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven, and Polly Plummer, a girl of about eleven with dark plaited hair, raise yellow and green rings toward a still pool in a warm lush wood between the worlds",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory and Polly say goodbye and plunge back through the wood to London.",
+      "concreteVisual": "Two children raising their rings over a pool.",
+      "onScreenText": "BACK HOME",
+      "relationToPrevious": "The return begins.",
+      "addedInformation": "The rings carry them home."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "LEFT BEHIND",
+    "emphasis": [
+      "ANDREW",
+      "STUDY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, sits alone in a dusty shattered London attic study beside a highback chair and a ticking clock, an empty red tray on the table",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Uncle Andrew is left alone in his shattered study and never touches magic again.",
+      "concreteVisual": "Old man alone in the wrecked study.",
+      "onScreenText": "ALONE IN THE STUDY",
+      "relationToPrevious": "Andrew's fate.",
+      "addedInformation": "The magic is gone from his life."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A BARROOM TALE",
+    "emphasis": [
+      "BOASTING",
+      "OLD AGE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, leans on a dim pub table with a glass in his hand, boasting to two listeners who lean in",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Andrew spends his old age drinking and boasting to anyone who will listen.",
+      "concreteVisual": "Old man boasting at a pub table.",
+      "onScreenText": "BOASTING",
+      "relationToPrevious": "Follows the study scene.",
+      "addedInformation": "He spends his life retelling the story."
+    }
+  },
+  {
+    "type": "statement",
+    "kicker": "BARROOM ANECDOTE",
+    "emphasis": [
+      "ANECDOTE",
+      "CREATION"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "He brushed against the majesty of creation and reduced it to a barroom anecdote.",
+      "concreteVisual": "Uncle Andrew at a barroom counter, glass raised, telling his story to a listener.",
+      "onScreenText": "A WASTED WONDER",
+      "relationToPrevious": "Judgement on Andrew.",
+      "addedInformation": "Sums up his wasted encounter."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "UPSTAIRS",
+    "emphasis": [
+      "UPSTAIRS",
+      "DIGORY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory, a slim English boy of about eleven in a grey wool jacket and scuffed boots, runs up a dim Edwardian staircase toward a half-open sickroom door, a gaslit hall below",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "But Digory rushes upstairs to his mother.",
+      "concreteVisual": "Boy running up the staircase.",
+      "onScreenText": "HE RUNS UP",
+      "relationToPrevious": "Turns to the homecoming.",
+      "addedInformation": "Leads into the healing."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE APPLE",
+    "emphasis": [
+      "APPLE",
+      "MOTHER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, kneels by a bed holding out a glowing golden apple to his mother, Mrs Kirke, a pale thin Edwardian woman in a white nightgown and shawl, lying in a bed, frail and weary",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory gives the Narnian apple to his dying mother.",
+      "concreteVisual": "Digory kneels at the bedside offering the golden apple to his frail mother.",
+      "onScreenText": "A MIRACULOUS CURE",
+      "relationToPrevious": "The apple from Narnia is now in his hands.",
+      "addedInformation": "The apple is the magic fruit, and the mother is the reason for it."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "LIFE RETURNS",
+    "emphasis": [
+      "WINDOWS",
+      "JOY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Mrs Kirke, a pale thin Edwardian woman in a white nightgown and shawl, now sitting up in bed in bright morning sunlight, the curtains pulled back and a window thrown open to the summer air",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The sickroom is opened up and the mother is restored.",
+      "concreteVisual": "Mrs Kirke sits up in bed as sunlight floods in through an open window.",
+      "onScreenText": "JOY RETURNS",
+      "relationToPrevious": "The apple has done its work on his mother.",
+      "addedInformation": "The gloom of the sickroom has lifted."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "GIVING UP CONTROL",
+    "emphasis": [
+      "POWER",
+      "RESPONSIBILITY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, stands alone in a dusty attic study, a highback chair beside him, his empty hands held open at his sides",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory saved his mother by giving up control of the power.",
+      "concreteVisual": "Digory stands alone in the attic with empty open hands.",
+      "onScreenText": "POWER HE CANNOT UNDO",
+      "relationToPrevious": "The apple has healed his mother.",
+      "addedInformation": "He gave up control of the power he could not undo."
+    }
+  },
+  {
+    "type": "quote",
+    "kicker": "",
+    "emphasis": [
+      "REFUSE",
+      "EXPLOIT"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Digory refuses to exploit the world to fix his mistake.",
+      "concreteVisual": "A quote card stating that Digory refuses to exploit the world to fix it.",
+      "onScreenText": "REFUSE TO EXPLOIT",
+      "relationToPrevious": "He gave up control of the power.",
+      "addedInformation": "The moral is stated in words, the picture would only repeat the attic."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE RINGS",
+    "emphasis": [
+      "RINGS",
+      "REMNANT"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a red wooden tray on a dusty attic table holding the yellow and green magic rings, a ticking clock beside it in the gloom",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A physical remnant of the adventure remains: the rings.",
+      "concreteVisual": "The red tray with yellow and green rings on the attic table.",
+      "onScreenText": "A PHYSICAL REMNANT",
+      "relationToPrevious": "The moral was stated, now the object.",
+      "addedInformation": "The rings are the one thing left to be dealt with."
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "THE RINGS",
+    "emphasis": [
+      "RINGS",
+      "UNCLE ANDREW"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "What do the children do with the rings?",
+      "concreteVisual": "Question card asking what Digory and Polly do with the magic rings.",
+      "onScreenText": "NOT THE TRASH. NOT THE STUDY.",
+      "relationToPrevious": "The rings are the remnant.",
+      "addedInformation": "They cannot be thrown away or left in Uncle Andrew's study."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE CORE",
+    "emphasis": [
+      "APPLE",
+      "CORE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke, a slim English boy of about eleven, short untidy brown hair, sits alone at a kitchen table in the evening lamplight, eating the core of a golden apple",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "That evening Digory eats the core of the apple.",
+      "concreteVisual": "Digory eats the apple core alone at the table at night.",
+      "onScreenText": "EATS THE CORE",
+      "relationToPrevious": "The question about the rings was answered with a decision.",
+      "addedInformation": "The apple is eaten, its seed is left to be planted."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A SEED",
+    "emphasis": [
+      "TREE",
+      "SILVER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a tiny silver-leaved sapling pushing up through dark damp London soil in a small backyard at dawn, a boy's muddy boot standing beside it",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The next morning a small tree has grown from the buried core.",
+      "concreteVisual": "A tiny silver sapling breaks through the soil at dawn.",
+      "onScreenText": "NEXT MORNING",
+      "relationToPrevious": "Digory buried the core in the backyard.",
+      "addedInformation": "The tree is the young Narnian apple tree."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE CIRCLE",
+    "emphasis": [
+      "RINGS",
+      "POLLY"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke and Polly Plummer, a girl of about eleven, dark plaited hair, a long-sleeved cotton dress with a pinafore, kneel together in a muddy London backyard, a trowel between them, placing yellow and green rings into the soil",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The children bury all the remaining rings.",
+      "concreteVisual": "Digory and Polly kneel in the mud placing rings into the earth.",
+      "onScreenText": "ALL THE REMAINING RINGS",
+      "relationToPrevious": "The sapling is already up.",
+      "addedInformation": "The rings go into the ground along with the apple core."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "RETURNED TO EARTH",
+    "emphasis": [
+      "CIRCLE",
+      "EARTH"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a small silver-leaved sapling standing in the centre of a tight circle of yellow and green rings half-buried in dark earth",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The rings are buried in a circle around the tree, returning their power to the earth.",
+      "concreteVisual": "The sapling sits inside a ring of buried rings.",
+      "onScreenText": "BURIED",
+      "relationToPrevious": "The children buried the rings.",
+      "addedInformation": "The circle is around the base of the tree."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE MECHANICS",
+    "emphasis": [
+      "TREE",
+      "RINGS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke and Polly Plummer stand over the buried tree in a London backyard, both looking down at the ground with serious faces",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The children look at what they have done and what the buried tree will do.",
+      "concreteVisual": "Two children look down at the planted tree.",
+      "onScreenText": "WHAT THEY JUST DID",
+      "relationToPrevious": "The rings are buried around the tree.",
+      "addedInformation": "The reader is asked to think about the tree's roots."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "DEEP ROOTS",
+    "emphasis": [
+      "ROOTS",
+      "RINGS"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a dark cross-section of London soil showing pale silver roots plunging down through the layers toward a ring of buried rings",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The sapling's roots will plunge down to the buried rings.",
+      "concreteVisual": "Silver roots reach down through the soil to the rings.",
+      "onScreenText": "ROOTS PLUNGE DOWN",
+      "relationToPrevious": "The tree is planted over the rings.",
+      "addedInformation": "The roots reach the rings beneath the ground."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "ATLANTEAN DUST",
+    "emphasis": [
+      "DUST",
+      "MATTER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a small pale grey heap of faintly glowing dust on dark soil under a dim lamp",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The roots pass through a circle of dust that pulls matter into the wood.",
+      "concreteVisual": "Glowing dust in a ring with roots curling into it.",
+      "onScreenText": "PULLS MATTER IN",
+      "relationToPrevious": "The roots plunge down to the rings.",
+      "addedInformation": "The dust pulls matter into the wood between the worlds."
+    }
+  },
+  {
+    "type": "timeline",
+    "kicker": "DECADES LATER",
+    "emphasis": [
+      "DECADES",
+      "STORMS"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "Decades pass and the tree survives every storm, full of magic.",
+      "concreteVisual": "A timeline card marking the years while the tree stands through the storms.",
+      "onScreenText": "SURVIVES THE STORMS",
+      "relationToPrevious": "The tree has been planted and has rooted.",
+      "addedInformation": "The tree is infused with magic from the rings."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE STORM",
+    "emphasis": [
+      "STORM",
+      "PROFESSOR"
+    ],
+    "items": [],
+    "image": {
+      "subject": "Digory Kirke, now an old man with grey hair and a professor's tweed coat, stands beside a great tree blown down by a storm in a wrecked English garden, unable to bring himself to cut it",
+      "style": "cutout"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "A storm blows the great tree down, and Digory, now a professor, cannot bear to chop it up.",
+      "concreteVisual": "Old Digory looks at the fallen tree in a storm-wrecked garden.",
+      "onScreenText": "CAN'T BEAR TO CHOP IT",
+      "relationToPrevious": "Decades have passed and the tree has grown.",
+      "addedInformation": "The man is the same boy, grown old."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "THE WARDROBE",
+    "emphasis": [
+      "WARDROBE",
+      "TIMBER"
+    ],
+    "items": [],
+    "image": {
+      "subject": "a carpenter in a workshop, a tall half-built wardrobe of pale timber standing among wood shavings",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The timber is harvested and a carpenter builds a wardrobe out of it.",
+      "concreteVisual": "A carpenter works on a wardrobe made of the tree's timber.",
+      "onScreenText": "BUILT FROM THE TREE",
+      "relationToPrevious": "The tree has fallen and the old man cannot chop it.",
+      "addedInformation": "The wardrobe is built from the tree grown on the rings."
+    }
+  },
+  {
+    "type": "question",
+    "kicker": "THE DOOR",
+    "emphasis": [
+      "LUCY",
+      "DOOR"
+    ],
+    "items": [],
+    "image": null,
+    "compare": null,
+    "storyboard": {
+      "claim": "What happens when a little girl named Lucy opens the wardrobe door and steps inside?",
+      "concreteVisual": "Question card asking what happens when a girl named Lucy opens the wardrobe door.",
+      "onScreenText": "A GIRL NAMED LUCY",
+      "relationToPrevious": "The wardrobe is built from the tree.",
+      "addedInformation": "The rings' pull reaches into the wardrobe."
+    }
+  },
+  {
+    "type": "imagefocus",
+    "kicker": "A CHOICE",
+    "emphasis": [
+      "DOOR",
+      "CHOICE"
+    ],
+    "items": [],
+    "image": {
+      "subject": "an old wooden wardrobe door standing slightly ajar in a dim room, pale golden light spilling out through the gap",
+      "style": "card"
+    },
+    "compare": null,
+    "storyboard": {
+      "claim": "The doorway was the harvest of a choice made by a grieving boy who decided not to steal.",
+      "concreteVisual": "A wardrobe door ajar with light spilling out.",
+      "onScreenText": "A CHOICE NOT TO STEAL",
+      "relationToPrevious": "The question was which girl opens the door.",
+      "addedInformation": "The door is the result of Digory refusing to steal."
+    }
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "i": 202,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A MISSION",
+      "emphasis": [
+        "WEST",
+        "GARDEN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, stands small in a warm lush wood of still pools while Aslan, a huge golden-tawny lion with a shining mane, calm and majestic, stands in light and looks down at him",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan sends Digory on a quest west to the garden.",
+        "concreteVisual": "Digory standing small before the lion in the wood.",
+        "onScreenText": "A MISSION WEST",
+        "relationToPrevious": "Opens the healing arc after the grief in London.",
+        "addedInformation": "The lion gives the task in person."
+      }
+    }
+  },
+  {
+    "i": 203,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE SILVER APPLE",
+      "emphasis": [
+        "SILVER APPLE",
+        "WITCH"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a single silver apple resting on a mossy stone in green dappled light, a lush wood of still pools behind it",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The apple will grow a tree that keeps the witch out of Narnia.",
+        "concreteVisual": "One silver apple on a mossy stone.",
+        "onScreenText": "PROTECTS NARNIA",
+        "relationToPrevious": "Names the object of the quest.",
+        "addedInformation": "The apple's purpose is protection."
+      }
+    }
+  },
+  {
+    "i": 204,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "FLYING WEST",
+      "emphasis": [
+        "FLEDGE",
+        "FLIES"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven in a grey wool jacket, rides on the back of Fledge, a strong chestnut horse with large feathered wings spread wide, flying over green hills under a bright sky",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory flies on Fledge, the winged horse, to the garden.",
+        "concreteVisual": "Boy riding a winged chestnut horse over hills.",
+        "onScreenText": "STRAWBERRY IS FLEDGE",
+        "relationToPrevious": "The quest begins with transport.",
+        "addedInformation": "Strawberry is now Fledge."
+      }
+    }
+  },
+  {
+    "i": 205,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE GOLDEN WALL",
+      "emphasis": [
+        "GOLD WALL",
+        "EAST GATE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a high wall of gold on a steep hill, with a tall gate facing east and a garden of overgrown sweet flowers and fruit trees glowing inside it",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The garden is walled in gold with a gate facing east.",
+        "concreteVisual": "A golden wall on a steep hill with a gate.",
+        "onScreenText": "WALLED IN GOLD",
+        "relationToPrevious": "Arrival at the garden.",
+        "addedInformation": "The garden is life-giving and sweet."
+      }
+    }
+  },
+  {
+    "i": 206,
+    "design": {
+      "type": "quote",
+      "kicker": "THE GATE WARNS",
+      "emphasis": [
+        "WARNING",
+        "WALL"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The gate carries a warning against stealing or climbing the wall.",
+        "concreteVisual": "Iron gate in a golden wall, the inscription cut into it.",
+        "onScreenText": "DESIRE, THEN DESPAIR",
+        "relationToPrevious": "Digory reads the gate after arriving.",
+        "addedInformation": "Stealing or climbing brings despair."
+      }
+    }
+  },
+  {
+    "i": 207,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE STOLEN CHOICE",
+      "emphasis": [
+        "APPLE",
+        "POCKET"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven in a grey wool jacket, reaches up to a branch and lifts a silver apple, then slips it into his jacket pocket inside a walled golden garden",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory takes the apple and pockets it.",
+        "concreteVisual": "Boy's hand lifting an apple from a branch.",
+        "onScreenText": "HE TAKES IT",
+        "relationToPrevious": "He ignores the warning on the gate.",
+        "addedInformation": "He has now broken the rule."
+      }
+    }
+  },
+  {
+    "i": 208,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A WITCH IN THE GARDEN",
+      "emphasis": [
+        "JADIS",
+        "TURNS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory turns in a golden garden and sees Jadis, a tall, beautiful woman with black hair and a cold white face, a long dark gown with a silver crown, regal and terrifying, standing among the apple trees",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory turns and finds Jadis in the garden.",
+        "concreteVisual": "Boy turning to see the tall witch under the trees.",
+        "onScreenText": "JADIS",
+        "relationToPrevious": "Digory is caught after taking the apple.",
+        "addedInformation": "Jadis has climbed the wall too."
+      }
+    }
+  },
+  {
+    "i": 209,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ALREADY EATEN",
+      "emphasis": [
+        "JUICE",
+        "APPLE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis, a tall woman with black hair and a cold white face, a long dark gown and silver crown, holds a half-eaten silver apple with juice running down her chin inside a golden garden wall",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis has eaten an apple of her own.",
+        "concreteVisual": "Witch with juice on chin and a bitten apple.",
+        "onScreenText": "SHE ATE ONE FIRST",
+        "relationToPrevious": "Follows Digory seeing her.",
+        "addedInformation": "She has already climbed and eaten."
+      }
+    }
+  },
+  {
+    "i": 210,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DEAD WHITE SKIN",
+      "emphasis": [
+        "IMMORTAL",
+        "WHITE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "close view of Jadis, a tall woman with black hair and a cold white face, skin drained to a dead white, a silver crown above her dark eyes, in the shadow of a golden garden wall",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Eating the apple made her immortal but her skin turned dead white.",
+        "concreteVisual": "Close view of the witch's dead-white face.",
+        "onScreenText": "IMMORTAL",
+        "relationToPrevious": "Explains the cost of the apple.",
+        "addedInformation": "Her immortality is cursed."
+      }
+    }
+  },
+  {
+    "i": 211,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "CURSED EXISTENCE",
+      "emphasis": [
+        "CURSED",
+        "MISERABLE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis, a tall woman with black hair and a cold white face in a long dark gown, sits alone in the shadow of a golden garden wall, one hand resting on her knee, looking weary and trapped",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The magic sustains her, but her life is cursed and miserable.",
+        "concreteVisual": "Jadis alone in shadow, weary.",
+        "onScreenText": "CURSED LIFE",
+        "relationToPrevious": "Consequence of the apple.",
+        "addedInformation": "Her immortality is a sentence, not a gift."
+      }
+    }
+  },
+  {
+    "i": 212,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE TEMPTATION",
+      "emphasis": [
+        "TEMPTATION",
+        "POCKET"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis leans close to Digory, a slim English boy of about eleven in a grey wool jacket, and points at his jacket pocket inside a golden garden, her cold white face bent toward him",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis tempts Digory to look at the apple in his pocket.",
+        "concreteVisual": "Witch leaning in, pointing at the pocket.",
+        "onScreenText": "THE POCKET",
+        "relationToPrevious": "The witch presses her offer.",
+        "addedInformation": "She offers a use for the apple."
+      }
+    }
+  },
+  {
+    "i": 213,
+    "design": {
+      "type": "quote",
+      "kicker": "TAKE IT HOME",
+      "emphasis": [
+        "LONDON",
+        "MOTHER"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis urges Digory to take the apple to London and save his mother.",
+        "concreteVisual": "Jadis's words set over a pocket and a London street.",
+        "onScreenText": "LONDON, NOW",
+        "relationToPrevious": "The temptation becomes concrete.",
+        "addedInformation": "She offers the mother's life as the reason."
+      }
+    }
+  },
+  {
+    "i": 214,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE CROSSROADS",
+      "emphasis": [
+        "CROSSROADS",
+        "DIGORY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven in a grey wool jacket, stands alone at a stone crossroads in a lush wood, two paths splitting away from him in pale light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory stands at the same crossroads Uncle Andrew stood at.",
+        "concreteVisual": "Boy alone at a fork in the path.",
+        "onScreenText": "ANDREW'S CROSSROADS",
+        "relationToPrevious": "Parallel to Uncle Andrew's temptation.",
+        "addedInformation": "Digory faces the same choice."
+      }
+    }
+  },
+  {
+    "i": 215,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "UNEARNED POWER",
+      "emphasis": [
+        "UNEARNED",
+        "POWER"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, stands in a golden garden with his hand pressed against the pocket holding the silver apple, his face torn",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory has the power to take something unearned.",
+        "concreteVisual": "Boy's hand on his pocket, face torn.",
+        "onScreenText": "UNEARNED",
+        "relationToPrevious": "The choice is named.",
+        "addedInformation": "The desire is personal, not vain."
+      }
+    }
+  },
+  {
+    "i": 216,
+    "design": {
+      "type": "compare",
+      "kicker": "TWO DESIRES",
+      "emphasis": [
+        "EGO",
+        "MOTHER"
+      ],
+      "items": [],
+      "image": null,
+      "compare": {
+        "left": {
+          "label": "UNCLE ANDREW",
+          "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, Victorian scholar-magician, admiring himself in a dim study mirror"
+        },
+        "right": {
+          "label": "DIGORY",
+          "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket, kneeling by a bed where a pale thin Edwardian woman in a white nightgown and shawl lies weary"
+        }
+      },
+      "storyboard": {
+        "claim": "Digory's desire is more sympathetic than Uncle Andrew's ego.",
+        "concreteVisual": "Vain old man beside a boy kneeling by a sick bed.",
+        "onScreenText": "EGO VS MOTHER",
+        "relationToPrevious": "Compares Digory with Uncle Andrew.",
+        "addedInformation": "Digory wants to save his mother."
+      }
+    }
+  },
+  {
+    "i": 217,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "HIS MOTHER'S VOICE",
+      "emphasis": [
+        "MOTHER",
+        "VOICE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, head bowed in a dim sickroom, his hand near a pale thin Edwardian woman lying in a white nightgown and shawl, frail and weary",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory almost breaks, hearing his mother's voice.",
+        "concreteVisual": "Boy's bowed head at the sickbed.",
+        "onScreenText": "HE HEARS HER",
+        "relationToPrevious": "The pull toward the apple.",
+        "addedInformation": "The sickroom is the source of the temptation."
+      }
+    }
+  },
+  {
+    "i": 218,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A FATAL OFFER",
+      "emphasis": [
+        "POLLY",
+        "LEFT BEHIND"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis leans close to Digory, a slim English boy of about eleven, while Polly Plummer, a girl of about eleven with dark plaited hair and a pinafore, stands apart in a golden garden looking worried",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis suggests Digory leave Polly behind so the lion would not know.",
+        "concreteVisual": "Witch whispering; Polly apart and worried.",
+        "onScreenText": "LEAVE POLLY",
+        "relationToPrevious": "The temptation turns cruel.",
+        "addedInformation": "Polly is put at risk."
+      }
+    }
+  },
+  {
+    "i": 219,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "BACK TO REALITY",
+      "emphasis": [
+        "LOYALTY",
+        "SACRIFICE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, turns sharply away from Jadis, a tall woman with black hair and a cold white face, his jaw set hard in a golden garden",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory realizes Jadis does not understand loyalty, love or sacrifice.",
+        "concreteVisual": "Boy turning sharply away from the witch.",
+        "onScreenText": "NO LOVE IN HER",
+        "relationToPrevious": "The offer is rejected.",
+        "addedInformation": "The witch is shown to lack love."
+      }
+    }
+  },
+  {
+    "i": 220,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "HE WALKS AWAY",
+      "emphasis": [
+        "WALKS AWAY",
+        "FLEDGE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, walks away from a tall woman in a dark gown under golden garden trees, toward a chestnut horse with folded feathered wings waiting in the light",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory walks away from the witch and flies back to Aslan.",
+        "concreteVisual": "Boy walking away toward the waiting winged horse.",
+        "onScreenText": "TOWARD FLEDGE",
+        "relationToPrevious": "The choice is made.",
+        "addedInformation": "He returns to Fledge."
+      }
+    }
+  },
+  {
+    "i": 221,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE APPLE RETURNED",
+      "emphasis": [
+        "APPLE",
+        "ASLAN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, holds out a silver apple to Aslan, a huge golden-tawny lion with a shining mane, calm and majestic, standing in light",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory hands the apple over to Aslan.",
+        "concreteVisual": "Boy offering the apple to the lion.",
+        "onScreenText": "HANDS OVER",
+        "relationToPrevious": "Follows his refusal.",
+        "addedInformation": "Next: the return to London."
+      }
+    }
+  },
+  {
+    "i": 222,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE SILVER TREE",
+      "emphasis": [
+        "SILVER TREE",
+        "GROWS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a young silver tree rising quickly from green ground under a new bright sky full of stars, in a newborn Narnian forest",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The apple is planted and a magnificent silver tree grows rapidly.",
+        "concreteVisual": "Young silver tree under stars.",
+        "onScreenText": "A TREE RISES",
+        "relationToPrevious": "The planting follows the handover.",
+        "addedInformation": "The tree will shelter Narnia."
+      }
+    }
+  },
+  {
+    "i": 223,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "NOT DIGORY",
+      "emphasis": [
+        "KING",
+        "QUEEN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Aslan, a huge golden-tawny lion with a shining mane, stands in light beneath a silver tree in a newborn Narnian forest, a crown ready for a new king and queen",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan crowns the first king and queen of Narnia, and it is not Digory.",
+        "concreteVisual": "Lion beneath the silver tree with a crown.",
+        "onScreenText": "NOT DIGORY",
+        "relationToPrevious": "Follows the growing tree.",
+        "addedInformation": "The crown goes to ordinary people."
+      }
+    }
+  },
+  {
+    "i": 224,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE CABBIE CROWNED",
+      "emphasis": [
+        "FRANK",
+        "CROWNED"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Frank the cabby, a weathered working-class London cabman, flat cap, heavy wool coat, thick moustache, kneels before a huge golden-tawny lion beneath a silver tree while his wife stands beside him",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan crowns Frank the cabby and his wife.",
+        "concreteVisual": "Cabman kneeling to be crowned.",
+        "onScreenText": "FRANK AND HIS WIFE",
+        "relationToPrevious": "Follows Aslan crowning.",
+        "addedInformation": "A London cabman becomes royalty."
+      }
+    }
+  },
+  {
+    "i": 225,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE HORSE LOVER",
+      "emphasis": [
+        "FRANK",
+        "HORSE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Frank the cabby, a weathered working-class London cabman, flat cap, heavy wool coat, thick moustache, rests his hand on the neck of a horse beneath a silver tree",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Frank is a working man who loves his horse and is merciful and brave.",
+        "concreteVisual": "Cabman with hand on horse's neck.",
+        "onScreenText": "MERCIFUL, BRAVE",
+        "relationToPrevious": "Explains why Frank was chosen.",
+        "addedInformation": "Mercy and bravery, not cunning."
+      }
+    }
+  },
+  {
+    "i": 226,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "WASHED CLEAN",
+      "emphasis": [
+        "ROYALTY",
+        "MERCIFUL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Frank the cabby and his wife Helen stand together under a young silver tree, both wearing thin silver crowns, calm faces, his flat cap resting on the grass",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The cunning and exhaustion of London wash away; they are elevated to royalty.",
+        "concreteVisual": "The cabbie and his wife stand crowned under the tree, calm and at peace.",
+        "onScreenText": "ROYALTY",
+        "relationToPrevious": "Describes the transformation.",
+        "addedInformation": "They serve the land rather than exploit it."
+      }
+    }
+  },
+  {
+    "i": 227,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "TRUE STEWARDSHIP",
+      "emphasis": [
+        "STEWARDSHIP",
+        "CREATURES"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a golden-tawny lion beneath a silver tree and a chestnut horse with folded wings, standing peacefully together in a bright new Narnian forest",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The rulers serve the creatures rather than exploiting them.",
+        "concreteVisual": "Lion and winged horse in the new forest.",
+        "onScreenText": "SERVE, DON'T EXPLOIT",
+        "relationToPrevious": "Turns to the lesson.",
+        "addedInformation": "Creatures are protected, not used."
+      }
+    }
+  },
+  {
+    "i": 228,
+    "design": {
+      "type": "statement",
+      "kicker": "THE SEQUENCE",
+      "emphasis": [
+        "RIGHT THING",
+        "TREE"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory does the right thing, Frank gets crowned, and the tree grows perfectly.",
+        "concreteVisual": "A silver tree grows over a crowned cabman and his wife while a boy in a grey jacket looks on.",
+        "onScreenText": "THE RIGHT THING",
+        "relationToPrevious": "A recap of the sequence.",
+        "addedInformation": "Sets up the critique."
+      }
+    }
+  },
+  {
+    "i": 229,
+    "design": {
+      "type": "question",
+      "kicker": "TOO NEAT?",
+      "emphasis": [
+        "NEATNESS",
+        "FRAMEWORK"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Does the moral framework strain under its own neatness?",
+        "concreteVisual": "A question on screen above the silver tree.",
+        "onScreenText": "TOO NEAT?",
+        "relationToPrevious": "The honest critique begins.",
+        "addedInformation": "Raises the question of the book's moral system."
+      }
+    }
+  },
+  {
+    "i": 230,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE REWARD",
+      "emphasis": [
+        "REWARD",
+        "APPLE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Aslan, a huge golden-tawny lion with a shining mane, calm and majestic, lowers his head to give Digory, a slim English boy of about eleven, an apple from a silver tree in light",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan rewards Digory with an apple from the new tree to take to his mother.",
+        "concreteVisual": "Lion handing the boy an apple.",
+        "onScreenText": "A REWARD",
+        "relationToPrevious": "Answers the critique with the reward.",
+        "addedInformation": "Andrew and Jadis are punished."
+      }
+    }
+  },
+  {
+    "i": 231,
+    "design": {
+      "type": "question",
+      "kicker": "COSMIC VENDING MACHINE",
+      "emphasis": [
+        "VENDING MACHINE",
+        "OBEDIENCE"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Does it feel like a cosmic vending machine: obedience in, reward out?",
+        "concreteVisual": "A question on screen beside a brass vending machine under a starry sky.",
+        "onScreenText": "VENDING MACHINE?",
+        "relationToPrevious": "Continues the critique.",
+        "addedInformation": "A fair critique is raised."
+      }
+    }
+  },
+  {
+    "i": 232,
+    "design": {
+      "type": "statement",
+      "kicker": "MORE NUANCED",
+      "emphasis": [
+        "NUANCED",
+        "DIDACTICISM"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Lewis skirts didacticism, but the system is more nuanced than simple reward.",
+        "concreteVisual": "Narrator's line on screen beside an open book.",
+        "onScreenText": "MORE NUANCED",
+        "relationToPrevious": "The reply to the critique.",
+        "addedInformation": "Argues against a simple reward reading."
+      }
+    }
+  },
+  {
+    "i": 233,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE STOLEN APPLE",
+      "emphasis": [
+        "STOLEN APPLE",
+        "HEAL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Mrs Kirke, a pale thin Edwardian woman in a white nightgown and shawl, lies in a bed in a dim sickroom, looking toward a silver apple resting on the blanket",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan explains the stolen apple would have healed his mother.",
+        "concreteVisual": "Mother in bed with an apple on the blanket.",
+        "onScreenText": "WOULD HAVE HEALED",
+        "relationToPrevious": "Shows what the theft would have done.",
+        "addedInformation": "Healing was the stolen apple's promise."
+      }
+    }
+  },
+  {
+    "i": 234,
+    "design": {
+      "type": "statement",
+      "kicker": "LIVED TO REGRET",
+      "emphasis": [
+        "REGRET",
+        "LIVED"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "She would have lived, and wished she had not, so the magic would have been corrupted.",
+        "concreteVisual": "Mrs Kirke alive in bed, turning her face away from an apple on the bedside table.",
+        "onScreenText": "LIVED TO REGRET",
+        "relationToPrevious": "Explains the cost of the theft.",
+        "addedInformation": "The theft corrupts the healing."
+      }
+    }
+  },
+  {
+    "i": 235,
+    "design": {
+      "type": "quote",
+      "kicker": "MEANS AND ENDS",
+      "emphasis": [
+        "MEANS",
+        "ENDS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The means dictate the ends: a corrupted act yields a corrupted result.",
+        "concreteVisual": "The lesson set on screen over a pale sickroom wall.",
+        "onScreenText": "MEANS SHAPE ENDS",
+        "relationToPrevious": "States the lesson.",
+        "addedInformation": "Lesson is not a prize for obedience."
+      }
+    }
+  },
+  {
+    "i": 236,
+    "design": {
+      "type": "statement",
+      "kicker": "THE REAL REWARD",
+      "emphasis": [
+        "REWARD",
+        "PURE"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory's reward is not the apple but the purity of the choice.",
+        "concreteVisual": "Digory, a slim boy in a grey jacket, holds the silver apple at a sickroom doorway.",
+        "onScreenText": "THE REAL REWARD",
+        "relationToPrevious": "Follows the lesson.",
+        "addedInformation": "Reward is inward."
+      }
+    }
+  },
+  {
+    "i": 237,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "PURE HEALING",
+      "emphasis": [
+        "PURE",
+        "CHOICE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, holds a silver apple in both hands, looking down at it in a warm lush wood of still pools",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The healing will be pure because the choice to obtain it was pure.",
+        "concreteVisual": "Boy holding the apple in both hands.",
+        "onScreenText": "PURE CHOICE",
+        "relationToPrevious": "Completes the reward line.",
+        "addedInformation": "The choice gives the healing its purity."
+      }
+    }
+  },
+  {
+    "i": 238,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE RINGS",
+      "emphasis": [
+        "RINGS",
+        "HOME"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, and Polly Plummer, a girl of about eleven with dark plaited hair, raise yellow and green rings toward a still pool in a warm lush wood between the worlds",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory and Polly say goodbye and plunge back through the wood to London.",
+        "concreteVisual": "Two children raising their rings over a pool.",
+        "onScreenText": "BACK HOME",
+        "relationToPrevious": "The return begins.",
+        "addedInformation": "The rings carry them home."
+      }
+    }
+  },
+  {
+    "i": 239,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "LEFT BEHIND",
+      "emphasis": [
+        "ANDREW",
+        "STUDY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, sits alone in a dusty shattered London attic study beside a highback chair and a ticking clock, an empty red tray on the table",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Uncle Andrew is left alone in his shattered study and never touches magic again.",
+        "concreteVisual": "Old man alone in the wrecked study.",
+        "onScreenText": "ALONE IN THE STUDY",
+        "relationToPrevious": "Andrew's fate.",
+        "addedInformation": "The magic is gone from his life."
+      }
+    }
+  },
+  {
+    "i": 240,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A BARROOM TALE",
+      "emphasis": [
+        "BOASTING",
+        "OLD AGE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, leans on a dim pub table with a glass in his hand, boasting to two listeners who lean in",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Andrew spends his old age drinking and boasting to anyone who will listen.",
+        "concreteVisual": "Old man boasting at a pub table.",
+        "onScreenText": "BOASTING",
+        "relationToPrevious": "Follows the study scene.",
+        "addedInformation": "He spends his life retelling the story."
+      }
+    }
+  },
+  {
+    "i": 241,
+    "design": {
+      "type": "statement",
+      "kicker": "BARROOM ANECDOTE",
+      "emphasis": [
+        "ANECDOTE",
+        "CREATION"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "He brushed against the majesty of creation and reduced it to a barroom anecdote.",
+        "concreteVisual": "Uncle Andrew at a barroom counter, glass raised, telling his story to a listener.",
+        "onScreenText": "A WASTED WONDER",
+        "relationToPrevious": "Judgement on Andrew.",
+        "addedInformation": "Sums up his wasted encounter."
+      }
+    }
+  },
+  {
+    "i": 242,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "UPSTAIRS",
+      "emphasis": [
+        "UPSTAIRS",
+        "DIGORY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven in a grey wool jacket and scuffed boots, runs up a dim Edwardian staircase toward a half-open sickroom door, a gaslit hall below",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "But Digory rushes upstairs to his mother.",
+        "concreteVisual": "Boy running up the staircase.",
+        "onScreenText": "HE RUNS UP",
+        "relationToPrevious": "Turns to the homecoming.",
+        "addedInformation": "Leads into the healing."
+      }
+    }
+  }
+]

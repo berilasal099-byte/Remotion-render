@@ -1,0 +1,163 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-10-29T14:21:24.343Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "0a1365c2",
+      "configHash": "889a18f875ad74d2",
+      "renderInputHash": "dc2bd5a7a8f19022",
+      "quality": {
+        "status": "NOT_ASSESSED",
+        "blocks": null,
+        "reviews": null
+      },
+      "preview": {
+        "state": "MISSING",
+        "covered": false,
+        "mute": null
+      },
+      "decision": {
+        "kind": "REFUSED",
+        "ok": false,
+        "accepted": false,
+        "reason": null,
+        "covered": 0,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "technical": "NOT_RUN"
+    },
+    {
+      "at": "2026-10-29T15:36:26.079Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "086a0941",
+      "configHash": "889a18f875ad74d2",
+      "renderInputHash": "dc2bd5a7a8f19022",
+      "quality": {
+        "status": "NOT_ASSESSED",
+        "blocks": null,
+        "reviews": null
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "run5",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 0,
+          "dead": 2,
+          "adds": 23,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "NOT_APPLICABLE",
+        "ok": true,
+        "accepted": false,
+        "reason": null,
+        "covered": 0,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "technical": "NOT_RUN"
+    },
+    {
+      "at": "2026-10-30T09:07:43.361Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "086a0941",
+      "configHash": "889a18f875ad74d2",
+      "renderInputHash": "dc2bd5a7a8f19022",
+      "quality": {
+        "status": "NOT_ASSESSED",
+        "blocks": null,
+        "reviews": null
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "run5",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 0,
+          "dead": 2,
+          "adds": 23,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "NOT_APPLICABLE",
+        "ok": false,
+        "accepted": false,
+        "reason": null,
+        "covered": 0,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": null,
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    },
+    {
+      "at": "2026-10-30T09:07:59.373Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "086a0941",
+      "configHash": "889a18f875ad74d2",
+      "renderInputHash": "dc2bd5a7a8f19022",
+      "quality": {
+        "status": "NOT_ASSESSED",
+        "blocks": null,
+        "reviews": null
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "run5",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 0,
+          "dead": 2,
+          "adds": 23,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "NOT_APPLICABLE",
+        "ok": true,
+        "accepted": false,
+        "reason": null,
+        "covered": 0,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": {
+        "at": "2026-10-30T09:07:57.859Z",
+        "recordedNow": true,
+        "kind": "render-authorization"
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    }
+  ]
+}

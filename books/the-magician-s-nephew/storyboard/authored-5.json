@@ -1,0 +1,844 @@
+[
+  {
+    "i": 165,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "PARTICIPATION",
+      "emphasis": [
+        "PARTICIPATION",
+        "DOMINATION"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Aslan, a huge golden-tawny lion with a shining mane, calm and majestic, standing in light on bare new earth at the edge of a young wood, lifting his head as the soil around him stirs",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan's power joins with the world instead of forcing it.",
+        "concreteVisual": "the lion stands calm in light while the ground stirs around him",
+        "onScreenText": "PARTICIPATION DOMINATION",
+        "relationToPrevious": "opens the contrast between the two kinds of power",
+        "addedInformation": "calm participatory power, not domination"
+      }
+    }
+  },
+  {
+    "i": 166,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "JADIS SEES IT",
+      "emphasis": [
+        "JADIS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a tall woman with long black hair in a dark gown and silver crown, standing in a stone hall, calm and regal",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis recognises a magic older than her own.",
+        "concreteVisual": "Jadis at the wood's edge, face shadowed with fear, looking at the lion",
+        "onScreenText": "OLDER MAGIC",
+        "relationToPrevious": "follows the lion's calm power",
+        "addedInformation": "her fear shows the power is older than hers"
+      }
+    }
+  },
+  {
+    "i": 167,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE IRON BAR",
+      "emphasis": [
+        "IRON BAR"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis in her long dark gown gripping a heavy black iron bar in both hands, stepping forward into a clearing, her face fearful",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis arms herself with an iron bar brought from London.",
+        "concreteVisual": "Jadis in a clearing with the iron bar raised",
+        "onScreenText": "IRON BAR",
+        "relationToPrevious": "her fear turns into an attack",
+        "addedInformation": "the bar is a London object, the mechanical weapon of the story"
+      }
+    }
+  },
+  {
+    "i": 168,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DIRECT HIT",
+      "emphasis": [
+        "LION'S HEAD",
+        "STRIDE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a heavy iron bar flying through the air toward a golden lion's head, the lion calm and unflinching, walking on with his head level",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis throws the bar at the lion, and he does not react.",
+        "concreteVisual": "the iron bar in mid-air aimed at the lion's head",
+        "onScreenText": "DOESN'T FLINCH",
+        "relationToPrevious": "the attack from the previous beat",
+        "addedInformation": "the lion is unharmed"
+      }
+    }
+  },
+  {
+    "i": 169,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "SWALLOWED BY SOIL",
+      "emphasis": [
+        "NEWLY CREATED SOIL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Aslan walking on through a clearing, the iron bar lying half-buried in dark fresh soil at his feet",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The bar falls into the new soil and does nothing to the lion.",
+        "concreteVisual": "the iron bar sinking into dark earth while the lion walks past",
+        "onScreenText": "UNHARMED",
+        "relationToPrevious": "the bar lands after the failed strike",
+        "addedInformation": "the new soil is the first sign of the world's power"
+      }
+    }
+  },
+  {
+    "i": 170,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE SOIL RESPONDS",
+      "emphasis": [
+        "ORGANIC GROWTH"
+      ],
+      "items": [],
+      "image": {
+        "subject": "close view of the iron bar lying in fresh dark soil, pale green shoots pushing up beside it",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The new soil is full of growth, and it begins to act on the metal.",
+        "concreteVisual": "green shoots rising beside the iron bar in dark soil",
+        "onScreenText": "IRON STARTS TO GROW",
+        "relationToPrevious": "the bar in the soil from the previous beat",
+        "addedInformation": "growth has started on the dead metal"
+      }
+    }
+  },
+  {
+    "i": 171,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A LIVING LAMP-POST",
+      "emphasis": [
+        "LAMP-POST"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a black iron bar rising from the soil as a lamp-post, its metal branching out and its lamp flickering with yellow flame, in a bright new forest",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The iron bar grows into a living lamp-post.",
+        "concreteVisual": "an iron lamp-post growing branches and flickering with flame",
+        "onScreenText": "LAMP-POST",
+        "relationToPrevious": "the shoots from the previous beat turn the bar into a plant",
+        "addedInformation": "the lamp-post is the London street object that becomes a living thing"
+      }
+    }
+  },
+  {
+    "i": 172,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A LIMIT ON POWER",
+      "emphasis": [
+        "JADIS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis at the edge of the wood, her face half in shadow, looking at the sprouting lamp-post",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis's power has a limit: here everything is absorbed into growth.",
+        "concreteVisual": "Jadis staring at the lamp-post that is growing",
+        "onScreenText": "HER POWER HAS A LIMIT",
+        "relationToPrevious": "the lamp-post shows the change",
+        "addedInformation": "her destructive intent meets a world that creates"
+      }
+    }
+  },
+  {
+    "i": 173,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "SUBVERTED",
+      "emphasis": [
+        "SUBVERTED"
+      ],
+      "items": [],
+      "image": {
+        "subject": "the lamp-post's iron branches softly sprouting green leaves, its flame steady, in a sunlit new wood",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A weapon of destruction becomes something that grows.",
+        "concreteVisual": "iron branches now in leaf around a lamp-post",
+        "onScreenText": "SUBVERTED",
+        "relationToPrevious": "the lamp-post's transformation continues",
+        "addedInformation": "the end of the destructive object"
+      }
+    }
+  },
+  {
+    "i": 174,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "SHE FLEES",
+      "emphasis": [
+        "FLEES",
+        "WOODS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis running in her long dark gown through a dim new wood between pale trunks, her silver crown glinting, fleeing",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis cannot undo the making, so she runs into the woods.",
+        "concreteVisual": "Jadis fleeing through the trees",
+        "onScreenText": "SHE CANNOT UNMAKE IT",
+        "relationToPrevious": "the lamp-post shows she cannot stop creation",
+        "addedInformation": "she is driven out by creation"
+      }
+    }
+  },
+  {
+    "i": 175,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ANIMALS EMERGE",
+      "emphasis": [
+        "ANIMALS",
+        "EARTH"
+      ],
+      "items": [],
+      "image": {
+        "subject": "mounds of dark earth heaving open in a sunlit clearing, a deer and a panther shaking soil from their coats",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Animals burst out of the earth in a solemn, majestic moment.",
+        "concreteVisual": "a deer and a panther shaking earth from their coats in a clearing",
+        "onScreenText": "BURSTING FROM THE EARTH",
+        "relationToPrevious": "the forest where Jadis fled",
+        "addedInformation": "the animals are born from the earth"
+      }
+    }
+  },
+  {
+    "i": 176,
+    "design": {
+      "type": "statement",
+      "kicker": "TONE SHIFT",
+      "emphasis": [
+        "SHOCKING"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The grand creation scene is about to be undercut by a joke.",
+        "concreteVisual": "a plain dark card with one word set large, the stillness of creation held before the turn",
+        "onScreenText": "A JOKE?",
+        "relationToPrevious": "the awe of the creation scene",
+        "addedInformation": "sets up the comic turn"
+      }
+    }
+  },
+  {
+    "i": 177,
+    "design": {
+      "type": "punchline",
+      "kicker": "THE JOKE",
+      "emphasis": [
+        "GIFT OF CONSCIOUSNESS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan gives the animals consciousness, and the joke lands.",
+        "concreteVisual": "a clearing of animals, one after another lifting their heads to look at each other for the first time",
+        "onScreenText": "GIFT OF CONSCIOUSNESS",
+        "relationToPrevious": "the setup just before",
+        "addedInformation": "the punchline announces the gift"
+      }
+    }
+  },
+  {
+    "i": 178,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "LOVE, THINK, SPEAK",
+      "emphasis": [
+        "BREATHES",
+        "SPEAK"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Aslan lowering his great golden head over a pair of deer, warm breath visibly misting in the cold air of a new clearing",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan breathes life into the animals.",
+        "concreteVisual": "Aslan's breath misting over a pair of deer",
+        "onScreenText": "BREATH GIVES SPEECH",
+        "relationToPrevious": "the gift of consciousness from the joke",
+        "addedInformation": "the breath is the act of giving speech"
+      }
+    }
+  },
+  {
+    "i": 179,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "STRAWBERRY SPEAKS",
+      "emphasis": [
+        "STRAWBERRY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a chestnut London cab horse still wearing worn leather harness, turning its head in a bright new forest, mouth open as if speaking",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The cab horse Strawberry speaks first and undercuts the tension.",
+        "concreteVisual": "Strawberry turning to speak in a new forest",
+        "onScreenText": "WE DON'T KNOW MUCH YET",
+        "relationToPrevious": "the breath gave the animals speech",
+        "addedInformation": "the first words are humble, not grand"
+      }
+    }
+  },
+  {
+    "i": 180,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "NO FEAR",
+      "emphasis": [
+        "NO FEAR",
+        "JACKDAW"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a black jackdaw perched on a low branch, wings half open, beak open mid-shout, while a line of animals stares up at it in silence",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A jackdaw shouts a poorly timed comment in a silent crowd.",
+        "concreteVisual": "a jackdaw on a branch with beak open above silent animals",
+        "onScreenText": "NO FEAR!",
+        "relationToPrevious": "the animals' pledge",
+        "addedInformation": "a comic break in the silence"
+      }
+    }
+  },
+  {
+    "i": 181,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "TRYING NOT TO LAUGH",
+      "emphasis": [
+        "LAUGH"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a rabbit and a fox with their faces screwed up, stifling laughter, in a sunlit clearing",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The animals struggle not to laugh at the jackdaw.",
+        "concreteVisual": "a rabbit and a fox stifling laughter",
+        "onScreenText": "TRYING NOT TO LAUGH",
+        "relationToPrevious": "the jackdaw's shout in the silence",
+        "addedInformation": "the humour is shared by the animals"
+      }
+    }
+  },
+  {
+    "i": 182,
+    "design": {
+      "type": "question",
+      "kicker": "WHY A JOKE?",
+      "emphasis": [
+        "FREE WILL"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Why undercut the majesty of creation with humour?",
+        "concreteVisual": "a plain dark card, the jackdaw's shout still hanging over a silent clearing",
+        "onScreenText": "WHY LAUGH HERE?",
+        "relationToPrevious": "the joke just shown",
+        "addedInformation": "humour is proof of free will"
+      }
+    }
+  },
+  {
+    "i": 183,
+    "design": {
+      "type": "compare",
+      "kicker": "SILENT VS FREE",
+      "emphasis": [
+        "DICTATORSHIP"
+      ],
+      "items": [],
+      "image": null,
+      "compare": {
+        "left": {
+          "label": "CHARN",
+          "subject": "the silent, red-lit ruined city of Charn, empty towers and a great bell in a dead square, no living thing in sight"
+        },
+        "right": {
+          "label": "NARNIA",
+          "subject": "a bright new Narnian clearing with animals gathered and laughing together under a new sky"
+        }
+      },
+      "storyboard": {
+        "claim": "A solemn, fearful creation would be a dictatorship like Charn.",
+        "concreteVisual": "Charn's silent square beside a laughing Narnian clearing",
+        "onScreenText": "DICTATORSHIP",
+        "relationToPrevious": "the question about humour",
+        "addedInformation": "the difference between Jadis's world and Aslan's"
+      }
+    }
+  },
+  {
+    "i": 184,
+    "design": {
+      "type": "statement",
+      "kicker": "LAUGH AND FEAR NOT",
+      "emphasis": [
+        "LAUGH",
+        "FEAR NOT"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan tells the animals to laugh and fear not, so the universe is built on joy.",
+        "concreteVisual": "a plain card with Aslan's command set large, the animals in the background of a bright clearing",
+        "onScreenText": "LAUGH AND FEAR NOT",
+        "relationToPrevious": "the comparison with Charn",
+        "addedInformation": "Aslan's explicit permission to laugh"
+      }
+    }
+  },
+  {
+    "i": 185,
+    "design": {
+      "type": "list",
+      "kicker": "WHAT LAUGHTER NEEDS",
+      "emphasis": [
+        "JOY"
+      ],
+      "items": [
+        "PERSPECTIVE",
+        "SURPRISE",
+        "NO FEAR"
+      ],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Laughter needs perspective, surprise and no fear.",
+        "concreteVisual": "three short lines on a bright card, with the animals laughing in the background",
+        "onScreenText": "PERSPECTIVE / SURPRISE / NO FEAR",
+        "relationToPrevious": "the joy of the previous beat",
+        "addedInformation": "the three conditions for laughter"
+      }
+    }
+  },
+  {
+    "i": 186,
+    "design": {
+      "type": "statement",
+      "kicker": "THE APPLE AND THE GARDEN'S GATE",
+      "emphasis": [
+        "GRIEF"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The emotional climax begins, and Digory's grief is still there.",
+        "concreteVisual": "a chapter title card on a dark ground, the turn to the climax held in the silence",
+        "onScreenText": "THE APPLE AND THE GARDEN'S GATE",
+        "relationToPrevious": "the end of the joy",
+        "addedInformation": "chapter card for the climax"
+      }
+    }
+  },
+  {
+    "i": 187,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "MOTHER IN LONDON",
+      "emphasis": [
+        "DYING"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Mrs Kirke: a pale thin Edwardian woman in a white nightgown and shawl, lying in a narrow bed in a dim upstairs room, frail and weary",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory's mother is still dying in London.",
+        "concreteVisual": "Mrs Kirke in bed in a dim room",
+        "onScreenText": "DYING",
+        "relationToPrevious": "the climax chapter card",
+        "addedInformation": "the reason for Digory's grief and his burden"
+      }
+    }
+  },
+  {
+    "i": 188,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "FACING THE LION",
+      "emphasis": [
+        "SELF-PRESERVATION"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, shifting his weight and turning his face away from a huge golden-tawny lion",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory faces the lion and tries to avoid blame.",
+        "concreteVisual": "Digory turning his face away from the lion",
+        "onScreenText": "HE TRIES TO DEFLECT",
+        "relationToPrevious": "his mother's illness",
+        "addedInformation": "his instinct to deflect"
+      }
+    }
+  },
+  {
+    "i": 189,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "UNCLE ANDREW",
+      "emphasis": [
+        "UNCLE ANDREW"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Uncle Andrew: an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, holding up a yellow ring in a dusty attic study",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory blames his uncle for sending the children away by magic.",
+        "concreteVisual": "Uncle Andrew holding up a yellow ring in the attic",
+        "onScreenText": "UNCLE ANDREW",
+        "relationToPrevious": "Digory's deflection to the lion",
+        "addedInformation": "the uncle who sent them into other worlds"
+      }
+    }
+  },
+  {
+    "i": 190,
+    "design": {
+      "type": "question",
+      "kicker": "THE WITCH?",
+      "emphasis": [
+        "THE WITCH"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan asks whether Digory met the witch, and he cannot hide.",
+        "concreteVisual": "a plain card with the question, the lion's great face bending close in the background",
+        "onScreenText": "YOU MET THE WITCH?",
+        "relationToPrevious": "Digory's deflection to Uncle Andrew",
+        "addedInformation": "the lion sees through the excuse"
+      }
+    }
+  },
+  {
+    "i": 191,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "HE STRUCK THE BELL",
+      "emphasis": [
+        "BELL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory standing beside a great bell in the red-lit ruined city of Charn, his head bowed, a grey wool jacket on a small slim boy",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory admits he struck the bell that woke Jadis.",
+        "concreteVisual": "Digory bowed beside the great bell of Charn",
+        "onScreenText": "I STRUCK THE BELL",
+        "relationToPrevious": "the lion's question",
+        "addedInformation": "the bell is the origin of the disaster"
+      }
+    }
+  },
+  {
+    "i": 192,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ABSOLUTE VULNERABILITY",
+      "emphasis": [
+        "PRIDE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory kneeling on dusty ground in a sunlit clearing, head bowed, hands open at his sides, shaking",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory chose his pride and is now completely exposed.",
+        "concreteVisual": "Digory kneeling, head bowed, in a clearing",
+        "onScreenText": "PRIDE",
+        "relationToPrevious": "the admission of the bell",
+        "addedInformation": "his grief starts to overwhelm his fear"
+      }
+    }
+  },
+  {
+    "i": 193,
+    "design": {
+      "type": "statement",
+      "kicker": "NO LEVERAGE",
+      "emphasis": [
+        "NO LEVERAGE"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory begs for a cure, but he has nothing to bargain with.",
+        "concreteVisual": "Digory's empty hands open on the grass, the lion's shadow falling over him",
+        "onScreenText": "NO LEVERAGE",
+        "relationToPrevious": "Digory's kneeling vulnerability",
+        "addedInformation": "he cannot bargain with a god"
+      }
+    }
+  },
+  {
+    "i": 194,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "EXPECTING JUDGMENT",
+      "emphasis": [
+        "JUDGMENT"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory looking up at the stern, unyielding face of a huge golden-tawny lion, lit from above, expecting judgment",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory expects a stern judgment from the lion.",
+        "concreteVisual": "Digory looking up at the lion's stern face",
+        "onScreenText": "JUDGMENT",
+        "relationToPrevious": "the no-leverage moment",
+        "addedInformation": "the expected face of judgment"
+      }
+    }
+  },
+  {
+    "i": 195,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "SHINING TEARS",
+      "emphasis": [
+        "TEARS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "close view of a huge golden lion's face, his eyes glistening with great shining tears standing in his fur",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The lion's eyes hold tears, not judgment.",
+        "concreteVisual": "a close view of the lion's eyes with shining tears",
+        "onScreenText": "THE LION WEEPS",
+        "relationToPrevious": "the expected judgment is absent",
+        "addedInformation": "the lion weeps"
+      }
+    }
+  },
+  {
+    "i": 196,
+    "design": {
+      "type": "quote",
+      "kicker": "ASLAN SPEAKS",
+      "emphasis": [
+        "MY SON"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan says: my son, my son, I know.",
+        "concreteVisual": "a plain quotation card with Aslan's words set large, the lion's voice implied by the empty ground",
+        "onScreenText": "MY SON, MY SON, I KNOW",
+        "relationToPrevious": "the lion's tears",
+        "addedInformation": "a direct quotation of the lion's words"
+      }
+    }
+  },
+  {
+    "i": 197,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ONLY WE KNOW",
+      "emphasis": [
+        "GRIEF"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a grey-jacketed boy with short untidy brown hair, resting his hand on a golden lion's mane, both standing in soft light",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan and Digory share the grief, and only they know it.",
+        "concreteVisual": "Digory's hand on the lion's mane in soft light",
+        "onScreenText": "ONLY WE KNOW",
+        "relationToPrevious": "the quotation about grief",
+        "addedInformation": "the tender bond between the boy and the lion"
+      }
+    }
+  },
+  {
+    "i": 198,
+    "design": {
+      "type": "compare",
+      "kicker": "REMOTE GODS",
+      "emphasis": [
+        "UNTOUCHED"
+      ],
+      "items": [],
+      "image": null,
+      "compare": {
+        "left": {
+          "label": "JADIS",
+          "subject": "Jadis, cold and untouched, standing apart in a red-lit ruined hall"
+        },
+        "right": {
+          "label": "ASLAN",
+          "subject": "Aslan, a huge golden lion with tears in his eyes, leaning close to a small boy in soft light"
+        }
+      },
+      "storyboard": {
+        "claim": "Mythic gods stand untouched by suffering; Aslan is touched by it.",
+        "concreteVisual": "Jadis apart in a ruined hall beside Aslan leaning close to the boy",
+        "onScreenText": "UNTOUCHED VS MOVED",
+        "relationToPrevious": "the lion's tears",
+        "addedInformation": "the contrast of the removed god and the compassionate one"
+      }
+    }
+  },
+  {
+    "i": 199,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A COSMOS",
+      "emphasis": [
+        "COSMOS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Aslan, a huge golden-tawny lion, standing on a hill under a sky full of new stars, the first forest spreading below, a single tear on his cheek",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan is creating a whole cosmos and still weeps for one boy.",
+        "concreteVisual": "the lion on a hill under a sky of stars with a tear",
+        "onScreenText": "A WHOLE COSMOS, ONE TEAR",
+        "relationToPrevious": "the contrast with the removed gods",
+        "addedInformation": "the scale of the cosmos against one grief"
+      }
+    }
+  },
+  {
+    "i": 200,
+    "design": {
+      "type": "statement",
+      "kicker": "VULNERABLE POWER",
+      "emphasis": [
+        "DIVINE",
+        "TYRANNICAL"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Vulnerability separates the divine from the tyrannical.",
+        "concreteVisual": "two words set against each other on a dark ground, one soft and one hard",
+        "onScreenText": "DIVINE VS TYRANNICAL",
+        "relationToPrevious": "the cosmos image",
+        "addedInformation": "empathy legitimises his power"
+      }
+    }
+  },
+  {
+    "i": 201,
+    "design": {
+      "type": "question",
+      "kicker": "NO QUICK FIX",
+      "emphasis": [
+        "QUICK FIX"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Empathy is not a magical quick fix; Aslan does not cure the mother with a snap.",
+        "concreteVisual": "a plain card with a question, a bed-side silence and no cure in sight",
+        "onScreenText": "A MAGICAL QUICK FIX?",
+        "relationToPrevious": "the vulnerability of power",
+        "addedInformation": "sets up the healing quest"
+      }
+    }
+  }
+]

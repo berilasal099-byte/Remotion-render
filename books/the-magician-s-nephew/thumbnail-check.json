@@ -1,0 +1,28 @@
+{
+  "slug": "the-magician-s-nephew",
+  "hook": "Power You Can't Undo",
+  "at": "2026-10-29T14:16:26.086Z",
+  "variants": [
+    {
+      "letter": "A",
+      "file": "out/thumbnail-the-magician-s-nephew.png",
+      "hookVisible": true,
+      "changedPct": 6.55,
+      "detail": "6.55% of pixels change with the hook (visible ≥ 0.8%)"
+    },
+    {
+      "letter": "B",
+      "file": "out/thumbnail-the-magician-s-nephew-b.png",
+      "hookVisible": true,
+      "changedPct": 9.98,
+      "detail": "9.98% of pixels change with the hook (visible ≥ 0.8%)"
+    },
+    {
+      "letter": "C",
+      "file": "out/thumbnail-the-magician-s-nephew-c.png",
+      "hookVisible": true,
+      "changedPct": 4.64,
+      "detail": "4.64% of pixels change with the hook (visible ≥ 0.8%)"
+    }
+  ]
+}

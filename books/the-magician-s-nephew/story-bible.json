@@ -1,0 +1,219 @@
+{
+  "world": {
+    "era": "1900",
+    "worldId": "edwardian-london-and-narnia",
+    "approxYear": 1900,
+    "setting": "Summer 1900 in a drafty Edwardian London house and an attic study; then the dead city of Charn, the Wood Between the Worlds, and a newborn Narnia",
+    "register": "fantasy with Edwardian realism: dust, gaslight, horse cabs, wet English summer; the wood is lush and warm, Charn is silent and red-lit",
+    "forbid": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "car"
+    ]
+  },
+  "visualProvenance": {
+    "bookId": "the-magician-s-nephew",
+    "worldId": "edwardian-london-and-narnia",
+    "allowedMotifs": [
+      "magicRings",
+      "lampPost",
+      "apple",
+      "bell",
+      "tree",
+      "grave",
+      "home",
+      "gift",
+      "star",
+      "fire",
+      "door"
+    ],
+    "forbiddenMotifs": [
+      "phone",
+      "codeWindow",
+      "laptopMockup",
+      "rocketLaunch",
+      "funnelMetrics",
+      "dollarExchange",
+      "car"
+    ],
+    "allowedCharacters": [
+      "digory",
+      "polly",
+      "andrew",
+      "letty",
+      "jadis",
+      "frank",
+      "aslan",
+      "fledge",
+      "mrs-kirke"
+    ],
+    "allowedLocations": [
+      "room",
+      "street",
+      "forest",
+      "abstract",
+      "shore"
+    ],
+    "allowedProps": [
+      "yellow ring",
+      "green ring",
+      "red tray",
+      "wooden tray",
+      "ticking clock",
+      "highback chair",
+      "bell",
+      "apple",
+      "lamp-post",
+      "wardrobe"
+    ]
+  },
+  "cast": {
+    "digory": {
+      "name": "Digory Kirke",
+      "role": "protagonist: lonely Edwardian boy, father away in India, carries a secret guilt",
+      "look": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, Edwardian 1900 London schoolboy"
+    },
+    "polly": {
+      "name": "Polly Plummer",
+      "role": "Digory's neighbour and companion, brave and practical girl",
+      "look": "a girl of about eleven, dark plaited hair, a long-sleeved cotton dress with a pinafore, buttoned boots, Edwardian 1900 London girl"
+    },
+    "andrew": {
+      "name": "Uncle Andrew",
+      "role": "Digory's uncle, a vain amateur magician who sends children into other worlds",
+      "look": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, Victorian scholar-magician"
+    },
+    "letty": {
+      "name": "Aunt Letty",
+      "role": "Digory's aunt, brisk and unimaginative, pushes the children out of the house",
+      "look": "a stout middle-aged Edwardian woman, hair pinned up, high-necked grey dress with a lace collar, stern face"
+    },
+    "jadis": {
+      "name": "Jadis, the Witch",
+      "role": "last queen of the dead city Charn, cruel and powerful, follows the children into London and then into Narnia",
+      "look": "a tall, beautiful woman with black hair and a cold white face, a long dark gown with a silver crown, regal and terrifying"
+    },
+    "frank": {
+      "name": "Frank the cabby",
+      "role": "a London cab driver who helps the first sequence with his horse",
+      "look": "a weathered working-class London cabman, flat cap, heavy wool coat, thick moustache, Edwardian street worker"
+    },
+    "aslan": {
+      "name": "Aslan",
+      "role": "the great lion who sings Narnia into being and sends Digory on his quest",
+      "look": "a huge golden-tawny lion with a shining mane, calm and majestic, standing in light"
+    },
+    "fledge": {
+      "name": "Fledge",
+      "role": "the horse Strawberry, transformed into a winged horse by Aslan, carries Digory",
+      "look": "a strong chestnut horse with large feathered wings folded at its shoulders, Narnian and magical"
+    },
+    "mrs-kirke": {
+      "name": "Mrs Kirke",
+      "role": "Digory's mother, slowly dying upstairs in bed; her illness drives Digory's choice",
+      "look": "a pale thin Edwardian woman in a white nightgown and shawl, lying in a bed, frail and weary"
+    },
+    "helen": {
+      "name": "Helen",
+      "role": "Frank the cabby's wife; Aslan crowns the couple as the first king and queen of Narnia",
+      "look": "a plump, kindly London woman of about fifty, hair in a bun, a dark wool dress and shawl, Edwardian working-class wife"
+    }
+  },
+  "places": {
+    "attic": {
+      "set": "room",
+      "look": "dusty London attic study, a highback chair, a ticking clock, a red wooden tray holding yellow and green rings"
+    },
+    "london-street": {
+      "set": "street",
+      "look": "a cold, wet Edwardian London street with gaslamps and horse cabs"
+    },
+    "wood-between-worlds": {
+      "set": "forest",
+      "look": "a warm, lush wood of still pools, each one leading to a different world"
+    },
+    "charn": {
+      "set": "abstract",
+      "look": "the dead city of Charn: red-lit, silent, ruined towers and a great bell"
+    },
+    "narnia-garden": {
+      "set": "forest",
+      "look": "a newborn Narnia: a bright cold forest under a new sky, a young apple tree, stars"
+    }
+  },
+  "objects": [
+    {
+      "concept": "magicRings",
+      "mentions": 20,
+      "why": "the yellow and green rings: the book's central mechanism, sending people between worlds; no icon yet, Phase 4 should draw it"
+    },
+    {
+      "concept": "lampPost",
+      "mentions": 4,
+      "why": "the lamp-post standing in the snowy wood, the way back to London"
+    },
+    {
+      "concept": "apple",
+      "mentions": 6,
+      "why": "the apple Digory brings back, a magic fruit that protects Narnia from Jadis"
+    },
+    {
+      "concept": "bell",
+      "mentions": 4,
+      "why": "the bell in Charn: striking it wakes Jadis and the dead city's power"
+    },
+    {
+      "concept": "tree",
+      "mentions": 18,
+      "why": "the young tree planted in Narnia, grown from the apple"
+    },
+    {
+      "concept": "grave",
+      "mentions": 9,
+      "why": "Charn as a dead city, and the death Digory fears for his mother"
+    },
+    {
+      "concept": "home",
+      "mentions": 6,
+      "why": "the rings pull everyone back home; Digory's home is the sickroom"
+    },
+    {
+      "concept": "door",
+      "mentions": 4,
+      "why": "the wardrobe door foreshadowed by the rings' doorway"
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 7,
+      "claim": "Digory is a powerless boy in a grieving house, and Uncle Andrew's rings offer him a secret power."
+    },
+    {
+      "act": "development",
+      "fromFrame": 11782,
+      "claim": "The rings send the children into other worlds, and Jadis follows them back into London."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 23054,
+      "claim": "In Charn, striking the bell wakes Jadis, and Digory's curiosity becomes the first disaster."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 35405,
+      "claim": "Digory must choose between saving his mother with the apple and the danger he has released."
+    },
+    {
+      "act": "close",
+      "fromFrame": 46241,
+      "claim": "Digory refuses to steal, and his refusal grows the tree that shelters Narnia."
+    }
+  ],
+  "slug": "the-magician-s-nephew",
+  "authored": true
+}

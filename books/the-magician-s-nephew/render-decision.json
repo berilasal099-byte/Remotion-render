@@ -1,0 +1,31 @@
+{
+  "note": "Operator render decisions: quality-debt acceptances (--accept-quality-debt) and production render authorizations (--authorize-render), each bound to one render input. BLOCK findings are never accepted.",
+  "decisions": [
+    {
+      "kind": "render-authorization",
+      "at": "2026-10-30T09:07:57.859Z",
+      "commit": "086a0941",
+      "configHash": "889a18f875ad74d2",
+      "renderInputHash": "dc2bd5a7a8f19022",
+      "reason": "Operator approval (2026-10-30): GitHub Cloud production render of The Magician's Nephew for exactly pin 086a0941, config 889a18f875ad74d2, render-input dc2bd5a7a8f19022, preview READY, mute run5 PASS (WRONG 0/30, dead 2/30, ADDS 23/30). No quality debt accepted; not a general approval.",
+      "keys": [],
+      "preview": {
+        "state": "READY",
+        "at": "2026-10-30T09:07:23.333Z",
+        "mute": {
+          "label": "run5",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 0,
+          "dead": 2,
+          "adds": 23,
+          "pass": true
+        }
+      },
+      "quality": {
+        "status": "NOT_ASSESSED",
+        "reviews": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,872 @@
+[
+  {
+    "i": 127,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "AUNT LETTY'S VERDICT",
+      "emphasis": [
+        "DRUNK"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Aunt Letty, a stout middle-aged Edwardian woman, hair pinned up, high-necked grey dress with a lace collar, stern face, hands on her hips in a Victorian drawing room, looking unimpressed at a tall woman with black hair",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Letty decides Jadis is simply drunk, and the mystical terror collapses into a laugh.",
+        "concreteVisual": "Letty stands unbothered, hands on hips, while the tall black-haired woman glares back.",
+        "onScreenText": "DRUNK",
+        "relationToPrevious": "Jadis threatened Letty with her world's power; Letty answers with a flat domestic judgement.",
+        "addedInformation": "Letty's deflating reaction, shown on her face and posture."
+      }
+    }
+  },
+  {
+    "i": 128,
+    "design": {
+      "type": "statement",
+      "kicker": "DIFFERENT PHYSICS",
+      "emphasis": [
+        "PHYSICS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Charn's magic does not work on Earth.",
+        "concreteVisual": "A plain statement card on a dark ground, no picture needed for the rule itself.",
+        "onScreenText": "MAGIC DOESN'T TRAVEL",
+        "relationToPrevious": "Letty's laugh set up the failure of Jadis's power.",
+        "addedInformation": "The rule that magic does not cross worlds."
+      }
+    }
+  },
+  {
+    "i": 129,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "STRIPPED OF POWER",
+      "emphasis": [
+        "POWER"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis, a tall, beautiful woman with black hair and a cold white face, a long dark gown with a silver crown, standing in a plain grey London sitting room, her raised hands open and empty, no fire around them",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis has lost her magic on Earth.",
+        "concreteVisual": "Her raised hands are empty, no flame or light, the silver crown catching only ordinary gaslight.",
+        "onScreenText": "POWER",
+        "relationToPrevious": "The narration says the physics of Charn no longer apply.",
+        "addedInformation": "Her open empty hands show the lost power."
+      }
+    }
+  },
+  {
+    "i": 130,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "NO PANIC",
+      "emphasis": [
+        "PANIC"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis, a tall, beautiful woman with black hair and a cold white face, a long dark gown with a silver crown, standing calm and composed in a London hallway, eyes steady, looking ahead, not frightened",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis does not panic when her magic fails.",
+        "concreteVisual": "Her face is composed and still, her posture upright, no fear in her eyes.",
+        "onScreenText": "CALM, NOT FRIGHTENED",
+        "relationToPrevious": "Her power is gone and the narration says she does not react with fear.",
+        "addedInformation": "Her composure reads as calculation rather than panic."
+      }
+    }
+  },
+  {
+    "i": 131,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "OUT INTO LONDON",
+      "emphasis": [
+        "CAB"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a tall woman in a long dark gown strides out through the open front door of a grey Edwardian London house onto a wet street, a stout woman in a grey dress with a lace collar is flung back against a hallway table",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis throws Letty aside and storms out of the house into the London streets.",
+        "concreteVisual": "Letty is flung back against a hallway table; Jadis strides through the open front door onto the wet street.",
+        "onScreenText": "INTO THE STREETS",
+        "relationToPrevious": "Jadis has just been dismissed by Letty and loses her magic.",
+        "addedInformation": "She is heading for transport, the cab on the street."
+      }
+    }
+  },
+  {
+    "i": 132,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "VICTORIAN LONDON",
+      "emphasis": [
+        "COBBLESTONES"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a wet cobblestone London street at dusk, gaslamps glowing, horse-drawn cabs and carriages, Edwardian pedestrians in long coats and hats",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The sensory chaos of the London street.",
+        "concreteVisual": "Cobblestones, gaslamps, horse cabs and carriages in a wet 1900 street.",
+        "onScreenText": "STREET CHAOS",
+        "relationToPrevious": "Jadis has stepped out into this street.",
+        "addedInformation": "The scene's setting and period."
+      }
+    }
+  },
+  {
+    "i": 133,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "STOLEN CAB",
+      "emphasis": [
+        "CAB",
+        "QUEEN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a tall woman with long black hair and a dark gown with a silver crown, standing in a stone hall, calm and regal",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis rides on top of a stolen cab.",
+        "concreteVisual": "She stands astride the cab roof, hair streaming, the horse pulling through the street.",
+        "onScreenText": "A STOLEN CAB",
+        "relationToPrevious": "She walked out into the street and now commandeers a cab.",
+        "addedInformation": "The image of a queen riding a cab through London."
+      }
+    }
+  },
+  {
+    "i": 134,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "URGING THE HORSE",
+      "emphasis": [
+        "STRAWBERRY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a tall woman with black hair flying out behind her like a comet's tail, gripping the reins of a strong chestnut cab horse, driving it hard down a London street",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis drives the horse Strawberry with fierce energy.",
+        "concreteVisual": "Her hair streams like a comet's tail while she drives the chestnut horse.",
+        "onScreenText": "STRAWBERRY",
+        "relationToPrevious": "She is standing on the cab, now she drives the horse.",
+        "addedInformation": "The horse's name is given on screen."
+      }
+    }
+  },
+  {
+    "i": 135,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "CRASHED CAB",
+      "emphasis": [
+        "LAMP-POST",
+        "IRON BAR"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a cab crashed against an iron lamp-post on a London street, a tall woman in a long dark gown pulling a heavy iron bar from the lamp-post, gaslight on the wet cobbles",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis wrecks the cab and pulls an iron bar from the lamp-post as a weapon.",
+        "concreteVisual": "The cab is crashed into the lamp-post, the woman holds up a torn iron bar.",
+        "onScreenText": "IRON BAR",
+        "relationToPrevious": "She is driving the cab and now she has crashed it.",
+        "addedInformation": "The iron bar is a physical weapon she improvises from London itself."
+      }
+    }
+  },
+  {
+    "i": 136,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "CONTRAST",
+      "emphasis": [
+        "ANDREW",
+        "TABLE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a wooden study desk with open books and a single lamp, a long shadow on the wall",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Uncle Andrew, the supposed mastermind, hides from Jadis.",
+        "concreteVisual": "He is folded under a table, eyes wide, not the master of anything.",
+        "onScreenText": "HIDING",
+        "relationToPrevious": "Jadis is the powerful figure in the chaos, now she arrives at his door.",
+        "addedInformation": "The contrast between a self-styled magician and the real power."
+      }
+    }
+  },
+  {
+    "i": 137,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "BEST SUIT",
+      "emphasis": [
+        "BEST SUIT"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Uncle Andrew, an old man, wild grey hair, a sharply pointed nose, pale vain face, in a black frock suit with a white collar, fussing with his cravat in a tall mirror in a Victorian study",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Andrew dresses in his finest suit to impress Jadis.",
+        "concreteVisual": "He straightens his cravat in front of a mirror, vain and nervous.",
+        "onScreenText": "BEST SUIT",
+        "relationToPrevious": "He is terrified of Jadis and now prepares to win her over.",
+        "addedInformation": "His vanity shows in his grooming."
+      }
+    }
+  },
+  {
+    "i": 138,
+    "design": {
+      "type": "quote",
+      "kicker": "REWRITTEN MEMORY",
+      "emphasis": [
+        "DEMURE"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Andrew rewrites his memory of Jadis as a demure woman.",
+        "concreteVisual": "A quotation card printing Andrew's own words, 'a demure woman', as the way he now describes her.",
+        "onScreenText": "A DEMURE WOMAN",
+        "relationToPrevious": "He was cowering and infatuated; now he protects his ego.",
+        "addedInformation": "His false description of her, in his own words."
+      }
+    }
+  },
+  {
+    "i": 139,
+    "design": {
+      "type": "statement",
+      "kicker": "OUT OF HER DEPTH",
+      "emphasis": [
+        "OUT OF DEPTH"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis is out of her depth yet acts with brutal certainty.",
+        "concreteVisual": "A statement card; the contrast is in the words.",
+        "onScreenText": "OUT OF HER DEPTH",
+        "relationToPrevious": "The narration moves from Andrew to Jadis.",
+        "addedInformation": "Her certainty despite not understanding this world."
+      }
+    }
+  },
+  {
+    "i": 140,
+    "design": {
+      "type": "statement",
+      "kicker": "A DIFFERENT READ",
+      "emphasis": [
+        "HER POWER"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The narrator draws a different conclusion about Jadis's power.",
+        "concreteVisual": "A statement card, commentary rather than action.",
+        "onScreenText": "HER POWER",
+        "relationToPrevious": "The previous beat described her brutal certainty; this reframes it.",
+        "addedInformation": "The narrator's reading of the street scene."
+      }
+    }
+  },
+  {
+    "i": 141,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "LOCAL COPS",
+      "emphasis": [
+        "LOCAL COPS",
+        "ERRAND BOYS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a group of Victorian London policemen in tall helmets and dark tunics facing a tall woman in a long dark gown with a silver crown, on a wet cobblestone street, no weapons drawn",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "She is fighting local police and errand boys in a street.",
+        "concreteVisual": "Bobbies in helmets stand facing a tall woman in a crown, no violence shown.",
+        "onScreenText": "LOCAL COPS",
+        "relationToPrevious": "She has just torn the iron bar from the lamp-post.",
+        "addedInformation": "The small, local, ordinary authority she is facing."
+      }
+    }
+  },
+  {
+    "i": 142,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ABSURD",
+      "emphasis": [
+        "QUEEN OF QUEENS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a tall woman in a silver crown and long dark gown in the middle of a jeering London street, surrounded by errand boys tossing vegetables at her, Edwardian gaslamps and cabs behind",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The queen's majesty is reduced to a Victorian street brawl.",
+        "concreteVisual": "The regal crown in an ordinary jeering street, vegetables thrown.",
+        "onScreenText": "QUEEN OF QUEENS",
+        "relationToPrevious": "The police and errand boys are the people she fights.",
+        "addedInformation": "The absurdity of the scene, the grandeur undercut by the setting."
+      }
+    }
+  },
+  {
+    "i": 143,
+    "design": {
+      "type": "statement",
+      "kicker": "RIVAL WARLORDS",
+      "emphasis": [
+        "RIVAL WARLORDS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "She treats the London police as rival warlords.",
+        "concreteVisual": "A statement card carrying the idea of ego rather than a picture.",
+        "onScreenText": "RIVAL WARLORDS",
+        "relationToPrevious": "The absurd street scene is now interpreted as her ego.",
+        "addedInformation": "Her self-image, which refuses the absurdity."
+      }
+    }
+  },
+  {
+    "i": 144,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DIGORY'S GUILT",
+      "emphasis": [
+        "DIGORY",
+        "RESPONSIBLE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, standing alone on a wet London street corner, looking at a crashed cab and a bent lamp-post, guilty",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory sees the damage and knows he is responsible.",
+        "concreteVisual": "He stands small on the street, looking at the wreckage, shoulders tight.",
+        "onScreenText": "HE BROUGHT HER HERE",
+        "relationToPrevious": "Jadis's chaos is the result of what Digory did.",
+        "addedInformation": "His guilt is the emotional center of the scene."
+      }
+    }
+  },
+  {
+    "i": 145,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "GET HER OUT",
+      "emphasis": [
+        "GET HER OUT"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, looking across a wet London street at a tall woman in a long dark gown, a yellow ring on his finger",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory must get Jadis out of London.",
+        "concreteVisual": "Digory looks across the street at Jadis, the yellow ring on his hand.",
+        "onScreenText": "GET HER OUT",
+        "relationToPrevious": "He feels responsible and now has a plan.",
+        "addedInformation": "The yellow ring is the means of his escape plan."
+      }
+    }
+  },
+  {
+    "i": 146,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE YELLOW RING",
+      "emphasis": [
+        "YELLOW RING",
+        "ANKLE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory, a slim English boy of about eleven, short untidy brown hair, grey wool jacket, reaching out and grabbing the ankle of a tall woman in a long dark gown on a cobblestone street, a yellow ring held up in his other hand, a tangle of people sprawled around them",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory grabs Jadis's ankle while holding the yellow ring.",
+        "concreteVisual": "Digory lunges, a yellow ring in his fist, grabbing the woman's ankle in a tangled heap.",
+        "onScreenText": "YELLOW RING",
+        "relationToPrevious": "He decided to get her out, now he acts.",
+        "addedInformation": "The ring is the mechanism that will take her out."
+      }
+    }
+  },
+  {
+    "i": 147,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ONE CHAIN",
+      "emphasis": [
+        "POLLY",
+        "FRANK",
+        "STRAWBERRY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a chain of figures on a wet London street all holding each other: a girl of about eleven with dark plaited hair in a pinafore dress, a tall woman with black hair, an old man in a dressing gown, a cabman in a flat cap and heavy wool coat, and a strong chestnut horse, all touching",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory's grip pulls a whole chain of people with him.",
+        "concreteVisual": "Polly, Jadis, Andrew, the cabman Frank and the horse Strawberry all linked by touch.",
+        "onScreenText": "ALL HOLDING ON",
+        "relationToPrevious": "Digory grabbed Jadis, and the others touch her and each other.",
+        "addedInformation": "Everyone in the chain is named, so the viewer can follow who goes with them."
+      }
+    }
+  },
+  {
+    "i": 148,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "WOOD BETWEEN WORLDS",
+      "emphasis": [
+        "WOOD",
+        "POOL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a warm, lush wood of still pools, figures tumbling down into dark water with a splash under the trees, a faint glow between the trunks",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The group is pulled through the wood between the worlds into an unmapped pool.",
+        "concreteVisual": "Still pools in a lush wood; the group falls into one with a splash.",
+        "onScreenText": "AN UNMAPPED POOL",
+        "relationToPrevious": "They were pulled out of London in a chain.",
+        "addedInformation": "The wood between worlds, the transit space."
+      }
+    }
+  },
+  {
+    "i": 149,
+    "design": {
+      "type": "statement",
+      "kicker": "NEXT SCENE",
+      "emphasis": [
+        "LAMP POST"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The next beat is the lamp-post in the void.",
+        "concreteVisual": "A plain transition card.",
+        "onScreenText": "LAMP POST",
+        "relationToPrevious": "The pool dropped them somewhere unknown.",
+        "addedInformation": "Signals the transition to the next scene."
+      }
+    }
+  },
+  {
+    "i": 150,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "PITCH BLACK",
+      "emphasis": [
+        "PITCH BLACK"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis, a tall, beautiful woman with black hair and a long dark gown, Digory, a slim English boy of about eleven in a grey wool jacket, and Polly, a girl of about eleven with dark plaited hair in a pinafore dress, huddled together in complete darkness, faintly lit at their edges, standing on nothing, arms raised for balance",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "They land in pitch black nothingness.",
+        "concreteVisual": "Three figures in an empty black void, nothing under their feet.",
+        "onScreenText": "PITCH BLACK",
+        "relationToPrevious": "They fell out of the pool.",
+        "addedInformation": "The void is abstract and empty."
+      }
+    }
+  },
+  {
+    "i": 151,
+    "design": {
+      "type": "statement",
+      "kicker": "COMPLETE VOID",
+      "emphasis": [
+        "NO LIGHT"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The void has no wind, light or ground.",
+        "concreteVisual": "A statement card; the absence is the point.",
+        "onScreenText": "NO LIGHT",
+        "relationToPrevious": "The darkness is described in more detail.",
+        "addedInformation": "No wind, no light, no ground."
+      }
+    }
+  },
+  {
+    "i": 152,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "STILL GRIPPING",
+      "emphasis": [
+        "IRON BAR"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a tall woman in a long dark gown gripping a rough iron bar in the darkness, lit only by a thin edge of light on the metal",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis still holds the iron bar from the lamp-post.",
+        "concreteVisual": "Her hand tight on the iron bar in darkness.",
+        "onScreenText": "IRON FROM A LAMP-POST",
+        "relationToPrevious": "The void and the iron bar she tore from the lamp-post.",
+        "addedInformation": "The bar she carried from London now lies in the void."
+      }
+    }
+  },
+  {
+    "i": 153,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE IRON BAR",
+      "emphasis": [
+        "INDUSTRIAL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a close-up of a rough, dark iron bar, cold and dented, its paint flaking, resting in a dark void",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The iron bar symbolises the industrial revolution.",
+        "concreteVisual": "A single cold iron object in darkness.",
+        "onScreenText": "MECHANICAL FORCE",
+        "relationToPrevious": "The narration introduces the bar as a symbol.",
+        "addedInformation": "The bar stands for mechanical industrial force."
+      }
+    }
+  },
+  {
+    "i": 154,
+    "design": {
+      "type": "statement",
+      "kicker": "DEAD METAL",
+      "emphasis": [
+        "DEAD METAL"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Dead metal brought into a place of pure magic.",
+        "concreteVisual": "A statement card carrying the idea.",
+        "onScreenText": "DEAD METAL",
+        "relationToPrevious": "The iron bar symbol continues.",
+        "addedInformation": "The contrast of dead metal and living magic."
+      }
+    }
+  },
+  {
+    "i": 155,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE MUSIC",
+      "emphasis": [
+        "STARS SING"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a boy and a girl of about eleven looking up in wonder at a dark sky, the faint stars beginning to glow over them, a cold silence in the air",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A cold, tingling music begins in the darkness; the stars sing.",
+        "concreteVisual": "Digory and Polly look upward as the stars begin to shine.",
+        "onScreenText": "STARS SING",
+        "relationToPrevious": "The darkness was silent, now a sound begins.",
+        "addedInformation": "The stars are the source of the singing."
+      }
+    }
+  },
+  {
+    "i": 156,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "CONSTELLATIONS",
+      "emphasis": [
+        "CONSTELLATIONS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a dense night sky full of bright constellations spread wide over a dark land",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The sky fills with constellations and a deep voice joins the music.",
+        "concreteVisual": "A crowded sky of constellations.",
+        "onScreenText": "CONSTELLATIONS",
+        "relationToPrevious": "The stars were singing; now the sky is full.",
+        "addedInformation": "The sky becomes populated, the world starts to form."
+      }
+    }
+  },
+  {
+    "i": 157,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE SINGER",
+      "emphasis": [
+        "ASLAN",
+        "SINGING"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a huge golden-tawny lion with a shining mane, calm and majestic, standing in light, mouth open, singing",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The deep voice is Aslan, and as he sings the world begins to exist.",
+        "concreteVisual": "Aslan stands in light, singing.",
+        "onScreenText": "ASLAN",
+        "relationToPrevious": "The sky of constellations was waiting for a voice.",
+        "addedInformation": "The singer is Aslan."
+      }
+    }
+  },
+  {
+    "i": 158,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "CREATION BY FIRE",
+      "emphasis": [
+        "FIRE",
+        "SKY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a streak of golden fire arcing across a dark sky above a bare plain, bright and clean, burning no one",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Creation by fire: a flash of fire shoots across the sky.",
+        "concreteVisual": "A golden flash of fire crosses the night sky above bare land.",
+        "onScreenText": "BURNS NO ONE",
+        "relationToPrevious": "Aslan sang; now the world is created.",
+        "addedInformation": "The fire is the creation act, harmless."
+      }
+    }
+  },
+  {
+    "i": 159,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "SUNRISE",
+      "emphasis": [
+        "DAWN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a huge golden-tawny lion with a shining mane, calm and majestic, pacing back and forth across bare dirt at dawn, the sun rising behind him",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The sun rises and they see the singer, a massive golden lion, pacing in the empty dirt.",
+        "concreteVisual": "Aslan paces the bare earth as the sun comes up.",
+        "onScreenText": "DAWN",
+        "relationToPrevious": "The fire flashed; now the sun rises and reveals Aslan.",
+        "addedInformation": "The lion is seen for the first time."
+      }
+    }
+  },
+  {
+    "i": 160,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A GREEN VALLEY",
+      "emphasis": [
+        "VALLEY",
+        "TREES"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a huge golden-tawny lion with a shining mane singing with his head raised, above a green valley swelling into being, young trees rising out of the soil",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A green valley swells into existence and trees grow out of the soil.",
+        "concreteVisual": "Aslan sings and a green valley with young trees appears.",
+        "onScreenText": "TREES FROM THE SOIL",
+        "relationToPrevious": "Aslan paced the bare dirt; now he sings the land into being.",
+        "addedInformation": "The valley and trees are created by singing."
+      }
+    }
+  },
+  {
+    "i": 161,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "GREEN FIRE",
+      "emphasis": [
+        "GREEN FIRE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "green grass spreading across rolling hills under a bright sky, a warm sunrise over a new valley, a wide empty landscape",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The grass spreads like a green fire across the hills.",
+        "concreteVisual": "A wide view of green hills being covered with grass.",
+        "onScreenText": "GREEN FIRE",
+        "relationToPrevious": "The valley and trees appeared; now the grass spreads.",
+        "addedInformation": "The land is alive and spreading."
+      }
+    }
+  },
+  {
+    "i": 162,
+    "design": {
+      "type": "compare",
+      "kicker": "TWO KINDS OF MAGIC",
+      "emphasis": [
+        "MECHANICAL",
+        "ORGANIC"
+      ],
+      "items": [],
+      "image": null,
+      "compare": {
+        "left": {
+          "label": "ANDREW AND JADIS",
+          "subject": "an old man in a dressing gown bent over a cluttered table of rings and instruments, a tall woman with a silver crown beside him in a dim red-lit room"
+        },
+        "right": {
+          "label": "ASLAN'S MAGIC",
+          "subject": "a huge golden-tawny lion singing with his head raised above a green valley, trees rising from the earth"
+        }
+      },
+      "storyboard": {
+        "claim": "Aslan's magic is the opposite of Andrew's and Jadis's mechanical magic.",
+        "concreteVisual": "Two pictures side by side: exploitative magic at a table, organic magic in a valley.",
+        "onScreenText": "MECHANICAL VS ORGANIC",
+        "relationToPrevious": "The narration recontextualises magic after the valley appeared.",
+        "addedInformation": "The comparison of two kinds of power."
+      }
+    }
+  },
+  {
+    "i": 163,
+    "design": {
+      "type": "list",
+      "kicker": "TWO KINDS OF MAGIC",
+      "emphasis": [
+        "TOOLS"
+      ],
+      "items": [
+        "MANIPULATE",
+        "DESTROY",
+        "USE OTHERS"
+      ],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Andrew and Jadis manipulate, destroy and use others as tools.",
+        "concreteVisual": "Three short items, text carries the list.",
+        "onScreenText": "MECHANICAL MAGIC",
+        "relationToPrevious": "The comparison of the two kinds of magic continues.",
+        "addedInformation": "The three ways the mechanical magic works."
+      }
+    }
+  },
+  {
+    "i": 164,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "CALLS IT FORTH",
+      "emphasis": [
+        "CALLS IT FORTH"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a huge golden-tawny lion with a shining mane standing in a green valley with his paws raised, grass and young trees rising around him from the earth",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Aslan does not construct Narnia; he calls it forth and the earth responds.",
+        "concreteVisual": "Aslan calls, the grass and trees rise around him.",
+        "onScreenText": "CALLS IT FORTH",
+        "relationToPrevious": "The list contrasted mechanical and organic magic; now Aslan's way is shown.",
+        "addedInformation": "The earth responds to Aslan's call, not a construction."
+      }
+    }
+  }
+]

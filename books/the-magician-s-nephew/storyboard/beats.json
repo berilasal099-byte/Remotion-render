@@ -1,0 +1,4378 @@
+{
+  "slug": "the-magician-s-nephew",
+  "title": "The Magician's Nephew",
+  "author": "C.S. Lewis",
+  "genre": "fantasy",
+  "count": 261,
+  "instructions": "Author one design per beat, SAME order & length. Then: node scripts/plan-vox.js --designs=<thisFileEdited> (same other args).",
+  "designSchema": {
+    "type": "title|statement|list|quote|stat|imagefocus|compare|punchline|checklist|polaroid|chart",
+    "kicker": "2-4 word ALL-CAPS section tag or ''",
+    "emphasis": "1-3 SHORT ALL-CAPS words: pick the most SPECIFIC nouns — names, places, key terms, numbers (never generic verbs/adjectives, never a full sentence)",
+    "items": "list-only: 2-4 SHORT ALL-CAPS items, else []",
+    "image": "null OR {subject:'concrete cinematic visual, no text', style:'cutout'|'card'}",
+    "compare": "compare-only: {left:{label,subject},right:{label,subject}}, else null"
+  },
+  "beats": [
+    {
+      "i": 0,
+      "text": "You're standing in a dead quiet, like really dusty London attic room. Yeah. The air is completely stale.",
+      "design": {
+        "type": "title",
+        "kicker": "BOOK BREAKDOWN",
+        "emphasis": [
+          "DUSTY",
+          "LONDON",
+          "ATTIC"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "completely, standing, london",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 1,
+      "text": "Exactly. And the light is super dim, just sort of filtering through this grimy glass. In front of you is this incredibly eccentric man.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "FILTERING",
+          "THROUGH"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 2,
+      "text": "Wild gray hair. Wild gray hair. Sharply pointed nose. He's standing by a highback chair. And there's this clock ticking somewhere",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "CLOCK",
+          "TICKING",
+          "SOMEWHERE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 3,
+      "text": "in the heavy silence. And on the table there's a bright red wooden tray. Right on that tray are these incredibly shiny, almost",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "HEAVY",
+          "SILENCE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 4,
+      "text": "vibrating yellow and green rings. And you have a yellow ring in one hand and a green one in the other.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "VIBRATING",
+          "YELLOW"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 5,
+      "text": "You don't yet know it, but those rings are about to rip you right out of the Victorian era. They're going to drag you through the uh the cosmic plumbing of the",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "VICTORIAN",
+          "ERA"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "victorian, plumbing, through",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 6,
+      "text": "multiverse and throw you directly into the birth of an entirely new universe. It is the ultimate threshold moment.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ULTIMATE",
+          "THRESHOLD"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 7,
+      "text": "It really is. I mean, you are holding the literal keys to the cosmos,",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "LITERAL",
+          "KEYS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 8,
+      "text": "but you have absolutely no idea how the locks And that profound ignorance,",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "PROFOUND",
+          "IGNORANCE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 9,
+      "text": "that's the axis this entire story turns on. So, we are stripping down CS Lewis's The Magician's Nephew in today's deep dive.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "MAGICIAN",
+          "NEPHEW"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "stripping, magicians, entire",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 10,
+      "text": "And we're operating on one specific arguable thesis here. Yes, we are. The argument is that this book is fundamentally a creation myth wearing",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SPECIFIC",
+          "ARGUABLE",
+          "THESIS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 11,
+      "text": "the disguise of a children's Right. And its real subject, like the absolute core of its obsession, is what a person does",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ABSOLUTE",
+          "CORE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 12,
+      "text": "with power they cannot Which forces you to read every single chapter differently, you know? Oh, completely.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "READ",
+          "EVERY",
+          "SINGLE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "differently, completely., chapter",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 13,
+      "text": "You have to stop looking at the magic rings as just um fun plot devices.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MAGIC",
+          "RINGS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 14,
+      "text": "Yeah, they aren't toys. No, you start seeing them as weapons of mass disruption.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MASS",
+          "DISRUPTION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 15,
+      "text": "But to really understand the gravity of this, we have to ground ourselves in the mundane reality where it begins, which is the summer of 1900 in London, right?",
+      "design": {
+        "type": "place",
+        "kicker": "",
+        "emphasis": [
+          "1900",
+          "IN",
+          "LONDON"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 16,
+      "text": "The Edwardian era is just dawning and it's a cold, wet, miserable summer. So",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "EDWARDIAN",
+          "ERA"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "edwardian, miserable, dawning",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 17,
+      "text": "miserable. Then these two children, Digory Kirk and Paulie Plamer, they're trapped indoors.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "PAULIE",
+          "PLAMER"
+        ],
+        "items": [
+          "TWO CHILDREN",
+          "DIGORY KIRK",
+          "PAULIE PLAMER"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 18,
+      "text": "We really have to establish Digor's psychological state right away. I mean, it dictates literally everything that It's the catalyst for the whole book.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ESTABLISH",
+          "DIGOR",
+          "PSYCHOLOGICAL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "psychological, everything, establish",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 19,
+      "text": "Exactly. Digory has been dragged to London, which he absolutely despises. His father is away in India.",
+      "design": {
+        "type": "place",
+        "kicker": "",
+        "emphasis": [
+          "DRAGGED",
+          "TO",
+          "LONDON"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 20,
+      "text": "So, he's essentially fatherless at the Yeah. And he's living in this drafty, creaky rowhouse with an unpredictable aunt and uncle.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "CREAKY",
+          "ROWHOUSE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 21,
+      "text": "But the really crushing weight on this boy is that his mother is upstairs and she's slowly dying.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "CRUSHING",
+          "WEIGHT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 22,
+      "text": "It's just devastating. He is enveloped in this profound suffocating grief.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "PROFOUND",
+          "SUFFOCATING",
+          "GRIEF"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 23,
+      "text": "He is entirely powerless. And when a human being feels that level of powerlessness, I mean, especially a child, the allure of finding",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ENTIRELY",
+          "POWERLESS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 24,
+      "text": "a secret door is intense. Oh, absolutely. Uncovering hidden knowledge or just grasping for any semblance of control,",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "UNCOVERING",
+          "HIDDEN",
+          "KNOWLEDGE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 25,
+      "text": "it becomes intoxicating. It really makes you vulnerable to exploitation, which uh leads us directly into our first major beat, the attic",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "BECOMES",
+          "INTOXICATING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 26,
+      "text": "steady. Let's drop right into that physical exploration. Lewis makes the geography of this so visceral.",
+      "design": {
+        "type": "map",
+        "kicker": "",
+        "emphasis": [
+          "PHYSICAL",
+          "EXPLORATION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 27,
+      "text": "The tunnel under the slates. Yes. The children are exploring this dark, drafty tunnel under the slates of the roof.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "DRAFTY",
+          "TUNNEL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 28,
+      "text": "It connects this whole long row of Victorian houses and they are stepping from rafter to rafter over these plaster ceilings guided by",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "VICTORIAN",
+          "HOUSES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "rafter, victorian, connects",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 29,
+      "text": "like just the flicker of a single candle and it smells of dust",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SINGLE",
+          "CANDLE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 30,
+      "text": "and dry rot. The physical precariousness there completely mirrors the emotional How",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "PHYSICAL",
+          "PRECARIOUSNESS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 31,
+      "text": "so? Well, if you step on the plaster instead of the wooden rafter, you literally fall",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "PLASTER",
+          "INSTEAD"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 32,
+      "text": "through the ceiling. You are navigating a space that is just not meant for human",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "NAVIGATING",
+          "A",
+          "SPACE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 33,
+      "text": "right? It's inherently dangerous. Now, Polly uses a part of this tunnel behind the sistern as her smuggler's Yeah, she's got a cash box, some apples,",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "TUNNEL",
+          "BEHIND"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "inherently, dangerous., smugglers",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 34,
+      "text": "ginger beer. It's innocent childhood secrecy. But Digory pushes them further. He wants to explore the length of the whole row to reach uh what",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DIGORY",
+          "PUSHES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "childhood, innocent, secrecy.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 35,
+      "text": "is supposedly an empty So, they calculate the rafters. They open a little door in the brick expecting cobwebs and abandoned furniture.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "BRICK",
+          "EXPECTING",
+          "COBWEBS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 36,
+      "text": "Right. But instead, they are hit with daylight. There's a",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "HIT",
+          "WITH",
+          "DAYLIGHT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 37,
+      "text": "fire burning in a great walls lined with ancient books",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "GREAT",
+          "WALLS",
+          "LINED"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 38,
+      "text": "and that faint musical humming sound coming from the tray of rings. The contrast is just so jarring.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "FAINT",
+          "MUSICAL",
+          "HUMMING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 39,
+      "text": "You go from the dusty, innocent smuggler's cave to this deeply sinister, calculated environment of Uncle Andrew's study and Andrew locks the door behind them,",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW",
+          "STUDY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "environment, calculated, smugglers",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 40,
+      "text": "right? He traps them. This is our introduction to the ego of the magician. Andrew is the archetype of a man who desperately",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "INTRODUCTION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 41,
+      "text": "craves the prestige of hidden wisdom, but completely refuses to take the physical risk to achieve it. Spot on.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "HIDDEN",
+          "WISDOM"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 42,
+      "text": "He immediately reveals he's already sent a guinea pig into the unknown using a yellow ring. And his complaint isn't about the cruelty to the animal.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "UNKNOWN",
+          "USING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 43,
+      "text": "No, not at all. His [snorts] complaint is that a guinea pig can't take notes. And you can't explain to it how to put on a green ring to come back.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SNORTS",
+          "COMPLAINT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 44,
+      "text": "It really exposes this very specific turn of the century arrogance. I mean, if you look at London in 1900 at the height of the empire,",
+      "design": {
+        "type": "place",
+        "kicker": "",
+        "emphasis": [
+          "LONDON",
+          "IN",
+          "1900"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 45,
+      "text": "there was this intense obsession with the occult among the upper classes.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "INTENSE",
+          "OBSESSION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 46,
+      "text": "Oh, absolutely. They treated ancient mysticism like it was just another colonial",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "TREATED",
+          "ANCIENT",
+          "MYSTICISM"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 47,
+      "text": "resource to be extracted. Yeah. And Andrew didn't invent this No, he inherited an Atlantean box from a dying relative, and",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ATLANTEAN",
+          "BOX"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "extracted., inherited, atlantean",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 48,
+      "text": "he essentially just brute forced it. He's basically a trust fund academic playing with radioactive Convinced his quote unquote breeding protects",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "RADIOACTIVE",
+          "CONVINCED"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "essentially, radioactive, basically",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 49,
+      "text": "him. I mean, he tells Degree hours ours is a high and lonely destiny. That line, right?",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DEGREE",
+          "HOURS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "destiny., degree, lonely",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 50,
+      "text": "Arguing that men of hidden wisdom are freed from common rules. Okay, wait. I have to challenge that characterization slightly.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "HIDDEN",
+          "WISDOM"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 51,
+      "text": "Let's look at Andrew without the immediate moral revulsion of him, you know, using Okay, I'm listening.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ANDREW",
+          "WITHOUT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "listening., immediate, revulsion",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 52,
+      "text": "When I read his dialogue, I don't really see an aristocratic mastermind. I see a pathetic coward who is terrified of his own toys.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ARISTOCRATIC",
+          "MASTERMIND"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 53,
+      "text": "Well, sure, he's a coward. He dresses it up in this Nietian Superman language, the high and lonely destiny.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "NIETIAN",
+          "SUPERMAN"
+        ],
+        "items": [
+          "SUPERMAN LANGUAGE",
+          "HIGH",
+          "LONELY DESTINY"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 54,
+      "text": "But he is shaking in his boots. Isn't he just acting out of sheer",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SHAKING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 55,
+      "text": "terror of the unknown? His cowardice is undeniable, but I'd argue that's precisely",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "COWARDICE",
+          "IS",
+          "UNDENIABLE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 56,
+      "text": "what makes him so dangerous. The cowardice doesn't negate his arrogance. It amplifies it. Yes, it amplifies his cruelty.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "AMPLIFIES",
+          "HIS",
+          "CRUELTY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 57,
+      "text": "He is too afraid to go himself, but his ego absolutely demands he know what the rings do. So, he manipulates a little girl.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "LITTLE",
+          "GIRL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 58,
+      "text": "He tricks Paulie into touching the humming ring, and she just vanishes into thin air. And instantly, Digory is confronted with the core",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "TRICKS",
+          "PAULIE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "confronted, instantly, touching",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 59,
+      "text": "reality of our thesis. Uncle Andrew just unleashed a reaction he has no intention of controlling. Exactly. He forces Digory to take a pair of green rings in his pocket",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "FORCES",
+          "DIGORY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "controlling., unleashed, intention",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 60,
+      "text": "and touch a yellow ring to go after her. He thrusts upon a grieving child the burden of what a person does with power they cannot undo.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "GRIEVING",
+          "CHILD"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 61,
+      "text": "Digory has to plunge into the void to fix Andrew's arrogant mistake, which physically rips",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ANDREW",
+          "ARROGANT",
+          "MISTAKE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "physically, arrogant, andrews",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 62,
+      "text": "Digory out of that stuffy ticking study and drops us right into our second beat,",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "STUFFY",
+          "TICKING",
+          "STUDY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 63,
+      "text": "the wood between the worlds. The sensory transition here is one of the most brilliant things Lewis ever It's an absolute shock to the system.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "BRILLIANT",
+          "THINGS",
+          "LEWIS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "transition, brilliant, absolute",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 64,
+      "text": "You vanish from this claustrophobic, sinister room and suddenly you are",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "CLAUSTROPHOBIC"
+        ],
+        "items": [
+          "THIS CLAUSTROPHOBIC",
+          "SINISTER ROOM",
+          "SUDDENLY YOU"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 65,
+      "text": "standing in the richest, greenest, warmest woods you can possibly imagine.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "WARMEST",
+          "WOODS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 66,
+      "text": "The light is entirely green, filtering through dense leaves and it is dead quiet, but not the tense, ticking quiet of the",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "FILTERING",
+          "THROUGH",
+          "DENSE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 67,
+      "text": "No, it's a sleepy growing earthy quiet and the ground is dotted with dozens and dozens of perfect circular pools of water.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "PERFECT",
+          "CIRCULAR",
+          "POOLS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 68,
+      "text": "Digree looks around feeling this heavy warm apathy and he makes a really brilliant architectural connection. He realizes this place is just",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "BRILLIANT",
+          "ARCHITECTURAL",
+          "CONNECTION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 69,
+      "text": "like the dark tunnel under the slates in London. Yes. The tunnel isn't a room in any of the houses. Right. It just connects them all.",
+      "design": {
+        "type": "place",
+        "kicker": "",
+        "emphasis": [
+          "SLATES",
+          "IN",
+          "LONDON"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 70,
+      "text": "Exactly. The wood between the worlds isn't the universe itself. It's the cosmic plumbing. It is the in between It's the liinal space",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "UNIVERSE",
+          "ITSELF"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 71,
+      "text": "of the multiverse. You can think of it like a computer's BIOS system or uh the deepest basement of a subway terminal where all the electrical",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "COMPUTER",
+          "BIOS",
+          "SYSTEM"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 72,
+      "text": "lines cross but no trains actually ever stop. Nothing happens there. Nothing can happen there. It's purely connective tissue.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "CONNECTIVE",
+          "TISSUE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 73,
+      "text": "And this really exposes the fundamental flaw in Uncle Andrew's supposed mastery of the magic because Andrew thought the magic was simple.",
+      "design": {
+        "type": "place",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW",
+          "SUPPOSED"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 74,
+      "text": "Yellow means outward journey. Green means homeward journey, which is a totally mechanical binary understanding of something profoundly organic.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MECHANICAL",
+          "BINARY",
+          "UNDERSTANDING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 75,
+      "text": "Andrew's ignorance of the underlying physics is just staggering. Break down the actual physics of it for a second. Sure.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ANDREW",
+          "IGNORANCE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 76,
+      "text": "So, the rings are constructed from dust that originated in this very wood brought to Earth millennia ago.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "EARTH",
+          "MILLENNIA"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "constructed, originated, millennia",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 77,
+      "text": "The yellow rings are drawn back to their They pull you into the wood because the material violently wants to go home. Right.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MATERIAL",
+          "VIOLENTLY",
+          "WANTS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 78,
+      "text": "While the green rings are made of a slightly different material that actively pushes out. It's trying to escape its origin. It's magnetic polarity.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MAGNETIC",
+          "POLARITY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 79,
+      "text": "Exactly. Andrew was like a toddler playing with incredibly powerful magnets, completely oblivious to the magnetic fields.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "INCREDIBLY",
+          "POWERFUL",
+          "MAGNETS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 80,
+      "text": "A green ring doesn't take you home to London. A green ring",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "LONDON"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "green, ring, london.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 81,
+      "text": "simply repels you out of the wood into whatever pool, whatever universe",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "WHATEVER",
+          "UNIVERSE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 82,
+      "text": "you happen to jump into, which is a terrifying realization of unearned power.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "TERRIFYING",
+          "REALIZATION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 83,
+      "text": "When you wield forces you haven't taken the time to organically understand,",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "WIELD",
+          "FORCES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 84,
+      "text": "you are entirely at the mercy of their actual nature, not your imagined",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ACTUAL",
+          "NATURE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 85,
+      "text": "version of it. And the actual nature of the wood is deeply insidious.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ACTUAL",
+          "NATURE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 86,
+      "text": "It doesn't attack you, though. No, it seduces you into apathy. It has this narcotic effect where you just forget who you are.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "NARCOTIC",
+          "EFFECT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 87,
+      "text": "Digory and Polly are standing there in the warm green light, and they feel so peaceful. They almost forget they have to rescue each other.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "POLLY",
+          "ARE",
+          "STANDING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "peaceful., standing, digory",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 88,
+      "text": "They almost become like the trees. The peace of non-existence. Exactly. I find that far more terrifying than a monster.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ALMOST",
+          "BECOME"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 89,
+      "text": "Honestly, it's only because they actively force themselves to mark the pool that leads back to London with a strip of turf that they maintain their grip on reality.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ACTIVELY",
+          "FORCE",
+          "THEMSELVES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "themselves, honestly, actively",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 90,
+      "text": "And here we see Degre's curiosity sort of mirror Uncle Andrews, but with a crucial divergence. Yeah, they have the green rings.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "MIRROR",
+          "UNCLE",
+          "ANDREWS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "divergence., curiosity, andrews",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 91,
+      "text": "They could go straight back to London. But Diggory looks at all those other pools and says essentially, we can't just leave without exploring at least one.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DIGGORY",
+          "LOOKS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "essentially, exploring, straight",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 92,
+      "text": "The big difference is Digory takes the physical risk himself. That's true. They hold hands. They put on the green rings and plunge into a random pool, which",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DIGORY",
+          "TAKES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "difference, physical, himself.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 93,
+      "text": "violently transitions us to beat three, the dead world of char. The warm, sleepy green is just instantly replaced by a biting",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "VIOLENTLY",
+          "TRANSITIONS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 94,
+      "text": "cold. The sky is dark, dominated by this swollen, dying red sun. They are standing in the ruins of a massive courtyard.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MASSIVE",
+          "COURTYARD"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 95,
+      "text": "The stone is crumbling. Everything is bathed in this oppressive bloody light and they wander into a great hall lined with frozen wax-like",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "OPPRESSIVE",
+          "BLOODY",
+          "LIGHT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 96,
+      "text": "figures of ancient royalty. Lewis describes the progression of these faces so meticulously. The first ones are noble and kind.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ANCIENT",
+          "ROYALTY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 97,
+      "text": "But as you walk down the line, generation by generation, the faces become cruer, more arrogant, more desparing, until you reach",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "GENERATION",
+          "BY",
+          "GENERATION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 98,
+      "text": "the very end of the line, the tallest figure, a woman of terrifying beauty and absolute ruthless pride, Jadis, the",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ABSOLUTE",
+          "RUTHLESS",
+          "PRIDE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "terrifying, absolute, ruthless",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 99,
+      "text": "queen of queens. And right in front of her is a small pillar with a golden",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SMALL",
+          "PILLAR"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 100,
+      "text": "bell and a little And an inscription is carved right into Make your choice, adventurous",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "INSCRIPTION",
+          "IS",
+          "CARVED"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "inscription, adventurous, little",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 101,
+      "text": "stranger. Strike the bell and b the danger or wonder till it drives you mad what would have followed if you had.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "WONDER",
+          "TILL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 102,
+      "text": "It is the ultimate psychological trap designed for a curious mind. It totally weaponizes the human inability to tolerate mystery.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ULTIMATE",
+          "PSYCHOLOGICAL",
+          "TRAP"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 103,
+      "text": "And this is exactly where Digorit's restraint completely collapses. Polly reads the room. She feels the malice. She says they need to leave immediately.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DIGORIT",
+          "RESTRAINT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "immediately., completely, collapses.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 104,
+      "text": "But Digory is infected by the same strain of arrogant curiosity that drives his uncle. He physically fights Polly.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "PHYSICALLY",
+          "FIGHTS",
+          "POLLY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "physically, curiosity, infected",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 105,
+      "text": "He grabs her arm to stop her from using her ring. And with his other hand, he grabs the hammer and strikes the bell. It is the defining failure of the book.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "DEFINING",
+          "FAILURE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 106,
+      "text": "Digory forces his will onto someone else, physically overpowering Paulie just to satisfy his own ego.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "PHYSICALLY",
+          "OVERPOWERING",
+          "PAULIE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "overpowering, physically, someone",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 107,
+      "text": "The bell rings. The sound escalates until it literally brings the roof crashing down. And Jottis wakes up.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "JOTTIS",
+          "WAKES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "escalates, literally, crashing",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 108,
+      "text": "And as she leads them out of this crumbling palace, she reveals the history of Shard. She was fighting a civil war against her sister.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "HISTORY",
+          "OF",
+          "SHARD"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "crumbling, fighting, reveals",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 109,
+      "text": "Her sister's armies were winning. They were storming the palace. And instead of surrendering, instead of accepting defeat, Jais spoke the deplorable word.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ACCEPTING",
+          "DEFEAT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "instead, surrendering, deplorable",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 110,
+      "text": "A word she had learned through dark ancient magic that destroys every living thing in the world except the person who speaks it.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "DESTROYS",
+          "EVERY",
+          "LIVING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 111,
+      "text": "We really have to pause and look at the real world context of this. Lewis is writing this in the early 1950s, right at the dawn of the Cold Mutually assured",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "COLD",
+          "MUTUALLY",
+          "ASSURED"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "mutually, context, writing",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 112,
+      "text": "destruction. Exactly. Jisus is the embodiment of the nuclear option. She literally tells Digory, \"I was the queen.",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "NUCLEAR",
+          "OPTION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 113,
+      "text": "They were all my people. What else were they there for but to do my will?\" She preferred a dead world over a world she didn't",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "DEAD",
+          "WORLD"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 114,
+      "text": "rule. That is the ultimate extreme of our thesis. The deplorable word is the absolute pinnacle of power you cannot",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ABSOLUTE",
+          "PINNACLE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 115,
+      "text": "And Digory through his own pride has just woken the architect of a global genocide. He realizes his colossal mistake and",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DIGORY",
+          "THROUGH"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "architect, genocide., realizes",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 116,
+      "text": "he and Polly try to escape. They touch their yellow rings, but magic in this universe operates on physical contact.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "POLLY",
+          "TRY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "universe, operates, physical",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 117,
+      "text": "Jadis lunges and grabs Digor's ear right as he transitions. Because she is physically touching him, the magnetic pull of the ring drags",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "GRABS",
+          "DIGOR"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "transitions., physically, touching",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 118,
+      "text": "her with them. They pull her through the wood between the worlds and because she is",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "WOOD",
+          "BETWEEN"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 119,
+      "text": "clinging to them, they drag her right back into Uncle Andrew's study in 1900's which",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW",
+          "STUDY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "clinging, andrews, right",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 120,
+      "text": "hurls us into beat four, the London street rampage, we have to visualize this collision of realities.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "LONDON",
+          "STREET",
+          "RAMPAGE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "realities., visualize, collision",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 121,
+      "text": "Jadis was alarming in the dead red light of char. but standing in a stuffy Victorian study surrounded by velvet chairs and ticking",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "VICTORIAN",
+          "STUDY",
+          "SURROUNDED"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "surrounded, victorian, alarming",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 122,
+      "text": "clocks. She is a 7- foot tall apocalyptic warlord radiating ancient fury. And then Aunt Letty, Digory's tough as nails",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "AUNT",
+          "LETTY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "apocalyptic, radiating, clocks.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 123,
+      "text": "Victorian aunt walks in. She doesn't see an ancient sorceress. No, she sees a very tall woman in bizarre clothes and assumes she's a shameless hussy",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ANCIENT",
+          "SORCERESS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 124,
+      "text": "from a traveling circus. Lety tells her, \"No strong language in this house, if you please, young woman.\" Jadis's reaction is incredible.",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "TRAVELING",
+          "CIRCUS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 125,
+      "text": "She towers over Lety, fire literally flashing in her eyes, and she speaks the horrific words that turned her own world to dust, intending",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "TOWERS",
+          "OVER",
+          "LETY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "literally, intending, flashing",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 126,
+      "text": "to blast this Victorian woman into oblivion, and nothing happens. The underlying reality here is that power is contextual.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "VICTORIAN",
+          "WOMAN"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "contextual., underlying, victorian",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 127,
+      "text": "Aunt Letty just assumes Jadis is drunk. It's this brilliant laugh out loud moment that completely deflates Jadis' mystical terror.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DEFLATES",
+          "JADIS",
+          "MYSTICAL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "jadis, completely, brilliant",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 128,
+      "text": "The physics of Char's magic simply do not translate to the",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "CHAR",
+          "MAGIC"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "translate, physics, simply",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 129,
+      "text": "physics of Earth. She's suddenly stripped of her nuclear But notice",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "PHYSICS",
+          "OF",
+          "EARTH"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "suddenly, stripped, physics",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 130,
+      "text": "what she does not do. She doesn't panic. When the magic fails, she instantly pivots to raw mechanical physics.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MECHANICAL",
+          "PHYSICS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 131,
+      "text": "She picks Aunt Letty up like a ragd doll and throws her across the room. She storms out into the streets of London and commandeers a handsome cab.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "PICKS",
+          "AUNT",
+          "LETTY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "commandeers, handsome, streets",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 132,
+      "text": "Picture the sheer sensory chaos of this. cobblestone streets, horsedrawn carriages, and",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "HORSEDRAWN",
+          "CARRIAGES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 133,
+      "text": "standing astride the roof of a stolen cab is a giant",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "STANDING",
+          "ASTRIDE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 134,
+      "text": "furious warrior queen whipping a horse named Strawberry. Her hair is streaming behind her like a comet's tail.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "HORSE",
+          "NAMED",
+          "STRAWBERRY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "strawberry., streaming, whipping",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 135,
+      "text": "She crashes the cab into a lampost and with her bare hands, she violently tears off an iron bar to use as a club against the London Let's",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "AGAINST",
+          "THE",
+          "LONDON"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "violently, crashes, lampost",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 136,
+      "text": "contrast her with Uncle Andrew in this moment. Andrew, the supposed mastermind, cowers under the table when she arrives.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "andrew, mastermind, contrast",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 137,
+      "text": "He is terrified of her, yet bizarrely infatuated. He puts on his best suit to try and impress her.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "BIZARRELY",
+          "INFATUATED"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 138,
+      "text": "And later, to protect his fragile ego, he rewrites his memory of this terrifying tyrant, referring to her as a quote demine woman.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "TERRIFYING",
+          "TYRANT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 139,
+      "text": "He is pathetic. Jisus, on the other hand, is entirely out of her depth. Yet, she acts with absolute brutal certainty.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ABSOLUTE",
+          "BRUTAL",
+          "CERTAINTY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 140,
+      "text": "Okay. I look at that scene in the street though and I actually draw a slightly different conclusion about her power here. Yeah.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SLIGHTLY",
+          "DIFFERENT",
+          "CONCLUSION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 141,
+      "text": "I hope so. She is ripping off an iron bar and fighting police. Yes. But she's fighting local cops and errand boys who are throwing",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "FIGHTING",
+          "POLICE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 142,
+      "text": "produce at her and calling her names. Isn't she actually looking incredibly absurd? I mean, sure, the majesty of the Queen of Queens is",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "QUEEN",
+          "OF",
+          "QUEENS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "incredibly, actually, produce",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 143,
+      "text": "reduced to a Victorian street brawl. She is absurd, but she refuses to acknowledge the absurdity. Her ego is so impenetrable that she treats",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "VICTORIAN",
+          "STREET",
+          "BRAWL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "impenetrable, acknowledge, absurdity.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 144,
+      "text": "the London police as if they were rival warlords. But Digory sees the destruction she's causing. He knows he is responsible.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "LONDON",
+          "POLICE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "responsible., destruction, warlords.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 145,
+      "text": "He brought her here. He has to get her out before she realizes she can conquer this magicless world with just physical force.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MAGICLESS",
+          "WORLD"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 146,
+      "text": "In the absolute chaos of the street brawl, Digree lunges and grabs Jettis by the ankle while holding his yellow ring. But it's a chaotic dog pile.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "GRABS",
+          "JETTIS"
+        ],
+        "items": [
+          "STREET BRAWL",
+          "DIGREE LUNGES",
+          "GRABS JETTIS"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 147,
+      "text": "He accidentally brings a whole chain of people with him. Paulolly, Jis, Uncle Andrew, the cabbie who drove the handsome cab, and the horse",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW"
+        ],
+        "items": [
+          "JIS",
+          "UNCLE",
+          "REW"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 148,
+      "text": "Strawberry. They are all touching, so they all get ripped out of London, plunged through the wood between the worlds, and they fall into",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "LONDON"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "strawberry., touching, plunged",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 149,
+      "text": "a random unmapped pool. And this launches us right into beat five, the lamp post in the void, which transitions directly",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "RANDOM",
+          "UNMAPPED",
+          "POOL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 150,
+      "text": "into the song of They fall out of the pool, expecting to land in another world. Instead, they land in absolute pitch black",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "ABSOLUTE",
+          "PITCH"
+        ],
+        "items": [
+          "INSTEAD",
+          "THEY L",
+          "ABSOLUTE"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 151,
+      "text": "nothingness. It's not just night. It is a complete sensory void. No wind, no light, no ground to see,",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "COMPLETE",
+          "SENSORY",
+          "VOID"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 152,
+      "text": "just cold, empty space under their feet. And Jotis is still gripping the iron bar she tore from the London lamp post.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "LONDON",
+          "LAMP",
+          "POST"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "gripping, london, empty",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 153,
+      "text": "That bar is such a crucial symbol. It represents the industrial revolution",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "INDUSTRIAL",
+          "REVOLUTION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 154,
+      "text": "mechanical force. Dead metal brought into a place of pure In",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MECHANICAL",
+          "FORCE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 155,
+      "text": "the darkness, a sound begins. It starts as a cold, difficult, tingling music. Lewis describes it as the stars",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "TINGLING",
+          "MUSIC"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 156,
+      "text": "themselves singing in the sky. Suddenly, the sky is full of constellations. And then a deep wild voice joins the high cold",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "THEMSELVES",
+          "SINGING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 157,
+      "text": "music. A voice so beautiful and powerful it is almost unbearable. It's Alan. And as he sings, the world simply begins to exist.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ALMOST",
+          "UNBEARABLE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "unbearable., beautiful, powerful",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 158,
+      "text": "Karatio X Aitu, creation by A flash of fire that burns no one shoots across the sky.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "KARATIO",
+          "X",
+          "AITU"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "creation, karatio, shoots",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 159,
+      "text": "The sun rises and they see the singer, a massive golden lion, pacing back and forth in the empty dirt.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "MASSIVE",
+          "GOLDEN"
+        ],
+        "items": [
+          "GOLDEN LION",
+          "PACING BACK",
+          "FORTH IN"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 160,
+      "text": "He sings a new note and a green valley swells into existence. He sings trees",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "GREEN",
+          "VALLEY",
+          "SWELLS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 161,
+      "text": "out of the soil. The grass spreads like a green fire across the hills.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "GRASS",
+          "SPREADS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 162,
+      "text": "This completely recontextualizes our understanding of magic in this book. We have seen the mechanical exploitative magic of Andrew and Jadis.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ANDREW",
+          "AND",
+          "JADIS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "magic, recontextualizes, understanding",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 163,
+      "text": "They manipulate. They destroy. They use others as tools. But Alan's magic is entirely organic.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ALAN",
+          "MAGIC"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "manipulate., destroy., entirely",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 164,
+      "text": "He doesn't construct Narnia like a He calls it forth. He sings and the earth actively responds.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "CONSTRUCT",
+          "NARNIA"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "construct, responds., actively",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 165,
+      "text": "It's participation, not domination. The clash between these two types of power",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "CLASH",
+          "BETWEEN"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 166,
+      "text": "is perfectly visualized. When Jadis realizes what is happening, she recognizes",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "JADIS",
+          "REALIZES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "visualized., recognizes, perfectly",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 167,
+      "text": "Alen's song as a magic far deeper and older than her own, and she is terrified by it. She takes that iron bar from London, steps forward,",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "LONDON"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "terrified, forward, deeper",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 168,
+      "text": "and throws it with all her supernatural strength directly at the lion's head. It hits him squarely between the eyes, and Alan doesn't even break his",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "SUPERNATURAL",
+          "STRENGTH",
+          "DIRECTLY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "supernatural, strength, directly",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 169,
+      "text": "stride. It doesn't flinch at all. The iron bar just falls into the newly created soil. And this is where the magic of Narnia flexes its true nature.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "NARNIA",
+          "FLEXES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "stride., created, nature.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 170,
+      "text": "Because the soil of this new world is so saturated with the power of organic creation and growth, it forces the dead manufactured London metal",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "MANUFACTURED",
+          "LONDON",
+          "METAL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "manufactured, saturated, creation",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 171,
+      "text": "to grow. Right before their eyes, the iron bar sprouts branches of metal and grows into a living, flickering lampost.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SPROUTS",
+          "BRANCHES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 172,
+      "text": "It's a profound limitation on Jadis' power. She intended to inflict violence and destruction. But in a world governed by organic creation, even",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "JADIS",
+          "POWER"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "destruction., limitation, profound",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 173,
+      "text": "a weapon of mechanical destruction is absorbed, subverted, and transformed into something that grows.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "MECHANICAL",
+          "DESTRUCTION"
+        ],
+        "items": [
+          "IS ABSORBED",
+          "SUBVERTED",
+          "TRANSFORMED INTO"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 174,
+      "text": "She cannot unmake what is being made here. So, she flees into the woods. Aslan continues his song, and the animals literally burst out of the",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ASLAN",
+          "CONTINUES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 175,
+      "text": "earth. Mounds of dirt swell up, and deer, panthers, and dogs shake the soil right from their coats. It is deeply solemn, majestic, awe",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "PANTHERS"
+        ],
+        "items": [
+          "DEER",
+          "PANTHERS",
+          "DOGS SHAKE"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 176,
+      "text": "inspiring, which makes what Lewis does next so shocking. Really, right in the middle of this high fantasy creation epic, he just",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "HIGH",
+          "FANTASY",
+          "CREATION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "inspiring, shocking., creation",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 177,
+      "text": "drops a joke. A joke? Yeah. Alang gathers pairs of the animals and gives them the gift of consciousness.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ALANG",
+          "GATHERS",
+          "PAIRS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 178,
+      "text": "He breathes on them and says, \"Love, think, speak, be talking All right. And the very first thing we hear in this brand new",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "TALKING",
+          "ALL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 179,
+      "text": "universe is the cab horse Strawberry looking around and saying, \"But please, we don't know very much yet.\" It completely undercuts the tension.",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "HORSE",
+          "STRAWBERRY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 180,
+      "text": "And then when the animals pledge not to go back to their dumb ways, a jackaw yells out, \"No fear.\" In the middle of a dead silence, and all the other animals start making",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "ANIMALS",
+          "PLEDGE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 181,
+      "text": "weird noises, trying to suppress their See, I used to think this was just Lewis being a bit too precious with his children's book audience.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "LEWIS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "childrens, audience., suppress",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 182,
+      "text": "Why undercut the majesty of creation with a bird making a poorly timed comment? Because humor is the ultimate proof of free will.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ULTIMATE",
+          "PROOF"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 183,
+      "text": "If the creation is merely solemn, silent, and terrified of its creator, it is a dictatorship. It's exactly the kind of world Jadis ruled in char.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "WORLD",
+          "JADIS"
+        ],
+        "items": [
+          "MERELY SOLEMN",
+          "SILENT",
+          "TERRIFIED OF"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 184,
+      "text": "That makes a lot of sense. By allowing the animals to laugh, and Alen explicitly tells them, laugh and fear not, he establishes that this universe is",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "ALEN"
+        ],
+        "items": [
+          "TELLS THEM",
+          "LAUGH",
+          "FEAR NOT"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 185,
+      "text": "built on joy. Laughter requires perspective, surprise, and a lack of fear. Which brings us to the emotional climax of the book.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "LAUGHTER",
+          "REQUIRES"
+        ],
+        "items": [
+          "REQUIRES PERSPECTIVE",
+          "SURPRISE",
+          "LACK"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 186,
+      "text": "Beat seven, The Apple and the Garden's Gate. Digory has been watching all of this, but the awe of creation hasn't erased the reality of his grief.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "GARDEN",
+          "GATE"
+        ],
+        "items": [
+          "BEAT SEVEN",
+          "APPLE",
+          "GARDEN"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 187,
+      "text": "His mother is still dying in London. He has to walk up to this terrifying, magnificent lion. He knows he brought evil into this pristine world",
+      "design": {
+        "type": "place",
+        "kicker": "",
+        "emphasis": [
+          "DYING",
+          "IN",
+          "LONDON"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 188,
+      "text": "on the very morning of its birth. And when he faces Alen, his first instinct is self-preservation. He tries to deflect.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "FACES",
+          "ALEN"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "self-preservation., instinct, deflect.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 189,
+      "text": "He says, \"It was my uncle Alen. He sent us out by magic But Alen doesn't let him hide behind Uncle Andrew's cruelty.",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW",
+          "CRUELTY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 190,
+      "text": "He asks low and deep, \"You met the witch?\" Digory realizes he is standing before a being who sees through every rationalization.",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "THROUGH",
+          "EVERY",
+          "RATIONALIZATION"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 191,
+      "text": "He has to take ownership of what a person does with power they cannot undo. He admits it. He struck the bell.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "TAKE",
+          "OWNERSHIP"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 192,
+      "text": "He chose his pride. He brought the witch. It's a moment of absolute vulnerability. And in that vulnerability, Digree's grief",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ABSOLUTE",
+          "VULNERABILITY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "vulnerability., vulnerability, absolute",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 193,
+      "text": "overwhelms his fear. He begs Alen for something, anything, to cure his dying mother. He realizes he has no leverage.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "BEGS",
+          "ALEN"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "overwhelms, something, leverage.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 194,
+      "text": "He can't bargain with a god. He looks up, expecting to see a stern, unyielding face of judgment.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "UNYIELDING",
+          "FACE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 195,
+      "text": "But he doesn't. He sees great shining tears standing in the",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SHINING",
+          "TEARS",
+          "STANDING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 196,
+      "text": "lion's eyes. Aslan says, \"My son, my son, I know",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "LION",
+          "EYES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 197,
+      "text": "grief is great. Only you and I in this land know that.\" Yet, we cannot overstate how important this moment is.",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "CANNOT",
+          "OVERSTATE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 198,
+      "text": "Think about the ancient gods of mythology or the stoic removed god that Jadis represents. Power in those paradigms means being untouched",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "JADIS",
+          "REPRESENTS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "represents., mythology, paradigms",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 199,
+      "text": "by the suffering of mortals. But Alen, who is currently managing the birth of an entire cosmos, stops and weeps over the grief",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "ALEN"
+        ],
+        "items": [
+          "ENTIRE COSMOS",
+          "STOPS",
+          "WEEPS OVER"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 200,
+      "text": "of one human boy. The vulnerability of power is what separates the divine from the tyrannical. Empathy doesn't diminish his He legitimizes",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "EMPATHY",
+          "DOESN",
+          "DIMINISH"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 201,
+      "text": "it. But empathy also doesn't mean a magical quick fix. Alon doesn't just snap his fingers and cure Digor's mother, right?",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "CURE",
+          "DIGOR",
+          "MOTHER"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "doesnt, empathy, magical",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 202,
+      "text": "Healing requires active participation. Alen gives Digree a mission. You must travel far to the west to an enclosed garden on a steep hill",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ALEN",
+          "GIVES",
+          "DIGREE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "participation., requires, mission.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 203,
+      "text": "to retrieve a specific silver apple. That apple will be planted to grow a tree of protection that will keep the witch out of Narnia for centuries.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "NARNIA",
+          "FOR",
+          "CENTURIES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "will, protection, centuries.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 204,
+      "text": "Digory flies there on the back of Strawberry, who Alen has transformed into a winged horse named Fledge. He arrives at the garden.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "HORSE",
+          "NAMED",
+          "FLEDGE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "transformed, strawberry, fledge.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 205,
+      "text": "It is surrounded by high walls of gold with a gate facing east. The smell of the garden is overwhelmingly sweet and life-giving.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "GATE",
+          "FACING",
+          "EAST"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 206,
+      "text": "Digory reads a warning on the gate. Take of my fruit for others or for bear. For those who steal or those who climb my wall shall find their heart's",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "DIGORY",
+          "READS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 207,
+      "text": "desire and find despair. Digory walks in, picks the silver apple and puts it in his pocket.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "DIGORY",
+          "WALKS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 208,
+      "text": "And then he turns around and sees Jattis. She is standing there, juice running down",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "SEES",
+          "JATTIS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "standing, jattis., running",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 209,
+      "text": "her chin. She has already climbed the wall and eaten an apple for herself.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ALREADY",
+          "CLIMBED"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 210,
+      "text": "She has made herself immortal, but at a terrible cost. Her skin has turned",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "HERSELF",
+          "IMMORTAL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 211,
+      "text": "dead white. The magic is sustaining her, but it is a cursed, miserable existence.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "MISERABLE",
+          "EXISTENCE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 212,
+      "text": "And she uses this to tempt Diggery. This is the ultimate crucible for our thesis. Jatis tells him to look at the apple in his pocket.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "TEMPT",
+          "DIGGERY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "diggery., ultimate, crucible",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 213,
+      "text": "She says, \"Don't take it to the lion. Take it back to London. Give it to your mother right now. You have the power to save her life, and you are going",
+      "design": {
+        "type": "quote",
+        "kicker": "",
+        "emphasis": [
+          "LONDON"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 214,
+      "text": "to give it away to a wild Digger is standing at the exact same crossroads Uncle Andrew stood at.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "CROSSROADS",
+          "UNCLE",
+          "ANDREW"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "crossroads, standing, digger",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 215,
+      "text": "He has the power to take something unearned, to exploit the magic of this world for his own desperate, deeply personal desires.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "PERSONAL",
+          "DESIRES"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 216,
+      "text": "And frankly, it's a much more sympathetic desire than Uncle Andrew's ego. It's",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "sympathetic, frankly, andrews",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 217,
+      "text": "his mother's life. He almost breaks. he can hear his mother's voice.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "ALMOST",
+          "BREAKS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 218,
+      "text": "But then Jatis makes a fatal error. She suggests he could leave Polly behind in Narnia so the lion wouldn't know.",
+      "design": {
+        "type": "place",
+        "kicker": "",
+        "emphasis": [
+          "LEAVE",
+          "POLLY",
+          "BEHIND"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 219,
+      "text": "And that snaps Digory back to reality. He realizes Jatis doesn't understand loyalty, love, or sacrifice.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "SNAPS",
+          "DIGORY",
+          "BACK"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "understand, sacrifice., reality.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 220,
+      "text": "He remembers Alyn's tears. He chooses to obey the rules of the garden. He rejects the unearned power. He walks away from the witch, flies back",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "REMEMBERS",
+          "ALYN",
+          "TEARS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "remembers, unearned, chooses",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 221,
+      "text": "to Alen, and hands over the apple. Which brings us to our final beat, the return to London and the dying mother.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "LONDON"
+        ],
+        "items": [
+          "ALEN",
+          "H",
+          "S OVER"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 222,
+      "text": "But before they leave, we see the immediate result of Digory's choice. The apple is planted and a magnificent silver tree rapidly",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DIGORY",
+          "CHOICE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "magnificent, immediate, digorys",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 223,
+      "text": "grows. And under that tree, Alan crowns the first king and queen of Narnia. It isn't Digory.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "QUEEN",
+          "OF",
+          "NARNIA"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "narnia., digory., grows.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 224,
+      "text": "It isn't a wizard or a warrior. It's Frank, the cabbie from London and his wife, Helen, who Alen calls into the A working-class guy in",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ALEN",
+          "CALLS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "working-class, warrior., wizard",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 225,
+      "text": "a bowler hat who loves his horse. Exactly. Alen crowns him because Frank is just merciful and brave.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "FRANK"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "exactly., merciful, because",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 226,
+      "text": "All the cunning and exhaustion of Victorian London wash away from their faces. They are elevated to royalty because they are willing to serve the land to protect the",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "VICTORIAN",
+          "LONDON",
+          "WASH"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "exhaustion, victorian, elevated",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 227,
+      "text": "creatures, not exploit them for resources. True stewardship. I do have to pause here though and inject some honest criticism.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SOME",
+          "HONEST",
+          "CRITICISM"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 228,
+      "text": "Go for it. When you read this sequence, Digory does the right thing. Frank gets crowned. The tree grows perfectly.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "TREE",
+          "GROWS",
+          "PERFECTLY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "perfectly., sequence, crowned.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 229,
+      "text": "Does the moral framework of the book strain a little bit under its own neatness? How do you Well, Digory rejects the temptation",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "MORAL",
+          "FRAMEWORK"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "temptation, framework, neatness",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 230,
+      "text": "and Alin rewards him by giving him an apple from the new tree to take to his mother. Anyway, Uncle Andrew and Jis are punished.",
+      "design": {
+        "type": "list",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW"
+        ],
+        "items": [
+          "ANYWAY",
+          "UNCLE ANDREW",
+          "JIS ARE"
+        ],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 231,
+      "text": "Digory is rewarded. Doesn't it feel a bit like a cosmic vending machine? Put in obedience, get a It's a very fair critique, and",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "COSMIC",
+          "VENDING",
+          "MACHINE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 232,
+      "text": "Lewis often skirts the edge of didacticism, but I would argue it's far more nuanced than a simple reward system.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SIMPLE",
+          "REWARD",
+          "SYSTEM"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 233,
+      "text": "Oh, because Alen explicitly tells Digory what would have happened if he had stolen the apple. He says the stolen apple would have healed his mother.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ALEN",
+          "EXPLICITLY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "stolen, would, have",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 234,
+      "text": "Yes. But she would have lived to wish she had Ah, so the magic would have been corrupted by the theft.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "LIVED",
+          "TO",
+          "WISH"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 235,
+      "text": "Precisely. The means dictate the ends. The lesson isn't do what you're told and get a prize. The lesson is that a corrupted act yields a",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "CORRUPTED",
+          "ACT",
+          "YIELDS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 236,
+      "text": "corrupted That makes a lot of sense. Diggory's reward isn't just the apple. The reward",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "DIGGORY",
+          "REWARD"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 237,
+      "text": "is that the healing will be pure because the choice to obtain it was",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "CHOICE",
+          "TO",
+          "OBTAIN"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 238,
+      "text": "So Digory and Polly take their rings. They say goodbye and they plunge back into the wood between the worlds and then back into the dusty London study.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DIGORY",
+          "AND",
+          "POLLY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "back, goodbye, between",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 239,
+      "text": "Uncle Andrew is left behind in his shattered study. He never touches magic He",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "shattered, touches, andrew",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 240,
+      "text": "spends his old age drinking and boasting to anyone who will listen about the",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "AGE",
+          "DRINKING"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 241,
+      "text": "demine woman he met. He brushed up against the terrifying majesty of creation. and he reduced it to a barroom anecdote",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "TERRIFYING",
+          "MAJESTY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 242,
+      "text": "to stroke his own ego. He remains incredibly tragically But Digory rushes upstairs.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "DIGORY",
+          "RUSHES",
+          "UPSTAIRS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "incredibly, tragically, upstairs.",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 243,
+      "text": "He gives the Narnian apple to his mother. And the transformation is miraculous. The frrowsy sick room curtains are drawn back.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "NARNIAN",
+          "APPLE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "transformation, miraculous., curtains",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 244,
+      "text": "The windows are thrown open to the The piano is tuned. Life and joy violently return to the house.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "THROWN",
+          "OPEN"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 245,
+      "text": "He saved her by relinquishing control. He learned what a person must do with power they cannot undo. You take responsibility for the damage",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "RELINQUISHING",
+          "CONTROL"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 246,
+      "text": "and you refuse to exploit the world to fix it. But there",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "REFUSE",
+          "TO",
+          "EXPLOIT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 247,
+      "text": "is one final lingering detail, a physical remnant of everything that happened.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "PHYSICAL",
+          "REMNANT"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 248,
+      "text": "What did Digory and Paulie do with the magic rings? They couldn't just throw them in the trash. And they certainly couldn't leave them in Uncle Andrew's study.",
+      "design": {
+        "type": "place",
+        "kicker": "",
+        "emphasis": [
+          "UNCLE",
+          "ANDREW",
+          "STUDY"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 249,
+      "text": "The potential for destruction was too high. That evening, Digory ate the core of the Narnian apple.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "NARNIAN",
+          "APPLE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "destruction, potential, evening",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 250,
+      "text": "He went into the backyard of his London house, and he buried the core in the dirt. And the next morning, when he went out, a tiny silver leaf tree",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "LONDON",
+          "HOUSE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "went, backyard, morning",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 251,
+      "text": "was already pushing its way through the soil. So, they took a tel and they took all the remaining magic rings, the yellow ones from the wood and the",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "REMAINING",
+          "MAGIC",
+          "RINGS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 252,
+      "text": "green ones, and they buried them in a tight circle directly around the base of that It is the ultimate act of returning unearned power",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "RETURNING",
+          "UNEARNED",
+          "POWER"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 253,
+      "text": "to the earth, burying the nuclear launch codes under a tree of But look at the physical mechanics of what they just did.",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "PHYSICAL",
+          "MECHANICS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 254,
+      "text": "Think about the deep right? Because when that Narnian apple core sprouts, it is going to put down And those roots are going to plunge",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "NARNIAN",
+          "APPLE",
+          "CORE"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "going, because, narnian",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 255,
+      "text": "directly through a buried circle of Atlantean dust that violently pulls matter into the wood between the worlds. The tree grows.",
+      "design": {
+        "type": "imagefocus",
+        "kicker": "",
+        "emphasis": [
+          "ATLANTEAN",
+          "DUST"
+        ],
+        "items": [],
+        "compare": null,
+        "image": {
+          "subject": "atlantean, violently, directly",
+          "style": "card"
+        }
+      }
+    },
+    {
+      "i": 256,
+      "text": "Decades pass. It survives storms and winds entirely infused with the latent magic of the rings in its root system until one day",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "SURVIVES",
+          "STORMS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 257,
+      "text": "a storm finally blows that great tree down. Digger is an old man by then. A professor. He can't bear to chop it up for",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "STORM",
+          "FINALLY",
+          "BLOWS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 258,
+      "text": "So he has the timber harvested and he hires a carpenter to build a piece of furniture out of it. A wardrobe. If you build a wardrobe out of a tree nourished",
+      "design": {
+        "type": "statement",
+        "kicker": "",
+        "emphasis": [
+          "TIMBER",
+          "HARVESTED"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 259,
+      "text": "by rings that pull you into the cosmic plumbing of the what happens when a little girl named Lucy opens its door and steps inside?",
+      "design": {
+        "type": "question",
+        "kicker": "",
+        "emphasis": [
+          "NAMED",
+          "LUCY",
+          "OPENS"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    },
+    {
+      "i": 260,
+      "text": "It completely reframes the entire mythology. The doorway wasn't an accident. It was the harvest of a choice made 50 years prior by a grieving boy who decided not to steal.",
+      "design": {
+        "type": "punchline",
+        "kicker": "",
+        "emphasis": [
+          "50",
+          "YEARS",
+          "PRIOR"
+        ],
+        "items": [],
+        "compare": null,
+        "image": null
+      }
+    }
+  ]
+}

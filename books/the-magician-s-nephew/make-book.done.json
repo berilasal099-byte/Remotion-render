@@ -1,0 +1,32 @@
+{
+  "status": "done",
+  "startedAt": "2026-10-29T13:15:28.464Z",
+  "at": "2026-10-29T13:37:39.924Z",
+  "config": "config.vox.json",
+  "configSha256": "889a18f875ad74d23aa682951016f7089e04b7412f58cf5a92d430c549b2913a",
+  "inputs": {
+    "storyboard": {
+      "path": "books/the-magician-s-nephew/designs.json",
+      "sha256": "bda354b9b5293b818d4593a6f83b526a001a660a4252daf6b06c9c97154728e7"
+    },
+    "storyBible": {
+      "path": "books/the-magician-s-nephew/story-bible.json",
+      "sha256": "bcadd895a360581c80294274a0fbb9848a41b02c73b8af1b9017dadb1a646101"
+    },
+    "motifs": {
+      "path": "books/the-magician-s-nephew/motifs.json",
+      "sha256": null
+    },
+    "vtt": {
+      "path": "public/captions/the-magician-s-nephew.vtt",
+      "sha256": "b6af924ab0956117761b7d99a66de94d4132a0497ef15c5166545f3035b1b0d4"
+    },
+    "audio": {
+      "path": "public/audio/the-magician-s-nephew.mp3",
+      "sha256": "de01e0aafc2168b36ff265b45aceeaf65eac4e05c93f120a75ffd2354a32759a"
+    }
+  },
+  "head": "0a1365c2bf72dd2acb6322c760223951b8f455e1",
+  "previewOnly": false,
+  "skipPack": true
+}

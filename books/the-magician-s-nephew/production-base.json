@@ -1,0 +1,12 @@
+{
+  "productionBase": "086a094136cc03c284ed5d7e9cc216c656e21bbf",
+  "from": "origin/god-mode",
+  "at": "2026-10-29T15:09:23.383Z",
+  "worktree": "wt-book-the-magician-s-nephew",
+  "previousProductionBase": "0a1365c2bf72dd2acb6322c760223951b8f455e1",
+  "repin": {
+    "approvedByOperator": true,
+    "reason": "preview-ready.js: define head and stop swallowing the record write (only code change: scripts/preview-ready.js)",
+    "scope": "this book only, single time"
+  }
+}

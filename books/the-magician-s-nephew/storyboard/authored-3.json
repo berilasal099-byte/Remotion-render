@@ -1,0 +1,942 @@
+[
+  {
+    "i": 86,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "GREEN STILLNESS",
+      "emphasis": [
+        "APATHY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory and Polly standing side by side in a warm green wood, faces slack and eyes half-closed, soft green light falling through the leaves",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The wood's calm makes the children forget who they are.",
+        "concreteVisual": "Digory and Polly standing side by side in green light, faces slack and eyes half-closed.",
+        "onScreenText": "NARCOTIC CALM",
+        "relationToPrevious": "Opens the wood section after the warning about its nature.",
+        "addedInformation": "The danger is the wood's calm, not a monster."
+      }
+    }
+  },
+  {
+    "i": 87,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "FORGETTING",
+      "emphasis": [
+        "FORGET"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory and Polly stand side by side in green light beside still pools, both with calm loose faces and hands at their sides, gazing away and not touching",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "They almost forget they must rescue each other.",
+        "concreteVisual": "Two children stand still side by side in green light, relaxed, not touching.",
+        "onScreenText": "THEY FORGET EACH OTHER",
+        "relationToPrevious": "Continues the apathy from the wood.",
+        "addedInformation": "The rescue bond is what is at risk."
+      }
+    }
+  },
+  {
+    "i": 88,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "PEACE OF NOTHING",
+      "emphasis": [
+        "TERRIFYING"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory standing motionless beside a still green pool, face blank and calm, leaves drifting around him",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The peace of non-existence is more frightening than a monster.",
+        "concreteVisual": "Digory standing motionless beside a still green pool, blank face, leaves drifting around him.",
+        "onScreenText": "WORSE THAN A MONSTER",
+        "relationToPrevious": "Explains the apathy in the previous beat.",
+        "addedInformation": "Blank calm reads as the threat."
+      }
+    }
+  },
+  {
+    "i": 89,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE TURF MARK",
+      "emphasis": [
+        "TURF",
+        "LONDON"
+      ],
+      "items": [],
+      "image": {
+        "subject": "A strip of cut turf laid on the mossy bank beside one pool, marking the way back to London, a boy's hand resting on it",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A strip of turf marks the pool that leads back to London.",
+        "concreteVisual": "Turf laid on the bank beside the London pool.",
+        "onScreenText": "TURF MARKS THE WAY HOME",
+        "relationToPrevious": "The children have to act to stay themselves.",
+        "addedInformation": "The turf is their anchor to reality."
+      }
+    }
+  },
+  {
+    "i": 90,
+    "design": {
+      "type": "compare",
+      "kicker": "CURIOSITY",
+      "emphasis": [
+        "GREEN RINGS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": {
+        "left": {
+          "label": "UNCLE ANDREW",
+          "subject": "Uncle Andrew, wild grey hair and a dressing gown, bending eagerly over a pool with greedy curiosity"
+        },
+        "right": {
+          "label": "DIGORY",
+          "subject": "Digory, a slim boy in a grey jacket, looking down at a green ring on his finger beside a pool, uncertain"
+        }
+      },
+      "storyboard": {
+        "claim": "Digory's curiosity mirrors his uncle's, with one difference.",
+        "concreteVisual": "Uncle Andrew and Digory each eyeing a pool with a ring.",
+        "onScreenText": "SAME CURIOSITY",
+        "relationToPrevious": "Turns from the turf to the pools.",
+        "addedInformation": "Digory repeats the uncle's habit."
+      }
+    }
+  },
+  {
+    "i": 91,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ONE MORE POOL",
+      "emphasis": [
+        "EXPLORE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory and Polly at the edge of a ring of several still pools, each reflecting a different sky, Digory pointing to another",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "They could go home, but Digory wants to explore one more pool.",
+        "concreteVisual": "Digory pointing to one more pool among the ring of still pools.",
+        "onScreenText": "ONE MORE POOL",
+        "relationToPrevious": "Follows the turf decision.",
+        "addedInformation": "Shows the choice to continue."
+      }
+    }
+  },
+  {
+    "i": 92,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "HAND IN HAND",
+      "emphasis": [
+        "GREEN RINGS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory and Polly holding hands, green rings on their fingers, stepping together toward the edge of a dark pool",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory takes the physical risk himself, and they go together.",
+        "concreteVisual": "Two hands joined, rings on, stepping to a pool.",
+        "onScreenText": "DIGORY TAKES THE RISK",
+        "relationToPrevious": "The choice is made.",
+        "addedInformation": "Digory leads, Polly follows."
+      }
+    }
+  },
+  {
+    "i": 93,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A SUDDEN CHANGE",
+      "emphasis": [
+        "COLD"
+      ],
+      "items": [],
+      "image": {
+        "subject": "A blur of warm green light giving way to a grey cold sky, a pool's water still rippling",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The warm green is instantly replaced by a biting cold.",
+        "concreteVisual": "A blur of green light giving way to a grey, cold sky over a rippling pool.",
+        "onScreenText": "WARM TO COLD",
+        "relationToPrevious": "Immediate jump from the pool.",
+        "addedInformation": "The world changes in one cut."
+      }
+    }
+  },
+  {
+    "i": 94,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "CHARN",
+      "emphasis": [
+        "RED SUN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory and Polly standing in a cracked stone courtyard under a swollen dying red sun, black ruined towers around them",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "They stand in the ruins of a massive dead courtyard under a dying red sun.",
+        "concreteVisual": "Two small figures in a ruined courtyard under a red sun.",
+        "onScreenText": "THE DEAD WORLD OF CHARN",
+        "relationToPrevious": "Arrival in Charn.",
+        "addedInformation": "The red sun marks Charn as dying."
+      }
+    }
+  },
+  {
+    "i": 95,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE HALL OF KINGS",
+      "emphasis": [
+        "WAX FIGURES"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Two children walking slowly down a long stone hall lined with pale statues of royalty, red light falling across the cold floor",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "They enter a great hall of frozen royal figures under bloody light.",
+        "concreteVisual": "Children walking in a hall lined with pale royal statues.",
+        "onScreenText": "WAX FIGURES",
+        "relationToPrevious": "Moves inside the ruined palace.",
+        "addedInformation": "The statues are a line of rulers."
+      }
+    }
+  },
+  {
+    "i": 96,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "FIRST FACES",
+      "emphasis": [
+        "KIND"
+      ],
+      "items": [],
+      "image": {
+        "subject": "A row of pale stone royal statues, the nearest with gentle kind faces, lit in blood-red light beside the children",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The first rulers' faces are noble and kind.",
+        "concreteVisual": "Two children stopping before the nearest pale statues, which have gentle faces in red light.",
+        "onScreenText": "NOBLE AND KIND",
+        "relationToPrevious": "Start of the progression.",
+        "addedInformation": "Sets the baseline for the decline."
+      }
+    }
+  },
+  {
+    "i": 97,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE LINE DECAYS",
+      "emphasis": [
+        "CRUEL",
+        "ARROGANT"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Close view of a line of pale stone royal faces, each further along harder and crueler, carved in red light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Generation by generation the faces grow crueler and more arrogant.",
+        "concreteVisual": "Close view of the statues' faces, each one harder than the last, down the line.",
+        "onScreenText": "FACES TURN CRUEL",
+        "relationToPrevious": "Continues the progression.",
+        "addedInformation": "The decline is visible in the faces."
+      }
+    }
+  },
+  {
+    "i": 98,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "JADIS",
+      "emphasis": [
+        "JADIS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis, a tall, beautiful woman with black hair and a cold white face, a long dark gown with a silver crown, standing at the end of the line of statues in red light",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "At the end of the line stands Jadis, terrifying and beautiful.",
+        "concreteVisual": "Jadis standing as the tallest figure at the end of the line of statues.",
+        "onScreenText": "QUEEN OF QUEENS",
+        "relationToPrevious": "Reveal of the final figure.",
+        "addedInformation": "Introduces Jadis's look."
+      }
+    }
+  },
+  {
+    "i": 99,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE BELL",
+      "emphasis": [
+        "GOLDEN BELL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "A small pillar with a golden bell and a hammer resting beside it, in front of Jadis's statue, red light on the metal",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A pillar holds a golden bell in front of Jadis.",
+        "concreteVisual": "Golden bell on a pillar with a hammer.",
+        "onScreenText": "A PILLAR, A BELL",
+        "relationToPrevious": "The bell is introduced.",
+        "addedInformation": "The bell is the trap."
+      }
+    }
+  },
+  {
+    "i": 100,
+    "design": {
+      "type": "quote",
+      "kicker": "THE INSCRIPTION",
+      "emphasis": [
+        "MAKE YOUR CHOICE"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "An inscription tells the stranger to make a choice.",
+        "concreteVisual": "The inscription carved into the pillar beside the bell.",
+        "onScreenText": "MAKE YOUR CHOICE",
+        "relationToPrevious": "Reads the inscription.",
+        "addedInformation": "The words are the invitation."
+      }
+    }
+  },
+  {
+    "i": 101,
+    "design": {
+      "type": "question",
+      "kicker": "WHAT IF",
+      "emphasis": [
+        "DANGER",
+        "WONDER"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Striking the bell brings danger or wonder.",
+        "concreteVisual": "The bell and pillar in dark red light, the question printed over them.",
+        "onScreenText": "STRIKE THE BELL?",
+        "relationToPrevious": "Continues the inscription.",
+        "addedInformation": "The question tempts the reader."
+      }
+    }
+  },
+  {
+    "i": 102,
+    "design": {
+      "type": "statement",
+      "kicker": "CURIOSITY TRAP",
+      "emphasis": [
+        "MYSTERY"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The trap exploits the human inability to tolerate mystery.",
+        "concreteVisual": "Plain statement on a dark ground, no picture.",
+        "onScreenText": "CAN'T TOLERATE MYSTERY",
+        "relationToPrevious": "Explains the trap.",
+        "addedInformation": "The point is the psychology."
+      }
+    }
+  },
+  {
+    "i": 103,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "POLLY SEES DANGER",
+      "emphasis": [
+        "LEAVE NOW"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Polly gripping Digory's sleeve, eyes wide, urging him toward the way out under the red light",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Polly feels the malice and says they must leave.",
+        "concreteVisual": "Polly pulling at Digory's sleeve.",
+        "onScreenText": "LEAVE NOW",
+        "relationToPrevious": "The conflict begins.",
+        "addedInformation": "Polly is the sensible one."
+      }
+    }
+  },
+  {
+    "i": 104,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DIGORY FIGHTS",
+      "emphasis": [
+        "PRIDE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory struggling with Polly, pulling her back by the arm across a stone floor, both straining in red light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory is infected by the same arrogant curiosity as his uncle.",
+        "concreteVisual": "Digory physically holding Polly back.",
+        "onScreenText": "PRIDE",
+        "relationToPrevious": "Escalation of the conflict.",
+        "addedInformation": "Digory's pride becomes action."
+      }
+    }
+  },
+  {
+    "i": 105,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE HAMMER",
+      "emphasis": [
+        "HAMMER",
+        "BELL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory swinging a hammer at a golden bell on a pillar, his other hand gripping Polly's arm, red light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory grabs Polly and strikes the bell with the hammer.",
+        "concreteVisual": "Digory swings a hammer at the bell while holding Polly's arm.",
+        "onScreenText": "HE STRIKES THE BELL",
+        "relationToPrevious": "The defining failure.",
+        "addedInformation": "Two actions at once."
+      }
+    }
+  },
+  {
+    "i": 106,
+    "design": {
+      "type": "compare",
+      "kicker": "WILL OVER WILL",
+      "emphasis": [
+        "OVERPOWERS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": {
+        "left": {
+          "label": "POLLY",
+          "subject": "Polly pulled back by the arm, holding her ring hand to her chest, frowning in red light"
+        },
+        "right": {
+          "label": "DIGORY",
+          "subject": "Digory's firm grip on her wrist, face set in determination"
+        }
+      },
+      "storyboard": {
+        "claim": "Digory forces his will onto Polly to satisfy his ego.",
+        "concreteVisual": "Polly held back by Digory.",
+        "onScreenText": "FORCED WILL",
+        "relationToPrevious": "Follows the hammer strike.",
+        "addedInformation": "Shows the overpowering."
+      }
+    }
+  },
+  {
+    "i": 107,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE BELL RINGS",
+      "emphasis": [
+        "ROOF",
+        "JADIS WAKES"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Cracked stone ceiling of a ruined palace falling in clouds of dust, the golden bell glowing, a tall black-haired shape stirring on a stone throne",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The bell rings, the roof collapses, and Jadis wakes.",
+        "concreteVisual": "The ceiling cracking and falling in dust while a tall black-haired figure stirs.",
+        "onScreenText": "JADIS WAKES",
+        "relationToPrevious": "Consequence of the strike.",
+        "addedInformation": "The disaster is set in motion."
+      }
+    }
+  },
+  {
+    "i": 108,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE WAY OUT",
+      "emphasis": [
+        "CHARN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis leading the children through a crumbling palace corridor, her silver crown catching red light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis leads them out and reveals the history of Charn.",
+        "concreteVisual": "Jadis leading through ruins.",
+        "onScreenText": "CHARN",
+        "relationToPrevious": "Escape begins.",
+        "addedInformation": "Jadis becomes the guide."
+      }
+    }
+  },
+  {
+    "i": 109,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE SISTER'S ARMIES",
+      "emphasis": [
+        "SISTER",
+        "SURRENDER"
+      ],
+      "items": [],
+      "image": {
+        "subject": "A ruined palace wall at dusk, torn banners hanging over a broken gate, red sky overhead",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis refused to surrender to her sister's winning armies.",
+        "concreteVisual": "Broken gate and torn banners.",
+        "onScreenText": "REFUSED TO SURRENDER",
+        "relationToPrevious": "Backstory of the war.",
+        "addedInformation": "Shows the stakes of her refusal."
+      }
+    }
+  },
+  {
+    "i": 110,
+    "design": {
+      "type": "statement",
+      "kicker": "THE DEPLORABLE WORD",
+      "emphasis": [
+        "WORD"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The word destroys every living thing except the one who speaks it.",
+        "concreteVisual": "Plain statement on a dark ground, no picture.",
+        "onScreenText": "EVERYONE BUT THE SPEAKER",
+        "relationToPrevious": "Explains the word.",
+        "addedInformation": "The cost of the word is total."
+      }
+    }
+  },
+  {
+    "i": 111,
+    "design": {
+      "type": "statement",
+      "kicker": "THE COLD WAR",
+      "emphasis": [
+        "1950S",
+        "DESTRUCTION"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Lewis writes at the dawn of mutually assured destruction.",
+        "concreteVisual": "Text statement.",
+        "onScreenText": "MUTUALLY ASSURED DESTRUCTION",
+        "relationToPrevious": "Real-world context.",
+        "addedInformation": "Ties the story to the Cold War."
+      }
+    }
+  },
+  {
+    "i": 112,
+    "design": {
+      "type": "quote",
+      "kicker": "THE QUEEN",
+      "emphasis": [
+        "I WAS THE QUEEN"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis says she was the queen.",
+        "concreteVisual": "Jadis's own words on screen, the line she speaks to Digory.",
+        "onScreenText": "I WAS THE QUEEN",
+        "relationToPrevious": "Her own voice.",
+        "addedInformation": "Her identity."
+      }
+    }
+  },
+  {
+    "i": 113,
+    "design": {
+      "type": "quote",
+      "kicker": "MY PEOPLE",
+      "emphasis": [
+        "MY WILL"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis preferred a dead world over a world she could not rule.",
+        "concreteVisual": "Jadis's words on a dark ground, the line about her people.",
+        "onScreenText": "WHAT ELSE WERE THEY FOR?",
+        "relationToPrevious": "Continues her quote.",
+        "addedInformation": "The extreme of her thesis."
+      }
+    }
+  },
+  {
+    "i": 114,
+    "design": {
+      "type": "statement",
+      "kicker": "ULTIMATE POWER",
+      "emphasis": [
+        "POWER"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The deplorable word is the pinnacle of power you cannot take back.",
+        "concreteVisual": "Text statement.",
+        "onScreenText": "THE PINNACLE OF POWER",
+        "relationToPrevious": "Thesis of the passage.",
+        "addedInformation": "Power without limit."
+      }
+    }
+  },
+  {
+    "i": 115,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE MISTAKE",
+      "emphasis": [
+        "COLOSSAL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory alone in a red-lit ruin, one hand pressed to his forehead, realizing his mistake, Jadis's shadow behind him",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory realizes he woke the architect of destruction.",
+        "concreteVisual": "Digory alone with a hand to his forehead, Jadis's shadow behind him.",
+        "onScreenText": "HE WOKE THE QUEEN",
+        "relationToPrevious": "Turn of the scene.",
+        "addedInformation": "His guilt is visible."
+      }
+    }
+  },
+  {
+    "i": 116,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "YELLOW RINGS",
+      "emphasis": [
+        "YELLOW RING"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Two children's hands touching yellow rings together over a stone floor in red light, the rings glowing",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "They touch their rings, but magic requires physical contact.",
+        "concreteVisual": "Hands touching glowing yellow rings.",
+        "onScreenText": "TOUCH TO TRAVEL",
+        "relationToPrevious": "Escape attempt.",
+        "addedInformation": "The rule of contact."
+      }
+    }
+  },
+  {
+    "i": 117,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE EAR",
+      "emphasis": [
+        "DRAGGED"
+      ],
+      "items": [],
+      "image": {
+        "subject": "A tall black-haired woman's hand gripping a boy's ear at the edge of a glowing ring, both pulled toward a swirl of light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis grabs Digory's ear and is dragged along by the ring.",
+        "concreteVisual": "Jadis's hand gripping Digory's ear at the edge of a glowing ring.",
+        "onScreenText": "SHE GRABS HIS EAR",
+        "relationToPrevious": "Jadis is caught.",
+        "addedInformation": "Jadis is pulled along."
+      }
+    }
+  },
+  {
+    "i": 118,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE WOOD",
+      "emphasis": [
+        "BETWEEN WORLDS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Three figures clinging together in a swirling dark wood of pools and lights, a woman's hair streaming, the rings glowing",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "They are pulled through the wood between the worlds with Jadis clinging.",
+        "concreteVisual": "Three figures clinging together in the swirling wood of pools and lights.",
+        "onScreenText": "BETWEEN WORLDS",
+        "relationToPrevious": "In transit.",
+        "addedInformation": "The wood between worlds."
+      }
+    }
+  },
+  {
+    "i": 119,
+    "design": {
+      "type": "statement",
+      "kicker": "BACK IN LONDON",
+      "emphasis": [
+        "1900"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "They are dragged back into Uncle Andrew's study in 1900.",
+        "concreteVisual": "Text statement.",
+        "onScreenText": "1900 LONDON",
+        "relationToPrevious": "Arrival back in London.",
+        "addedInformation": "Crosses the two realities."
+      }
+    }
+  },
+  {
+    "i": 120,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "STREET RAMPAGE",
+      "emphasis": [
+        "LONDON STREET"
+      ],
+      "items": [],
+      "image": {
+        "subject": "A wet Edwardian London street at night with gaslamps and a horse cab, a dark tall figure hurrying past under the lamps",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The collision of realities hurls us into the London street.",
+        "concreteVisual": "A wet London street at night, gaslamps and a horse cab, a tall dark figure hurrying past.",
+        "onScreenText": "LONDON STREET",
+        "relationToPrevious": "Next beat in the London street.",
+        "addedInformation": "The street setting."
+      }
+    }
+  },
+  {
+    "i": 121,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "VICTORIAN STUDY",
+      "emphasis": [
+        "VELVET CHAIRS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "A stuffy Victorian study with velvet chairs and a ticking clock, a tall black-haired woman in a long dark gown standing in dim light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis is alarming in the dead red light but out of place in a Victorian study.",
+        "concreteVisual": "Jadis in the study.",
+        "onScreenText": "IN A STUFFY STUDY",
+        "relationToPrevious": "Contrast with Charn.",
+        "addedInformation": "The setting is ordinary."
+      }
+    }
+  },
+  {
+    "i": 122,
+    "design": {
+      "type": "compare",
+      "kicker": "SEVEN FEET TALL",
+      "emphasis": [
+        "WARLORD",
+        "AUNT LETTY"
+      ],
+      "items": [],
+      "image": null,
+      "compare": {
+        "left": {
+          "label": "JADIS",
+          "subject": "Jadis, a towering black-haired woman in a long dark gown and silver crown, fury in her face"
+        },
+        "right": {
+          "label": "AUNT LETTY",
+          "subject": "Aunt Letty, a stout middle-aged woman with hair pinned up and a lace collar, stern face"
+        }
+      },
+      "storyboard": {
+        "claim": "Jadis towers over Aunt Letty, who walks in.",
+        "concreteVisual": "Jadis beside Letty.",
+        "onScreenText": "AUNT LETTY WALKS IN",
+        "relationToPrevious": "Letty arrives.",
+        "addedInformation": "Scale contrast."
+      }
+    }
+  },
+  {
+    "i": 123,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE CIRCUS",
+      "emphasis": [
+        "SHAMELESS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Aunt Letty in a study doorway, arms crossed, frowning at a tall woman in strange clothes",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Letty sees a shameless woman from a circus, not a sorceress.",
+        "concreteVisual": "Letty frowning in the doorway.",
+        "onScreenText": "SHE SEES A CIRCUS WOMAN",
+        "relationToPrevious": "Letty's view.",
+        "addedInformation": "Her disapproval is the joke."
+      }
+    }
+  },
+  {
+    "i": 124,
+    "design": {
+      "type": "quote",
+      "kicker": "NO STRONG LANGUAGE",
+      "emphasis": [
+        "NO STRONG LANGUAGE"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Letty tells her there is no strong language in this house.",
+        "concreteVisual": "Quoted line.",
+        "onScreenText": "NO STRONG LANGUAGE",
+        "relationToPrevious": "Letty speaks.",
+        "addedInformation": "The domestic rule."
+      }
+    }
+  },
+  {
+    "i": 125,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE WORDS",
+      "emphasis": [
+        "FIRE",
+        "DUST"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Jadis towering over Aunt Letty, fire flashing in her eyes, one hand raised",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Jadis speaks the words that destroyed her world, aiming at Letty.",
+        "concreteVisual": "Jadis raising her hand over Letty.",
+        "onScreenText": "FIRE IN HER EYES",
+        "relationToPrevious": "Jadis attacks.",
+        "addedInformation": "The power is shown."
+      }
+    }
+  },
+  {
+    "i": 126,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "NOTHING HAPPENS",
+      "emphasis": [
+        "NOTHING"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Aunt Letty standing calm and unmoved before a stunned Jadis, both in the dim Victorian study",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Nothing happens; power is contextual.",
+        "concreteVisual": "Letty unmoved, Jadis stunned.",
+        "onScreenText": "POWER IS CONTEXTUAL",
+        "relationToPrevious": "The attack fails.",
+        "addedInformation": "Power depends on the world."
+      }
+    }
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "i": 243,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE APPLE",
+      "emphasis": [
+        "APPLE",
+        "MOTHER"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory Kirke, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, kneels by a bed holding out a glowing golden apple to his mother, Mrs Kirke, a pale thin Edwardian woman in a white nightgown and shawl, lying in a bed, frail and weary",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory gives the Narnian apple to his dying mother.",
+        "concreteVisual": "Digory kneels at the bedside offering the golden apple to his frail mother.",
+        "onScreenText": "A MIRACULOUS CURE",
+        "relationToPrevious": "The apple from Narnia is now in his hands.",
+        "addedInformation": "The apple is the magic fruit, and the mother is the reason for it."
+      }
+    }
+  },
+  {
+    "i": 244,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "LIFE RETURNS",
+      "emphasis": [
+        "WINDOWS",
+        "JOY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Mrs Kirke, a pale thin Edwardian woman in a white nightgown and shawl, now sitting up in bed in bright morning sunlight, the curtains pulled back and a window thrown open to the summer air",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The sickroom is opened up and the mother is restored.",
+        "concreteVisual": "Mrs Kirke sits up in bed as sunlight floods in through an open window.",
+        "onScreenText": "JOY RETURNS",
+        "relationToPrevious": "The apple has done its work on his mother.",
+        "addedInformation": "The gloom of the sickroom has lifted."
+      }
+    }
+  },
+  {
+    "i": 245,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "GIVING UP CONTROL",
+      "emphasis": [
+        "POWER",
+        "RESPONSIBILITY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory Kirke, a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, stands alone in a dusty attic study, a highback chair beside him, his empty hands held open at his sides",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory saved his mother by giving up control of the power.",
+        "concreteVisual": "Digory stands alone in the attic with empty open hands.",
+        "onScreenText": "POWER HE CANNOT UNDO",
+        "relationToPrevious": "The apple has healed his mother.",
+        "addedInformation": "He gave up control of the power he could not undo."
+      }
+    }
+  },
+  {
+    "i": 246,
+    "design": {
+      "type": "quote",
+      "kicker": "",
+      "emphasis": [
+        "REFUSE",
+        "EXPLOIT"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory refuses to exploit the world to fix his mistake.",
+        "concreteVisual": "A quote card stating that Digory refuses to exploit the world to fix it.",
+        "onScreenText": "REFUSE TO EXPLOIT",
+        "relationToPrevious": "He gave up control of the power.",
+        "addedInformation": "The moral is stated in words, the picture would only repeat the attic."
+      }
+    }
+  },
+  {
+    "i": 247,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE RINGS",
+      "emphasis": [
+        "RINGS",
+        "REMNANT"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a red wooden tray on a dusty attic table holding the yellow and green magic rings, a ticking clock beside it in the gloom",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A physical remnant of the adventure remains: the rings.",
+        "concreteVisual": "The red tray with yellow and green rings on the attic table.",
+        "onScreenText": "A PHYSICAL REMNANT",
+        "relationToPrevious": "The moral was stated, now the object.",
+        "addedInformation": "The rings are the one thing left to be dealt with."
+      }
+    }
+  },
+  {
+    "i": 248,
+    "design": {
+      "type": "question",
+      "kicker": "THE RINGS",
+      "emphasis": [
+        "RINGS",
+        "UNCLE ANDREW"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "What do the children do with the rings?",
+        "concreteVisual": "Question card asking what Digory and Polly do with the magic rings.",
+        "onScreenText": "NOT THE TRASH. NOT THE STUDY.",
+        "relationToPrevious": "The rings are the remnant.",
+        "addedInformation": "They cannot be thrown away or left in Uncle Andrew's study."
+      }
+    }
+  },
+  {
+    "i": 249,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE CORE",
+      "emphasis": [
+        "APPLE",
+        "CORE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory Kirke, a slim English boy of about eleven, short untidy brown hair, sits alone at a kitchen table in the evening lamplight, eating the core of a golden apple",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "That evening Digory eats the core of the apple.",
+        "concreteVisual": "Digory eats the apple core alone at the table at night.",
+        "onScreenText": "EATS THE CORE",
+        "relationToPrevious": "The question about the rings was answered with a decision.",
+        "addedInformation": "The apple is eaten, its seed is left to be planted."
+      }
+    }
+  },
+  {
+    "i": 250,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A SEED",
+      "emphasis": [
+        "TREE",
+        "SILVER"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a tiny silver-leaved sapling pushing up through dark damp London soil in a small backyard at dawn, a boy's muddy boot standing beside it",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The next morning a small tree has grown from the buried core.",
+        "concreteVisual": "A tiny silver sapling breaks through the soil at dawn.",
+        "onScreenText": "NEXT MORNING",
+        "relationToPrevious": "Digory buried the core in the backyard.",
+        "addedInformation": "The tree is the young Narnian apple tree."
+      }
+    }
+  },
+  {
+    "i": 251,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE CIRCLE",
+      "emphasis": [
+        "RINGS",
+        "POLLY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory Kirke and Polly Plummer, a girl of about eleven, dark plaited hair, a long-sleeved cotton dress with a pinafore, kneel together in a muddy London backyard, a trowel between them, placing yellow and green rings into the soil",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The children bury all the remaining rings.",
+        "concreteVisual": "Digory and Polly kneel in the mud placing rings into the earth.",
+        "onScreenText": "ALL THE REMAINING RINGS",
+        "relationToPrevious": "The sapling is already up.",
+        "addedInformation": "The rings go into the ground along with the apple core."
+      }
+    }
+  },
+  {
+    "i": 252,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "RETURNED TO EARTH",
+      "emphasis": [
+        "CIRCLE",
+        "EARTH"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a small silver-leaved sapling standing in the centre of a tight circle of yellow and green rings half-buried in dark earth",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The rings are buried in a circle around the tree, returning their power to the earth.",
+        "concreteVisual": "The sapling sits inside a ring of buried rings.",
+        "onScreenText": "BURIED",
+        "relationToPrevious": "The children buried the rings.",
+        "addedInformation": "The circle is around the base of the tree."
+      }
+    }
+  },
+  {
+    "i": 253,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE MECHANICS",
+      "emphasis": [
+        "TREE",
+        "RINGS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory Kirke and Polly Plummer stand over the buried tree in a London backyard, both looking down at the ground with serious faces",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The children look at what they have done and what the buried tree will do.",
+        "concreteVisual": "Two children look down at the planted tree.",
+        "onScreenText": "WHAT THEY JUST DID",
+        "relationToPrevious": "The rings are buried around the tree.",
+        "addedInformation": "The reader is asked to think about the tree's roots."
+      }
+    }
+  },
+  {
+    "i": 254,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DEEP ROOTS",
+      "emphasis": [
+        "ROOTS",
+        "RINGS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a dark cross-section of London soil showing pale silver roots plunging down through the layers toward a ring of buried rings",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The sapling's roots will plunge down to the buried rings.",
+        "concreteVisual": "Silver roots reach down through the soil to the rings.",
+        "onScreenText": "ROOTS PLUNGE DOWN",
+        "relationToPrevious": "The tree is planted over the rings.",
+        "addedInformation": "The roots reach the rings beneath the ground."
+      }
+    }
+  },
+  {
+    "i": 255,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ATLANTEAN DUST",
+      "emphasis": [
+        "DUST",
+        "MATTER"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a small pale grey heap of faintly glowing dust on dark soil under a dim lamp",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The roots pass through a circle of dust that pulls matter into the wood.",
+        "concreteVisual": "Glowing dust in a ring with roots curling into it.",
+        "onScreenText": "PULLS MATTER IN",
+        "relationToPrevious": "The roots plunge down to the rings.",
+        "addedInformation": "The dust pulls matter into the wood between the worlds."
+      }
+    }
+  },
+  {
+    "i": 256,
+    "design": {
+      "type": "timeline",
+      "kicker": "DECADES LATER",
+      "emphasis": [
+        "DECADES",
+        "STORMS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Decades pass and the tree survives every storm, full of magic.",
+        "concreteVisual": "A timeline card marking the years while the tree stands through the storms.",
+        "onScreenText": "SURVIVES THE STORMS",
+        "relationToPrevious": "The tree has been planted and has rooted.",
+        "addedInformation": "The tree is infused with magic from the rings."
+      }
+    }
+  },
+  {
+    "i": 257,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE STORM",
+      "emphasis": [
+        "STORM",
+        "PROFESSOR"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory Kirke, now an old man with grey hair and a professor's tweed coat, stands beside a great tree blown down by a storm in a wrecked English garden, unable to bring himself to cut it",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A storm blows the great tree down, and Digory, now a professor, cannot bear to chop it up.",
+        "concreteVisual": "Old Digory looks at the fallen tree in a storm-wrecked garden.",
+        "onScreenText": "CAN'T BEAR TO CHOP IT",
+        "relationToPrevious": "Decades have passed and the tree has grown.",
+        "addedInformation": "The man is the same boy, grown old."
+      }
+    }
+  },
+  {
+    "i": 258,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE WARDROBE",
+      "emphasis": [
+        "WARDROBE",
+        "TIMBER"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a carpenter in a workshop, a tall half-built wardrobe of pale timber standing among wood shavings",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The timber is harvested and a carpenter builds a wardrobe out of it.",
+        "concreteVisual": "A carpenter works on a wardrobe made of the tree's timber.",
+        "onScreenText": "BUILT FROM THE TREE",
+        "relationToPrevious": "The tree has fallen and the old man cannot chop it.",
+        "addedInformation": "The wardrobe is built from the tree grown on the rings."
+      }
+    }
+  },
+  {
+    "i": 259,
+    "design": {
+      "type": "question",
+      "kicker": "THE DOOR",
+      "emphasis": [
+        "LUCY",
+        "DOOR"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "What happens when a little girl named Lucy opens the wardrobe door and steps inside?",
+        "concreteVisual": "Question card asking what happens when a girl named Lucy opens the wardrobe door.",
+        "onScreenText": "A GIRL NAMED LUCY",
+        "relationToPrevious": "The wardrobe is built from the tree.",
+        "addedInformation": "The rings' pull reaches into the wardrobe."
+      }
+    }
+  },
+  {
+    "i": 260,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A CHOICE",
+      "emphasis": [
+        "DOOR",
+        "CHOICE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "an old wooden wardrobe door standing slightly ajar in a dim room, pale golden light spilling out through the gap",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The doorway was the harvest of a choice made by a grieving boy who decided not to steal.",
+        "concreteVisual": "A wardrobe door ajar with light spilling out.",
+        "onScreenText": "A CHOICE NOT TO STEAL",
+        "relationToPrevious": "The question was which girl opens the door.",
+        "addedInformation": "The door is the result of Digory refusing to steal."
+      }
+    }
+  }
+]

@@ -1,0 +1,471 @@
+{
+  "slug": "the-magician-s-nephew",
+  "instructions": [
+    "Rewrite `bible` against `evidence`. The counts are a starting point, not the answer.",
+    "ENGLISH ONLY (US market invariant).",
+    "cast: keep only real characters, key them by a lowercase slug, and give every one a `look`:",
+    "  ONE Flux-ready sentence naming age, build, hair, clothing and period.",
+    "  This is the field that makes a character the same person in beat 12 and beat 204.",
+    "  `variant` carries Antidote costume hints (garment, headwear, hair, height, build, headScale).",
+    "places: `set` MUST be one of horizon office street room stage sky abstract kitchen bedroom classroom library cafe hospital court forest shore highway workstation startupGarage serverRoom pitchStage.",
+    "objects: the book's OWN recurring subjects. `concept` may name an icon we do not have yet;",
+    "  say so in `why` and Phase 4 will draw it.",
+    "world.forbid: icons this period cannot contain. An anachronism is the loudest mistake we can make.",
+    "spine: one entry per act; `claim` is the argument that act makes, in one sentence.",
+    "Then: node scripts/plan-bible.js --slug=the-magician-s-nephew --bible=<this file>"
+  ],
+  "validSets": [
+    "horizon",
+    "office",
+    "street",
+    "room",
+    "stage",
+    "sky",
+    "abstract",
+    "kitchen",
+    "bedroom",
+    "classroom",
+    "library",
+    "cafe",
+    "hospital",
+    "court",
+    "forest",
+    "shore",
+    "highway",
+    "workstation",
+    "startupGarage",
+    "serverRoom",
+    "pitchStage"
+  ],
+  "knownConcepts": [
+    "alarmClock",
+    "butterfly",
+    "subway",
+    "car",
+    "coffee",
+    "codeWindow",
+    "rocketLaunch",
+    "funnelMetrics",
+    "dollarExchange",
+    "laptopMockup",
+    "crash",
+    "ledge",
+    "water",
+    "grave",
+    "medical",
+    "notes",
+    "phone",
+    "school",
+    "home",
+    "family",
+    "road",
+    "storm",
+    "star",
+    "heart",
+    "fire",
+    "tree",
+    "mask",
+    "mirror",
+    "key",
+    "law",
+    "photo",
+    "war",
+    "game",
+    "work",
+    "city",
+    "food",
+    "coin",
+    "door",
+    "lightbulb",
+    "shadowSelf",
+    "puppeteer",
+    "chains",
+    "compass",
+    "dominoCascade",
+    "icebergDepth",
+    "funnelTrap",
+    "thirtyTyrants",
+    "ringOfGyges",
+    "caveAllegory",
+    "shipOfState",
+    "tripartiteSoul",
+    "kallipolis",
+    "fiveRegimes",
+    "mythOfEr",
+    "boulder",
+    "summit",
+    "ladder",
+    "crack",
+    "clock",
+    "balance",
+    "book",
+    "shield",
+    "trophy",
+    "hourglass",
+    "sword",
+    "target",
+    "magnifier",
+    "wallet",
+    "gift",
+    "inheritance",
+    "zap"
+  ],
+  "bible": {
+    "slug": "the-magician-s-nephew",
+    "world": {
+      "era": "1900–1900",
+      "worldId": "",
+      "approxYear": 1900,
+      "setting": "",
+      "register": "",
+      "forbid": [
+        "phone",
+        "codeWindow",
+        "laptopMockup",
+        "rocketLaunch",
+        "funnelMetrics",
+        "dollarExchange",
+        "subway",
+        "car",
+        "alarmClock",
+        "medical",
+        "coffee"
+      ]
+    },
+    "visualProvenance": {
+      "bookId": "the-magician-s-nephew",
+      "worldId": "",
+      "allowedMotifs": [],
+      "forbiddenMotifs": [],
+      "allowedCharacters": [],
+      "allowedLocations": [],
+      "allowedProps": []
+    },
+    "cast": {
+      "digory": {
+        "name": "Digory",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 11
+      },
+      "andrew": {
+        "name": "Andrew",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 4
+      },
+      "jadis": {
+        "name": "Jadis",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 3
+      },
+      "alen": {
+        "name": "Alen",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 2
+      },
+      "lewis": {
+        "name": "Lewis",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 2
+      },
+      "digger": {
+        "name": "Digger",
+        "role": "",
+        "look": "",
+        "variant": {},
+        "mentions": 2
+      }
+    },
+    "places": {
+      "cave": {
+        "set": "cave",
+        "look": "",
+        "mentions": 2
+      },
+      "manuscript": {
+        "set": "manuscript",
+        "look": "",
+        "mentions": 2
+      },
+      "street": {
+        "set": "street",
+        "look": "",
+        "mentions": 2
+      },
+      "forest": {
+        "set": "forest",
+        "look": "",
+        "mentions": 1
+      }
+    },
+    "objects": [
+      {
+        "concept": "tree",
+        "mentions": 18,
+        "why": ""
+      },
+      {
+        "concept": "family",
+        "mentions": 15,
+        "why": ""
+      },
+      {
+        "concept": "grave",
+        "mentions": 9,
+        "why": ""
+      },
+      {
+        "concept": "ledge",
+        "mentions": 9,
+        "why": ""
+      },
+      {
+        "concept": "road",
+        "mentions": 6,
+        "why": ""
+      },
+      {
+        "concept": "home",
+        "mentions": 6,
+        "why": ""
+      },
+      {
+        "concept": "war",
+        "mentions": 5,
+        "why": ""
+      },
+      {
+        "concept": "gift",
+        "mentions": 5,
+        "why": ""
+      },
+      {
+        "concept": "star",
+        "mentions": 4,
+        "why": ""
+      },
+      {
+        "concept": "fire",
+        "mentions": 4,
+        "why": ""
+      },
+      {
+        "concept": "trophy",
+        "mentions": 4,
+        "why": ""
+      },
+      {
+        "concept": "funnelMetrics",
+        "mentions": 3,
+        "why": ""
+      }
+    ],
+    "spine": [
+      {
+        "act": "setup",
+        "fromFrame": 7,
+        "claim": ""
+      },
+      {
+        "act": "development",
+        "fromFrame": 11782,
+        "claim": ""
+      },
+      {
+        "act": "turn",
+        "fromFrame": 23054,
+        "claim": ""
+      },
+      {
+        "act": "consequence",
+        "fromFrame": 35405,
+        "claim": ""
+      },
+      {
+        "act": "close",
+        "fromFrame": 46241,
+        "claim": ""
+      }
+    ]
+  },
+  "evidence": {
+    "sentences": 420,
+    "cast": [
+      {
+        "name": "Digory",
+        "asSubject": 11,
+        "total": 29,
+        "samples": [
+          "Exactly. Digory has been dragged to London, which he absolutely despises.",
+          "And instantly, Digory is confronted with the core reality of our thesis.",
+          "Digory has to plunge into the void to fix Andrew's arrogant mistake, which physically rips Digory out of that stuffy ticking study and drops us right into our s"
+        ]
+      },
+      {
+        "name": "Andrew",
+        "asSubject": 4,
+        "total": 14,
+        "samples": [
+          "Andrew is the archetype of a man who desperately craves the prestige of hidden wisdom, but completely refuses to take the physical risk to achieve it.",
+          "And this really exposes the fundamental flaw in Uncle Andrew's supposed mastery of the magic because Andrew thought the magic was simple.",
+          "Exactly. Andrew was like a toddler playing with incredibly powerful magnets, completely oblivious to the magnetic fields."
+        ]
+      },
+      {
+        "name": "Jadis",
+        "asSubject": 3,
+        "total": 8,
+        "samples": [
+          "Jadis was alarming in the dead red light of char.",
+          "Aunt Letty just assumes Jadis is drunk.",
+          "When Jadis realizes what is happening, she recognizes Alen's song as a magic far deeper and older than her own, and she is terrified by it."
+        ]
+      },
+      {
+        "name": "Alen",
+        "asSubject": 2,
+        "total": 12,
+        "samples": [
+          "Alen gives Digree a mission.",
+          "Digory flies there on the back of Strawberry, who Alen has transformed into a winged horse named Fledge."
+        ]
+      },
+      {
+        "name": "Lewis",
+        "asSubject": 2,
+        "total": 8,
+        "samples": [
+          "Lewis is writing this in the early 1950s, right at the dawn of the Cold Mutually assured destruction.",
+          "It is deeply solemn, majestic, awe inspiring, which makes what Lewis does next so shocking."
+        ]
+      },
+      {
+        "name": "Digger",
+        "asSubject": 2,
+        "total": 2,
+        "samples": [
+          "You have the power to save her life, and you are going to give it away to a wild Digger is standing at the exact same crossroads Uncle Andrew stood at.",
+          "Digger is an old man by then."
+        ]
+      }
+    ],
+    "places": [
+      {
+        "set": "cave",
+        "mentions": 2,
+        "samples": [
+          "You go from the dusty, innocent smuggler's cave to this deeply sinister, calculated environment of Uncle Andrew's study and Andrew locks the door behi",
+          "Dead metal brought into a place of pure In the darkness, a sound begins."
+        ]
+      },
+      {
+        "set": "manuscript",
+        "mentions": 2,
+        "samples": [
+          "When I read his dialogue, I don't really see an aristocratic mastermind.",
+          "Lewis is writing this in the early 1950s, right at the dawn of the Cold Mutually assured destruction."
+        ]
+      },
+      {
+        "set": "street",
+        "mentions": 2,
+        "samples": [
+          "Okay. I look at that scene in the street though and I actually draw a slightly different conclusion about her power here.",
+          "In the absolute chaos of the street brawl, Digree lunges and grabs Jettis by the ankle while holding his yellow ring."
+        ]
+      },
+      {
+        "set": "forest",
+        "mentions": 1,
+        "samples": [
+          "So, she flees into the woods."
+        ]
+      }
+    ],
+    "objects": [
+      {
+        "concept": "tree",
+        "mentions": 18,
+        "sample": "You vanish from this claustrophobic, sinister room and suddenly you are standing in the richest, greenest, warmest woods you can possibly im"
+      },
+      {
+        "concept": "family",
+        "mentions": 15,
+        "sample": "His father is away in India."
+      },
+      {
+        "concept": "grave",
+        "mentions": 9,
+        "sample": "But the really crushing weight on this boy is that his mother is upstairs and she's slowly dying."
+      },
+      {
+        "concept": "ledge",
+        "mentions": 9,
+        "sample": "Yes. The children are exploring this dark, drafty tunnel under the slates of the roof."
+      },
+      {
+        "concept": "road",
+        "mentions": 6,
+        "sample": "Yellow means outward journey."
+      },
+      {
+        "concept": "home",
+        "mentions": 6,
+        "sample": "The yellow rings are drawn back to their They pull you into the wood because the material violently wants to go home."
+      },
+      {
+        "concept": "war",
+        "mentions": 5,
+        "sample": "He physically fights Polly."
+      },
+      {
+        "concept": "gift",
+        "mentions": 5,
+        "sample": "Alang gathers pairs of the animals and gives them the gift of consciousness."
+      },
+      {
+        "concept": "star",
+        "mentions": 4,
+        "sample": "Exactly. And the light is super dim, just sort of filtering through this grimy glass."
+      },
+      {
+        "concept": "fire",
+        "mentions": 4,
+        "sample": "There's a fire burning in a great walls lined with ancient books and that faint musical humming sound coming from the tray of rings."
+      },
+      {
+        "concept": "trophy",
+        "mentions": 4,
+        "sample": "And this really exposes the fundamental flaw in Uncle Andrew's supposed mastery of the magic because Andrew thought the magic was simple."
+      },
+      {
+        "concept": "funnelMetrics",
+        "mentions": 3,
+        "sample": "It really makes you vulnerable to exploitation, which uh leads us directly into our first major beat, the attic steady."
+      }
+    ],
+    "openingLines": [
+      "You're standing in a dead quiet, like really dusty London attic room.",
+      "Yeah. The air is completely stale.",
+      "Exactly. And the light is super dim, just sort of filtering through this grimy glass.",
+      "In front of you is this incredibly eccentric man.",
+      "Wild gray hair.",
+      "Wild gray hair."
+    ],
+    "closingLines": [
+      "A wardrobe. If you build a wardrobe out of a tree nourished by rings that pull you into the cosmic plumbing of the what happens when a little girl named Lucy opens its door and steps inside?",
+      "It completely reframes the entire mythology.",
+      "The doorway wasn't an accident.",
+      "It was the harvest of a choice made 50 years prior by a grieving boy who decided not to steal."
+    ]
+  }
+}

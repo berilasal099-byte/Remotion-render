@@ -1,0 +1,48 @@
+{
+  "slug": "the-magician-s-nephew",
+  "title": "The Magician's Nephew",
+  "author": "C.S. Lewis",
+  "genre": "fantasy",
+  "engine": "vox",
+  "engineRationale": "Book profile (moderate): a period world (1900) → period realism favours Vox; speculative fiction with a cast → staged characters in Antidote (We Were Liars: 0/30 wrong, image adds 70%) RISK: some violence → plan those beats as aftermath/symbol if Vox",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "fiction",
+    "world": "speculative",
+    "era": 1900,
+    "realPeople": false,
+    "format": "story",
+    "violence": "some",
+    "minorHarm": false,
+    "mustSee": [
+      "the dusty attic study with the yellow and green magic rings",
+      "the dead city of Charn with its silent queen",
+      "the lamp-post standing in a snowy wood",
+      "a lion singing a new world into being",
+      "the cold, bright forest of a newborn Narnia"
+    ]
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-10-28",
+    "fit": "vox",
+    "confidence": "moderate",
+    "voxScore": 13.7,
+    "antidoteScore": 5.2,
+    "signals": {
+      "year": 0.6,
+      "history": 2.2,
+      "second": 10.6,
+      "abstract": 1.9,
+      "sensitive": 4.7,
+      "era": 1900,
+      "words": 5373
+    },
+    "reasons": [
+      "set around 1900 → period realism favours Vox"
+    ],
+    "risks": [],
+    "confirmed": false
+  },
+  "audioSource": "public/audio/the-magician-s-nephew.mp3"
+}

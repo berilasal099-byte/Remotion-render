@@ -1,0 +1,925 @@
+[
+  {
+    "i": 0,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DEAD QUIET",
+      "emphasis": [
+        "DUSTY",
+        "ATTIC"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a dusty London attic study under a grimy skylight, a highback chair and a ticking clock, a red wooden tray on a table, stale still air, Edwardian 1900",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The room is dead still and stale.",
+        "concreteVisual": "Dusty attic study under grimy light, a highback chair, a ticking clock on the wall.",
+        "onScreenText": "STALE AIR, 1900 LONDON",
+        "relationToPrevious": "Opening.",
+        "addedInformation": "Setting: 1900 London attic."
+      }
+    }
+  },
+  {
+    "i": 1,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DIM LIGHT",
+      "emphasis": [
+        "GRIMY",
+        "MAN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, standing in dim grimy light in a dusty attic",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "An eccentric man stands in the dim attic.",
+        "concreteVisual": "Uncle Andrew stands in the dim grey light of the attic window.",
+        "onScreenText": "UNCLE ANDREW",
+        "relationToPrevious": "Follows the room.",
+        "addedInformation": "Introduces Uncle Andrew."
+      }
+    }
+  },
+  {
+    "i": 2,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "UNCLE ANDREW",
+      "emphasis": [
+        "GREY HAIR",
+        "CHAIR"
+      ],
+      "items": [],
+      "image": {
+        "subject": "an old man, wild grey hair, a sharply pointed nose, a dressing gown over a waistcoat, pale vain face, leaning by a highback chair beside a ticking clock",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Andrew by the highback chair, clock ticking.",
+        "concreteVisual": "Uncle Andrew stands beside the highback chair, a clock ticking behind him.",
+        "onScreenText": "A WILD, SHARP-NOSED MAN",
+        "relationToPrevious": "Same man, closer.",
+        "addedInformation": "The ticking clock marks the silence."
+      }
+    }
+  },
+  {
+    "i": 3,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "RED TRAY",
+      "emphasis": [
+        "RED TRAY",
+        "RINGS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a bright red wooden tray on a dusty table, holding shiny yellow and green rings catching the dim light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The rings sit on a red tray.",
+        "concreteVisual": "A bright red wooden tray on a dusty table holds shiny yellow and green rings.",
+        "onScreenText": "RINGS THAT HUM",
+        "relationToPrevious": "Andrew's room now shows the objects.",
+        "addedInformation": "The rings are the central mechanism."
+      }
+    }
+  },
+  {
+    "i": 4,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "TWO RINGS",
+      "emphasis": [
+        "YELLOW",
+        "GREEN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, holding a yellow ring in one hand and a green ring in the other over a red wooden tray",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A boy holds a yellow ring and a green ring.",
+        "concreteVisual": "Digory holds a yellow ring in one hand and a green ring in the other, over the red tray.",
+        "onScreenText": "DIGORY HOLDS BOTH",
+        "relationToPrevious": "The tray is now in use.",
+        "addedInformation": "Digory is holding them."
+      }
+    }
+  },
+  {
+    "i": 5,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ABOUT TO LEAVE",
+      "emphasis": [
+        "RINGS",
+        "VICTORIAN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "two glowing rings, one yellow and one green, spinning above a dusty Victorian attic floor, light streaking outward and the room shaking",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The rings are about to pull you out of the era.",
+        "concreteVisual": "The yellow and green rings spin above the attic floor, light streaking out as the room blurs.",
+        "onScreenText": "OUT OF THE VICTORIAN ERA",
+        "relationToPrevious": "The rings begin to act.",
+        "addedInformation": "They will drag through time and worlds."
+      }
+    }
+  },
+  {
+    "i": 6,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "NEW UNIVERSE",
+      "emphasis": [
+        "MULTIVERSE",
+        "NEW"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a swirl of stars and deep blue light opening onto a newborn bright sky over a faint green world, seen from far off",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The rings throw you into a new universe.",
+        "concreteVisual": "A swirl of stars opens onto a new bright sky over a faint green world.",
+        "onScreenText": "A NEW UNIVERSE IS BORN",
+        "relationToPrevious": "The journey begins.",
+        "addedInformation": "This is the birth of Narnia."
+      }
+    }
+  },
+  {
+    "i": 7,
+    "design": {
+      "type": "quote",
+      "kicker": "THE KEYS",
+      "emphasis": [
+        "KEYS",
+        "COSMOS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "You hold the literal keys to the cosmos.",
+        "concreteVisual": "Digory's two hands hold the yellow and green rings over the tray.",
+        "onScreenText": "KEYS TO THE COSMOS",
+        "relationToPrevious": "Pause on the stakes.",
+        "addedInformation": "Power, not toys."
+      }
+    }
+  },
+  {
+    "i": 8,
+    "design": {
+      "type": "statement",
+      "kicker": "NO IDEA",
+      "emphasis": [
+        "LOCKS",
+        "IGNORANCE"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "You do not know how the locks work.",
+        "concreteVisual": "A hand hovers over the rings on the tray, not yet touching them.",
+        "onScreenText": "NO IDEA HOW IT WORKS",
+        "relationToPrevious": "Follows the keys.",
+        "addedInformation": "Ignorance drives the story."
+      }
+    }
+  },
+  {
+    "i": 9,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE AXIS",
+      "emphasis": [
+        "NEPHEW",
+        "STORY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "an old closed leather-bound book on a dusty wooden desk beside a red tray of rings",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The story turns on this ignorance.",
+        "concreteVisual": "A closed leather-bound book lies on the dusty desk beside the red tray.",
+        "onScreenText": "THE MAGICIAN'S NEPHEW",
+        "relationToPrevious": "Introduces the book.",
+        "addedInformation": "The Magician's Nephew."
+      }
+    }
+  },
+  {
+    "i": 10,
+    "design": {
+      "type": "list",
+      "kicker": "THE THESIS",
+      "emphasis": [
+        "MYTH",
+        "POWER"
+      ],
+      "items": [
+        "CREATION MYTH",
+        "CHILDREN'S BOOK",
+        "REAL SUBJECT: POWER"
+      ],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The book is a creation myth in a children's disguise.",
+        "concreteVisual": "A card with three lines stacked one under another on a dark page.",
+        "onScreenText": "ONE ARGUABLE THESIS",
+        "relationToPrevious": "States the thesis.",
+        "addedInformation": "Three claims."
+      }
+    }
+  },
+  {
+    "i": 11,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "WHAT A PERSON DOES",
+      "emphasis": [
+        "POWER",
+        "DIGORY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, staring uneasily down at glowing rings, his face tense",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The core obsession is what a person does with power.",
+        "concreteVisual": "Digory stares uneasily down at the glowing rings in his hands.",
+        "onScreenText": "THE REAL SUBJECT",
+        "relationToPrevious": "Turns the thesis onto Digory.",
+        "addedInformation": "Power is the subject."
+      }
+    }
+  },
+  {
+    "i": 12,
+    "design": {
+      "type": "question",
+      "kicker": "THE QUESTION",
+      "emphasis": [
+        "POWER"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "What do you do with power you cannot control?",
+        "concreteVisual": "A plain question card over a dark attic floor.",
+        "onScreenText": "POWER YOU CANNOT CONTROL?",
+        "relationToPrevious": "Poses the question.",
+        "addedInformation": "Frames every chapter."
+      }
+    }
+  },
+  {
+    "i": 13,
+    "design": {
+      "type": "compare",
+      "kicker": "NOT A TOY",
+      "emphasis": [
+        "TOY",
+        "WEAPON"
+      ],
+      "items": [],
+      "image": null,
+      "compare": {
+        "left": {
+          "label": "FUN TOY",
+          "subject": "a child's yellow toy ring rolling across a nursery rug in sunlight, a child laughing"
+        },
+        "right": {
+          "label": "WEAPON",
+          "subject": "a glowing yellow ring held high above a ruined street, its light cracking the air"
+        }
+      },
+      "storyboard": {
+        "claim": "The rings are weapons, not plot toys.",
+        "concreteVisual": "Toy ring on the left, weapon ring on the right.",
+        "onScreenText": "FUN TOY / WEAPON",
+        "relationToPrevious": "Reframes the rings.",
+        "addedInformation": "The rings are dangerous."
+      }
+    }
+  },
+  {
+    "i": 14,
+    "design": {
+      "type": "punchline",
+      "kicker": "MASS DISRUPTION",
+      "emphasis": [
+        "WEAPONS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The rings are weapons of mass disruption.",
+        "concreteVisual": "Two glowing rings hang over a cracked, empty floor.",
+        "onScreenText": "WORLD-SCALE DANGER",
+        "relationToPrevious": "Punchline on the reframe.",
+        "addedInformation": "Scale of the danger."
+      }
+    }
+  },
+  {
+    "i": 15,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "SUMMER 1900",
+      "emphasis": [
+        "LONDON",
+        "1900"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a cold, wet Edwardian London street in summer 1900, gaslamps glowing, a horse cab on the cobbles, rain falling",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The story begins in London, summer 1900.",
+        "concreteVisual": "Wet London street, gaslamps, horse cab.",
+        "onScreenText": "LONDON, SUMMER 1900",
+        "relationToPrevious": "Moves to the mundane reality.",
+        "addedInformation": "Date and place."
+      }
+    }
+  },
+  {
+    "i": 16,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "COLD AND WET",
+      "emphasis": [
+        "MISERABLE",
+        "EDWARDIAN"
+      ],
+      "items": [],
+      "image": {
+        "subject": "an empty grey sky over a row of rooftops, low clouds, soft rain light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A cold, wet, miserable summer.",
+        "concreteVisual": "A row of soot-stained brick houses under low grey rain clouds.",
+        "onScreenText": "EDWARDIAN DAWN",
+        "relationToPrevious": "Continues the setting.",
+        "addedInformation": "Edwardian mood."
+      }
+    }
+  },
+  {
+    "i": 17,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "TRAPPED INDOORS",
+      "emphasis": [
+        "DIGORY",
+        "POLLY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket, beside a girl of about eleven, dark plaited hair, a long-sleeved cotton dress with a pinafore, both sitting indoors at a rain-streaked window",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory and Polly are trapped indoors.",
+        "concreteVisual": "Digory and Polly sit indoors at a rain-streaked window.",
+        "onScreenText": "DIGORY AND POLLY",
+        "relationToPrevious": "Introduces the two children.",
+        "addedInformation": "Digory and Polly, neighbours."
+      }
+    }
+  },
+  {
+    "i": 18,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DIGORY'S STATE",
+      "emphasis": [
+        "DIGORY",
+        "GRIEF"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket, lying on a narrow bed in a cold room, staring at the ceiling with a closed face",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory's state of mind drives the whole book.",
+        "concreteVisual": "Digory lies alone on a narrow bed in a cold room, staring up at the ceiling.",
+        "onScreenText": "GRIEF DRIVES EVERYTHING",
+        "relationToPrevious": "Turns to Digory himself.",
+        "addedInformation": "The catalyst is his grief."
+      }
+    }
+  },
+  {
+    "i": 19,
+    "design": {
+      "type": "document",
+      "kicker": "FATHER IN INDIA",
+      "emphasis": [
+        "INDIA",
+        "LONDON"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory's father is away in India.",
+        "concreteVisual": "A plain typed card lies on a hall table, marked with India.",
+        "onScreenText": "FATHER IN INDIA",
+        "relationToPrevious": "Explains his situation.",
+        "addedInformation": "Dragged to London."
+      }
+    }
+  },
+  {
+    "i": 20,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DRAFTY HOUSE",
+      "emphasis": [
+        "AUNT",
+        "UNCLE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a stout middle-aged Edwardian woman, hair pinned up, high-necked grey dress with a lace collar, stern face, beside an old man, wild grey hair, a dressing gown over a waistcoat, at a dim dinner table in a drafty house",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory lives with an unpredictable aunt and uncle.",
+        "concreteVisual": "Aunt Letty and Uncle Andrew sit at a dim dinner table in a drafty house.",
+        "onScreenText": "AUNT LETTY, UNCLE ANDREW",
+        "relationToPrevious": "Introduces the household.",
+        "addedInformation": "Fatherless, in a creaky house."
+      }
+    }
+  },
+  {
+    "i": 21,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "MOTHER UPSTAIRS",
+      "emphasis": [
+        "MOTHER",
+        "DYING"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a pale thin Edwardian woman in a white nightgown and shawl, lying in a bed, frail and weary, a window light falling across the blankets",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "His mother is upstairs, slowly dying.",
+        "concreteVisual": "Mrs Kirke lies frail in bed, window light falling across the blankets.",
+        "onScreenText": "MRS KIRKE, UPSTAIRS",
+        "relationToPrevious": "The crushing weight.",
+        "addedInformation": "The illness is the stakes."
+      }
+    }
+  },
+  {
+    "i": 22,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "SUFFOCATING GRIEF",
+      "emphasis": [
+        "GRIEF",
+        "DIGORY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket, sitting on a dark stair outside a closed door, head bowed in grief",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Digory is enveloped in grief.",
+        "concreteVisual": "Digory sits on a dark stair outside a closed door, head bowed.",
+        "onScreenText": "A BOY ALONE ON THE STAIR",
+        "relationToPrevious": "Follows the mother.",
+        "addedInformation": "Grief as his state."
+      }
+    }
+  },
+  {
+    "i": 23,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A SECRET DOOR",
+      "emphasis": [
+        "POWERLESS",
+        "DOOR"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a small wooden door ajar in dark panelled wallpaper, a thin line of light spilling out onto a dusty floor",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A powerless child is drawn to a secret door.",
+        "concreteVisual": "A small wooden door stands ajar in dark panelled wall, light spilling onto the dusty floor.",
+        "onScreenText": "ENTIRELY POWERLESS",
+        "relationToPrevious": "Turns to the lure.",
+        "addedInformation": "The door is the lure."
+      }
+    }
+  },
+  {
+    "i": 24,
+    "design": {
+      "type": "question",
+      "kicker": "THE LURE",
+      "emphasis": [
+        "SECRET",
+        "CONTROL"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "Why does a powerless child crave a secret?",
+        "concreteVisual": "A dark panelled wall with a thin line of light under a door.",
+        "onScreenText": "WHY CRAVE A SECRET?",
+        "relationToPrevious": "Pauses on the lure.",
+        "addedInformation": "Control and hidden knowledge."
+      }
+    }
+  },
+  {
+    "i": 25,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "THE ATTIC",
+      "emphasis": [
+        "ATTIC",
+        "EXPLOITATION"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a wooden attic hatch in a ceiling with a ladder pulled down, dust hanging in the air above it",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Curiosity makes the children vulnerable.",
+        "concreteVisual": "A wooden attic hatch in the ceiling, its ladder pulled down.",
+        "onScreenText": "VULNERABLE",
+        "relationToPrevious": "Leads to the attic.",
+        "addedInformation": "The first major beat."
+      }
+    }
+  },
+  {
+    "i": 26,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "CLIMBING IN",
+      "emphasis": [
+        "DIGORY",
+        "POLLY"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a slim English boy of about eleven and a girl of about eleven with dark plaited hair, climbing up a ladder into an attic hatch, one candle in hand",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "The children climb into the attic.",
+        "concreteVisual": "Digory and Polly climb the ladder into the attic hatch, one candle in hand.",
+        "onScreenText": "UP THE LADDER",
+        "relationToPrevious": "The physical exploration begins.",
+        "addedInformation": "Geography of the house."
+      }
+    }
+  },
+  {
+    "i": 27,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "UNDER THE SLATES",
+      "emphasis": [
+        "TUNNEL",
+        "SLATES"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a dark drafty tunnel under the roof slates, two children crouched and lit by one candle, dusty beams stretching ahead",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A dark tunnel runs under the slates.",
+        "concreteVisual": "Two children crouch in a dark roof tunnel, lit by one candle, beams stretching ahead.",
+        "onScreenText": "A DARK ROOF TUNNEL",
+        "relationToPrevious": "The tunnel is entered.",
+        "addedInformation": "It runs along the row of houses."
+      }
+    }
+  },
+  {
+    "i": 28,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "RAFTER TO RAFTER",
+      "emphasis": [
+        "RAFTERS",
+        "PLASTER"
+      ],
+      "items": [],
+      "image": {
+        "subject": "two children stepping from rafter to rafter over pale plaster ceilings, a row of Victorian rooftops visible beyond the beams",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "They step rafter to rafter over the ceilings.",
+        "concreteVisual": "Two children step beam to beam over pale plaster ceilings.",
+        "onScreenText": "STEP ON THE RAFTERS",
+        "relationToPrevious": "Continues the tunnel.",
+        "addedInformation": "The row of houses."
+      }
+    }
+  },
+  {
+    "i": 29,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ONE CANDLE",
+      "emphasis": [
+        "CANDLE",
+        "DUST"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a single candle flame in the dark beam space under the roof, dust motes drifting through its light",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A single candle guides them and smells of dust.",
+        "concreteVisual": "A single candle flame in the dark beams, dust motes drifting through its light.",
+        "onScreenText": "ONE FLICKERING CANDLE",
+        "relationToPrevious": "Sensory detail.",
+        "addedInformation": "Only one light."
+      }
+    }
+  },
+  {
+    "i": 30,
+    "design": {
+      "type": "quote",
+      "kicker": "DRY ROT",
+      "emphasis": [
+        "DRY ROT",
+        "PRECARIOUS"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "The physical danger mirrors the emotional one.",
+        "concreteVisual": "A crumbling wooden beam with rot, flakes of dust falling from it.",
+        "onScreenText": "THE FLOOR AND THE HEART",
+        "relationToPrevious": "Pause on the mirror.",
+        "addedInformation": "Physical and emotional danger."
+      }
+    }
+  },
+  {
+    "i": 31,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "FALLING THROUGH",
+      "emphasis": [
+        "PLASTER",
+        "FALL"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a boy's scuffed boot stepping onto cracked plaster between roof beams, the plaster breaking away and a dark hole opening below",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Stepping on plaster drops you through the ceiling.",
+        "concreteVisual": "A scuffed boot breaks through cracked plaster between roof beams.",
+        "onScreenText": "PLASTER IS NOT A FLOOR",
+        "relationToPrevious": "The danger made concrete.",
+        "addedInformation": "Plaster is not a floor."
+      }
+    }
+  },
+  {
+    "i": 32,
+    "design": {
+      "type": "statement",
+      "kicker": "NOT FOR HUMANS",
+      "emphasis": [
+        "DANGEROUS",
+        "HUMAN"
+      ],
+      "items": [],
+      "image": null,
+      "compare": null,
+      "storyboard": {
+        "claim": "This space is not meant for humans.",
+        "concreteVisual": "A child crouches on the beams over a dark drop.",
+        "onScreenText": "NOT BUILT FOR PEOPLE",
+        "relationToPrevious": "Follows the danger.",
+        "addedInformation": "Inherently dangerous."
+      }
+    }
+  },
+  {
+    "i": 33,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "SMUGGLER'S CAVE",
+      "emphasis": [
+        "POLLY",
+        "CASH BOX"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a girl of about eleven, dark plaited hair, a long-sleeved cotton dress with a pinafore, hiding in a tunnel behind a cistern beside a cash box, apples and a bottle of ginger beer",
+        "style": "cutout"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Polly keeps a smuggler's stash behind the cistern.",
+        "concreteVisual": "Polly crouches behind the cistern beside her cash box, apples and ginger beer.",
+        "onScreenText": "POLLY'S SMUGGLER STASH",
+        "relationToPrevious": "Introduces Polly's hideout.",
+        "addedInformation": "Innocent childhood secrecy."
+      }
+    }
+  },
+  {
+    "i": 34,
+    "design": {
+      "type": "compare",
+      "kicker": "TWO KINDS OF SECRET",
+      "emphasis": [
+        "POLLY",
+        "DIGORY"
+      ],
+      "items": [],
+      "image": null,
+      "compare": {
+        "left": {
+          "label": "POLLY",
+          "subject": "a girl hiding a cash box and apples in a dusty tunnel behind a cistern"
+        },
+        "right": {
+          "label": "DIGORY",
+          "subject": "a boy with a candle pushing forward along the rafters toward a far door"
+        }
+      },
+      "storyboard": {
+        "claim": "Polly's secret is innocent; Digory pushes further.",
+        "concreteVisual": "Polly's stash on the left; Digory's candle moving along the rafters toward a far door on the right.",
+        "onScreenText": "INNOCENT / PUSHING FURTHER",
+        "relationToPrevious": "Contrast.",
+        "addedInformation": "Digory wants the whole row."
+      }
+    }
+  },
+  {
+    "i": 35,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "A SMALL DOOR",
+      "emphasis": [
+        "DOOR",
+        "BRICK"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a plain wooden door in a sloping attic wall, dust on the floor",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "They open a little door expecting cobwebs.",
+        "concreteVisual": "Digory and Polly open a low brick door, cobwebs on its edges, a candle held up.",
+        "onScreenText": "EXPECTING COBWEBS",
+        "relationToPrevious": "The door is opened.",
+        "addedInformation": "They expect an empty room."
+      }
+    }
+  },
+  {
+    "i": 36,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "DAYLIGHT",
+      "emphasis": [
+        "DAYLIGHT",
+        "SURPRISE"
+      ],
+      "items": [],
+      "image": {
+        "subject": "Digory and Polly, shielding their eyes with raised arms, stand in a dusty room while a bright shaft of daylight falls across the floor through a broken wall",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "Instead of cobwebs, they meet daylight.",
+        "concreteVisual": "Two children shield their eyes from a sudden shaft of daylight in a dusty room.",
+        "onScreenText": "DAYLIGHT, NOT COBWEBS",
+        "relationToPrevious": "The surprise.",
+        "addedInformation": "The room is not empty."
+      }
+    }
+  },
+  {
+    "i": 37,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "ANCIENT BOOKS",
+      "emphasis": [
+        "FIRE",
+        "BOOKS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a fire burning in a stone hearth in a vast study whose walls are lined with ancient leather books, a long table in the centre",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A fire burns in a room lined with ancient books.",
+        "concreteVisual": "A fire burns in a stone hearth in a vast study, its walls lined with old leather books.",
+        "onScreenText": "A FIRE IN A ROOM OF BOOKS",
+        "relationToPrevious": "Reveals the room.",
+        "addedInformation": "Uncle Andrew's study."
+      }
+    }
+  },
+  {
+    "i": 38,
+    "design": {
+      "type": "imagefocus",
+      "kicker": "HUMMING RINGS",
+      "emphasis": [
+        "HUMMING",
+        "RINGS"
+      ],
+      "items": [],
+      "image": {
+        "subject": "a red wooden tray with yellow and green rings glowing faintly, a thin hum of light rising from them in the warm study",
+        "style": "card"
+      },
+      "compare": null,
+      "storyboard": {
+        "claim": "A faint humming comes from the tray of rings.",
+        "concreteVisual": "Yellow and green rings glow faintly on the red tray, a thin light rising from them.",
+        "onScreenText": "A FAINT MUSICAL HUM",
+        "relationToPrevious": "The contrast closes the chunk.",
+        "addedInformation": "The rings are active again."
+      }
+    }
+  }
+]

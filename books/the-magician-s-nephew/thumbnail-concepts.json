@@ -1,0 +1,300 @@
+{
+  "slug": "the-magician-s-nephew",
+  "title": "The Magician's Nephew",
+  "author": "C.S. Lewis",
+  "genre": "fantasy",
+  "generatedAt": "2026-10-29T13:28:52.444Z",
+  "_artDirector": "thumbnail-art-director.js v2",
+  "channelContext": {
+    "priorThumbnails": 33
+  },
+  "concepts": [
+    {
+      "conceptId": "power-00",
+      "angle": "power",
+      "hook": "THE SETUP",
+      "evidence": "The Setup: How \"The Magician's Nephew\" Works",
+      "thesis": "Who controls the city, the story, or the world? Authority vs. challenger.",
+      "visualSubject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, Edwardian 1900 London schoolboy in 1900 standing in the foreground of dusty London attic study, a highback chair, a ticking clock, a red wooden tray holding yellow and green rings, low camera angle emphasizing scale, the people they want to reach barely visible at the edges",
+      "iconicMotif": "magicRings",
+      "emotion": "confrontational curiosity",
+      "layout": "portrait-right",
+      "camera": "low-angle medium-wide",
+      "lighting": "hard golden rim light, deep shadow on left",
+      "style": "brutalist-graphic",
+      "negativeSpace": "left",
+      "fluxPrompt": "Set in 1900, historically accurate costume and materials, no modern objects. a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, Edwardian 1900 London schoolboy in 1900 standing in the foreground of dusty London attic study, a highback chair, a ticking clock, a red wooden tray holding yellow and green rings, low camera angle emphasizing scale, the people they want to reach barely visible at the edges. subject framed on right 60%, left 40% deep shadow for typography. low-angle medium-wide, hard golden rim light, deep shadow on left. brutalist graphic design artwork, stark geometric shapes, heavy film grain, limited duotone palette, monumental scale contrast. eye-catching YouTube thumbnail composition, no watermark, no text, n, period-accurate, no anachronisms",
+      "imagePath": "scenes/the-magician-s-nephew/thumbnail-concept-power.png",
+      "cutPath": "scenes/the-magician-s-nephew/thumbnail-concept-power-cut.png",
+      "_needsCriticScore": false,
+      "_score": 79,
+      "_winner": true,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "setup"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 1,
+          "angleUses": 1,
+          "score": 0.8999999999999999
+        },
+        "evidence": "The Setup: How \"The Magician's Nephew\" Works You're standing in a dead quiet, like really dusty London attic room. That's the core of The Magician's Nephew by C.S. Lewis — and it's not what you'd expect.\n\nIn this deep dive into \"The Magicia"
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 79,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 0.9400000000000001,
+        "conceptClarity": 0.4,
+        "visualQuality": 0.679,
+        "semanticRelevance": 1,
+        "genericityPenalty": 0.8,
+        "mobileReadability": 0.51,
+        "composition": 1,
+        "negativeSpace": 0.664,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "scene-02",
+      "angle": "scene",
+      "hook": "FALL INTO A RANDOM UNMAPPED",
+      "evidence": "Fall Into A Random Unmapped",
+      "thesis": "The single most iconic or visually striking scene from the book.",
+      "visualSubject": "The climactic scene from \"The Magician's Nephew\" (Greenest Warmest Woods You Can) featuring magic rings: a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, Edwardian 1900 London schoolboy in 1900, 1900 setting, dramatic wide shot, volumetric backlighting creating a silhouette, the weight of the moment visible in the environment",
+      "iconicMotif": "grave",
+      "emotion": "awe and unease",
+      "layout": "cinematic-bleed",
+      "camera": "wide establishing shot",
+      "lighting": "volumetric dramatic backlighting",
+      "style": "woodblock",
+      "negativeSpace": "left",
+      "fluxPrompt": "Set in 1900, historically accurate costume and materials, no modern objects. The climactic scene from \"The Magician's Nephew\" (Greenest Warmest Woods You Can) featuring magic rings: a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, Edwardian 1900 London schoolboy in 1900, 1900 setting, dramatic wide shot, volumetric backlighting creating a silhouette, the weight of the moment visible in the environment. dark atmospheric space on left third, subject centered-right. wide establishing shot, volumetric dramatic backlighting. dramatic woodblock print style, bold carved outlines, flat color planes, visible grain texture, hand-printed. eye-catching YouTube thumbnail composition, no watermark, no text, no words, no letters, no wri, period-accurate, no anachronisms",
+      "imagePath": "scenes/the-magician-s-nephew/thumbnail-concept-scene.png",
+      "cutPath": "scenes/the-magician-s-nephew/thumbnail-concept-scene-cut.png",
+      "_needsCriticScore": false,
+      "_score": 78,
+      "_winner": false,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "fall",
+          "into",
+          "random",
+          "unmapped"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 6,
+          "angleUses": 1,
+          "score": 0.6
+        },
+        "evidence": "Fall Into A Random Unmapped You're standing in a dead quiet, like really dusty London attic room. That's the core of The Magician's Nephew by C.S. Lewis — and it's not what you'd expect.\n\nIn this deep dive into \"The Magician's Nephew\" by C."
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 78,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 1,
+        "visualQuality": 0.228,
+        "semanticRelevance": 1,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.213,
+        "composition": 1,
+        "negativeSpace": 1,
+        "hookQuality": 0.5,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "mystery-04",
+      "angle": "mystery",
+      "hook": "THE HIDDEN TRUTH",
+      "evidence": "The Setup: How \"The Magician's Nephew\" Works",
+      "thesis": "A provocative question or hidden truth that makes the viewer need to click.",
+      "visualSubject": "A symbolic 1900 visualization of \"The Magician's Nephew\": magic rings depicted as an abstract metaphor — perhaps contained within a human silhouette, an iconic symbol in dramatic isolation, or a landscape of the mind. Minimal, graphic, high-concept. Deep black background with a single dramatic spotlight revealing the symbol",
+      "iconicMotif": "home",
+      "emotion": "burning curiosity",
+      "layout": "text-poster",
+      "camera": "macro or abstract",
+      "lighting": "single beam spotlight on key object",
+      "style": "ink-etching",
+      "negativeSpace": "center",
+      "fluxPrompt": "Set in 1900, historically accurate costume and materials, no modern objects. A symbolic 1900 visualization of \"The Magician's Nephew\": magic rings depicted as an abstract metaphor — perhaps contained within a human silhouette, an iconic symbol in dramatic isolation, or a landscape of the mind. Minimal, graphic, high-concept. Deep black background with a single dramatic spotlight revealing the symbol. graphic background, minimal subject, large hook text dominates. macro or abstract, single beam spotlight on key object. dark intricate ink etching, Gustave Doré style engraving, fine crosshatching, single illuminated symbol, aged paper texture. eye-catching YouTube thumbnail composition, no watermark, no text, no words, no letters, no writing, no typography, no labels, no captions, no tit, period-accurate, no anachronisms",
+      "imagePath": "scenes/the-magician-s-nephew/thumbnail-concept-mystery.png",
+      "cutPath": "scenes/the-magician-s-nephew/thumbnail-concept-mystery-cut.png",
+      "_needsCriticScore": false,
+      "_score": 87,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise.",
+          "No meaningful hook word is evidenced by the title, description, or chapters."
+        ],
+        "groundedWords": [],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 2,
+          "angleUses": 2,
+          "score": 0.8
+        },
+        "evidence": "The Setup: How \"The Magician's Nephew\" Works You're standing in a dead quiet, like really dusty London attic room. That's the core of The Magician's Nephew by C.S. Lewis — and it's not what you'd expect.\n\nIn this deep dive into \"The Magicia"
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 48,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 1,
+        "visualQuality": 0.808,
+        "semanticRelevance": 0.75,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.442,
+        "composition": 1,
+        "negativeSpace": 0.889,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "conflict-03",
+      "angle": "conflict",
+      "hook": "THE REAL ENEMY",
+      "evidence": "Greenest Warmest Woods You Can",
+      "thesis": "Two opposing forces in direct visual tension: ideas, people, systems.",
+      "visualSubject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, Edwardian 1900 London schoolboy in 1900 on the left in warm golden light facing a girl of about eleven, dark plaited hair, a long-sleeved cotton dress with a pinafore, buttoned boots, Edwardian 1900 London girl in 1900 on the right in cool shadow — two opposing ideas, the tension between them visible in the 1900 environment",
+      "iconicMotif": "apple",
+      "emotion": "tension and urgency",
+      "layout": "two-subject-vs",
+      "camera": "medium two-shot",
+      "lighting": "high-contrast cross-lighting, each side its own color temperature",
+      "style": "constructivist",
+      "negativeSpace": "center",
+      "fluxPrompt": "Set in 1900, historically accurate costume and materials, no modern objects. a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, Edwardian 1900 London schoolboy in 1900 on the left in warm golden light facing a girl of about eleven, dark plaited hair, a long-sleeved cotton dress with a pinafore, buttoned boots, Edwardian 1900 London girl in 1900 on the right in cool shadow — two opposing ideas, the tension between them visible in the 1900 environment. two figures in confrontation, text overlaid center. medium two-shot, high-contrast cross-lighting, each side its own color temperature. constructivist agitprop poster art, bold geometric photomontage, limited red black cream palette, sharp diagonals, vintage print texture. eye-, period-accurate, no anachronisms",
+      "imagePath": "scenes/the-magician-s-nephew/thumbnail-concept-conflict.png",
+      "cutPath": "scenes/the-magician-s-nephew/thumbnail-concept-conflict-cut.png",
+      "_needsCriticScore": false,
+      "_score": 75,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise.",
+          "No meaningful hook word is evidenced by the title, description, or chapters."
+        ],
+        "groundedWords": [],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 1,
+          "angleUses": 1,
+          "score": 0.8999999999999999
+        },
+        "evidence": "Greenest Warmest Woods You Can You're standing in a dead quiet, like really dusty London attic room. That's the core of The Magician's Nephew by C.S. Lewis — and it's not what you'd expect.\n\nIn this deep dive into \"The Magician's Nephew\" by"
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 41,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 0.9400000000000001,
+        "conceptClarity": 0.7,
+        "visualQuality": 0.642,
+        "semanticRelevance": 0.75,
+        "genericityPenalty": 0.8,
+        "mobileReadability": 0.557,
+        "composition": 1,
+        "negativeSpace": 0.068,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "soul-01",
+      "angle": "soul",
+      "hook": "WHO CONTROLS YOU?",
+      "evidence": "Self Preservation He Tries To",
+      "thesis": "The inner psychological conflict — what drives the character from inside.",
+      "visualSubject": "a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, Edwardian 1900 London schoolboy in 1900, tight medium framing, their silhouette or form divided by split Rembrandt lighting, the book's central tension (Digory is a powerless boy in a grieving house, and Uncle Andrew's rings offer him a secret power) visible as an abstract overlay or background",
+      "iconicMotif": "tree",
+      "emotion": "introspective dread",
+      "layout": "cinematic-bleed",
+      "camera": "tight medium shot",
+      "lighting": "split Rembrandt, cool shadow vs warm highlight",
+      "style": "cinematic-35mm",
+      "negativeSpace": "left",
+      "fluxPrompt": "Set in 1900, historically accurate costume and materials, no modern objects. a slim English boy of about eleven, short untidy brown hair, grey wool jacket and short trousers, scuffed boots, Edwardian 1900 London schoolboy in 1900, tight medium framing, their silhouette or form divided by split Rembrandt lighting, the book's central tension (Digory is a powerless boy in a grieving house, and Uncle Andrew's rings offer him a secret power) visible as an abstract overlay or background. dark atmospheric space on left third, subject centered-right. tight medium shot, split Rembrandt, cool shadow vs warm highlight. cinematic film still, 35mm photography, photorealistic, sharp focus, 8k, award-winning cinematography, high contrast. eye-catching YouTube thumbnail composition, no watermark, no , period-accurate, no anachronisms",
+      "imagePath": "scenes/the-magician-s-nephew/thumbnail-concept-soul.png",
+      "cutPath": "scenes/the-magician-s-nephew/thumbnail-concept-soul-cut.png",
+      "_needsCriticScore": false,
+      "_score": 73,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise.",
+          "Exact hook already appears elsewhere on the channel."
+        ],
+        "groundedWords": [],
+        "novelty": {
+          "exactHookRepeat": true,
+          "layoutUses": 6,
+          "angleUses": 3,
+          "score": 0
+        },
+        "evidence": "Self Preservation He Tries To You're standing in a dead quiet, like really dusty London attic room. That's the core of The Magician's Nephew by C.S. Lewis — and it's not what you'd expect.\n\nIn this deep dive into \"The Magician's Nephew\" by "
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 40,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 0.7,
+        "visualQuality": 0.498,
+        "semanticRelevance": 0.35,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.396,
+        "composition": 1,
+        "negativeSpace": 1,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    }
+  ],
+  "winner": {
+    "conceptId": "power-00",
+    "angle": "power",
+    "hook": "THE SETUP",
+    "layout": "portrait-right",
+    "style": "brutalist-graphic",
+    "imagePath": "scenes/the-magician-s-nephew/thumbnail-concept-power.png",
+    "cutPath": "scenes/the-magician-s-nephew/thumbnail-concept-power-cut.png",
+    "score": 79,
+    "scoredAt": "2026-10-29T13:29:50.076Z",
+    "evaluationMode": "pixel-inspected",
+    "policy": {
+      "ok": true,
+      "reasons": [],
+      "groundedWords": [
+        "setup"
+      ],
+      "novelty": {
+        "exactHookRepeat": false,
+        "layoutUses": 1,
+        "angleUses": 1,
+        "score": 0.8999999999999999
+      },
+      "evidence": "The Setup: How \"The Magician's Nephew\" Works You're standing in a dead quiet, like really dusty London attic room. That's the core of The Magician's Nephew by C.S. Lewis — and it's not what you'd expect.\n\nIn this deep dive into \"The Magicia"
+    }
+  }
+}
