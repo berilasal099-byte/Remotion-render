@@ -1,0 +1,9 @@
+{
+  "slug": "the-stranger",
+  "title": "The Stranger",
+  "author": "Albert Camus",
+  "genre": "classics",
+  "engine": "vox",
+  "engineRationale": "No strong signal for \"classics\"; defaulting to Vox (the main engine). Override with --engine=antidote if the concept is abstract/everyman.",
+  "bgTint": true
+}
