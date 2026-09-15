@@ -1,0 +1,542 @@
+{
+  "slug": "speaker-for-the-dead",
+  "world": {
+    "era": "far future — human interstellar colonies, roughly three thousand years after the Xenocide",
+    "approxYear": 5270,
+    "setting": "Milagre: a fenced Catholic, Portuguese-speaking colony town of a few hundred people on the forested world of Lusitania, ringed by capim grass and the pequenino forest. Whitewashed walls, a rain-wet praça, a cathedral, a xenobiology lab, one crowded family house — plus a university classroom on the ocean world Trondheim, and the long relativistic voyage between them.",
+    "register": "intimate, domestic, grave. This is the anti-Ender's Game: no fleet, no battle room. A small town, a forest, a kitchen, a funeral held in the rain. Quiet rooms and trees that are people.",
+    "forbid": [
+      "kallipolis",
+      "caveAllegory",
+      "mythOfEr",
+      "ringOfGyges",
+      "tripartiteSoul",
+      "thirtyTyrants",
+      "fiveRegimes",
+      "shipOfState",
+      "agora",
+      "colonnade",
+      "cave",
+      "manuscript",
+      "funnelMetrics",
+      "dollarExchange",
+      "laptopMockup",
+      "codeWindow",
+      "startupGarage",
+      "serverRoom",
+      "pitchStage",
+      "subway",
+      "car",
+      "highway",
+      "rocketLaunch",
+      "alarmClock",
+      "coffee",
+      "cafe"
+    ]
+  },
+  "cast": {
+    "ender": {
+      "name": "Ender Wiggin",
+      "role": "The Speaker for the Dead. Biologically about thirty-five after decades of relativistic travel; the man who committed the Xenocide, travelling anonymously as the secular truth-teller his own book invented. Carries the hive queen's cocoon in a bag.",
+      "look": "A quiet man of about thirty-five, lean and unremarkable, dark short hair, plain grey traveller's coat over a white shirt, a worn satchel on one shoulder, watchful rather than commanding.",
+      "variant": {
+        "gender": "m",
+        "age": "adult",
+        "hairStyle": "short",
+        "hair": "#2E2A26",
+        "skin": "#E8BE96",
+        "outfit": "coat",
+        "suit": "#5A6156",
+        "shirt": "#F1EEE4",
+        "accessory": "satchel",
+        "build": "slight",
+        "height": 1.02,
+        "expression": "neutral"
+      }
+    },
+    "novinha": {
+      "name": "Novinha",
+      "role": "Lusitania's xenobiologist. Orphan of Os Venerados, brilliant at thirteen, and the keeper of the secret the whole book is built on — she believes her research killed Pipo, and she marries to lock her files away from the man she loves.",
+      "look": "A guarded woman in her forties, black hair pulled back tight, olive skin, a dark work dress under a pale lab coat, arms folded, grief worn as hardness.",
+      "variant": {
+        "gender": "f",
+        "age": "adult",
+        "hairStyle": "bun",
+        "hair": "#1F1A18",
+        "skin": "#D6A57A",
+        "outfit": "dress",
+        "suit": "#3A3F4A",
+        "shirt": "#E9E5DA",
+        "build": "slight",
+        "height": 0.97,
+        "expression": "worried"
+      }
+    },
+    "marcao": {
+      "name": "Marcão",
+      "role": "Marcos Ribeira. The colony's despised brute — huge, violent, dying of a genetic disease, sterile, and the only man in Milagre who knows every child in his house is Libo's and stays anyway. The Speaking is his.",
+      "look": "An enormous man in his forties, thick-necked and heavy-shouldered, cropped dark hair and stubble, a sweat-stained work shirt and canvas trousers, hands like tools, shame worn as anger.",
+      "variant": {
+        "gender": "m",
+        "age": "adult",
+        "hairStyle": "buzz",
+        "hair": "#241E1A",
+        "skin": "#C98F63",
+        "beard": "stubble",
+        "outfit": "overalls",
+        "suit": "#6B5C46",
+        "shirt": "#D9D2C2",
+        "build": "heavy",
+        "height": 1.1,
+        "headScale": 0.96,
+        "expression": "sad"
+      }
+    },
+    "libo": {
+      "name": "Libo",
+      "role": "Pipo's son and successor as xenologer; Novinha's true love and the biological father of all six of her children. Killed by the pequeninos exactly as his father was.",
+      "look": "A warm, open-faced man in his thirties, curly brown hair, sleeves rolled, a field jacket with deep pockets, the easy posture of someone who is liked.",
+      "variant": {
+        "gender": "m",
+        "age": "young",
+        "hairStyle": "curly",
+        "hair": "#4A3222",
+        "skin": "#E3B489",
+        "outfit": "casual",
+        "suit": "#6E7C5A",
+        "shirt": "#F2EFE6",
+        "build": "average",
+        "height": 1,
+        "expression": "happy"
+      }
+    },
+    "pipo": {
+      "name": "Pipo",
+      "role": "The first xenologer of Lusitania. Sees in Novinha's data what the pequeninos are, tells them — and they honour him by opening him and planting him. The death that starts everything.",
+      "look": "A kind, weathered man near sixty, grey receding hair, reading glasses, a heavy field coat over a cardigan, notebook always in hand.",
+      "variant": {
+        "gender": "m",
+        "age": "old",
+        "hairStyle": "receding",
+        "hair": "#8C8A84",
+        "skin": "#E0B48C",
+        "glasses": true,
+        "outfit": "coat",
+        "suit": "#5F5548",
+        "shirt": "#EDE8DC",
+        "build": "average",
+        "height": 0.99,
+        "expression": "neutral"
+      }
+    },
+    "miro": {
+      "name": "Miro",
+      "role": "Novinha's eldest son, secret xenologer, in love with Ouanda — until the Speaking tells him they are half-siblings.",
+      "look": "A serious young man of about twenty, dark tousled hair, a patched work jacket, wire fence cutters in his belt, eyes always on the treeline.",
+      "variant": {
+        "gender": "m",
+        "age": "young",
+        "hairStyle": "messy",
+        "hair": "#2A211C",
+        "skin": "#D9A77C",
+        "outfit": "casual",
+        "suit": "#4B5A63",
+        "shirt": "#E7E2D6",
+        "build": "slight",
+        "height": 0.98,
+        "expression": "worried"
+      }
+    },
+    "ouanda": {
+      "name": "Ouanda",
+      "role": "Libo and Bruxinha's daughter, field xenologer, Miro's love and — as the Speaking reveals — his half-sister.",
+      "look": "A composed young woman of about twenty, fair braided hair, a canvas field shirt and trousers, a specimen satchel across her chest.",
+      "variant": {
+        "gender": "f",
+        "age": "young",
+        "hairStyle": "braids",
+        "hair": "#7A5A34",
+        "skin": "#EAC49C",
+        "outfit": "casual",
+        "suit": "#8A7A52",
+        "shirt": "#F1ECE0",
+        "accessory": "satchel",
+        "build": "slight",
+        "height": 0.96,
+        "expression": "neutral"
+      }
+    },
+    "bruxinha": {
+      "name": "Bruxinha",
+      "role": "Libo's widow. For years she believed her husband's death was hers to mourn alone; the Speaking gives her the whole man, which is both a wound and a gift.",
+      "look": "A small, soft-featured woman in her forties, dark hair loose to the shoulders, a plain mourning dress with a shawl, hands folded.",
+      "variant": {
+        "gender": "f",
+        "age": "adult",
+        "hairStyle": "long",
+        "hair": "#2B211C",
+        "skin": "#E2B189",
+        "outfit": "dress",
+        "suit": "#4A4048",
+        "shirt": "#E6E0D2",
+        "accessory": "scarf",
+        "build": "slight",
+        "height": 0.93,
+        "expression": "sad"
+      }
+    },
+    "peregrino": {
+      "name": "Bishop Peregrino",
+      "role": "Milagre's bishop. Preaches against the Speaker from the pulpit, then watches the Speaking do the work his own church claims — and has a revelation.",
+      "look": "An austere churchman near seventy, bald with a fringe of white hair, a dark cassock with a pectoral cross, hands clasped, chin lifted.",
+      "variant": {
+        "gender": "m",
+        "age": "old",
+        "hairStyle": "bald",
+        "hair": "#D8D5CE",
+        "skin": "#E5C3A0",
+        "outfit": "robe",
+        "suit": "#2A2A30",
+        "shirt": "#EFE9DA",
+        "accessory": "necklace",
+        "build": "average",
+        "height": 1,
+        "expression": "worried"
+      }
+    },
+    "human": {
+      "name": "Human",
+      "role": "A pequenino — one of the 'piggies'. Small, furred, snouted, and a person. Ender grants him the third life with his own hands, and that killing becomes the treaty.",
+      "look": "A small figure barely waist-high to a man, covered in short dark fur, a snouted face and wide-set eyes, no clothing but a woven grass cord; the rig can only approximate this — keep the silhouette small, hooded and non-human in scale.",
+      "variant": {
+        "gender": "m",
+        "age": "child",
+        "hairStyle": "short",
+        "hair": "#3B2B20",
+        "skin": "#A4784F",
+        "outfit": "rags",
+        "suit": "#5E6B45",
+        "shirt": "#7C8A5C",
+        "headwear": "hood",
+        "build": "slight",
+        "height": 0.74,
+        "headScale": 1.14,
+        "expression": "neutral"
+      }
+    },
+    "valentine": {
+      "name": "Valentine",
+      "role": "Ender's sister, and secretly the philosopher 'Demosthenes' whose Hierarchy of Foreignness gives humanity the words utlanning, framling, raman and varelse. The universe believes Demosthenes is an ancient figure.",
+      "look": "A thoughtful woman in her thirties, light hair tied back, a scholar's dark coat over a high-collared shirt, a pen held like an argument.",
+      "variant": {
+        "gender": "f",
+        "age": "adult",
+        "hairStyle": "ponytail",
+        "hair": "#6B5334",
+        "skin": "#EDC7A2",
+        "outfit": "coat",
+        "suit": "#4A4438",
+        "shirt": "#F0ECE0",
+        "build": "slight",
+        "height": 0.98,
+        "expression": "neutral"
+      }
+    },
+    "plikt": {
+      "name": "Plikt",
+      "role": "The professor on Trondheim who lays out Demosthenes' hierarchy to her class — the scene that hands the audience the book's moral vocabulary.",
+      "look": "A sharp Nordic woman in her forties, pale cropped hair, a heavy knitted sweater under an academic gown, chalk in hand.",
+      "variant": {
+        "gender": "f",
+        "age": "adult",
+        "hairStyle": "short",
+        "hair": "#C9BFA6",
+        "skin": "#F2D5B6",
+        "outfit": "robe",
+        "suit": "#46505A",
+        "shirt": "#E9E4D6",
+        "build": "average",
+        "height": 0.99,
+        "expression": "neutral"
+      }
+    },
+    "card": {
+      "name": "Orson Scott Card",
+      "role": "The author. Show him ONLY when the hosts argue with the book's construction ('Card rigs the test') — a novelist at a desk deciding what the universe will allow, never as a character inside Milagre.",
+      "look": "A bearded writer in his forties at a plain desk, glasses, a dark cardigan over a collared shirt, pen poised over a manuscript.",
+      "variant": {
+        "gender": "m",
+        "age": "adult",
+        "hairStyle": "short",
+        "hair": "#4A4038",
+        "skin": "#EFCBA6",
+        "glasses": true,
+        "beard": "full",
+        "outfit": "vest",
+        "suit": "#544A54",
+        "shirt": "#F0ECE2",
+        "build": "average",
+        "height": 1,
+        "expression": "neutral"
+      }
+    }
+  },
+  "places": {
+    "praca": {
+      "set": "street",
+      "look": "The rain-wet praça of Milagre at dusk: whitewashed walls, cathedral steps, a few hundred colonists standing in drizzle. Where the Speaking happens.",
+      "mentions": 12,
+      "keywords": [
+        "praça",
+        "praca",
+        "plaza",
+        "square",
+        "speaking",
+        "the speaking",
+        "crowd",
+        "colony",
+        "colonists",
+        "town",
+        "milagre",
+        "funeral",
+        "eulogy",
+        "drizzle",
+        "rain",
+        "fence",
+        "gate",
+        "bishop"
+      ]
+    },
+    "forest": {
+      "set": "forest",
+      "look": "The pequenino forest beyond the fence — tall dark fathertrees, capim grass to the knee, everything alive and paired. Where Pipo and Libo were planted.",
+      "mentions": 24,
+      "keywords": [
+        "forest",
+        "tree",
+        "trees",
+        "fathertree",
+        "piggy",
+        "piggies",
+        "pequenino",
+        "pequeninos",
+        "planted",
+        "planting",
+        "third life",
+        "vivisect",
+        "vivisected",
+        "clearing",
+        "capim",
+        "rooter",
+        "woods",
+        "treeline",
+        "sapling"
+      ]
+    },
+    "ribeiraHouse": {
+      "set": "kitchen",
+      "look": "The crowded Ribeira house: a scrubbed table, too many chairs, six children and one enormous silence.",
+      "mentions": 10,
+      "keywords": [
+        "ribeira",
+        "household",
+        "kitchen",
+        "family",
+        "children",
+        "six children",
+        "quim",
+        "ela",
+        "grego",
+        "quara",
+        "olhado",
+        "home",
+        "house",
+        "dinner",
+        "table"
+      ]
+    },
+    "lab": {
+      "set": "workstation",
+      "look": "Novinha's xenobiology lab: sealed data files, tissue samples of the descolada, a bench lit too brightly at night.",
+      "mentions": 9,
+      "keywords": [
+        "lab",
+        "laboratory",
+        "xenobiolog",
+        "xenobiologist",
+        "research",
+        "files",
+        "data",
+        "descolada",
+        "virus",
+        "genome",
+        "genetic",
+        "samples",
+        "sealed",
+        "records",
+        "notes",
+        "microscope"
+      ]
+    },
+    "cathedral": {
+      "set": "room",
+      "look": "The cathedral and the monastery of the Filhos da Mente de Cristo — plain stone, candlelight, an order of married celibates teaching next door.",
+      "mentions": 7,
+      "keywords": [
+        "church",
+        "cathedral",
+        "catholic",
+        "priest",
+        "bishop",
+        "peregrino",
+        "filhos",
+        "mente",
+        "monastery",
+        "monastic",
+        "order",
+        "prayer",
+        "prays",
+        "sacrament",
+        "confession",
+        "faith",
+        "celibacy",
+        "vowed",
+        "requiem"
+      ]
+    },
+    "classroom": {
+      "set": "classroom",
+      "look": "A university lecture room on the ocean world Trondheim: cold northern light, a professor pacing, the four categories chalked up in front of a class.",
+      "mentions": 5,
+      "keywords": [
+        "classroom",
+        "trondheim",
+        "plikt",
+        "styrka",
+        "professor",
+        "student",
+        "students",
+        "lecture",
+        "university",
+        "hierarchy",
+        "utlanning",
+        "framling",
+        "raman",
+        "varelse",
+        "categories",
+        "chalk"
+      ]
+    },
+    "voyage": {
+      "set": "sky",
+      "look": "The long relativistic crossing between worlds — twenty-two years outside, a few weeks inside; the cocoon riding in a bag the whole way.",
+      "mentions": 4,
+      "keywords": [
+        "starship",
+        "voyage",
+        "relativistic",
+        "light-year",
+        "lightyear",
+        "interstellar",
+        "starways",
+        "congress",
+        "ansible",
+        "cocoon",
+        "hive queen",
+        "three thousand years",
+        "twenty-two years",
+        "space",
+        "jane"
+      ]
+    }
+  },
+  "objects": [
+    {
+      "concept": "tree",
+      "mentions": 22,
+      "why": "The fathertree is the book's central object: the third life. A pequenino who is honoured is opened and planted, and a tree grows out of him. Every 'murder' in the book is somebody trying to make one of these."
+    },
+    {
+      "concept": "grave",
+      "mentions": 18,
+      "why": "The Speaking is a funeral rite. The whole film happens over the dead: Pipo, Libo, Marcão — and the buggers."
+    },
+    {
+      "concept": "family",
+      "mentions": 16,
+      "why": "The Ribeira household is the crime scene. Six children, one secret, one man eating the town's contempt to hold it up."
+    },
+    {
+      "concept": "notes",
+      "mentions": 15,
+      "why": "Novinha's sealed research files — the thing she marries a brutal man to lock away. The plot's actual motive is a set of documents."
+    },
+    {
+      "concept": "law",
+      "mentions": 12,
+      "why": "Starways Congress rules, the fence, and Demosthenes' four categories. The hierarchy of foreignness is a legal instrument, not a description — this is the diagram the film owes the audience."
+    },
+    {
+      "concept": "heart",
+      "mentions": 12,
+      "why": "Marcão's sterility and his disease; Novinha's love for Libo; the cocoon Ender carries. The body keeps every secret in this book."
+    },
+    {
+      "concept": "key",
+      "mentions": 8,
+      "why": "Marriage as a lock. Spousal privilege is what seals the files — the wedding IS the key, which is the single most quotable idea in the episode."
+    },
+    {
+      "concept": "home",
+      "mentions": 8,
+      "why": "The fenced colony: a few hundred people walled off from a forest of people they cannot read. NOTE — we have no fence/gate icon; the fence is the book's defining structure and is worth drawing (Phase 4)."
+    },
+    {
+      "concept": "book",
+      "mentions": 7,
+      "why": "The Hive Queen and the Hegemon — the anonymous book Ender wrote that turned him into history's monster and invented the Speakers."
+    },
+    {
+      "concept": "star",
+      "mentions": 6,
+      "why": "Relativistic distance: twenty-two years of travel, three thousand years of consequence. Time is the book's cruellest instrument."
+    },
+    {
+      "concept": "war",
+      "mentions": 5,
+      "why": "The Xenocide itself — the crime the whole moral apparatus was built to apologise for."
+    },
+    {
+      "concept": "water",
+      "mentions": 5,
+      "why": "Rain on the praça. The Speaking happens in a drizzle and the book keeps returning to that grey wet light. NOTE — the descolada (a virus that rewrites genomes and pairs every species on Lusitania) has no icon; it is the story's engine and is worth drawing (Phase 4)."
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 7,
+      "claim": "A fenced Catholic colony lives beside a forest of aliens it cannot read, and the man who once wiped out a species arrives to perform a ritual that tells the whole truth about a dead man."
+    },
+    {
+      "act": "development",
+      "fromFrame": 10510,
+      "claim": "Pipo's death was not a murder but the pequeninos' highest honour — the third life — and atrocity and reverence turn out to be the identical physical act across a species line."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 21194,
+      "claim": "Demosthenes' four categories are a permissions system, not a taxonomy: 'varelse' is the label that makes killing allowable, and it is always assigned by the side that failed to understand."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 32071,
+      "claim": "Novinha's protective secret needed a whole family to hold it up — and the Speaking detonates it in one afternoon, costing exactly what the lie was buying."
+    },
+    {
+      "act": "close",
+      "fromFrame": 42713,
+      "claim": "Ender puts the knife in Human himself, and the same act that was xenocide becomes a treaty; the redemption is not that he stopped killing, but that he finally knows what he is doing."
+    }
+  ]
+}

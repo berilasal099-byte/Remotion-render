@@ -1,0 +1,2521 @@
+{
+  "slug": "speaker-for-the-dead",
+  "totalSequences": 55,
+  "totalScenes": 212,
+  "averageDurationSecs": 34,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "fromFrame": 7,
+      "durationFrames": 979,
+      "durationSeconds": 32.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 7,
+          "durationFrames": 283,
+          "role": "setup",
+          "narration": "Nobody in this book kills out of hatred. I mean, every single corpse in it is the result of somebody"
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 290,
+          "durationFrames": 226,
+          "role": "question",
+          "narration": "uh or merciful, which is such a wild concept, right? And that brings us directly to the mission of o"
+        },
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 516,
+          "durationFrames": 312,
+          "role": "complication",
+          "narration": "Because looking at the stack of notes and the source ticks you sent us about Orson Scott, Speaker fo"
+        },
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 828,
+          "durationFrames": 158,
+          "role": "reveal",
+          "narration": "right? Your notes really push us away from that angle. Exactly. Your notes suggest something far mor"
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "fromFrame": 986,
+      "durationFrames": 1018,
+      "durationSeconds": 33.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 986,
+          "durationFrames": 219,
+          "role": "setup",
+          "narration": "We need to read this text as basically a design document for a new sacrament. A sacrament like an ac"
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1205,
+          "durationFrames": 201,
+          "role": "question",
+          "narration": "A ritual engineers blueprint. It's a formal public and entirely complete telling of a dead person's "
+        },
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1406,
+          "durationFrames": 252,
+          "role": "complication",
+          "narration": "Very heavy. And the core argument we are going to prove to you as we navigate this incredibly tragic"
+        },
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 1658,
+          "durationFrames": 346,
+          "role": "reveal",
+          "narration": "Every death in this book is produced by an act of A protective act. Yes. Card's ultimate argument he"
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "fromFrame": 2004,
+      "durationFrames": 1171,
+      "durationSeconds": 39,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 2004,
+          "durationFrames": 206,
+          "role": "setup",
+          "narration": "in the And the ritual of the speaking is his antidote to that deadly force."
+        },
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2210,
+          "durationFrames": 231,
+          "role": "question",
+          "narration": "But Card is honest enough to show this antidote just well completely detonating before it actually h"
+        },
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2441,
+          "durationFrames": 338,
+          "role": "complication",
+          "narration": "I mean, before we get to the explosion, we really have to establish the physical and legal architect"
+        },
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 2779,
+          "durationFrames": 396,
+          "role": "reveal",
+          "narration": "society, you need to know the rules. Based on your notes, we are on the colony world of Lusitania, r"
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "fromFrame": 3175,
+      "durationFrames": 1217,
+      "durationSeconds": 40.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 3175,
+          "durationFrames": 195,
+          "role": "setup",
+          "narration": "settlement. Very isolated. Licensed under incredibly strict Catholic rules by the Starways Congress "
+        },
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 3370,
+          "durationFrames": 201,
+          "role": "question",
+          "narration": "uh the governing body for humanity across the stars. The big bureaucracy. Exactly. So this community"
+        },
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 3571,
+          "durationFrames": 295,
+          "role": "partial_answer",
+          "narration": "It's deeply religious and profoundly cut off. And outside their fence lives an intelligent technolog"
+        },
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 3866,
+          "durationFrames": 252,
+          "role": "complication",
+          "narration": "Yeah. Or the piggies. And the legal stakes here are just absolute because of what happened before, r"
+        },
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 4118,
+          "durationFrames": 274,
+          "role": "reveal",
+          "narration": "race, the buggers, due to a catastrophic failure of the original xenocide. Yes. And because of that "
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "fromFrame": 4392,
+      "durationFrames": 257,
+      "durationSeconds": 8.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4392,
+          "durationFrames": 257,
+          "role": "reveal",
+          "narration": "the law on Lusitania dictates that humans are strictly forbidden to disturb, influence, or culturall"
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "fromFrame": 4649,
+      "durationFrames": 1308,
+      "durationSeconds": 43.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 4649,
+          "durationFrames": 281,
+          "role": "setup",
+          "narration": "The tension in that premise alone is just staggering. It's a powder keg. It really is. You have this"
+        },
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 4930,
+          "durationFrames": 180,
+          "role": "question",
+          "narration": "They are legally mandated to observe but never ever touch. Look, but don't touch."
+        },
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 5110,
+          "durationFrames": 249,
+          "role": "partial_answer",
+          "narration": "Exactly. And into this pressure cooker, we have our key players. We have the xenologist Pipo and his"
+        },
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5359,
+          "durationFrames": 245,
+          "role": "complication",
+          "narration": "Right. They have this impossible job of watching them without changing them. Then we have Novinha, t"
+        },
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 5604,
+          "durationFrames": 353,
+          "role": "reveal",
+          "narration": "Such a tragic character. So tragic. And then the next generation, Miro and Ouanda, who are secretly "
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "fromFrame": 5957,
+      "durationFrames": 1065,
+      "durationSeconds": 35.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 5957,
+          "durationFrames": 357,
+          "role": "setup",
+          "narration": "They just can't help themselves. No, they can't. And arriving into all of this chaos is Ender Wiggin"
+        },
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6314,
+          "durationFrames": 303,
+          "role": "question",
+          "narration": "by the relativistic effects of lighteed travel. Time dilation is wild. It is. And now he's arriving "
+        },
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 6617,
+          "durationFrames": 233,
+          "role": "complication",
+          "narration": "So I want to drop us right into the scene that defines that vocation because this is the first beat "
+        },
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 6850,
+          "durationFrames": 172,
+          "role": "reveal",
+          "narration": "We are in the rainy pro the plaza of Milagre. The local bishop Peregrino"
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "fromFrame": 7022,
+      "durationFrames": 833,
+      "durationSeconds": 27.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 7022,
+          "durationFrames": 320,
+          "role": "setup",
+          "narration": "is standing there in the drizzle. Just a miserable day. Yeah. Dreary, wet. And he's preparing the tr"
+        },
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 7342,
+          "durationFrames": 316,
+          "role": "question",
+          "narration": "is a ritual of comfort, right? It's designed to forgive the deceased, to soothe the grieving family,"
+        },
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 7658,
+          "durationFrames": 197,
+          "role": "reveal",
+          "narration": "Exactly. But standing there with the bishop in the rain is a stranger. It's Ender, the speaker for t"
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "fromFrame": 7855,
+      "durationFrames": 1042,
+      "durationSeconds": 34.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 7855,
+          "durationFrames": 259,
+          "role": "setup",
+          "narration": "And he is preparing to do something entirely Completely different. He is ready to read a life out lo"
+        },
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 8114,
+          "durationFrames": 252,
+          "role": "question",
+          "narration": "No edits, none. He's going to do this in public to a family and a town that honestly never actually "
+        },
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 8366,
+          "durationFrames": 327,
+          "role": "complication",
+          "narration": "And the physical staging of that scene is so crucial to understanding Card's intent here. How so? By"
+        },
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 8693,
+          "durationFrames": 204,
+          "role": "reveal",
+          "narration": "Card is forcing this brutal comparison between two entirely different technologies for processing hu"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "fromFrame": 8897,
+      "durationFrames": 1010,
+      "durationSeconds": 33.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 8897,
+          "durationFrames": 235,
+          "role": "setup",
+          "narration": "Technologies of grief. I like that Yeah. Because a eulogy, which the bishop represents in this momen"
+        },
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 9132,
+          "durationFrames": 194,
+          "role": "question",
+          "narration": "Right. You don't tell the worst stories about a guy at his funeral. Exactly. We erase the failures, "
+        },
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 9326,
+          "durationFrames": 274,
+          "role": "complication",
+          "narration": "The goal is to make the memory of that person easier for the survivors to live with. It's a comforti"
+        },
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 9600,
+          "durationFrames": 307,
+          "role": "reveal",
+          "narration": "where absolution comes from accuracy instead of forgiveness. You don't forgive them. You just you un"
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "fromFrame": 9907,
+      "durationFrames": 1066,
+      "durationSeconds": 35.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 9907,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "I mean, in digital security terms, it it's the equivalent of someone standing up at your funeral and"
+        },
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 10147,
+          "durationFrames": 247,
+          "role": "question",
+          "narration": "Oh, god. Terrifying, right? Your most private diary entries, your financial failures, your deepest r"
+        },
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 10394,
+          "durationFrames": 370,
+          "role": "complication",
+          "narration": "And somehow they were framing this exposure as an act of grace. But it completely bypasses consent e"
+        },
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 10764,
+          "durationFrames": 209,
+          "role": "reveal",
+          "narration": "his feet, and does it. And he does it because the speaker's allegiance is to the truth of the life n"
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "fromFrame": 10973,
+      "durationFrames": 1003,
+      "durationSeconds": 33.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 10973,
+          "durationFrames": 290,
+          "role": "setup",
+          "narration": "Exactly. Not to the comfort of the living. And staging this ritual right in front of a community tha"
+        },
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 11263,
+          "durationFrames": 204,
+          "role": "question",
+          "narration": "It forces us as the reader to judge the ritual of the speaking by what it physically does to the peo"
+        },
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 11467,
+          "durationFrames": 276,
+          "role": "complication",
+          "narration": "We have to watch the blast radius. We do. We have to see if accuracy actually provides a better foun"
+        },
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 11743,
+          "durationFrames": 233,
+          "role": "reveal",
+          "narration": "Which takes us right into the meat of the tragedy. Because the lies these people are telling each ot"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "fromFrame": 11976,
+      "durationFrames": 574,
+      "durationSeconds": 19.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 11976,
+          "durationFrames": 329,
+          "role": "setup",
+          "narration": "You highlighted a specific event in your notes that sets everything in motion. The death of Pipo, th"
+        },
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 12305,
+          "durationFrames": 245,
+          "role": "reveal",
+          "narration": "so much. Pipo is in his station. The glow of the computer terminal is lighting up this dim room. Is "
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "fromFrame": 12550,
+      "durationFrames": 1152,
+      "durationSeconds": 38.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 12550,
+          "durationFrames": 285,
+          "role": "setup",
+          "narration": "Always drizzling. He is staring at a simulation run by Novinha. She's just a teenager at this point,"
+        },
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 12835,
+          "durationFrames": 267,
+          "role": "question",
+          "narration": "A total prodigy. And she has been studying the descalada, which is this terrifying local virus on Th"
+        },
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 13102,
+          "durationFrames": 280,
+          "role": "complication",
+          "narration": "Yeah, literally the ungluing. It unzips genetic molecules. It tears DNA apart so that cells just go "
+        },
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 13382,
+          "durationFrames": 320,
+          "role": "reveal",
+          "narration": "shows people something impossible, right? It shows that the descalada agent is present in every sing"
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "fromFrame": 13702,
+      "durationFrames": 1197,
+      "durationSeconds": 39.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 13702,
+          "durationFrames": 201,
+          "role": "setup",
+          "narration": "It's thriving because the virus isn't just an infection. It's the genetic foundation of the entire e"
+        },
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 13903,
+          "durationFrames": 312,
+          "role": "question",
+          "narration": "It's a feature, not a bug. Exactly. It acts as a biological courier. It's constantly unzipping DNA, "
+        },
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 14215,
+          "durationFrames": 406,
+          "role": "complication",
+          "narration": "genetic homogenization that actually keeps the ecology from collapsing. So, Pipo is watching this ch"
+        },
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 14621,
+          "durationFrames": 278,
+          "role": "reveal",
+          "narration": "in his mind. He figures it out. He jumps up, grabs his coat in this frenzy of excitement, and yells "
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "fromFrame": 14899,
+      "durationFrames": 972,
+      "durationSeconds": 32.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 14899,
+          "durationFrames": 274,
+          "role": "setup",
+          "narration": "Totally. He runs out into the rain, sprinting into the forest to talk to the piggies about his epiph"
+        },
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 15173,
+          "durationFrames": 197,
+          "role": "question",
+          "narration": "His body is mutilated. His organs are spled out on the ground in a very specific deliberate pattern."
+        },
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 15370,
+          "durationFrames": 328,
+          "role": "complication",
+          "narration": "And a sapling has been planted right in his chest cavity. Just a brutal image. It is. And based on t"
+        },
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 15698,
+          "durationFrames": 173,
+          "role": "reveal",
+          "narration": "through your It's hard to reconcile, right? How can slicing a beloved scientist open,"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "fromFrame": 15871,
+      "durationFrames": 1037,
+      "durationSeconds": 34.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 15871,
+          "durationFrames": 250,
+          "role": "setup",
+          "narration": "pinning his organs to the dirt, and planting a tree in his chest be anything but a brutal, hateful I"
+        },
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 16121,
+          "durationFrames": 242,
+          "role": "question",
+          "narration": "But the horror of that scene is entirely rooted in a tragic, fundamental mistranslation of biology."
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 16363,
+          "durationFrames": 216,
+          "role": "complication",
+          "narration": "Yes. Pipo's death is not a murder. It is a misfire act of love. Okay, explain that because it sounds"
+        },
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 16579,
+          "durationFrames": 329,
+          "role": "reveal",
+          "narration": "When Pipo ran into the forest, he had just figured out the secret of the peinho's life cycle. Based "
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "fromFrame": 16908,
+      "durationFrames": 178,
+      "durationSeconds": 5.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 16908,
+          "durationFrames": 178,
+          "role": "reveal",
+          "narration": "the piggies to transition from their mobile animal state into their next stage of life, which is tre"
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "fromFrame": 17086,
+      "durationFrames": 1077,
+      "durationSeconds": 35.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 17086,
+          "durationFrames": 376,
+          "role": "setup",
+          "narration": "Yes, as trees. The trees in their forests aren't just plants. They are their ancestors. Wait, they r"
+        },
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 17462,
+          "durationFrames": 257,
+          "role": "question",
+          "narration": "animal into a plant. It takes the genetic blueprint of the piggy and the genetic blueprint of a loca"
+        },
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 17719,
+          "durationFrames": 219,
+          "role": "complication",
+          "narration": "So when the pequeninos take Pipo, open him up, and plant a sapling in his chest, they aren't torturi"
+        },
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 17938,
+          "durationFrames": 225,
+          "role": "reveal",
+          "narration": "They think they're helping him. They are trying to grant him what they call the third life. It is th"
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "fromFrame": 18163,
+      "durationFrames": 1289,
+      "durationSeconds": 43,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 18163,
+          "durationFrames": 276,
+          "role": "setup",
+          "narration": "Oh wow. They rever for his brilliant discovery and they want to graduate him to the next phase of ex"
+        },
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 18439,
+          "durationFrames": 156,
+          "role": "question",
+          "narration": "And they are utterly baffled when he just bleeds out and dies. They don't understand why he didn't"
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 18595,
+          "durationFrames": 274,
+          "role": "partial_answer",
+          "narration": "because translation failure isn't linguistic, right? It's biological. The piggies assume human biolo"
+        },
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 18869,
+          "durationFrames": 221,
+          "role": "complication",
+          "narration": "They assume that descolada will just do its thing and transform him. So atrocity and reverence can b"
+        },
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 19090,
+          "durationFrames": 362,
+          "role": "reveal",
+          "narration": "Yes. Just viewed from opposite sides of the species line. To humanity looking at that corpse, it is "
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "fromFrame": 19452,
+      "durationFrames": 1308,
+      "durationSeconds": 43.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 19452,
+          "durationFrames": 278,
+          "role": "setup",
+          "narration": "exact same corpse, it is a sacred canonization that mysteriously failed. And this creates an immedia"
+        },
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 19730,
+          "durationFrames": 149,
+          "role": "question",
+          "narration": "Which leads us to the third major concept in your notes, the legal framework, right?"
+        },
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 19879,
+          "durationFrames": 262,
+          "role": "partial_answer",
+          "narration": "How does a society govern violence when faced with the inexplicable? Because if you don't know why t"
+        },
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 20141,
+          "durationFrames": 230,
+          "role": "complication",
+          "narration": "monsters. And humanity has a history of overreacting to monsters. Exactly. So Card addresses this by"
+        },
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 20371,
+          "durationFrames": 389,
+          "role": "reveal",
+          "narration": "We go back in time to a university classroom on the planet I love this scene. It's so good. A profes"
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "fromFrame": 20760,
+      "durationFrames": 1051,
+      "durationSeconds": 35,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 20760,
+          "durationFrames": 264,
+          "role": "setup",
+          "narration": "And we the readers know Demosthenes is actually Ender's sister Valentine, right? But the universe ju"
+        },
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 21024,
+          "durationFrames": 288,
+          "role": "question",
+          "narration": "Anyway, Plikt lays out the Demosthenes' hierarchy of exclusion. The four categories of foreigness. L"
+        },
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 21312,
+          "durationFrames": 233,
+          "role": "complication",
+          "narration": "First, utlanning. A stranger from another city but still from your world. Second, framling. A strang"
+        },
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 21545,
+          "durationFrames": 266,
+          "role": "reveal",
+          "narration": "but still recognized as human. Third, Raman. A stranger of another species entirely but recognized a"
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "fromFrame": 21811,
+      "durationFrames": 1284,
+      "durationSeconds": 42.8,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 21811,
+          "durationFrames": 353,
+          "role": "setup",
+          "narration": "Someone you can actually communicate and coexist with. And finally, the big one, varelse, the true a"
+        },
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 22164,
+          "durationFrames": 199,
+          "role": "question",
+          "narration": "Right? And in that classroom, a student named Styrka angrily argues that because a piggy murdered a "
+        },
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 22363,
+          "durationFrames": 199,
+          "role": "partial_answer",
+          "narration": "that makes them inherently evil. That makes them burels, just like the buggers were thought to be. I"
+        },
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 22562,
+          "durationFrames": 200,
+          "role": "complication",
+          "narration": "Yeah. And when I first looked at this hierarchy, I thought it was just a sci-fi taxonomy, like a way"
+        },
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 22762,
+          "durationFrames": 333,
+          "role": "reveal",
+          "narration": "But interpreting them as biological classifications misses the entire function of the system. It's n"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "fromFrame": 23095,
+      "durationFrames": 989,
+      "durationSeconds": 33,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 23095,
+          "durationFrames": 228,
+          "role": "setup",
+          "narration": "A permission system. Exactly. varelse does not describe the biological nature or even the inherent m"
+        },
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 23323,
+          "durationFrames": 187,
+          "role": "question",
+          "narration": "It is a legal and moral label that makes killing them allowable without guilt. It's a license to kil"
+        },
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 23510,
+          "durationFrames": 286,
+          "role": "complication",
+          "narration": "As the speaker points out to the students in that scene, if you believe a dire beast is coming in th"
+        },
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 23796,
+          "durationFrames": 288,
+          "role": "reveal",
+          "narration": "You don't ask it how its day was, right? You do not stop to ask if it have a rich cultural history o"
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "fromFrame": 24084,
+      "durationFrames": 1315,
+      "durationSeconds": 43.8,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 24084,
+          "durationFrames": 187,
+          "role": "setup",
+          "narration": "The label just removes the ethical burden of murder. And that is the exact danger card is highlighti"
+        },
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 24271,
+          "durationFrames": 233,
+          "role": "question",
+          "narration": "varelse is always assigned by the side that failed to understand. The ones who gave up trying. It is"
+        },
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 24504,
+          "durationFrames": 326,
+          "role": "partial_answer",
+          "narration": "If the humans classify the piggies as varelse because of Pipo's death, it gives the Starways Congres"
+        },
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 24830,
+          "durationFrames": 197,
+          "role": "complication",
+          "narration": "It determines whether you send diplomats or And Ender's entire mission, his burden for the last 3,00"
+        },
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 25027,
+          "durationFrames": 372,
+          "role": "reveal",
+          "narration": "years is to stop humanity from labeling things else simply because we are too terrified to do the ha"
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "fromFrame": 25399,
+      "durationFrames": 996,
+      "durationSeconds": 33.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 25399,
+          "durationFrames": 295,
+          "role": "setup",
+          "narration": "But the terror of that misunderstanding absolutely breaks the people people leaves behind on Lusitan"
+        },
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 25694,
+          "durationFrames": 370,
+          "role": "question",
+          "narration": "This is one of the most heartbreaking sequences in the material you provided. Let's look at the psyc"
+        },
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 26064,
+          "durationFrames": 331,
+          "role": "reveal",
+          "narration": "dark at her computer terminal looking at the exact same descalada simulation that Pipo saw. The one "
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "fromFrame": 26395,
+      "durationFrames": 1243,
+      "durationSeconds": 41.4,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 26395,
+          "durationFrames": 204,
+          "role": "setup",
+          "narration": "Because she showed Pipo those files, he figured out the piggy secret and he died for it. Her logic h"
+        },
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 26599,
+          "durationFrames": 315,
+          "role": "partial_answer",
+          "narration": "She knows that Libo, Pipo's son, is just as brilliant as his father. And she loves Libo desperately "
+        },
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 26914,
+          "durationFrames": 218,
+          "role": "question",
+          "narration": "going to demand access to her xenobiology files to figure out what killed his father. He won't stop "
+        },
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 27132,
+          "durationFrames": 151,
+          "role": "complication",
+          "narration": "And if Libo sees the files, he will have the exact same epiphany had."
+        },
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 27283,
+          "durationFrames": 355,
+          "role": "reveal",
+          "narration": "He will go into the forest and the piggies will grant him the third life as He'll be murdered, too. "
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "fromFrame": 27638,
+      "durationFrames": 1090,
+      "durationSeconds": 36.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 27638,
+          "durationFrames": 348,
+          "role": "setup",
+          "narration": "She encrypts her but that's not enough. No, because here is where the Starways code, the legal archi"
+        },
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 27986,
+          "durationFrames": 339,
+          "role": "question",
+          "narration": "considered the same entity. Spousal privilege. Yeah, spousal privilege means they share data access."
+        },
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 28325,
+          "durationFrames": 225,
+          "role": "complication",
+          "narration": "to her xenobiology files. Right. She cannot legally keep the secret locked away from him if they are"
+        },
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 28550,
+          "durationFrames": 178,
+          "role": "reveal",
+          "narration": "A human firewall. Exactly. In digital security, if you can't lock the file, you isolate the network."
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "fromFrame": 28728,
+      "durationFrames": 1154,
+      "durationSeconds": 38.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 28728,
+          "durationFrames": 276,
+          "role": "setup",
+          "narration": "Novinha realizes she has to use her own life as a biological encryption key. That is such a grim way"
+        },
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 29004,
+          "durationFrames": 252,
+          "role": "question",
+          "narration": "needs a physical body to live inside, and hers required an entire household to act as the barrier. W"
+        },
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 29256,
+          "durationFrames": 266,
+          "role": "complication",
+          "narration": "Someone who has absolutely no interest in her files. Enter Marcão. Yeah. Novinha marries a brutal, v"
+        },
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 29522,
+          "durationFrames": 360,
+          "role": "reveal",
+          "narration": "entirely to use him as a filing cabinet. Marriage is the structural lock that seals her research awa"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "fromFrame": 29882,
+      "durationFrames": 874,
+      "durationSeconds": 29.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 29882,
+          "durationFrames": 168,
+          "role": "setup",
+          "narration": "abuse. It's horrible and it's partially a form of self-punishment because she feels so guilty for Pi"
+        },
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 30050,
+          "durationFrames": 310,
+          "role": "question",
+          "narration": "But functionally, it is designed to build an impenetrable legal wall between the man she loves and h"
+        },
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 30360,
+          "durationFrames": 202,
+          "role": "complication",
+          "narration": "And the tragedy just compounds because she marries Marcão, but she still desperately loves Libo."
+        },
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 30562,
+          "durationFrames": 194,
+          "role": "reveal",
+          "narration": "And over the years that love finds a It always does. They have a long secret affair."
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "fromFrame": 30756,
+      "durationFrames": 1104,
+      "durationSeconds": 36.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 30756,
+          "durationFrames": 314,
+          "role": "setup",
+          "narration": "Novinha has six children and every single one of them is biologically Libo's. Every single one. She "
+        },
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 31070,
+          "durationFrames": 276,
+          "role": "question",
+          "narration": "suffocating cover of a miserable marriage to a monster. I am so glad you brought up Marcão actually "
+        },
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 31346,
+          "durationFrames": 216,
+          "role": "complication",
+          "narration": "He's hard to read at first. Very hard. When you first encounter him, he is abhorrent. He is a drunk."
+        },
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 31562,
+          "durationFrames": 298,
+          "role": "reveal",
+          "narration": "He's cruel and dismissive to the children. Universally despised by the town. But then the speaker ar"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "fromFrame": 31860,
+      "durationFrames": 1207,
+      "durationSeconds": 40.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 31860,
+          "durationFrames": 211,
+          "role": "setup",
+          "narration": "The medical reality of Marcão's body changes everything because Marcão has a rare congenital genetic"
+        },
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 32071,
+          "durationFrames": 214,
+          "role": "question",
+          "narration": "From the onset of puberty, his glands slowly turn into fatty tissues, meaning he is completely irrev"
+        },
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 32285,
+          "durationFrames": 365,
+          "role": "complication",
+          "narration": "He knows it. The town doctors eventually know it. The medical records are crystal He could never hav"
+        },
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 32650,
+          "durationFrames": 417,
+          "role": "reveal",
+          "narration": "who all look exactly like The pain of that. This is where I had to really interrogate the text. If M"
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "fromFrame": 33067,
+      "durationFrames": 1263,
+      "durationSeconds": 42.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 33067,
+          "durationFrames": 331,
+          "role": "setup",
+          "narration": "why suffer in silence? Wait, why not snap? Is it pure spite? Does he just want to make her feel guil"
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 33398,
+          "durationFrames": 324,
+          "role": "question",
+          "narration": "Because Marcão is actually the ultimate practitioner of the protective lie. How so? The text reveals"
+        },
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 33722,
+          "durationFrames": 219,
+          "role": "complication",
+          "narration": "He endured systematic public cuckoldry because beneath his bitter exterior, he worshiped Novinha. He"
+        },
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 33941,
+          "durationFrames": 389,
+          "role": "reveal",
+          "narration": "He did. But he knew he was diseased. He felt filthy and inadequate. So he gave her a cover story. He"
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "fromFrame": 34330,
+      "durationFrames": 1070,
+      "durationSeconds": 35.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 34330,
+          "durationFrames": 374,
+          "role": "setup",
+          "narration": "He acts as the meat shield for her Exactly that. He became the ultimate shield for her family. By cl"
+        },
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 34704,
+          "durationFrames": 250,
+          "role": "question",
+          "narration": "that would have otherwise ostracized them as bastards of an adulterous affair. He absorbed all the c"
+        },
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 34954,
+          "durationFrames": 232,
+          "role": "complication",
+          "narration": "Nobody learns that he is in a deeply twisted tragic way the most moral person in Milagre until he is"
+        },
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 35186,
+          "durationFrames": 214,
+          "role": "reveal",
+          "narration": "And that brings us to the climax of the book, the speaking itself, the big detonation. Yeah. Ender h"
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "fromFrame": 35400,
+      "durationFrames": 1142,
+      "durationSeconds": 38.1,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 35400,
+          "durationFrames": 209,
+          "role": "setup",
+          "narration": "Marcão has died of his illness. Ender has investigated using his AI companion, Jane, to bypass the c"
+        },
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 35609,
+          "durationFrames": 237,
+          "role": "question",
+          "narration": "And he has figured out the genetic truth of Novinha's He has all the pieces. So Ender stands before "
+        },
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 35846,
+          "durationFrames": 216,
+          "role": "partial_answer",
+          "narration": "He announces Marcão's absolute sterility to everyone, exposing Novinha's affair and the true parenta"
+        },
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 36062,
+          "durationFrames": 221,
+          "role": "complication",
+          "narration": "We always hear the phrase, \"The truth sets you free.\" And is a platitude we rely on, right? But Card"
+        },
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 36283,
+          "durationFrames": 259,
+          "role": "reveal",
+          "narration": "It is a profound disruption of the community. Card is showing us the visceral cost of truth. The sen"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "fromFrame": 36542,
+      "durationFrames": 1076,
+      "durationSeconds": 35.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 36542,
+          "durationFrames": 233,
+          "role": "setup",
+          "narration": "The camera pans to the reactions of Novinha's children as a speaker talks. Ela, the eldest daughter,"
+        },
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 36775,
+          "durationFrames": 262,
+          "role": "question",
+          "narration": "freeze with shock. Just total paralysis. Quim, the religious fanatic of the family, tastes bile in h"
+        },
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 37037,
+          "durationFrames": 276,
+          "role": "complication",
+          "narration": "realizing his mother is an adulteress and his entire life is a sin. It breaks him. But the most deva"
+        },
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 37313,
+          "durationFrames": 305,
+          "role": "reveal",
+          "narration": "Oh, this part. These are the two young researchers. They have been secretly continuing Pipo and Libo"
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "fromFrame": 37618,
+      "durationFrames": 969,
+      "durationSeconds": 32.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 37618,
+          "durationFrames": 408,
+          "role": "setup",
+          "narration": "They're planning to marry. Yes. But as Ender speaks, revealing that Libo fathered all of Novinha's c"
+        },
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 38026,
+          "durationFrames": 326,
+          "role": "question",
+          "narration": "because the speaker has just driven the wedge of the incest taboo right between them. Libo is Miro's"
+        },
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 38352,
+          "durationFrames": 235,
+          "role": "reveal",
+          "narration": "They have been kissing their sibling. The psychological revulsion is immediate and it's permanent. T"
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "fromFrame": 38587,
+      "durationFrames": 1078,
+      "durationSeconds": 35.9,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 38587,
+          "durationFrames": 161,
+          "role": "setup",
+          "narration": "The truth does not heal cleanly. First, it explodes. It's a bomb."
+        },
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 38748,
+          "durationFrames": 158,
+          "role": "question",
+          "narration": "The speaking not only ends Miro and Ouanda's romantic love in an instant of sheer horror."
+        },
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 38906,
+          "durationFrames": 267,
+          "role": "partial_answer",
+          "narration": "The ensuing investigation into the family also exposes their illegal contact with the piggies to the"
+        },
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 39173,
+          "durationFrames": 177,
+          "role": "complication",
+          "narration": "Card is making a specific argument here. The truth costs exactly what the lie was"
+        },
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 39350,
+          "durationFrames": 315,
+          "role": "reveal",
+          "narration": "Think about the accounting of that. Novinha bought Libo's life and her children's legitimacy with he"
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "fromFrame": 39665,
+      "durationFrames": 336,
+      "durationSeconds": 11.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 39665,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "And the bill for all those decades of protective secrets comes due in one single devastating afterno"
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "fromFrame": 40001,
+      "durationFrames": 967,
+      "durationSeconds": 32.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 40001,
+          "durationFrames": 326,
+          "role": "setup",
+          "narration": "underneath it. The speaking isn't a gentle process. It is a demolition and the Catholic Church is st"
+        },
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 40327,
+          "durationFrames": 267,
+          "role": "question",
+          "narration": "pivot in your notes. You would assume a strict Catholic colony would burn this secular speaker at th"
+        },
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 40594,
+          "durationFrames": 165,
+          "role": "complication",
+          "narration": "Bishop Peregrino and the Filhos da Mente. This is a Catholic order vowed to celibacy."
+        },
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 40759,
+          "durationFrames": 209,
+          "role": "reveal",
+          "narration": "They initially fight Ender tooth and nail. They see him as a heretic, a threat to the souls of the f"
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "fromFrame": 40968,
+      "durationFrames": 1123,
+      "durationSeconds": 37.4,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 40968,
+          "durationFrames": 180,
+          "role": "setup",
+          "narration": "The bishop even threatens to excommunicate anyone who attends the But as the demolition happens,"
+        },
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 41148,
+          "durationFrames": 149,
+          "role": "question",
+          "narration": "the bishop experiences a revelation. He does. He is watching Bruxinha."
+        },
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 41297,
+          "durationFrames": 201,
+          "role": "partial_answer",
+          "narration": "This is Libo's actual widow, She is standing in the crowd wailing men lies"
+        },
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 41498,
+          "durationFrames": 368,
+          "role": "complication",
+          "narration": "as she learns of her husband's lifelong affair with Novinha. Just a devastating moment for her. The "
+        },
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 41866,
+          "durationFrames": 225,
+          "role": "reveal",
+          "narration": "It's like watching two rival doctors, one spiritual and one secular, trying to cure the exact same d"
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "fromFrame": 42091,
+      "durationFrames": 447,
+      "durationSeconds": 14.9,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 42091,
+          "durationFrames": 207,
+          "role": "setup",
+          "narration": "That's a great because for years, Bruxinha thought her husband's distance, his sadness, his distract"
+        },
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 42298,
+          "durationFrames": 240,
+          "role": "reveal",
+          "narration": "was her fault. She thought she wasn't enough for him. And the speaker is publicly lifting that blame"
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "fromFrame": 42538,
+      "durationFrames": 1250,
+      "durationSeconds": 41.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 42538,
+          "durationFrames": 290,
+          "role": "setup",
+          "narration": "He's telling her with absolute authority and accuracy that her husband's failure had nothing to do w"
+        },
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 42828,
+          "durationFrames": 185,
+          "role": "question",
+          "narration": "The bishop watches this happen, prays, \"Blessed virgin, let Bruxinha hear what he says and believe i"
+        },
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 43013,
+          "durationFrames": 417,
+          "role": "complication",
+          "narration": "The realization here is that the book is not anti-religious at all. Not at all. Card argues that a r"
+        },
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 43430,
+          "durationFrames": 358,
+          "role": "reveal",
+          "narration": "The bishop recognizes that a secular civilization will either build a structure to deal with grief a"
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "fromFrame": 43788,
+      "durationFrames": 1008,
+      "durationSeconds": 33.6,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 43788,
+          "durationFrames": 312,
+          "role": "setup",
+          "narration": "mechanism. He recognizes Ender as a fellow priest just wearing different vestments which perfectly s"
+        },
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 44100,
+          "durationFrames": 372,
+          "role": "question",
+          "narration": "The climate after the speaking shatters the town, the Starways Congress finds out about Miro and Oua"
+        },
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 44472,
+          "durationFrames": 324,
+          "role": "reveal",
+          "narration": "the aliens to technological stagnation. Ender knows he has to forge a permanent treaty between human"
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "fromFrame": 44796,
+      "durationFrames": 1267,
+      "durationSeconds": 42.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 44796,
+          "durationFrames": 322,
+          "role": "setup",
+          "narration": "Time is up. So we go into the forest. Ender sits in the dirt with the piggy named human. Human has l"
+        },
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 45118,
+          "durationFrames": 324,
+          "role": "question",
+          "narration": "bridging the gap between species, he asks Ender for the ultimate the highest honor. He lies on the g"
+        },
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 45442,
+          "durationFrames": 309,
+          "role": "complication",
+          "narration": "give life to 10,000 children. He asked Ender to give him the third And Ender, the man known across t"
+        },
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 45751,
+          "durationFrames": 312,
+          "role": "reveal",
+          "narration": "squats down and takes the knives. He prepares to cut into a living, breathing, speaking being. Now, "
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "fromFrame": 46063,
+      "durationFrames": 1032,
+      "durationSeconds": 34.4,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 46063,
+          "durationFrames": 187,
+          "role": "setup",
+          "narration": "Ender's redemption for killing an alien species is that he commits the exact same horrific"
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 46250,
+          "durationFrames": 192,
+          "role": "question",
+          "narration": "violent act that killed I know it sounds contradictory. He vivisex an alien."
+        },
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 46442,
+          "durationFrames": 272,
+          "role": "partial_answer",
+          "narration": "How does the narrative justify that as a moral Because if we connect this to the overarching theme o"
+        },
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 46714,
+          "durationFrames": 184,
+          "role": "complication",
+          "narration": "narrative beat in the story. Okay, unpack that. Ender grants Human the third life with his own hands"
+        },
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 46898,
+          "durationFrames": 197,
+          "role": "reveal",
+          "narration": "It is the exact same physical act that killed Pipo. The mechanics of the knives, the blood, the plan"
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "fromFrame": 47095,
+      "durationFrames": 1047,
+      "durationSeconds": 34.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 47095,
+          "durationFrames": 341,
+          "role": "setup",
+          "narration": "It is physically identical, but the meaning is different, but this time has the absolute opposite me"
+        },
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 47436,
+          "durationFrames": 276,
+          "role": "question",
+          "narration": "communion. So the physical action doesn't determine the morality. Precisely. The only variable betwe"
+        },
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 47712,
+          "durationFrames": 283,
+          "role": "complication",
+          "narration": "You have to do the homework. Yes. Andrew's redemption is not that he stopped killing. His redemption"
+        },
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 47995,
+          "durationFrames": 147,
+          "role": "reveal",
+          "narration": "He understands the biology of the descalada and the spiritual weight of the act for the picninos."
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "fromFrame": 48142,
+      "durationFrames": 1032,
+      "durationSeconds": 34.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 48142,
+          "durationFrames": 247,
+          "role": "setup",
+          "narration": "He isn't acting out of human fear. He's acting out of alien love and shared knowledge. Wow. I want t"
+        },
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 48389,
+          "durationFrames": 197,
+          "role": "question",
+          "narration": "as beautiful and perfectly constructed as that thematic resolution is, looking closely at your notes"
+        },
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 48586,
+          "durationFrames": 319,
+          "role": "complication",
+          "narration": "we need to offer a vital honest critique of Card's world building for you to consider. We have to be"
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 48905,
+          "durationFrames": 269,
+          "role": "reveal",
+          "narration": "of his philosophy. He builds a universe specifically designed to validate empathy. The pequenino's m"
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "fromFrame": 49174,
+      "durationFrames": 1065,
+      "durationSeconds": 35.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 49174,
+          "durationFrames": 324,
+          "role": "setup",
+          "narration": "A simple Empathy works perfectly here because the universe of Lusitania was artificially built by th"
+        },
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 49498,
+          "durationFrames": 220,
+          "role": "question",
+          "narration": "the terrifying aliens were just trying to give people a beautiful gift. It's very convenient. But wh"
+        },
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 49718,
+          "durationFrames": 276,
+          "role": "complication",
+          "narration": "What about a species that genuinely means humanity harm? A species you can't reason with, right? A s"
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 49994,
+          "durationFrames": 245,
+          "role": "reveal",
+          "narration": "that wants to eat us or enslave us or simply expand at our expense, that species never goes on trial"
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "fromFrame": 50239,
+      "durationFrames": 1219,
+      "durationSeconds": 40.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 50239,
+          "durationFrames": 351,
+          "role": "setup",
+          "narration": "It's easy to preach radical empathy when the terrifying aliens turn out to be well-meaning tree peop"
+        },
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 50590,
+          "durationFrames": 232,
+          "role": "question",
+          "narration": "Ender's philosophy of understanding. And there is a secondary critique regarding the ritual of the s"
+        },
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 50822,
+          "durationFrames": 291,
+          "role": "complication",
+          "narration": "Yeah, it is inherently non-consensual. Ender detonates the privacy of Novinha, and Ouanda. He expose"
+        },
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 51113,
+          "durationFrames": 345,
+          "role": "reveal",
+          "narration": "their affairs, their medical secrets to the entire town without asking. And the book treats the emot"
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "fromFrame": 51458,
+      "durationFrames": 209,
+      "durationSeconds": 7,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 51458,
+          "durationFrames": 209,
+          "role": "reveal",
+          "narration": "Right. Does a wandering philosopher have the right to come into your town, hack your medical records"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "fromFrame": 51667,
+      "durationFrames": 1162,
+      "durationSeconds": 38.7,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 51667,
+          "durationFrames": 346,
+          "role": "setup",
+          "narration": "I healed your community.\" It's a huge overstep. Does the end justify the means when the means involv"
+        },
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 52013,
+          "durationFrames": 149,
+          "role": "question",
+          "narration": "for the reader to grapple with. It's a forceful, almost arrogant intervention."
+        },
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 52162,
+          "durationFrames": 206,
+          "role": "partial_answer",
+          "narration": "And that brings us to our final payoff, which reframes this entire discussion about protective lies "
+        },
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 52368,
+          "durationFrames": 161,
+          "role": "complication",
+          "narration": "The big reveal. Think about the entire legal and moral framework of this galaxy."
+        },
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 52529,
+          "durationFrames": 300,
+          "role": "reveal",
+          "narration": "3,000 years of human moral vocabulary, the concept of speakers for the dead, the dimthenian hierarch"
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "fromFrame": 52829,
+      "durationFrames": 1351,
+      "durationSeconds": 45,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 52829,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "of empathy that governs the Starways Congress. It all descends from one short anonymous book. The Hi"
+        },
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 53069,
+          "durationFrames": 213,
+          "role": "question",
+          "narration": "Yes. The book Ender wrote after he wiped out the buggers. A book that a guilty man wrote simply so h"
+        },
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 53282,
+          "durationFrames": 224,
+          "role": "partial_answer",
+          "narration": "Ender wrote it anonymously. He created the moral framework for the entire galaxy out of his own crip"
+        },
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 53506,
+          "durationFrames": 280,
+          "role": "complication",
+          "narration": "And the grand tragic irony of this entire story is that the inventor of the ritual of speaking the d"
+        },
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 53786,
+          "durationFrames": 394,
+          "role": "reveal",
+          "narration": "Ender Wiggin has spent 3,000 years traveling at light speed, detonating other people's protective li"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "fromFrame": 54180,
+      "durationFrames": 1003,
+      "durationSeconds": 33.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 205,
+          "sceneId": "scene-205",
+          "fromFrame": 54180,
+          "durationFrames": 302,
+          "role": "setup",
+          "narration": "while he himself has been carrying the hive queen, the last surviving cocoon of the race he destroye"
+        },
+        {
+          "index": 206,
+          "sceneId": "scene-206",
+          "fromFrame": 54482,
+          "durationFrames": 365,
+          "role": "question",
+          "narration": "He's been carrying it this entire time. He is the ultimate hypocrite, hiding behind the anonymous ti"
+        },
+        {
+          "index": 207,
+          "sceneId": "scene-207",
+          "fromFrame": 54847,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "while carrying the greatest secret in the history of the universe in his It's brilliant. So, looking"
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "fromFrame": 55183,
+      "durationFrames": 865,
+      "durationSeconds": 28.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 208,
+          "sceneId": "scene-208",
+          "fromFrame": 55183,
+          "durationFrames": 228,
+          "role": "setup",
+          "narration": "Bringing it back down to earth, Ender forces the people of Lusitania to face the consequences of the"
+        },
+        {
+          "index": 209,
+          "sceneId": "scene-209",
+          "fromFrame": 55411,
+          "durationFrames": 219,
+          "role": "question",
+          "narration": "So we will leave you with this to the final thought. What protective lies are currently functioning "
+        },
+        {
+          "index": 210,
+          "sceneId": "scene-210",
+          "fromFrame": 55630,
+          "durationFrames": 168,
+          "role": "complication",
+          "narration": "What secrets are you keeping right now to spare someone else's feelings or to protect yourself from "
+        },
+        {
+          "index": 211,
+          "sceneId": "scene-211",
+          "fromFrame": 55798,
+          "durationFrames": 250,
+          "role": "reveal",
+          "narration": "And if a speaker for the dead arrived tomorrow uninvited to tear those walls down with total unspari"
+        }
+      ]
+    }
+  ]
+}

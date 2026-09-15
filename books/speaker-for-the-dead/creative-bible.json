@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-15T13:39:11.521Z",
+    "generator": "Antidote/Vox Unified Art Director v5.0",
+    "book": {
+      "title": "Speaker for the Dead",
+      "author": "Orson Scott Card",
+      "genre": "science-fiction"
+    }
+  },
+  "world": {
+    "universeKey": "contemporary_general",
+    "label": "Contemporary General Non-Fiction",
+    "recommendedEngine": "antidote",
+    "engineConfidence": 0.7,
+    "engineRationale": "Balanced narrative pace suited for expressive vector characters and kinetic callouts.",
+    "palette": {
+      "primary": "#4E7A3A",
+      "secondary": "#1E293B",
+      "accent": "#C87F3C",
+      "paper": "#E7E7D8",
+      "ink": "#121A17"
+    }
+  },
+  "antidote": {
+    "preferredSets": [
+      "office",
+      "room",
+      "stage"
+    ],
+    "activeCustomMotifs": {},
+    "gaps": []
+  },
+  "vox": {
+    "primaryDocType": "newspaper",
+    "suggestedLocations": [],
+    "photoPromptStyle": "Contemporary General Non-Fiction, archival editorial lighting, documentary realism, tactile paper texture, 35mm photograph"
+  }
+}

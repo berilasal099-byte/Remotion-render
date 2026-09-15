@@ -1,0 +1,16 @@
+{
+  "slug": "speaker-for-the-dead",
+  "title": "Speaker for the Dead",
+  "author": "Orson Scott Card",
+  "genre": "science-fiction",
+  "engine": "antidote",
+  "engineRationale": "Deliberate inverse of Ender's Game: no fleet, no Battle Room. The book is a domestic mystery and a moral argument — the Ribeira kitchen, a eulogy, guilt, grief, and the Hierarchy of Foreignness (utlanning/framling/raman/varelse), which is literally a four-tier diagram. Its non-human subjects (pequeninos, the descolada, sentient trees) go uncanny under photoreal Flux, while an everyman family constellation + kinetic typography + explanatory diagrams is exactly Antidote 4.0's lane.",
+  "bgTint": true,
+  "palette": {
+    "paper": "#E7E7D8",
+    "ink": "#121A17",
+    "red": "#4E7A3A",
+    "gold": "#C87F3C",
+    "captionHighlight": "#E8C66A"
+  }
+}

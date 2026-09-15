@@ -1,0 +1,54 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+
+build
+# render artifacts & runtime knobs (never track)
+out_*_chunks/
+render.concurrency
+auto-chain.*
+overnight.*
+# derived render assets — regenerated on the runner from the raw audio, so they
+# never need to live in git (keeps the repo small between renders)
+*.mastered.m4a
+# logs / crash dumps
+*.log
+*.err.log
+*.stackdump
+# committed-by-accident Python virtualenv (was bloating origin with ~1000 files)
+venv/
+.venv/
+
+# multi-worker render pool — HOLDS GITHUB PATs, never commit (would leak to worker repos on push)
+render-accounts.json
+render-worker-*.json
+.render-github-state.json
+.render-github-split*.json
+
+# transient scratch / test files
+test_*.js
+test_*.py
+*-FINAL.mp4
+tmp/
+scene-prompts.*
+render-props.json
+timeline.txt
+update_json.js
+vox-prompts.*.txt
+youtube-meta.*.json
+fast_assemble.py
+aws.txt
+AWS_SESSION_REGISTRY.md
+
+# Credential dumps pasted in by hand (guncel_env.txt held live AWS keys)
+guncel_env.txt
+*env*.txt
+lambda_help.txt
+lambda_sites_help.txt
+
+# Derived, regenerable: node scripts/audit-relevance.js --slug=<slug> --report
+books/*/relevance-report.json
