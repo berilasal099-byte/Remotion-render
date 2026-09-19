@@ -1,0 +1,312 @@
+{
+  "slug": "dust",
+  "title": "Dust",
+  "author": "Hugh Howey",
+  "genre": "science-fiction",
+  "generatedAt": "2026-09-19T17:58:00.000Z",
+  "_artDirector": "thumbnail-art-director.js v2",
+  "channelContext": {
+    "priorThumbnails": 3
+  },
+  "concepts": [
+    {
+      "conceptId": "soul-01",
+      "angle": "soul",
+      "hook": "THEY LIED ABOUT OUTSIDE",
+      "evidence": "Charlotte Keene's Drone: Breaking the Blindness",
+      "thesis": "The inner psychological conflict — what drives the character from inside.",
+      "visualSubject": "Close-up portrait of Juliette Nichols in split Rembrandt lighting, one side in cold subterranean shadow, the other side illuminated by the radiant blue sky and green trees of the outside world, surreal double exposure showing a lush coastline within her silhouette",
+      "iconicMotif": "drone",
+      "emotion": "introspective revelation",
+      "layout": "split-face",
+      "camera": "tight medium shot",
+      "lighting": "split Rembrandt, cool shadow vs warm highlight",
+      "style": "double-exposure",
+      "negativeSpace": "right",
+      "fluxPrompt": "Close-up cinematic portrait of a determined female mechanic, split Rembrandt lighting, cool industrial shadow on one side and golden warm sunlight on the other, surreal double-exposure photography with silhouette revealing a lush green coastal forest and ocean, highly detailed, no text, no watermark",
+      "imagePath": "scenes/dust/thumbnail-concept-soul.png",
+      "cutPath": "scenes/dust/thumbnail-concept-soul-cut.png",
+      "_needsCriticScore": false,
+      "_score": 80,
+      "_winner": true,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "lied",
+          "outside",
+          "blindness",
+          "drone"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 0,
+          "angleUses": 0,
+          "score": 1
+        },
+        "evidence": "Charlotte Keene's Drone: Breaking the Blindness"
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 80,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 0.4,
+        "visualQuality": 0.61,
+        "semanticRelevance": 1,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.808,
+        "composition": 0.5,
+        "negativeSpace": 1,
+        "hookQuality": 0.8,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "conflict-03",
+      "angle": "conflict",
+      "hook": "KILL THE MASTER SWITCH",
+      "evidence": "Donald's Choice: Cutting the Umbilical Cord",
+      "thesis": "Two opposing forces in direct visual tension: ideas, people, systems.",
+      "visualSubject": "On the left, Juliette Nichols in grease-stained mechanics gear holding a heavy wrench in warm amber light; on the right, Donald Keene in Silo 1 control room with communications headset and radioactive monitors in cool sterile blue; opposing faces of the rebellion",
+      "iconicMotif": "airlock",
+      "emotion": "tension and urgency",
+      "layout": "two-subject-vs",
+      "camera": "medium two-shot",
+      "lighting": "high-contrast cross-lighting, each side its own color temperature",
+      "style": "cinematic-35mm",
+      "negativeSpace": "center",
+      "fluxPrompt": "Two opposing figures in dramatic confrontation: on the left a grease-stained female mechanic in warm amber light, on the right a gaunt silver-haired man in a sterile high-tech bunker control room in cool cyan shadow, high-contrast cross-lighting, 35mm film still, cinematic, award-winning cinematography, no text, no watermark",
+      "imagePath": "scenes/dust/thumbnail-concept-conflict.png",
+      "cutPath": "scenes/dust/thumbnail-concept-conflict-cut.png",
+      "_needsCriticScore": false,
+      "_score": 79,
+      "_winner": false,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "donald",
+          "choice",
+          "umbilical",
+          "switch"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 0,
+          "angleUses": 0,
+          "score": 1
+        },
+        "evidence": "Donald's Choice: Cutting the Umbilical Cord"
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 79,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 0.4,
+        "visualQuality": 0.67,
+        "semanticRelevance": 0.8999999999999999,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.476,
+        "composition": 1,
+        "negativeSpace": 0.744,
+        "hookQuality": 0.8,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "mystery-04",
+      "angle": "mystery",
+      "hook": "THE 500 YEAR TRAP",
+      "evidence": "Hidden Pipes & The Architecture of Amnesia",
+      "thesis": "A provocative question or hidden truth that makes the viewer need to click.",
+      "visualSubject": "An intricate architectural cross-section of a gargantuan 144-level subterranean concrete silo descending into the deep black earth, tiny spiral staircase in center, single dramatic warm beam of spotlight, dark intricate ink etching style of Gustave Doré",
+      "iconicMotif": "silo",
+      "emotion": "burning curiosity",
+      "layout": "text-poster",
+      "camera": "macro or abstract",
+      "lighting": "single beam spotlight on key object",
+      "style": "ink-etching",
+      "negativeSpace": "center",
+      "fluxPrompt": "An intricate architectural cross-section of a gargantuan 144-level subterranean concrete silo descending into the deep black earth, tiny spiral staircase in center, single dramatic warm beam of spotlight, dark intricate ink etching, Gustave Doré style engraving, fine crosshatching, aged paper texture, no text, no watermark",
+      "imagePath": "scenes/dust/thumbnail-concept-mystery.png",
+      "cutPath": "scenes/dust/thumbnail-concept-mystery-cut.png",
+      "_needsCriticScore": false,
+      "_score": 75,
+      "_winner": false,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "trap",
+          "pipes",
+          "architecture",
+          "amnesia"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 0,
+          "angleUses": 0,
+          "score": 1
+        },
+        "evidence": "Hidden Pipes & The Architecture of Amnesia"
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 75,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 0.58,
+        "conceptClarity": 0.4,
+        "visualQuality": 0.951,
+        "semanticRelevance": 1,
+        "genericityPenalty": 0.6,
+        "mobileReadability": 0.524,
+        "composition": 1,
+        "negativeSpace": 0.731,
+        "hookQuality": 0.8,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "power-00",
+      "angle": "power",
+      "hook": "THE WASTELAND WAS FAKE",
+      "evidence": "The Toxic Wasteland Was a Lie",
+      "thesis": "Who controls the city, the story, or the world? Authority vs. challenger.",
+      "visualSubject": "Determined female mechanic in her early thirties, dark hair pulled back, grease-stained utilitarian mechanic coveralls, heavy steel-toed boots standing in the foreground, facing a monumental subterranean excavator drill behind her, low camera angle emphasizing scale and defiance",
+      "iconicMotif": "excavator",
+      "emotion": "confrontational defiance",
+      "layout": "portrait-right",
+      "camera": "low-angle medium-wide",
+      "lighting": "hard golden rim light, deep shadow on left",
+      "style": "brutalist-graphic",
+      "negativeSpace": "left",
+      "fluxPrompt": "Determined female mechanic in her early thirties, dark hair pulled back, grease-stained utilitarian mechanic coveralls, heavy steel-toed boots standing in the foreground facing a monumental subterranean excavator drill behind her, low camera angle, hard golden rim light, deep shadow on left for typography, brutalist graphic design artwork, stark geometric shapes, heavy film grain, limited duotone palette of concrete grey and warning amber, no text, no watermark",
+      "imagePath": "scenes/dust/thumbnail-concept-power.png",
+      "cutPath": "scenes/dust/thumbnail-concept-power-cut.png",
+      "_needsCriticScore": false,
+      "_score": 68,
+      "_winner": false,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "wasteland",
+          "fake",
+          "toxic",
+          "lie"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 0,
+          "angleUses": 1,
+          "score": 1
+        },
+        "evidence": "The Toxic Wasteland Was a Lie"
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 68,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 0.58,
+        "conceptClarity": 0.4,
+        "visualQuality": 0.722,
+        "semanticRelevance": 0.75,
+        "genericityPenalty": 0.6,
+        "mobileReadability": 0.487,
+        "composition": 1,
+        "negativeSpace": 0.848,
+        "hookQuality": 0.8,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "scene-02",
+      "angle": "scene",
+      "hook": "THE DUST WAS LOCAL",
+      "evidence": "The Real Perimeter: Local Dome vs. Living Earth",
+      "thesis": "The single most iconic or visually striking scene from the book.",
+      "visualSubject": "A solitary scout drone flying high above a dark localized ring of toxic smog, looking down at the 50 silo vents emitting grey smoke while beyond the perimeter stretches an infinite green vibrant earth with blue oceans, cinematic wide establishing shot",
+      "iconicMotif": "perimeter",
+      "emotion": "awe and liberation",
+      "layout": "cinematic-bleed",
+      "camera": "wide establishing shot",
+      "lighting": "volumetric dramatic backlighting",
+      "style": "epic-matte",
+      "negativeSpace": "left",
+      "fluxPrompt": "A solitary aerial scout drone flying high above a dark localized dome of toxic grey ash and smog, below are industrial bunker exhaust vents, while beyond the circular perimeter stretches a vast, pristine green Earth with blue skies and ocean, dramatic volumetric lighting, epic matte painting, sweeping cinematic concept art, wide establishing shot, no text, no watermark",
+      "imagePath": "scenes/dust/thumbnail-concept-scene.png",
+      "cutPath": "scenes/dust/thumbnail-concept-scene-cut.png",
+      "_needsCriticScore": false,
+      "_score": 63,
+      "_winner": false,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "dust",
+          "local",
+          "perimeter",
+          "earth"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 1,
+          "angleUses": 0,
+          "score": 0.95
+        },
+        "evidence": "The Real Perimeter: Local Dome vs. Living Earth"
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 63,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 0.4,
+        "conceptClarity": 0.4,
+        "visualQuality": 0.632,
+        "semanticRelevance": 1,
+        "genericityPenalty": 0.3,
+        "mobileReadability": 0.678,
+        "composition": 1,
+        "negativeSpace": 0.763,
+        "hookQuality": 0.8,
+        "titleComplement": 0.5
+      }
+    }
+  ],
+  "winner": {
+    "conceptId": "soul-01",
+    "angle": "soul",
+    "hook": "THEY LIED ABOUT OUTSIDE",
+    "layout": "split-face",
+    "style": "double-exposure",
+    "imagePath": "scenes/dust/thumbnail-concept-soul.png",
+    "cutPath": "scenes/dust/thumbnail-concept-soul-cut.png",
+    "score": 80,
+    "scoredAt": "2026-09-19T14:59:14.444Z",
+    "evaluationMode": "pixel-inspected",
+    "policy": {
+      "ok": true,
+      "reasons": [],
+      "groundedWords": [
+        "lied",
+        "outside",
+        "blindness",
+        "drone"
+      ],
+      "novelty": {
+        "exactHookRepeat": false,
+        "layoutUses": 0,
+        "angleUses": 0,
+        "score": 1
+      },
+      "evidence": "Charlotte Keene's Drone: Breaking the Blindness"
+    }
+  }
+}

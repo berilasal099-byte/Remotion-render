@@ -1,0 +1,15 @@
+{
+  "slug": "dust",
+  "title": "Dust",
+  "author": "Hugh Howey",
+  "genre": "science-fiction",
+  "engine": "vox",
+  "engineRationale": "Epic finale of the Silo trilogy with specific characters (Juliette, Donald, Thurman, Charlotte, Solo), industrial tunnel excavators, drone surface recon, and subterranean bunker demolition — photoreal Flux cinematic stills (Vox) capture the scale, grit, and climactic stakes.",
+  "palette": {
+    "paper": "#EAEFF4",
+    "ink": "#0D131F",
+    "red": "#DC2626",
+    "gold": "#EAB308"
+  },
+  "bgTint": true
+}

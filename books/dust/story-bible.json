@@ -1,0 +1,86 @@
+{
+  "slug": "dust",
+  "world": {
+    "era": "dystopian subterranean future",
+    "worldId": "silo_universe",
+    "approxYear": 2350,
+    "setting": "subterranean concrete silos, industrial steel machinery, toxic dust wasteland and living coastal frontier",
+    "register": "gritty industrial sci-fi",
+    "forbid": [
+      "classical antiquity",
+      "toga",
+      "ancient greek",
+      "ancient rome",
+      "marble temple",
+      "swords",
+      "chariot",
+      "medieval",
+      "phone",
+      "laptopMockup",
+      "coffee"
+    ]
+  },
+  "visualProvenance": {
+    "bookId": "dust",
+    "worldId": "silo_universe",
+    "allowedMotifs": ["excavator", "silo", "airlock", "drone", "tunnel", "seedCache", "argonGas"],
+    "forbiddenMotifs": ["toga", "ancientTemple", "bust", "cave_fire"],
+    "allowedCharacters": ["juliette", "donald", "charlotte", "solo", "thurman"],
+    "allowedLocations": ["downDeep", "excavatorTunnel", "silo1Control", "surfacePerimeter", "greenCoast"],
+    "allowedProps": ["heatTape", "flashlight", "droneRemote", "wrench", "gasMask"]
+  },
+  "cast": {
+    "juliette": {
+      "name": "Juliette Nichols",
+      "role": "Sheriff & Chief Mechanic",
+      "look": "Determined female mechanic in her early thirties, dark hair pulled back, grease-stained utilitarian mechanic coveralls, heavy steel-toed boots, sharp observant gaze",
+      "variant": {},
+      "mentions": 18
+    },
+    "donald": {
+      "name": "Donald Keene",
+      "role": "Terminal Architect & Saboteur in Silo 1",
+      "look": "Gaunt, silver-haired man in hospital garments and military control headset, pale skin showing cellular radiation sickness, defiant tragic eyes",
+      "variant": {},
+      "mentions": 12
+    },
+    "charlotte": {
+      "name": "Charlotte Keene",
+      "role": "Drone Reconnaissance Pilot",
+      "look": "Athletic woman in flight jumpsuit operating drone control goggles and transmitter console",
+      "variant": {},
+      "mentions": 8
+    },
+    "thurman": {
+      "name": "Senator Thurman",
+      "role": "Totalitarian Founder of the Silo Pact",
+      "look": "Austere elderly technocrat in cold corporate suit with authoritarian glare",
+      "variant": {},
+      "mentions": 10
+    }
+  },
+  "places": {
+    "tunnel": {
+      "set": "excavatorTunnel",
+      "look": "Massive horizontal cylindrical tunnel bored through dark earth by a titanic rotary cutter drill, exposed rock, hanging cables and water pipes",
+      "mentions": 14
+    },
+    "silo": {
+      "set": "downDeep",
+      "look": "Gargantuan 144-level vertical cylindrical concrete silo, spiraling steel staircases, rusted industrial railings, atmospheric haze",
+      "mentions": 20
+    },
+    "perimeter": {
+      "set": "surfacePerimeter",
+      "look": "Desolate gray ash hills under a localized toxic dust cloud, rusted airlock mound, silhouette of a drone rising above the smog into blue sky",
+      "mentions": 12
+    }
+  },
+  "objects": [
+    { "concept": "excavator", "mentions": 15 },
+    { "concept": "drone", "mentions": 12 },
+    { "concept": "silo", "mentions": 11 },
+    { "concept": "airlock", "mentions": 10 },
+    { "concept": "argon", "mentions": 8 }
+  ]
+}
