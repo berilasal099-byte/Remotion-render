@@ -1,0 +1,20 @@
+{
+  "slug": "verity",
+  "title": "Verity",
+  "author": "Colleen Hoover",
+  "genre": "thriller",
+  "engine": "antidote",
+  "engineRationale": "Genre \"thriller\" → Antidote: flat-vector rigged characters + kinetic typography (higher conversion, cheaper render). Override with --engine=vox if the book needs photoreal depictions of real people.",
+  "bgTint": true,
+  "palette": {
+    "paper": "#F8F6F0",
+    "ink": "#121316",
+    "red": "#991B1B",
+    "gold": "#B45309"
+  },
+  "dna": {
+    "visual": {
+      "iconSet": ["notes", "book", "home", "family", "grave", "phone", "crash", "mirror", "mask", "law", "shield"]
+    }
+  }
+}

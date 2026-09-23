@@ -1,0 +1,1447 @@
+{
+  "version": "P2.0",
+  "slug": "verity",
+  "status": "PASS",
+  "counts": {
+    "scenes": 263,
+    "violations": 0,
+    "diagnostics": 162
+  },
+  "violations": [
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "intro",
+      "index": 0,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'family' is not grounded in this segment's narration",
+      "sceneId": "scene-01",
+      "index": 1,
+      "concept": "family",
+      "severity": "diagnostic",
+      "segment": "second Verity is a victim, Lowen is just a predator who stole a paralyzed mother's life and helped execute her. I mean, yeah, it completely like\nsecond Verity i"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-01",
+      "index": 1,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-02",
+      "index": 2,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-03",
+      "index": 3,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-04",
+      "index": 4,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'family' is not grounded in this segment's narration",
+      "sceneId": "scene-05",
+      "index": 5,
+      "concept": "family",
+      "severity": "diagnostic",
+      "segment": "are not here to just, you know, recap a standard domestic thriller about an evil mother. No, absolutely not. The stack of sources we have in front of us today i"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-05",
+      "index": 5,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'phone' is not grounded in this segment's narration",
+      "sceneId": "scene-06",
+      "index": 6,
+      "concept": "phone",
+      "severity": "diagnostic",
+      "segment": "We're pulling from the main narrative following our protagonist, Lo and Ashley, but then we also have these like fragments of an unpublished, deeply disturbing "
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-06",
+      "index": 6,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-07",
+      "index": 7,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-08",
+      "index": 8,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-09",
+      "index": 9,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-10",
+      "index": 10,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-11",
+      "index": 11,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "That is the exact phrase we are going to keep circling back to today. Because reading this material, it's it's like being placed on the jury of a high stakes mu"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-11",
+      "index": 11,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'shield' is not grounded in this segment's narration",
+      "sceneId": "scene-12",
+      "index": 12,
+      "concept": "shield",
+      "severity": "diagnostic",
+      "segment": "But there's this massive reality breaking catch. You are the jury, but both the prosecution and the defense have been caught lying to you.\nBut there's this mass"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-12",
+      "index": 12,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-13",
+      "index": 13,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "Like both sides are just completely fundamentally unreliable. And yet you are still forced to render a verdict. You still have to decide who is the monster and "
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-13",
+      "index": 13,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-14",
+      "index": 14,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "And that verdict you render, honestly, it says infinitely more about your own psychological blind spots, like your own biases, than it does about the objective "
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-14",
+      "index": 14,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-15",
+      "index": 15,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-16",
+      "index": 16,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "I was trying to figure out how to even describe this feeling to you, the listener. And it's almost like, okay, think about going to the hospital with a broken a"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-16",
+      "index": 16,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-17",
+      "index": 17,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-18",
+      "index": 18,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "Right. It's broken or it's not. Exactly. The bone is broken or it's intact. It is black and white. And as humans, we want morality to be an X-ray. Oh, that's so"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-18",
+      "index": 18,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-19",
+      "index": 19,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'tree' is not grounded in this segment's narration",
+      "sceneId": "scene-20",
+      "index": 20,
+      "concept": "tree",
+      "severity": "diagnostic",
+      "segment": "But this book takes that X-ray machine and just smashes it with a hammer. It leaves you in the dark sifting through the pieces trying to guess what the picture "
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-20",
+      "index": 20,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-21",
+      "index": 21,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "FOREIGN_WORLD",
+      "message": "scene claims subject 'socratic_inquiry' owned by world 'plato-republic', not 'colleen-hoover-verity'",
+      "sceneId": "scene-22",
+      "index": 22,
+      "motif": "socratic_inquiry",
+      "severity": "diagnostic"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-24",
+      "index": 24,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "Yeah. Her mental state is incredibly fragile right from the jump. Very. She has been isolated in her apartment, acting as the sole caretaker for her mother, who"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-25",
+      "index": 25,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "So Lowen is barely holding on to her sanity, but she forces herself to leave her apartment for this meeting with her publisher, a meeting she literally needs to"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'crash' is not grounded in this segment's narration",
+      "sceneId": "scene-26",
+      "index": 26,
+      "concept": "crash",
+      "severity": "diagnostic",
+      "segment": "And on her way there, she witnesses a horrific fatal pedestrian accident in Manhattan.\nAnd on her way there, she witnesses a horrific fatal pedestrian accident "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'grave' is not grounded in this segment's narration",
+      "sceneId": "scene-27",
+      "index": 27,
+      "concept": "grave",
+      "severity": "diagnostic",
+      "segment": "Just a sudden, gruesome death right in front of her And that moment of ultimate visceral vulnerability is exactly where Jeremy Crawford enters the picture. Righ"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'crash' is not grounded in this segment's narration",
+      "sceneId": "scene-28",
+      "index": 28,
+      "concept": "crash",
+      "severity": "diagnostic",
+      "segment": "He is the handsome, wealthy, but deeply grieving husband of Verity Crawford. Now, Verity is a superstar thriller author who has recently been in a terrible car "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'wallet' is not grounded in this segment's narration",
+      "sceneId": "scene-30",
+      "index": 30,
+      "concept": "wallet",
+      "severity": "diagnostic",
+      "segment": "hire a ghost writer. He needs someone to finish his wife's massively successful book series. So he offers this life-saving, highly lucrative contract to Lowen.\n"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'lightbulb' is not grounded in this segment's narration",
+      "sceneId": "scene-32",
+      "index": 32,
+      "concept": "lightbulb",
+      "severity": "diagnostic",
+      "segment": "we just pause and look at it objectively, is an incredibly precarious position for Lowen to put herself in. Oh, it's a terrible idea, right?\nwe just pause and l"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-33",
+      "index": 33,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "She's physically isolated in this strange house in the woods. She's emotionally fragile from her mother's death, and she is stepping into the literal shoes of a"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'crack' is not grounded in this segment's narration",
+      "sceneId": "scene-34",
+      "index": 34,
+      "concept": "crack",
+      "severity": "diagnostic",
+      "segment": "square inch of that environment. While she's digging through this office, surrounded by the silence of a comeomaos woman just upstairs, Lowen doesn't find like "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-35",
+      "index": 35,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "next she finds an unpublished manuscript, an autobiography titled So Be It.\nnext she finds an unpublished manuscript, an autobiography titled So Be It."
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-36",
+      "index": 36,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "And what is written inside that manuscript is going to fundamentally break her reality.\nAnd what is written inside that manuscript is going to fundamentally bre"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-37",
+      "index": 37,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "It really is. But um I actually think if we start with the manuscript, we're missing the mechanism of the trap. Oh, interesting.\nIt really is. But um I actually"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-38",
+      "index": 38,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "What do you mean? Well, we really can't understand Lowen's psychological unraveling in that Vermont house without first examining the exact moment she meets Jer"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'phone' is not grounded in this segment's narration",
+      "sceneId": "scene-41",
+      "index": 41,
+      "concept": "phone",
+      "severity": "diagnostic",
+      "segment": "The source text describes this with brutal sensory detail. Like Lowen closes her eyes, but she hears the man's head pop like the cork of a champagne bottle. Uh "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'funnelMetrics' is not grounded in this segment's narration",
+      "sceneId": "scene-44",
+      "index": 44,
+      "concept": "funnelMetrics",
+      "severity": "diagnostic",
+      "segment": "introduce Jeremy, He isn't introduced as a romantic lead here. He is introduced as a savior, the immediate caretaker.\nintroduce Jeremy, He isn't introduced as a"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'shield' is not grounded in this segment's narration",
+      "sceneId": "scene-46",
+      "index": 46,
+      "concept": "shield",
+      "severity": "diagnostic",
+      "segment": "He really does. He guides her away from the indifferent Manhattan crowd and maneuvers her into a locked coffee shop And it's in this tiny locked\nHe really does."
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'gift' is not grounded in this segment's narration",
+      "sceneId": "scene-48",
+      "index": 48,
+      "concept": "gift",
+      "severity": "diagnostic",
+      "segment": "shirt to wear because hers is soaked in blood. And in doing so, he locks the bathroom door to give her privacy while she strips down to her bra to wash the bloo"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-50",
+      "index": 50,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "Involuntary intimacy. Tell me more about Think about it. In any normal social setting, Lowen and Jeremy would just be two strangers passing on the street.\nInvol"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'gift' is not grounded in this segment's narration",
+      "sceneId": "scene-52",
+      "index": 52,
+      "concept": "gift",
+      "severity": "diagnostic",
+      "segment": "No, definitely not. But trauma has this incredible terrifying power to act as an accelerant for intimacy. By locking that door and giving her his own clothing, "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'family' is not grounded in this segment's narration",
+      "sceneId": "scene-61",
+      "index": 61,
+      "concept": "family",
+      "severity": "diagnostic",
+      "segment": "crushed, which is quite a statement, right? And Jeremy just drops this absolute bombshell. He says, \"I pulled my 8-year-old daughter's body out of a lake 5 mont"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-63",
+      "index": 63,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "Yeah. Like she feels embarrassed by her own tragedy. Yeah. She tells him her mother died of cancer the week prior, but internally she thinks he wins. He wins. I"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-66",
+      "index": 66,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "that for a second. Is Jeremy doing this on purpose? Like, is he deliberately using his dead daughter to disarm her, or is it just two broken people That's the m"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-68",
+      "index": 68,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "sets a really dangerous baseline. The normal rules of polite society, the ethical boundaries of dealing with a married man, the natural caution a woman should f"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'chains' is not grounded in this segment's narration",
+      "sceneId": "scene-69",
+      "index": 69,
+      "concept": "chains",
+      "severity": "diagnostic",
+      "segment": "shared proximity to death. It's all erased. And the physical boundary crossing of literally putting on Jeremy's shirt establishes a physical debt.\nshared proxim"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'work' is not grounded in this segment's narration",
+      "sceneId": "scene-72",
+      "index": 72,
+      "concept": "work",
+      "severity": "diagnostic",
+      "segment": "And when she accepts the contract and packs her bags for Vermont, she isn't just traveling to a new job location. She's traveling into the epicenter of his trau"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-73",
+      "index": 73,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "house and what I really see as the core of Lowen's descent. the ghost writer\nhouse and what I really see as the core of Lowen's descent. the ghost writer"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-75",
+      "index": 75,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "The environment is a character in itself. I mean, the house is entirely saturated with verity. Her expensive clothes are hanging in the closets. Her specific pe"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'crash' is not grounded in this segment's narration",
+      "sceneId": "scene-77",
+      "index": 77,
+      "concept": "crash",
+      "severity": "diagnostic",
+      "segment": "Exactly. Lowen is ostensibly there to organize files, but almost immediately you see her slipping into the negative space that Verity's accident left Right?\nExa"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'work' is not grounded in this segment's narration",
+      "sceneId": "scene-79",
+      "index": 79,
+      "concept": "work",
+      "severity": "diagnostic",
+      "segment": "requiring roundthe-clock nursing care. And Lowen is downstairs rumaging through her underwear drawer as she describes the office.\nrequiring roundthe-clock nursi"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'lightbulb' is not grounded in this segment's narration",
+      "sceneId": "scene-80",
+      "index": 80,
+      "concept": "lightbulb",
+      "severity": "diagnostic",
+      "segment": "I really want to dig into this idea of psychological vampirism because ghostwriting by its very nature requires a certain level of mimicry. But Lowen takes it s"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-82",
+      "index": 82,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "You're touching on the inherent danger of the ghost writing process. To ghostrite successfully, it is an act of deep psychological mirroring.\nYou're touching on"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'magnifier' is not grounded in this segment's narration",
+      "sceneId": "scene-86",
+      "index": 86,
+      "concept": "magnifier",
+      "severity": "diagnostic",
+      "segment": "Yes. There's this incredibly telling, deeply uncomfortable detail from the sources.\nYes. There's this incredibly telling, deeply uncomfortable detail from the s"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'alarmClock' is not grounded in this segment's narration",
+      "sceneId": "scene-87",
+      "index": 87,
+      "concept": "alarmClock",
+      "severity": "diagnostic",
+      "segment": "Lowen is settling into her guest room. She's looking for something to sleep in. And instead of digging out her own pajamas, she finds an old t-shirt of Jeremy's"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-88",
+      "index": 88,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "Jeremy and Verity's bed, cuz she's staying in the master bedroom while Jeremy sleeps elsewhere. And she starts fixating on the physical remnants of their marria"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-93",
+      "index": 93,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "replacing someone who is still physically present but mentally absent. Lowen is in this house observing Jeremy's profound, debilitating grief.\nreplacing someone"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'family' is not grounded in this segment's narration",
+      "sceneId": "scene-94",
+      "index": 94,
+      "concept": "family",
+      "severity": "diagnostic",
+      "segment": "She's watching him interact so tenderly with his young son crew. And slowly, subconsciously, at first, she begins to weaponize these observations.\nShe's watchin"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-96",
+      "index": 96,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "happiness, and conveniently, she is right there, willing and able to provide it. She is actively feeding on the emotional void in that house. It is a total usur"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-102",
+      "index": 102,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "Please do. Verity writes, \"A writer should never have the audacity to write about themselves unless they're willing to separate every layer of protection betwee"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'star' is not grounded in this segment's narration",
+      "sceneId": "scene-103",
+      "index": 103,
+      "concept": "star",
+      "severity": "diagnostic",
+      "segment": "The words should come directly from the center of the gut, tearing through flesh and bone as they break free. ugly and honest and bloody and a little bit terrif"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-110",
+      "index": 110,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "worse, therefore this horrifying thing must be the absolute truth. Exactly. We confuse a lack of self-preservation with honesty. And Verity Ers's manuscript lea"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'magnifier' is not grounded in this segment's narration",
+      "sceneId": "scene-112",
+      "index": 112,
+      "concept": "magnifier",
+      "severity": "diagnostic",
+      "segment": "She does. She details how she and Jeremy first met, hooking up aggressively in the back of a stolen limousine. And she paints this picture of a\nShe does. She de"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-113",
+      "index": 113,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "borderline obsessive, toxic, all-consuming romance. She is addicted to him.\nborderline obsessive, toxic, all-consuming romance. She is addicted to him."
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'fire' is not grounded in this segment's narration",
+      "sceneId": "scene-114",
+      "index": 114,
+      "concept": "fire",
+      "severity": "diagnostic",
+      "segment": "But then she juxtaposes this intense, burning passion for her husband with a cold, terrifying, almost reptilian detachment toward her own children.\nBut then she"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-115",
+      "index": 115,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "She writes about actively resenting her twin daughters, Chastin and Harper, from the literal moment they were born. Not postpartum depression where you feel num"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'puppeteer' is not grounded in this segment's narration",
+      "sceneId": "scene-120",
+      "index": 120,
+      "concept": "puppeteer",
+      "severity": "diagnostic",
+      "segment": "Verity literally makes her millions by knowing exactly how to manipulate a reader's emotions, how to pace a reveal, and how to craft a compelling, believable so"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'phone' is not grounded in this segment's narration",
+      "sceneId": "scene-121",
+      "index": 121,
+      "concept": "phone",
+      "severity": "diagnostic",
+      "segment": "antagonist. Yet, when Lowen reads, so be it. She completely abandons all of her critical thinking skills. She stops being a writer analyzing a text and becomes "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-122",
+      "index": 122,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "Okay, I have to push back on Lowen here. Like I really want to challenge the idea that Lowen is just a helpless victim of her own confirmation bias swept away b"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-123",
+      "index": 123,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "Doesn't Lowen want to be Oh, absolutely. If Verity writes from the villain's point of view for a living, isn't it highly likely she knows exactly how to manipul"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'gift' is not grounded in this segment's narration",
+      "sceneId": "scene-124",
+      "index": 124,
+      "concept": "gift",
+      "severity": "diagnostic",
+      "segment": "for cruelty you just talked about? She's a master at it. Exactly. She is giving the reader exactly what they think authenticity sounds like.\nfor cruelty you jus"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-125",
+      "index": 125,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "If I find a manuscript where a woman claims she tried to abort her baby and hates her kids, my first thought, especially if she's a fiction writer, is that this"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'alarmClock' is not grounded in this segment's narration",
+      "sceneId": "scene-127",
+      "index": 127,
+      "concept": "alarmClock",
+      "severity": "diagnostic",
+      "segment": "Jeremy. Yeah, she is already wearing his clothes, sleeping in his bed, and feeling the profound awkwardness of Verity's lingering, paralyzed presence upstairs.\n"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-128",
+      "index": 128,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "When she reads a manuscript that paints Verity not as a tragic victim of a car crash, but as a coldblooded, calculating monster, it perfectly validates Lowen's "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-131",
+      "index": 131,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "And as Lowen reads deeper into this horrifying manuscript, the terror of what she is reading starts to leak out of the pages.\nAnd as Lowen reads deeper into thi"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-132",
+      "index": 132,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "It bleeds into the physical reality of the house, which brings us to this creeping physical This is where the story shifts from a psychological drama\nIt bleeds "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'ledge' is not grounded in this segment's narration",
+      "sceneId": "scene-135",
+      "index": 135,
+      "concept": "ledge",
+      "severity": "diagnostic",
+      "segment": "And Hoover builds this tension not with jump scares, but with these highly specific, deeply unsettling\nAnd Hoover builds this tension not with jump scares, but "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'alarmClock' is not grounded in this segment's narration",
+      "sceneId": "scene-136",
+      "index": 136,
+      "concept": "alarmClock",
+      "severity": "diagnostic",
+      "segment": "moments, like the baby monitor. Yes. Lowen is trying to sleep and she hears the baby monitor clicking on and off in the dead of night, transmitting from Verity'"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-137",
+      "index": 137,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "She walks into the living room and the television is blaring even though the nurse supposedly turned it off and Verity supposedly can't use a remote.\nShe walks "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-143",
+      "index": 143,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "the consciousness, is supposedly entirely It's like living with an unexloded bomb in your living room. You don't know if the timer is broken and it's harmless o"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'puppeteer' is not grounded in this segment's narration",
+      "sceneId": "scene-145",
+      "index": 145,
+      "concept": "puppeteer",
+      "severity": "diagnostic",
+      "segment": "helpless victim of a catastrophic brain injury and a lethal, calculating mastermind who might just be perfectly faking her paralysis to watch Lowen try to seduc"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'crack' is not grounded in this segment's narration",
+      "sceneId": "scene-149",
+      "index": 149,
+      "concept": "crack",
+      "severity": "diagnostic",
+      "segment": "There's a scene where Lowen is alone with Verity in the living room. Verity is sitting in her chair staring blankly at the television screen. Lowen takes a heav"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'lightbulb' is not grounded in this segment's narration",
+      "sceneId": "scene-151",
+      "index": 151,
+      "concept": "lightbulb",
+      "severity": "diagnostic",
+      "segment": "And she doesn't. Not a single muscle twitches. Her eyes don't even tart down. But here is the genius of the paranoia.\nAnd she doesn't. Not a single muscle twitc"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-154",
+      "index": 154,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "Lowen's paranoia reaches such a fever pitch that she actually drags a heavy wooden chest across her bedroom floor every single night to barricade the door.\nLowe"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-155",
+      "index": 155,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "And eventually, she discovers that Jeremy has actually installed a physical lock on her bedroom door from the\nAnd eventually, she discovers that Jeremy has actu"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-157",
+      "index": 157,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "But for Lowen, the lock is undeniable confirmation that the house is inherently dangerous.\nBut for Lowen, the lock is undeniable confirmation that the house is "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-160",
+      "index": 160,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "Her paranoia about the physical verity upstairs is being constantly fed and validated by the darkest, most depraved chapters of the manuscript And those dark ch"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-161",
+      "index": 161,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "unsettling to completely monstrous. I mean, if the first few chapters of So Be It were about toxic romance and bad parenting, the later chapters are an absolute"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-164",
+      "index": 164,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "and calculating cold-blooded philicide. In the manuscript, Verity details how Chastin, the first twin to die, suffers a fatal anaphylactic shock at a sleepover "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-165",
+      "index": 165,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "allergy. And Verity's internal monologue, as written in the manuscript during this tragedy, is stomach churning. She admits to the reader that she was secretly "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'compass' is not grounded in this segment's narration",
+      "sceneId": "scene-167",
+      "index": 167,
+      "concept": "compass",
+      "severity": "diagnostic",
+      "segment": "Her only actual regret, she writes, was that she wished it had been Harper who died instead of Chastin because she liked Chastin slightly more.\nHer only actual "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-168",
+      "index": 168,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "The sheer brutality of this writing is meticulously engineered by Hoover to push both the characters in the book and the reader past the threshold of rational d"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'magnifier' is not grounded in this segment's narration",
+      "sceneId": "scene-170",
+      "index": 170,
+      "concept": "magnifier",
+      "severity": "diagnostic",
+      "segment": "There is a highly specific visceral detail from the sources that just haunts me and I think it perfectly illustrates your point about testing empathy. It is the"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-171",
+      "index": 171,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "Oh, that scene is burned into my brain. In the manuscript, Verity writes about the moment Jeremy gets the phone call from the mother posting the sleepover telli"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-172",
+      "index": 172,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "At that exact moment, Verity is at the kitchen sink washing a raw chicken for dinner. Mhm. Jeremy drops the phone and lets out this guttural, agonized, soul tea"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-173",
+      "index": 173,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "And Verity, standing there holding this pale, dead bird under the faucet, writes that she is so overwhelmed and disgusted by his massive display of emotion for "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-174",
+      "index": 174,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "the raw chicken in the It is a grotesque, unforgettable image, and it perfectly encapsulates the sickness of their dynamic as portrayed in the manuscript. It is"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-176",
+      "index": 176,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "Yeah, the contrast is just jarring. And crucially in the manuscript, Vary frames this vomiting not as a mother physically reacting to the shock of mourning her "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-178",
+      "index": 178,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "Verity meticulously details her thought process about wanting to murder the surviving twin She writes pages and pages of ideiation.\nVerity meticulously details "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'star' is not grounded in this segment's narration",
+      "sceneId": "scene-179",
+      "index": 179,
+      "concept": "star",
+      "severity": "diagnostic",
+      "segment": "Yes. So when Harper eventually drowns after a canoe capsizes on the lake right in front of the house, V writes about it not as a tragic freak accident compoundi"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'target' is not grounded in this segment's narration",
+      "sceneId": "scene-180",
+      "index": 180,
+      "concept": "target",
+      "severity": "diagnostic",
+      "segment": "Exactly. to regain her husband and remove the final obstacle to his complete devotion. I want to focus on the mechanism of what this does to the reader's brain "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'war' is not grounded in this segment's narration",
+      "sceneId": "scene-181",
+      "index": 181,
+      "concept": "war",
+      "severity": "diagnostic",
+      "segment": "This absolute systematic destruction of empathy is a psychological weapon. How so? From an evolutionary biology standpoint,\nThis absolute systematic destruction"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'family' is not grounded in this segment's narration",
+      "sceneId": "scene-182",
+      "index": 182,
+      "concept": "family",
+      "severity": "diagnostic",
+      "segment": "human beings are hardwired to protect children. When we see a mother not only fail to protect her child, but actively confess to plotting her own child's death,"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'magnifier' is not grounded in this segment's narration",
+      "sceneId": "scene-184",
+      "index": 184,
+      "concept": "magnifier",
+      "severity": "diagnostic",
+      "segment": "It triggers a disgusted response that overrides the logical analytical part of her brain. Exactly. Even as an objective listener right now, just hearing me reco"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-185",
+      "index": 185,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "Lock her up. Case Right. You just want her gone. The sheer unapologetic brutality of the writing pushes you past any threshold of rational doubt.\nLock her up. C"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-186",
+      "index": 186,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "You simply do not want to defend a woman who writes about wanting to kill her child. And this absolute destruction of empathy is exactly the psychological weapo"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'wallet' is not grounded in this segment's narration",
+      "sceneId": "scene-188",
+      "index": 188,
+      "concept": "wallet",
+      "severity": "diagnostic",
+      "segment": "coveting a married man's She could rebrand herself. Exactly. She sees herself as a righteous protector. She has a moral obligation to save Jeremy and little cre"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-190",
+      "index": 190,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "no return. She takes the printed pages of the so be it manuscript, the pages detailing the murders of the children, and she intentionally leaves them out on Jer"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-191",
+      "index": 191,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "This is not a passive act. This is a highly calculated act of destruction. Lowen knows exactly what those pages will do to Jeremy. She has spent weeks observing"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-192",
+      "index": 192,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "his wife. By placing those pages there, she's weaponizing the manuscript. She is pulling the pin on a grenade and rolling it into his life.\nhis wife. By placing"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-193",
+      "index": 193,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "And the explosion is instantaneous. Jeremy reads the pages and the transformation is utterly terrifying. The gentle, grieving, infinitely patient husband and fa"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-200",
+      "index": 200,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "climax of the narrative. Jeremy, fueled by the rage of reading the manuscript,\nclimax of the narrative. Jeremy, fueled by the rage of reading the manuscript,"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'grave' is not grounded in this segment's narration",
+      "sceneId": "scene-201",
+      "index": 201,
+      "concept": "grave",
+      "severity": "diagnostic",
+      "segment": "forces Verity to choke on her own vomit. It is a brutal, agonizing death. And Lowen doesn't stop him.\nforces Verity to choke on her own vomit. It is a brutal, a"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-203",
+      "index": 203,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "is why the concept of moral permission is the only way to understand the story. Lowen needed the manuscript to be the objective truth.\nis why the concept of mor"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-204",
+      "index": 204,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "She had to have it, right? Because if the manuscript is just a story or a twisted writing exercise or work of fiction, then Lowen has just helped torture and mu"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'book' is not grounded in this segment's narration",
+      "sceneId": "scene-205",
+      "index": 205,
+      "concept": "book",
+      "severity": "diagnostic",
+      "segment": "just absolutely shilling. But if the manuscript is true, if Verity really is a sociopathic baby killer who is faking our paralysis to torture them,\njust absolut"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'star' is not grounded in this segment's narration",
+      "sceneId": "scene-206",
+      "index": 206,
+      "concept": "star",
+      "severity": "diagnostic",
+      "segment": "then Lowen and Jeremy aren't murderers. They are deliverers of righteous justice. They are eradicating evil. The manuscript functions as a get out of jail free "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-208",
+      "index": 208,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "Jeremy did. She just showed him the truth. She secures her romantic tries. She gets the sprawling house.\nJeremy did. She just showed him the truth. She secures "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'crack' is not grounded in this segment's narration",
+      "sceneId": "scene-211",
+      "index": 211,
+      "concept": "crack",
+      "severity": "diagnostic",
+      "segment": "has built her entire new perfect life upon is about to be completely irrevocably shattered. Oh man, this next part, which brings us to the most sickening, stoma"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'home' is not grounded in this segment's narration",
+      "sceneId": "scene-213",
+      "index": 213,
+      "concept": "home",
+      "severity": "diagnostic",
+      "segment": "They were living together in the Vermont house. Everything seems perfect. Everything is perfect. The monster is dead. The ghost is exercised.\nThey were living t"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-215",
+      "index": 215,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "And hidden beneath it is a letter. A letter written by Verity. We have to unpack this letter very carefully, piece by piece. Did I?\nAnd hidden beneath it is a l"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-216",
+      "index": 216,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "Because it provides a complete 180°ree counternarrative to absolutely everything we've just disc. But the letter drops a massive reality breaking bombshell that"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-217",
+      "index": 217,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "laid on us. Verity writes that Jeremy found the manuscript before the car crash. Oh my god. This changes the entire nature of Jeremy's character. Everything we "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-218",
+      "index": 218,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "gentle, patient demeanor is thrown into question. According to the letter, Jeremy read this antagonistic journaling,\ngentle, patient demeanor is thrown into que"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-220",
+      "index": 220,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "uncontrollable rage. The letter details a horrific revelation of domestic violence.\nuncontrollable rage. The letter details a horrific revelation of domestic vi"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-221",
+      "index": 221,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "Verity writes that Jeremy confronted her with the manuscript, choked her, and then forced her into the passenger seat of their It's so dark.\nVerity writes that "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'crash' is not grounded in this segment's narration",
+      "sceneId": "scene-222",
+      "index": 222,
+      "concept": "crash",
+      "severity": "diagnostic",
+      "segment": "He intentionally unbuckled her seat belt, floored the gas pedal, and drove the car head-on into a tree, attempting to murder her.\nHe intentionally unbuckled her"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-223",
+      "index": 223,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "A method, ironically and tragically, that she had brainstormed in her own manuscript. And the most devastating, heartbreaking part of the letter is Verity's exp"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'family' is not grounded in this segment's narration",
+      "sceneId": "scene-227",
+      "index": 227,
+      "concept": "family",
+      "severity": "diagnostic",
+      "segment": "and to stay close to protect her remaining son crew from a man she now believed was a violent unhinged I just want you, the listener, to sit with the sickening "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-228",
+      "index": 228,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "of that narrative for a second. Just let it wash over you. If this letter is true, Lowen didn't help execute a monster. No, she didn't. She watched a gentle, in"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'family' is not grounded in this segment's narration",
+      "sceneId": "scene-229",
+      "index": 229,
+      "concept": "family",
+      "severity": "diagnostic",
+      "segment": "get brutally strangled to death by her abusive husband. And Lowen, the hero of her own story, helped cover it It forces Lowen to look at the man sleeping next t"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-231",
+      "index": 231,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "And how does Lowen react to this reality destroying information? Think about what you would do. Would you go to the police?\nAnd how does Lowen react to this rea"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-233",
+      "index": 233,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "She destroys the letter. She takes the pages into the bathroom, rips them into tiny, unrecognizable shreds, and literally eats the pieces of paper that have Jer"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'shield' is not grounded in this segment's narration",
+      "sceneId": "scene-234",
+      "index": 234,
+      "concept": "shield",
+      "severity": "diagnostic",
+      "segment": "She swallows the evidence. She flushes the rest down the toilet. She physically destroys the truth to protect her\nShe swallows the evidence. She flushes the res"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'shield' is not grounded in this segment's narration",
+      "sceneId": "scene-236",
+      "index": 236,
+      "concept": "shield",
+      "severity": "diagnostic",
+      "segment": "It is to accept that her marriage, her pregnancy, her entire future is built on the tortured corpse of an innocent woman. She chooses the safety of her construc"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'tree' is not grounded in this segment's narration",
+      "sceneId": "scene-237",
+      "index": 237,
+      "concept": "tree",
+      "severity": "diagnostic",
+      "segment": "facts. She opts into the which leaves the reader trapped in the exact same epistemological nightmare as\nfacts. She opts into the which leaves the reader trapped"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-238",
+      "index": 238,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "We are at the final insoluble dilemma of the book. We have team manuscript and we have plet letter. The absolute brilliance of Hoover's ending is that the two d"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-239",
+      "index": 239,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "mathematically cancel each other out. They really do. There is absolutely no external evidence left in the world to prove which one is the truth. If the letter "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-240",
+      "index": 240,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "terrified trapped victim to take her wealth and her life. If the manuscript is true, Verity was a sociopathic genius manipulator playing an incredibly long game"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'alarmClock' is not grounded in this segment's narration",
+      "sceneId": "scene-244",
+      "index": 244,
+      "concept": "alarmClock",
+      "severity": "diagnostic",
+      "segment": "validates their preconceived notions, or allows them to sleep at night. It's the ultimate psychological inkplot test. Which side you choose\nvalidates their prec"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'storm' is not grounded in this segment's narration",
+      "sceneId": "scene-245",
+      "index": 245,
+      "concept": "storm",
+      "severity": "diagnostic",
+      "segment": "says infinitely more about your own moral compass and what kind of darkness you're willing to forgive than it does about the objective facts of the story.\nsays "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-246",
+      "index": 246,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "If you choose the manuscript, you are justifying extrajudicial murder to protect a family. If you choose the letter, you are forced to sit with the horrifying r"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'grave' is not grounded in this segment's narration",
+      "sceneId": "scene-251",
+      "index": 251,
+      "concept": "grave",
+      "severity": "diagnostic",
+      "segment": "We are all highly deeply susceptible to believing the truth that makes us the hero of our own story. Lowen just did it with life and death stakes. We want the w"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-252",
+      "index": 252,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "We want that broken arm x-ray we talked about at the very beginning of this deep dive clean black line, right? We want the villain to be clearly monstrous so th"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'water' is not grounded in this segment's narration",
+      "sceneId": "scene-254",
+      "index": 254,
+      "concept": "water",
+      "severity": "diagnostic",
+      "segment": "and Hoover forces us to swim in it. And I want to leave you with a final chilling thought to mull over, building entirely on this source material and the psycho"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-255",
+      "index": 255,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "We've spent this entire time debating whether the manuscript was true or if the letter was true, right? But what if both documents were lies?\nWe've spent this e"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'notes' is not grounded in this segment's narration",
+      "sceneId": "scene-257",
+      "index": 257,
+      "concept": "notes",
+      "severity": "diagnostic",
+      "segment": "chaos? A puzzle with no solution, just to torture them from beyond the grave. Oh, that's dark. Or even more terrifyingly, what if Jeremy always knew about the l"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'shield' is not grounded in this segment's narration",
+      "sceneId": "scene-259",
+      "index": 259,
+      "concept": "shield",
+      "severity": "diagnostic",
+      "segment": "If he planted it and she destroyed it to protect him, then she passed his test. She proves she is just as compromised, just as morally bankrupt as he is.\nIf he "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-260",
+      "index": 260,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "They are perfectly matched in their darkness. You are the jury in a trial where all the evidence has been eaten and flushed away.\nThey are perfectly matched in "
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'heart' is not grounded in this segment's narration",
+      "sceneId": "scene-261",
+      "index": 261,
+      "concept": "heart",
+      "severity": "diagnostic",
+      "segment": "The X-ray machine is broken, the jagged line is gone, and all you are left with is the dark, muddy water of your own assumptions.\nThe X-ray machine is broken, t"
+    },
+    {
+      "reasonCode": "VISUAL_NOT_GROUNDED_IN_SEGMENT",
+      "message": "visual subject 'law' is not grounded in this segment's narration",
+      "sceneId": "scene-262",
+      "index": 262,
+      "concept": "law",
+      "severity": "diagnostic",
+      "segment": "Good luck rendering a verdict on\nGood luck rendering a verdict on"
+    }
+  ]
+}

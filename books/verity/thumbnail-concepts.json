@@ -1,0 +1,305 @@
+{
+  "slug": "verity",
+  "title": "Verity",
+  "author": "Colleen Hoover",
+  "genre": "thriller",
+  "generatedAt": "2026-09-21T16:04:51.495Z",
+  "_artDirector": "thumbnail-art-director.js v2",
+  "channelContext": {
+    "priorThumbnails": 6
+  },
+  "concepts": [
+    {
+      "conceptId": "power-00",
+      "angle": "power",
+      "hook": "THE SETUP HOW \"VERITY\" WORKS",
+      "evidence": "The Setup: How \"Verity\" Works",
+      "thesis": "Who controls the city, the story, or the world? Authority vs. challenger.",
+      "visualSubject": "Analytical podcast host examining the psychological evidence and moral complicity. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate standing in the foreground, facing a monumental notes behind them, low camera angle emphasizing authority and scale, the crowd or opposing force barely visible at the edges",
+      "iconicMotif": "notes",
+      "emotion": "confrontational curiosity",
+      "layout": "portrait-right",
+      "camera": "low-angle medium-wide",
+      "lighting": "hard golden rim light, deep shadow on left",
+      "style": "propaganda-poster",
+      "negativeSpace": "left",
+      "fluxPrompt": "Set in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate. Analytical podcast host examining the psychological evidence and moral complicity. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate standing in the foreground, facing a monumental notes behind them, low camera angle emphasizing authority and scale, the crowd or opposing force barely visible at the edges. subject framed on right 60%, left 40% deep shadow for typography. low-angle medium-wide, hard golden rim light, deep shadow on left. deep charcoal background, warm amber accent glow, warm amber rim highlight. bold mid-century propaganda poster illustration, flat graphic shapes, limited 3-color print palette, strong diagonal composition, screen-print texture, grainy paper. eye-",
+      "imagePath": "scenes/verity/thumbnail-concept-power.png",
+      "cutPath": "scenes/verity/thumbnail-concept-power-cut.png",
+      "_needsCriticScore": false,
+      "_score": 78,
+      "_winner": true,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "setup",
+          "verity",
+          "works"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 2,
+          "angleUses": 2,
+          "score": 0.8
+        },
+        "evidence": "The Setup: How \"Verity\" Works The most disturbing moment in Varity isn't the drowning in the lake or the coat hanger.\n\nThat's the heart of Verity by Colleen Hoover — and it's not the story you remember.\n\nA deep analysis of \"Verity\" by Colle"
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 78,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 1,
+        "visualQuality": 0.779,
+        "semanticRelevance": 0.35,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.616,
+        "composition": 1,
+        "negativeSpace": 0.522,
+        "hookQuality": 0.5,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "soul-01",
+      "angle": "soul",
+      "hook": "AUTHOR'S SOUL AND THEIR BOOK",
+      "evidence": "Author's Soul And Their Book",
+      "thesis": "The inner psychological conflict — what drives the character from inside.",
+      "visualSubject": "Analytical podcast host examining the psychological evidence and moral complicity. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate, tight medium framing, their silhouette or form divided by split Rembrandt lighting, the protagonist's internal psychological conflict visible as an abstract overlay or background — reason on one side, appetite on the other",
+      "iconicMotif": "book",
+      "emotion": "introspective dread",
+      "layout": "cinematic-bleed",
+      "camera": "tight medium shot",
+      "lighting": "split Rembrandt, cool shadow vs warm highlight",
+      "style": "ink-wash",
+      "negativeSpace": "left",
+      "fluxPrompt": "Set in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate. Analytical podcast host examining the psychological evidence and moral complicity. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate, tight medium framing, their silhouette or form divided by split Rembrandt lighting, the protagonist's internal psychological conflict visible as an abstract overlay or background — reason on one side, appetite on the other. dark atmospheric space on left third, subject centered-right. tight medium shot, split Rembrandt, cool shadow vs warm highlight. muted desaturated tones, warm amber emotional heat, cool shadow contrast. moody expressive watercolor and ink wash, bleeding pigments, textured paper, dark atmospheric tones, hand-painted. eye-catchi",
+      "imagePath": "scenes/verity/thumbnail-concept-soul.png",
+      "cutPath": "scenes/verity/thumbnail-concept-soul-cut.png",
+      "_needsCriticScore": false,
+      "_score": 68,
+      "_winner": false,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "author",
+          "soul",
+          "their",
+          "book"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 2,
+          "angleUses": 2,
+          "score": 0.8
+        },
+        "evidence": "Author's Soul And Their Book The most disturbing moment in Varity isn't the drowning in the lake or the coat hanger.\n\nThat's the heart of Verity by Colleen Hoover — and it's not the story you remember.\n\nA deep analysis of \"Verity\" by Collee"
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 68,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 1,
+        "visualQuality": 0.149,
+        "semanticRelevance": 0.44999999999999996,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.109,
+        "composition": 1,
+        "negativeSpace": 1,
+        "hookQuality": 0.5,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "scene-02",
+      "angle": "scene",
+      "hook": "THE TURNING POINT",
+      "evidence": "The Setup: How \"Verity\" Works",
+      "thesis": "The single most iconic or visually striking scene from the book.",
+      "visualSubject": "The climactic scene from \"Verity\" (Author's Soul And Their Book) featuring notes: Analytical podcast host examining the psychological evidence and moral complicity. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate, Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate setting, dramatic wide shot, volumetric backlighting creating a silhouette, the weight of the moment visible in the environment",
+      "iconicMotif": "home",
+      "emotion": "awe and unease",
+      "layout": "cinematic-bleed",
+      "camera": "wide establishing shot",
+      "lighting": "volumetric dramatic backlighting",
+      "style": "epic-matte",
+      "negativeSpace": "left",
+      "fluxPrompt": "Set in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate. The climactic scene from \"Verity\" (Author's Soul And Their Book) featuring notes: Analytical podcast host examining the psychological evidence and moral complicity. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate, Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate setting, dramatic wide shot, volumetric backlighting creating a silhouette, the weight of the moment visible in the environment. dark atmospheric space on left third, subject centered-right. wide establishing shot, volumetric dramatic backlighting. rich atmospheric tones, warm amber warm backlighting. epic matte painting, sweeping cinematic concept art, volumetric atmosphere, painterly detail,",
+      "imagePath": "scenes/verity/thumbnail-concept-scene.png",
+      "cutPath": "scenes/verity/thumbnail-concept-scene-cut.png",
+      "_needsCriticScore": false,
+      "_score": 85,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise."
+        ],
+        "groundedWords": [
+          "turning"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 2,
+          "angleUses": 0,
+          "score": 0.88
+        },
+        "evidence": "The Setup: How \"Verity\" Works The most disturbing moment in Varity isn't the drowning in the lake or the coat hanger.\n\nThat's the heart of Verity by Colleen Hoover — and it's not the story you remember.\n\nA deep analysis of \"Verity\" by Colle"
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 47,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 1,
+        "visualQuality": 0.694,
+        "semanticRelevance": 0.75,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.592,
+        "composition": 1,
+        "negativeSpace": 0.39,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "conflict-03",
+      "angle": "conflict",
+      "hook": "THE FATAL CHOICE",
+      "evidence": "The Setup: How \"Verity\" Works",
+      "thesis": "Two opposing forces in direct visual tension: ideas, people, systems.",
+      "visualSubject": "Analytical podcast host examining the psychological evidence and moral complicity. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate on the left in warm golden light facing The skeptical observer weighing the manuscript confession against the letter. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate on the right in cool shadow — two opposing philosophies, the tension between them visible in the Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate environment",
+      "iconicMotif": "family",
+      "emotion": "tension and urgency",
+      "layout": "two-subject-vs",
+      "camera": "medium two-shot",
+      "lighting": "high-contrast cross-lighting, each side its own color temperature",
+      "style": "constructivist",
+      "negativeSpace": "center",
+      "fluxPrompt": "Set in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate. Analytical podcast host examining the psychological evidence and moral complicity. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate on the left in warm golden light facing The skeptical observer weighing the manuscript confession against the letter. in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate on the right in cool shadow — two opposing philosophies, the tension between them visible in the Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate environment. two figures in confrontation, text overlaid center. medium two-shot, high-contrast cross-lighting, each side its own color temperature. high contrast, warm amber warm side vs",
+      "imagePath": "scenes/verity/thumbnail-concept-conflict.png",
+      "cutPath": "scenes/verity/thumbnail-concept-conflict-cut.png",
+      "_needsCriticScore": false,
+      "_score": 82,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise.",
+          "No meaningful hook word is evidenced by the title, description, or chapters."
+        ],
+        "groundedWords": [],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 1,
+          "angleUses": 1,
+          "score": 0.8999999999999999
+        },
+        "evidence": "The Setup: How \"Verity\" Works The most disturbing moment in Varity isn't the drowning in the lake or the coat hanger.\n\nThat's the heart of Verity by Colleen Hoover — and it's not the story you remember.\n\nA deep analysis of \"Verity\" by Colle"
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 45,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 1,
+        "visualQuality": 0.673,
+        "semanticRelevance": 0.35,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.761,
+        "composition": 1,
+        "negativeSpace": 0.853,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "mystery-04",
+      "angle": "mystery",
+      "hook": "THE HIDDEN TRUTH",
+      "evidence": "The Setup: How \"Verity\" Works",
+      "thesis": "A provocative question or hidden truth that makes the viewer need to click.",
+      "visualSubject": "A symbolic Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate visualization of \"Verity\": notes depicted as an abstract metaphor — perhaps contained within a human silhouette, an iconic symbol in dramatic isolation, or a landscape of the mind. Minimal, graphic, high-concept. Deep black background with a single dramatic spotlight revealing the symbol",
+      "iconicMotif": "door",
+      "emotion": "burning curiosity",
+      "layout": "text-poster",
+      "camera": "macro or abstract",
+      "lighting": "single beam spotlight on key object",
+      "style": "papercut-diorama",
+      "negativeSpace": "center",
+      "fluxPrompt": "Set in Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate. A symbolic Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate visualization of \"Verity\": notes depicted as an abstract metaphor — perhaps contained within a human silhouette, an iconic symbol in dramatic isolation, or a landscape of the mind. Minimal, graphic, high-concept. Deep black background with a single dramatic spotlight revealing the symbol. graphic background, minimal subject, large hook text dominates. macro or abstract, single beam spotlight on key object. deep black, single warm amber beam, minimal palette. layered paper-cut diorama art, backlit paper layers, soft shadows, handcrafted texture, miniature depth. eye-catching YouTube thumbnail composition, no watermark, no",
+      "imagePath": "scenes/verity/thumbnail-concept-mystery.png",
+      "cutPath": "scenes/verity/thumbnail-concept-mystery-cut.png",
+      "_needsCriticScore": false,
+      "_score": 80,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise.",
+          "No meaningful hook word is evidenced by the title, description, or chapters."
+        ],
+        "groundedWords": [],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 0,
+          "angleUses": 0,
+          "score": 1
+        },
+        "evidence": "The Setup: How \"Verity\" Works The most disturbing moment in Varity isn't the drowning in the lake or the coat hanger.\n\nThat's the heart of Verity by Colleen Hoover — and it's not the story you remember.\n\nA deep analysis of \"Verity\" by Colle"
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 44,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 1,
+        "visualQuality": 0.645,
+        "semanticRelevance": 0.35,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.601,
+        "composition": 1,
+        "negativeSpace": 0.734,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    }
+  ],
+  "winner": {
+    "conceptId": "power-00",
+    "angle": "power",
+    "hook": "THE SETUP HOW \"VERITY\" WORKS",
+    "layout": "portrait-right",
+    "style": "propaganda-poster",
+    "imagePath": "scenes/verity/thumbnail-concept-power.png",
+    "cutPath": "scenes/verity/thumbnail-concept-power-cut.png",
+    "score": 78,
+    "scoredAt": "2026-09-21T16:05:23.642Z",
+    "evaluationMode": "pixel-inspected",
+    "policy": {
+      "ok": true,
+      "reasons": [],
+      "groundedWords": [
+        "setup",
+        "verity",
+        "works"
+      ],
+      "novelty": {
+        "exactHookRepeat": false,
+        "layoutUses": 2,
+        "angleUses": 2,
+        "score": 0.8
+      },
+      "evidence": "The Setup: How \"Verity\" Works The most disturbing moment in Varity isn't the drowning in the lake or the coat hanger.\n\nThat's the heart of Verity by Colleen Hoover — and it's not the story you remember.\n\nA deep analysis of \"Verity\" by Colle"
+    }
+  }
+}

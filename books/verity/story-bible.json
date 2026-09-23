@@ -1,0 +1,490 @@
+{
+  "slug": "verity",
+  "authored": true,
+  "authoredBy": "Claude — Author-directed Story Bible for Verity (Colleen Hoover)",
+  "world": {
+    "era": "Contemporary, ~2018–2020 — Manhattan publishing & Vermont lakeside estate",
+    "worldId": "colleen-hoover-verity",
+    "approxYear": 2019,
+    "setting": "A psychological autopsy of unreliable narration: Manhattan street corners, the publishing boardroom, and the lakeside estate in Vermont with locked bedrooms, the writer office, lake dock, and secret manuscripts.",
+    "register": "psychological thriller",
+    "forbid": [
+      "sword",
+      "chariot",
+      "toga",
+      "ancientGreek",
+      "boulder",
+      "spear",
+      "temple",
+      "agora",
+      "colonnade"
+    ]
+  },
+  "cast": {
+    "narrator": {
+      "name": "Narrator",
+      "role": "dialogue_host",
+      "look": "Analytical podcast host examining the psychological evidence and moral complicity.",
+      "variant": {
+        "skin": "#E8B98A",
+        "hair": "#2A1F18",
+        "suit": "#1E3A5F",
+        "shirt": "rgb(252,251,248)",
+        "expression": "neutral",
+        "hairStyle": "short",
+        "glasses": false,
+        "beard": "stubble",
+        "gender": "m",
+        "age": "adult",
+        "outfit": "blazer",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "average",
+        "height": 1,
+        "headScale": 1,
+        "trim": "rgb(30,58,95)",
+        "overlay": []
+      },
+      "mentions": 263
+    },
+    "verity": {
+      "name": "Verity Crawford",
+      "role": "antagonist",
+      "look": "Bedridden bestselling author in silk nightgown, unnervingly still with a locked gaze.",
+      "variant": {
+        "skin": "#EED7C5",
+        "hair": "#BC987E",
+        "suit": "#8A2B38",
+        "shirt": "#FAF6F0",
+        "expression": "neutral",
+        "hairStyle": "straight",
+        "glasses": false,
+        "beard": "none",
+        "gender": "f",
+        "age": "adult",
+        "outfit": "robe",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "slender",
+        "height": 0.98,
+        "headScale": 1,
+        "trim": "#5C1B24",
+        "overlay": []
+      },
+      "mentions": 95
+    },
+    "lowen": {
+      "name": "Lowen Ashleigh",
+      "role": "protagonist",
+      "look": "Struggling, observant ghostwriter in knit cardigan, unearthing dark family secrets.",
+      "variant": {
+        "skin": "#F0CBB0",
+        "hair": "#4A3326",
+        "suit": "#6B5B52",
+        "shirt": "#E8E2DA",
+        "expression": "concerned",
+        "hairStyle": "long",
+        "glasses": false,
+        "beard": "none",
+        "gender": "f",
+        "age": "adult",
+        "outfit": "casual",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "average",
+        "height": 0.96,
+        "headScale": 1,
+        "trim": "#4A3B32",
+        "overlay": []
+      },
+      "mentions": 120
+    },
+    "jeremy": {
+      "name": "Jeremy Crawford",
+      "role": "foil",
+      "look": "Grieving, protective husband in dark work shirt, harboring concealed rage.",
+      "variant": {
+        "skin": "#E4B892",
+        "hair": "#2D2622",
+        "suit": "#2B3542",
+        "shirt": "#D8E0E8",
+        "expression": "neutral",
+        "hairStyle": "short",
+        "glasses": false,
+        "beard": "stubble",
+        "gender": "m",
+        "age": "adult",
+        "outfit": "casual",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "heavy",
+        "height": 1.05,
+        "headScale": 1,
+        "trim": "#1A222C",
+        "overlay": []
+      },
+      "mentions": 85
+    },
+    "hoover": {
+      "name": "Colleen Hoover",
+      "role": "author_voice",
+      "look": "The author constructing the meta-fictional puzzle of competing confessions.",
+      "variant": {
+        "skin": "#F2D0B4",
+        "hair": "#3D281E",
+        "suit": "#2D3748",
+        "shirt": "#EDF2F7",
+        "expression": "neutral",
+        "hairStyle": "medium",
+        "glasses": false,
+        "beard": "none",
+        "gender": "f",
+        "age": "adult",
+        "outfit": "blazer",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "average",
+        "height": 0.98,
+        "headScale": 1,
+        "trim": "#1A202C",
+        "overlay": []
+      },
+      "mentions": 40
+    },
+    "chaston": {
+      "name": "Chastin & Harper",
+      "role": "extra",
+      "look": "The deceased twin daughters whose tragic deaths anchor the central mystery.",
+      "variant": {
+        "skin": "#F8D8C2",
+        "hair": "#A67B5B",
+        "suit": "#E2E8F0",
+        "shirt": "#FFFFFF",
+        "expression": "sad",
+        "hairStyle": "pigtails",
+        "glasses": false,
+        "beard": "none",
+        "gender": "f",
+        "age": "child",
+        "outfit": "casual",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "slender",
+        "height": 0.72,
+        "headScale": 0.9,
+        "trim": "#CBD5E1",
+        "overlay": []
+      },
+      "mentions": 20
+    },
+    "crew": {
+      "name": "Crew Crawford",
+      "role": "extra",
+      "look": "Young son navigating the silent house in colorful boy clothes.",
+      "variant": {
+        "skin": "#F4D2BA",
+        "hair": "#5A3D28",
+        "suit": "#3B6978",
+        "shirt": "#E8F0F2",
+        "expression": "fearful",
+        "hairStyle": "short",
+        "glasses": false,
+        "beard": "none",
+        "gender": "m",
+        "age": "child",
+        "outfit": "casual",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "slender",
+        "height": 0.75,
+        "headScale": 0.9,
+        "trim": "#204051",
+        "overlay": []
+      },
+      "mentions": 25
+    },
+    "everyman": {
+      "name": "The Reader",
+      "role": "everyman",
+      "look": "The skeptical observer weighing the manuscript confession against the letter.",
+      "variant": {
+        "skin": "#DFC2A5",
+        "hair": "#382D26",
+        "suit": "#4A4E69",
+        "shirt": "#F2E9E4",
+        "expression": "skeptical",
+        "hairStyle": "ponytail",
+        "glasses": true,
+        "beard": "none",
+        "gender": "f",
+        "age": "adult",
+        "outfit": "casual",
+        "headwear": "none",
+        "accessory": "none",
+        "build": "average",
+        "height": 0.95,
+        "headScale": 1,
+        "trim": "#22223B",
+        "overlay": []
+      },
+      "mentions": 263
+    }
+  },
+  "places": {
+    "manuscript": {
+      "set": "manuscript",
+      "look": "The textured manuscript page of So Be It containing the dark confessions.",
+      "mentions": 50
+    },
+    "court": {
+      "set": "court",
+      "look": "The legal and moral courtroom of public confession and evidence evaluation.",
+      "mentions": 25
+    },
+    "hospital": {
+      "set": "hospital",
+      "look": "The clinical hospital room where medical diagnoses meet comatose deception.",
+      "mentions": 20
+    },
+    "office": {
+      "set": "office",
+      "look": "Verity book-lined writing sanctuary with mahogany desk, notes, and Vermont lake view.",
+      "mentions": 45
+    },
+    "street": {
+      "set": "street",
+      "look": "Manhattan crosswalk where the opening collision splatters blood on the pavement.",
+      "mentions": 12
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "Dim master bedroom with the hospital bed, baby monitor, and loose floorboard.",
+      "mentions": 35
+    },
+    "room": {
+      "set": "room",
+      "look": "The isolated Vermont lakeside home living room and corridors.",
+      "mentions": 30
+    },
+    "stage": {
+      "set": "stage",
+      "look": "The theatrical psychological arena where the two conflicting truths clash.",
+      "mentions": 15
+    },
+    "horizon": {
+      "set": "horizon",
+      "look": "The misty Vermont lake shoreline where the tragic canoe accident took place.",
+      "mentions": 10
+    },
+    "abstract": {
+      "set": "abstract",
+      "look": "The conceptual space of moral rationalization, confirmation bias, and repressed guilt.",
+      "mentions": 20
+    }
+  },
+  "objects": [
+    {
+      "concept": "notes",
+      "mentions": 39,
+      "why": "Manuscript pages of So Be It"
+    },
+    {
+      "concept": "book",
+      "mentions": 32,
+      "why": "The Noble Virtues book series"
+    },
+    {
+      "concept": "home",
+      "mentions": 25,
+      "why": "The isolated Vermont lakeside house"
+    },
+    {
+      "concept": "family",
+      "mentions": 20,
+      "why": "The fractured Crawford family"
+    },
+    {
+      "concept": "grave",
+      "mentions": 14,
+      "why": "The deaths of daughters Harper and Chastin"
+    },
+    {
+      "concept": "phone",
+      "mentions": 11,
+      "why": "Baby monitors and urgent communications"
+    },
+    {
+      "concept": "knife",
+      "mentions": 9,
+      "why": "Jeremy testing Verity paralysis"
+    },
+    {
+      "concept": "crash",
+      "mentions": 8,
+      "why": "The car crash that incapacitated Verity"
+    },
+    {
+      "concept": "mirror",
+      "mentions": 15,
+      "why": "The psychological mirror of Lowen replacing Verity"
+    },
+    {
+      "concept": "mask",
+      "mentions": 12,
+      "why": "Faking comatose catatonia"
+    },
+    {
+      "concept": "clock",
+      "mentions": 10,
+      "why": "Seven months later and passing time"
+    },
+    {
+      "concept": "balance",
+      "mentions": 14,
+      "why": "Team Manuscript vs Team Letter"
+    },
+    {
+      "concept": "door",
+      "mentions": 16,
+      "why": "The locked bedroom door"
+    }
+  ],
+  "visualProvenance": {
+    "bookId": "verity",
+    "worldId": "colleen-hoover-verity",
+    "allowedCharacters": [
+      "narrator",
+      "hoover",
+      "verity",
+      "lowen",
+      "jeremy",
+      "chaston",
+      "crew",
+      "everyman"
+    ],
+    "allowedLocations": [
+      "manuscript",
+      "court",
+      "hospital",
+      "office",
+      "street",
+      "bedroom",
+      "room",
+      "stage",
+      "horizon",
+      "abstract"
+    ],
+    "allowedMotifs": [
+      "water",
+      "family",
+      "ripple",
+      "law",
+      "shield",
+      "compass",
+      "heart",
+      "tree",
+      "notes",
+      "book",
+      "home",
+      "grave",
+      "phone",
+      "knife",
+      "crash",
+      "mirror",
+      "mask",
+      "clock",
+      "balance",
+      "door",
+      "lock",
+      "paper",
+      "typewriter",
+      "lightbulb",
+      "star",
+      "target",
+      "crack",
+      "puzzle",
+      "lineGrowth",
+      "barChart",
+      "circle",
+      "warning",
+      "eye",
+      "cross",
+      "check"
+    ],
+    "forbiddenMotifs": [
+      "sword",
+      "chariot",
+      "toga",
+      "ancientGreek",
+      "boulder",
+      "spear",
+      "temple",
+      "agora",
+      "colonnade"
+    ],
+    "allowedProps": [
+      "water",
+      "family",
+      "ripple",
+      "law",
+      "shield",
+      "compass",
+      "heart",
+      "tree",
+      "notes",
+      "book",
+      "home",
+      "grave",
+      "phone",
+      "knife",
+      "crash",
+      "mirror",
+      "mask",
+      "clock",
+      "balance",
+      "door",
+      "lock",
+      "paper",
+      "typewriter",
+      "lightbulb",
+      "star",
+      "target",
+      "crack",
+      "puzzle",
+      "lineGrowth",
+      "barChart",
+      "circle",
+      "warning",
+      "eye",
+      "cross",
+      "check"
+    ]
+  },
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 2,
+      "claim": "The Manhattan collision and the ghostwriting offer — Lowen enters the silent Crawford house."
+    },
+    {
+      "act": "development",
+      "fromFrame": 15000,
+      "claim": "Discovering So Be It — the monstrous confession of maternal resentment and murder."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 32000,
+      "claim": "The uncanny body — Verity watching, the bedroom execution, and the death staged as an accident."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 48000,
+      "claim": "The letter under the floorboards — antagonistic journaling and the inversion of guilt."
+    },
+    {
+      "act": "close",
+      "fromFrame": 62000,
+      "claim": "Team Manuscript vs Team Letter — burning the evidence to protect the lie."
+    }
+  ]
+}

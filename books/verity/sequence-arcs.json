@@ -1,0 +1,3200 @@
+{
+  "slug": "verity",
+  "totalSequences": 75,
+  "totalScenes": 263,
+  "averageDurationSecs": 32.9,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "fromFrame": 2,
+      "durationFrames": 987,
+      "durationSeconds": 32.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 2,
+          "durationFrames": 327,
+          "role": "setup",
+          "narration": "The most disturbing moment in Varity isn't the drowning in the lake or the coat hanger. It's the rea"
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 329,
+          "durationFrames": 293,
+          "role": "question",
+          "narration": "second Varity is a victim, Lman is just a predator who stole a paralyzed mother's life and helped ex"
+        },
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 622,
+          "durationFrames": 367,
+          "role": "reveal",
+          "narration": "rips the floorboards out from under you. It just shifts the entire foundation of what you think you'"
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "fromFrame": 989,
+      "durationFrames": 1212,
+      "durationSeconds": 40.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 989,
+          "durationFrames": 225,
+          "role": "setup",
+          "narration": "moment, like that horrifying realization pretty much non-stop ever since we opened up the source mat"
+        },
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 1214,
+          "durationFrames": 322,
+          "role": "question",
+          "narration": "It really is. So, welcome everyone to today's deep dive. We are looking at Colleen Hoover's massivel"
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1536,
+          "durationFrames": 326,
+          "role": "complication",
+          "narration": "are not here to just, you know, recap a standard domestic thriller about an evil mother. No, absolut"
+        },
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1862,
+          "durationFrames": 339,
+          "role": "reveal",
+          "narration": "We're pulling from the main narrative following our protagonist, Lo and Ashley, but then we also hav"
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "fromFrame": 2201,
+      "durationFrames": 1025,
+      "durationSeconds": 34.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 2201,
+          "durationFrames": 221,
+          "role": "setup",
+          "narration": "nightmare fuel. Total nightmare fuel. And crucially, we have a hidden confession letter that just up"
+        },
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 2422,
+          "durationFrames": 151,
+          "role": "question",
+          "narration": "Yeah. And when you lay all these sources out on the table, like when you actually synthesize them,"
+        },
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2573,
+          "durationFrames": 362,
+          "role": "complication",
+          "narration": "a much darker thesis emerges, this entire narrative isn't just a thriller, you know, it is this brut"
+        },
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2935,
+          "durationFrames": 291,
+          "role": "reveal",
+          "narration": "And um the terrifying concept of moral permission. It's really a study of what we are willing to bel"
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "fromFrame": 3226,
+      "durationFrames": 1161,
+      "durationSeconds": 38.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 3226,
+          "durationFrames": 252,
+          "role": "setup",
+          "narration": "That is the exact phrase we are going to keep circling back to today. Because reading this material,"
+        },
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 3478,
+          "durationFrames": 266,
+          "role": "question",
+          "narration": "But there's this massive reality breaking catch. You are the jury, but both the prosecution and the "
+        },
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 3744,
+          "durationFrames": 324,
+          "role": "complication",
+          "narration": "Like both sides are just completely fundamentally unreliable. And yet you are still forced to render"
+        },
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 4068,
+          "durationFrames": 319,
+          "role": "reveal",
+          "narration": "And that verdict you render, honestly, it says infinitely more about your own psychological blind sp"
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "fromFrame": 4387,
+      "durationFrames": 487,
+      "durationSeconds": 16.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 4387,
+          "durationFrames": 238,
+          "role": "setup",
+          "narration": "Wow. Yeah. Hoover just forces you into this corner where your own moral compass is literally the onl"
+        },
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 4625,
+          "durationFrames": 249,
+          "role": "reveal",
+          "narration": "I was trying to figure out how to even describe this feeling to you, the listener. And it's almost l"
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "fromFrame": 4874,
+      "durationFrames": 1042,
+      "durationSeconds": 34.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4874,
+          "durationFrames": 195,
+          "role": "setup",
+          "narration": "When you get an X-ray, that machine gives you a binary truth. Right. Right. There is a jagged black "
+        },
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 5069,
+          "durationFrames": 285,
+          "role": "question",
+          "narration": "Right. It's broken or it's not. Exactly. The bone is broken or it's intact. It is black and white. A"
+        },
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 5354,
+          "durationFrames": 245,
+          "role": "complication",
+          "narration": "We desperately want this clear, undeniable proof of who the bad guy is so that we can feel justified"
+        },
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 5599,
+          "durationFrames": 317,
+          "role": "reveal",
+          "narration": "But this book takes that X-ray machine and just smashes it with a hammer. It leaves you in the dark "
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "fromFrame": 5916,
+      "durationFrames": 1022,
+      "durationSeconds": 34.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5916,
+          "durationFrames": 247,
+          "role": "setup",
+          "narration": "frame it because from the very first page, Hoover is deliberately breaking that machine. She doesn't"
+        },
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 6163,
+          "durationFrames": 183,
+          "role": "question",
+          "narration": "She throws you into it head first. So, let's establish the starting line for you. Our protagonist is"
+        },
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 6346,
+          "durationFrames": 285,
+          "role": "complication",
+          "narration": "She's a novelist living in New York City, but she is at absolute rock bottom. I mean, she's broke. S"
+        },
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6631,
+          "durationFrames": 307,
+          "role": "reveal",
+          "narration": "Yeah. Her mental state is incredibly fragile right from the jump. Very. She has been isolated in her"
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "fromFrame": 6938,
+      "durationFrames": 1150,
+      "durationSeconds": 38.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 6938,
+          "durationFrames": 303,
+          "role": "setup",
+          "narration": "So Lman is barely holding on to her sanity, but she forces herself to leave her apartment for this m"
+        },
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 7241,
+          "durationFrames": 197,
+          "role": "question",
+          "narration": "And on her way there, she witnesses a horrific fatal pedestrian accident in Manhattan."
+        },
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 7438,
+          "durationFrames": 316,
+          "role": "complication",
+          "narration": "Just a sudden, gruesome death right in front of her And that moment of ultimate visceral vulnerabili"
+        },
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 7754,
+          "durationFrames": 334,
+          "role": "reveal",
+          "narration": "He is the handsome, wealthy, but deeply grieving husband of Varity Crawford. Now, Varity is a supers"
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "fromFrame": 8088,
+      "durationFrames": 1147,
+      "durationSeconds": 38.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 8088,
+          "durationFrames": 269,
+          "role": "setup",
+          "narration": "left her completely paralyzed, essentially catatonic. Right. Just trapped in her own body. Exactly. "
+        },
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 8357,
+          "durationFrames": 302,
+          "role": "question",
+          "narration": "hire a ghost writer. He needs someone to finish his wife's massively successful book series. So he o"
+        },
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 8659,
+          "durationFrames": 360,
+          "role": "complication",
+          "narration": "And of course, she accepts. She accepts. And she leaves her total isolation in New York to move into"
+        },
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 9019,
+          "durationFrames": 216,
+          "role": "reveal",
+          "narration": "we just pause and look at it objectively, is an incredibly precarious position for Loan to put herse"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "fromFrame": 9235,
+      "durationFrames": 679,
+      "durationSeconds": 22.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 9235,
+          "durationFrames": 363,
+          "role": "setup",
+          "narration": "She's physically isolated in this strange house in the woods. She's emotionally fragile from her mot"
+        },
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 9598,
+          "durationFrames": 316,
+          "role": "reveal",
+          "narration": "square inch of that environment. While she's digging through this office, surrounded by the silence "
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "fromFrame": 9914,
+      "durationFrames": 1186,
+      "durationSeconds": 39.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 9914,
+          "durationFrames": 180,
+          "role": "setup",
+          "narration": "next she finds an unpublished manuscript, an autobiography titled So Be It."
+        },
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 10094,
+          "durationFrames": 142,
+          "role": "question",
+          "narration": "And what is written inside that manuscript is going to fundamentally break her reality."
+        },
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 10236,
+          "durationFrames": 206,
+          "role": "complication",
+          "narration": "It really is. But um I actually think if we start with the manuscript, we're missing the mechanism o"
+        },
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 10442,
+          "durationFrames": 327,
+          "role": "complication",
+          "narration": "What do you mean? Well, we really can't understand Loen's psychological unraveling in that Vermont h"
+        },
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 10769,
+          "durationFrames": 331,
+          "role": "reveal",
+          "narration": "Like, trauma is the primary catalyst for absolutely everything that follows. Okay, then let's rewind"
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "fromFrame": 11100,
+      "durationFrames": 1085,
+      "durationSeconds": 36.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 11100,
+          "durationFrames": 283,
+          "role": "setup",
+          "narration": "read the source material. It's intense. Loan is standing at a crosswalk. The crowds are pushing. A s"
+        },
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 11383,
+          "durationFrames": 329,
+          "role": "question",
+          "narration": "The source text describes this with brutal sensory detail. Like Logan closes her eyes, but she hears"
+        },
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 11712,
+          "durationFrames": 216,
+          "role": "complication",
+          "narration": "with this dead stranger's blood. It's on her face. It's on her lips. her white shirt is completely r"
+        },
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 11928,
+          "durationFrames": 257,
+          "role": "reveal",
+          "narration": "Your brain just cannot process that level of sudden violence. And notice how Hoover uses this moment"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "fromFrame": 12185,
+      "durationFrames": 1154,
+      "durationSeconds": 38.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 12185,
+          "durationFrames": 228,
+          "role": "setup",
+          "narration": "introduce Jeremy, He isn't introduced as a romantic lead here. He is introduced as a savior, the imm"
+        },
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 12413,
+          "durationFrames": 254,
+          "role": "question",
+          "narration": "He assesses her for injuries. And when he realizes she isn't physically hurt, but is covered in a de"
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 12667,
+          "durationFrames": 257,
+          "role": "complication",
+          "narration": "He really does. He guides her away from the indifferent Manhattan crowd and maneuvers her into a loc"
+        },
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 12924,
+          "durationFrames": 415,
+          "role": "reveal",
+          "narration": "bathroom where the psychological hooks are really because Jeremy doesn't just like hand her some pap"
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "fromFrame": 13339,
+      "durationFrames": 1059,
+      "durationSeconds": 35.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 13339,
+          "durationFrames": 300,
+          "role": "setup",
+          "narration": "shirt to wear because hers is soaked in blood. And in doing so, he locks the bathroom door to give h"
+        },
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 13639,
+          "durationFrames": 307,
+          "role": "question",
+          "narration": "We really need to unpack the mechanics of what is happening here because it's the foundation of thei"
+        },
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 13946,
+          "durationFrames": 245,
+          "role": "complication",
+          "narration": "Involuntary intimacy. Tell me more about Think about it. In any normal social setting, Loan and Jere"
+        },
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 14191,
+          "durationFrames": 207,
+          "role": "reveal",
+          "narration": "They would have standard societal boundaries. You don't just lock yourself in a bathroom with a stra"
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "fromFrame": 14398,
+      "durationFrames": 374,
+      "durationSeconds": 12.5,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 14398,
+          "durationFrames": 374,
+          "role": "reveal",
+          "narration": "No, definitely not. But trauma has this incredible terrifying power to act as an accelerant for inti"
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "fromFrame": 14772,
+      "durationFrames": 1078,
+      "durationSeconds": 35.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 14772,
+          "durationFrames": 166,
+          "role": "setup",
+          "narration": "micro environment. They are suddenly sharing a profound, gruesome secret."
+        },
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 14938,
+          "durationFrames": 225,
+          "role": "question",
+          "narration": "The immediate bloody aftermath of witnessing a violent It's trauma bonding on speed. That's the only"
+        },
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 15163,
+          "durationFrames": 367,
+          "role": "complication",
+          "narration": "Because you have to remember who Loen is. She severely agorophobic. She just told us she hasn't left"
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 15530,
+          "durationFrames": 320,
+          "role": "reveal",
+          "narration": "Exactly. Yet within minutes of stepping outside, she's locked in a bathroom half naked, washing a de"
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "fromFrame": 15850,
+      "durationFrames": 1101,
+      "durationSeconds": 36.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 15850,
+          "durationFrames": 379,
+          "role": "setup",
+          "narration": "It completely bypasses all her natural psychological defenses. The walls don't even have a chance to"
+        },
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 16229,
+          "durationFrames": 182,
+          "role": "question",
+          "narration": "instantly. In that bathroom, while the adrenaline is still peaking, they start creating traumas."
+        },
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 16411,
+          "durationFrames": 195,
+          "role": "complication",
+          "narration": "It turns into this twisted game of psychological oneupmanship. I found that exchange so fascinating."
+        },
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 16606,
+          "durationFrames": 345,
+          "role": "reveal",
+          "narration": "Yeah. because she notices his tie, this very specific chartreuse tie, and she asks him what happened"
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "fromFrame": 16951,
+      "durationFrames": 1027,
+      "durationSeconds": 34.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 16951,
+          "durationFrames": 379,
+          "role": "setup",
+          "narration": "crushed, which is quite a statement, right? And Jeremy just drops this absolute bombshell. He says, "
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 17330,
+          "durationFrames": 248,
+          "role": "question",
+          "narration": "our protagonist, react to hearing that this man pulled his dead child from a lake? The text actually"
+        },
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 17578,
+          "durationFrames": 400,
+          "role": "reveal",
+          "narration": "Yeah. Like she feels embarrassed by her own tragedy. Yeah. She tells him her mother died of cancer t"
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "fromFrame": 17978,
+      "durationFrames": 980,
+      "durationSeconds": 32.7,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 17978,
+          "durationFrames": 252,
+          "role": "setup",
+          "narration": "incredibly honest about how grief operates. She is using his unimaginable tragedy to validate and co"
+        },
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 18230,
+          "durationFrames": 346,
+          "role": "question",
+          "narration": "She even says it explicitly in her internal monologue later. She says something like, \"You seek out "
+        },
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 18576,
+          "durationFrames": 382,
+          "role": "reveal",
+          "narration": "that for a second. Is Jeremy doing this on purpose? Like, is he deliberately using his dead daughter"
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "fromFrame": 18958,
+      "durationFrames": 775,
+      "durationSeconds": 25.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 18958,
+          "durationFrames": 194,
+          "role": "setup",
+          "narration": "isn't it? Because from where I'm sitting, this intense, involuntary physical and emotional intimacy"
+        },
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 19152,
+          "durationFrames": 374,
+          "role": "question",
+          "narration": "sets a really dangerous baseline. The normal rules of polite society, the ethical boundaries of deal"
+        },
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 19526,
+          "durationFrames": 207,
+          "role": "reveal",
+          "narration": "shared proximity to death. It's all erased. And the physical boundary crossing of literally putting "
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "fromFrame": 19733,
+      "durationFrames": 1027,
+      "durationSeconds": 34.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 19733,
+          "durationFrames": 350,
+          "role": "setup",
+          "narration": "She owes him. She's literally wearing his goodwill. And that physical connection sets the stage for "
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 20083,
+          "durationFrames": 180,
+          "role": "question",
+          "narration": "The shirt is the Trojan horse. It allows him past her defenses, whether he intended it that way or n"
+        },
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 20263,
+          "durationFrames": 312,
+          "role": "complication",
+          "narration": "And when she accepts the contract and packs her bags for Vermont, she isn't just traveling to a new "
+        },
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 20575,
+          "durationFrames": 185,
+          "role": "reveal",
+          "narration": "house and what I really see as the core of Loen's descent. the ghost writer"
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "fromFrame": 20760,
+      "durationFrames": 984,
+      "durationSeconds": 32.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 20760,
+          "durationFrames": 216,
+          "role": "setup",
+          "narration": "as psychological vampire. Oh, I like that phrasing. Lo and arrives at the Crawford estate and the en"
+        },
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 20976,
+          "durationFrames": 254,
+          "role": "question",
+          "narration": "The environment is a character in itself. I mean, the house is entirely saturated with varity. Her e"
+        },
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 21230,
+          "durationFrames": 243,
+          "role": "complication",
+          "narration": "Her half-written notes and outlines are scattered across this massive imposing desk in her office. I"
+        },
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 21473,
+          "durationFrames": 271,
+          "role": "reveal",
+          "narration": "Exactly. Lman is ostensibly there to organize files, but almost immediately you see her slipping int"
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "fromFrame": 21744,
+      "durationFrames": 1152,
+      "durationSeconds": 38.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 21744,
+          "durationFrames": 302,
+          "role": "setup",
+          "narration": "And it's a bizarre negative space because Varity isn't dead. She is physically upstairs completely i"
+        },
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 22046,
+          "durationFrames": 274,
+          "role": "question",
+          "narration": "requiring roundthe-clock nursing care. And Loen is downstairs rumaging through her underwear drawer "
+        },
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 22320,
+          "durationFrames": 302,
+          "role": "complication",
+          "narration": "I really want to dig into this idea of psychological vampirism because ghostwriting by its very natu"
+        },
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 22622,
+          "durationFrames": 274,
+          "role": "reveal",
+          "narration": "She isn't just finishing a fictional series. She is systematically inhabiting another living woman's"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "fromFrame": 22896,
+      "durationFrames": 1022,
+      "durationSeconds": 34.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 22896,
+          "durationFrames": 221,
+          "role": "setup",
+          "narration": "You're touching on the inherent danger of the ghost writing process. To ghostrite successfully, it i"
+        },
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 23117,
+          "durationFrames": 283,
+          "role": "question",
+          "narration": "You have to learn how the other person thinks, how they structure their sentences, what their worldv"
+        },
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 23400,
+          "durationFrames": 247,
+          "role": "complication",
+          "narration": "You literally have to put on their skin. You do. But Loen takes this professional requirement and al"
+        },
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 23647,
+          "durationFrames": 271,
+          "role": "reveal",
+          "narration": "She blurs the line between studying Varity, the author, and consuming Varity, the She starts wearing"
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "fromFrame": 23918,
+      "durationFrames": 879,
+      "durationSeconds": 29.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 23918,
+          "durationFrames": 164,
+          "role": "setup",
+          "narration": "Yes. There's this incredibly telling, deeply uncomfortable detail from the sources."
+        },
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 24082,
+          "durationFrames": 369,
+          "role": "question",
+          "narration": "Loan is settling into her guest room. She's looking for something to sleep in. And instead of diggin"
+        },
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 24451,
+          "durationFrames": 346,
+          "role": "reveal",
+          "narration": "Jeremy and Varity's bed, cuz she's staying in the master bedroom while Jeremy sleeps elsewhere. And "
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "fromFrame": 24797,
+      "durationFrames": 1135,
+      "durationSeconds": 37.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 24797,
+          "durationFrames": 257,
+          "role": "setup",
+          "narration": "headboard. Yes. Oh, it's so gross. She finds these deep indentations in the wound of the headboard. "
+        },
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 25054,
+          "durationFrames": 292,
+          "role": "question",
+          "narration": "left during passionate, intense moments with Jeremy. And what does Loen do? She doesn't pull away in"
+        },
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 25346,
+          "durationFrames": 245,
+          "role": "complication",
+          "narration": "and physically inserts herself into the memory. She imagines herself in Varity's exact position, ima"
+        },
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 25591,
+          "durationFrames": 341,
+          "role": "reveal",
+          "narration": "It's so unsettling. It's like method acting gone horribly, horribly wrong. At what point does puttin"
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "fromFrame": 25932,
+      "durationFrames": 1267,
+      "durationSeconds": 42.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 25932,
+          "durationFrames": 305,
+          "role": "setup",
+          "narration": "replacing someone who is still physically present but mentally absent. Loen is in this house observi"
+        },
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 26237,
+          "durationFrames": 276,
+          "role": "question",
+          "narration": "She's watching him interact so tenderly with his young son crew. And slowly, subconsciously, at firs"
+        },
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 26513,
+          "durationFrames": 314,
+          "role": "complication",
+          "narration": "She uses his tragedy to rationalize her own growing, entirely inappropriate desires. She really does"
+        },
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 26827,
+          "durationFrames": 372,
+          "role": "reveal",
+          "narration": "happiness, and conveniently, she is right there, willing and able to provide it. She is actively fee"
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "fromFrame": 27199,
+      "durationFrames": 994,
+      "durationSeconds": 33.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 27199,
+          "durationFrames": 351,
+          "role": "setup",
+          "narration": "need justification. You need moral You can't just say, \"I want this paralyzed woman's husband, so I'"
+        },
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 27550,
+          "durationFrames": 280,
+          "role": "question",
+          "narration": "structure begins to take root when she is rumaging through the endless boxes in Varity's office and "
+        },
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 27830,
+          "durationFrames": 166,
+          "role": "complication",
+          "narration": "This is the turning point of the entire narrative. Loen finds an autobiography written by Varity."
+        },
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 27996,
+          "durationFrames": 197,
+          "role": "reveal",
+          "narration": "And it is crucial to understand that this is not a standard polished PR approved memoir. Not at all."
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "fromFrame": 28193,
+      "durationFrames": 965,
+      "durationSeconds": 32.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 28193,
+          "durationFrames": 295,
+          "role": "setup",
+          "narration": "Yeah. Let me read you the opening credo from this manuscript because it tells you exactly how Varity"
+        },
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 28488,
+          "durationFrames": 358,
+          "role": "question",
+          "narration": "Please do. Verity writes, \"A writer should never have the audacity to write about themselves unless "
+        },
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 28846,
+          "durationFrames": 312,
+          "role": "reveal",
+          "narration": "The words should come directly from the center of the gut, tearing through flesh and bone as they br"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "fromFrame": 29158,
+      "durationFrames": 492,
+      "durationSeconds": 16.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 29158,
+          "durationFrames": 141,
+          "role": "setup",
+          "narration": "An autobiography encouraging the reader to like the author is not a true autobiography."
+        },
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 29299,
+          "durationFrames": 351,
+          "role": "reveal",
+          "narration": "One should only walk away from an autobiography with at best an uncomfortable distaste for its Just "
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "fromFrame": 29650,
+      "durationFrames": 1123,
+      "durationSeconds": 37.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 29650,
+          "durationFrames": 237,
+          "role": "setup",
+          "narration": "a culture consume personal narratives. Yeah, we have developed this cultural phenomenon, a fetish re"
+        },
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 29887,
+          "durationFrames": 252,
+          "role": "question",
+          "narration": "We have been conditioned to falsely equate horrific, cruel, or socially unacceptable admissions with"
+        },
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 30139,
+          "durationFrames": 202,
+          "role": "complication",
+          "narration": "Think about how we react to people in real life. If someone tells you a highly flattering story abou"
+        },
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 30341,
+          "durationFrames": 432,
+          "role": "reveal",
+          "narration": "Oh, of course. You think, okay, they're definitely leaving out the part where they messed up. They'r"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "fromFrame": 30773,
+      "durationFrames": 1025,
+      "durationSeconds": 34.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 30773,
+          "durationFrames": 389,
+          "role": "setup",
+          "narration": "worse, therefore this horrifying thing must be the absolute truth. Exactly. We confuse a lack of sel"
+        },
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 31162,
+          "durationFrames": 206,
+          "role": "question",
+          "narration": "She confesses to things that violate the most sacred ingrained taboss of our society. She really goe"
+        },
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 31368,
+          "durationFrames": 264,
+          "role": "complication",
+          "narration": "She does. She details how she and Jeremy first met, hooking up aggressively in the back of a stolen "
+        },
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 31632,
+          "durationFrames": 166,
+          "role": "reveal",
+          "narration": "borderline obsessive, toxic, all-consuming romance. She is addicted to him."
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "fromFrame": 31798,
+      "durationFrames": 1005,
+      "durationSeconds": 33.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 31798,
+          "durationFrames": 273,
+          "role": "setup",
+          "narration": "But then she juxtaposes this intense, burning passion for her husband with a cold, terrifying, almos"
+        },
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 32071,
+          "durationFrames": 286,
+          "role": "question",
+          "narration": "She writes about actively resenting her twin daughters, Chast and Harper, from the literal moment th"
+        },
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 32357,
+          "durationFrames": 278,
+          "role": "complication",
+          "narration": "but active seething resentment because she felt the baby stole Jeremy's attention away from her. It'"
+        },
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 32635,
+          "durationFrames": 168,
+          "role": "reveal",
+          "narration": "cheek, claiming to the reader that it was from a failed abortion attempt she made while pregnant."
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "fromFrame": 32803,
+      "durationFrames": 1047,
+      "durationSeconds": 34.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 32803,
+          "durationFrames": 382,
+          "role": "setup",
+          "narration": "And when Loen reads this, she doesn't pause. She doesn't fact check it. She just accepts it as gospe"
+        },
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 33185,
+          "durationFrames": 401,
+          "role": "question",
+          "narration": "Lohen is a professional writer. She knows intimately how narratives are That's such a point. She eve"
+        },
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 33586,
+          "durationFrames": 264,
+          "role": "reveal",
+          "narration": "Varity literally makes her millions by knowing exactly how to manipulate a reader's emotions, how to"
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "fromFrame": 33850,
+      "durationFrames": 662,
+      "durationSeconds": 22.1,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 33850,
+          "durationFrames": 352,
+          "role": "setup",
+          "narration": "antagonist. Yet, when Loen reads, so be it. She completely abandons all of her critical thinking ski"
+        },
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 34202,
+          "durationFrames": 310,
+          "role": "reveal",
+          "narration": "Okay, I have to push back on Loen here. Like I really want to challenge the idea that Lohen is just "
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "fromFrame": 34512,
+      "durationFrames": 1200,
+      "durationSeconds": 40,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 34512,
+          "durationFrames": 322,
+          "role": "setup",
+          "narration": "Doesn't Loen want to be Oh, absolutely. If Varity writes from the villain's point of view for a livi"
+        },
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 34834,
+          "durationFrames": 235,
+          "role": "question",
+          "narration": "for cruelty you just talked about? She's a master at it. Exactly. She is giving the reader exactly w"
+        },
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 35069,
+          "durationFrames": 278,
+          "role": "complication",
+          "narration": "If I find a manuscript where a woman claims she tried to abort her baby and hates her kids, my first"
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 35347,
+          "durationFrames": 365,
+          "role": "reveal",
+          "narration": "Why doesn't Loen see that? Isn't Loen reacting irrationally to irrational evidence because it serves"
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "fromFrame": 35712,
+      "durationFrames": 1169,
+      "durationSeconds": 39,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 35712,
+          "durationFrames": 276,
+          "role": "setup",
+          "narration": "Jeremy. Yeah, she is already wearing his clothes, sleeping in his bed, and feeling the profound awkw"
+        },
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 35988,
+          "durationFrames": 329,
+          "role": "question",
+          "narration": "When she reads a manuscript that paints Varity not as a tragic victim of a car crash, but as a coldb"
+        },
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 36317,
+          "durationFrames": 317,
+          "role": "complication",
+          "narration": "her. She needs Varity to be the villain. She has to be because if Varity is a monster, then Loen's o"
+        },
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 36634,
+          "durationFrames": 247,
+          "role": "reveal",
+          "narration": "suddenly feel justified by comparison. Lohen becomes the hero rescuing the poor husband rather than "
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "fromFrame": 36881,
+      "durationFrames": 1041,
+      "durationSeconds": 34.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 36881,
+          "durationFrames": 216,
+          "role": "setup",
+          "narration": "And as Loen reads deeper into this horrifying manuscript, the terror of what she is reading starts t"
+        },
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 37097,
+          "durationFrames": 254,
+          "role": "question",
+          "narration": "It bleeds into the physical reality of the house, which brings us to this creeping physical This is "
+        },
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 37351,
+          "durationFrames": 283,
+          "role": "complication",
+          "narration": "into straightup gothic horror. Hoover masters the atmosphere here. The air in that lakeside house be"
+        },
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 37634,
+          "durationFrames": 288,
+          "role": "reveal",
+          "narration": "and at the center of it is this uncanny presence. It really is suffocating. Loen becomes completely "
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "fromFrame": 37922,
+      "durationFrames": 1044,
+      "durationSeconds": 34.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 37922,
+          "durationFrames": 195,
+          "role": "setup",
+          "narration": "And Hoover builds this tension not with jump scares, but with these highly specific, deeply unsettli"
+        },
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 38117,
+          "durationFrames": 355,
+          "role": "question",
+          "narration": "moments, like the baby monitor. Yes. Loan is trying to sleep and she hears the baby monitor clicking"
+        },
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 38472,
+          "durationFrames": 242,
+          "role": "complication",
+          "narration": "She walks into the living room and the television is blaring even though the nurse supposedly turned"
+        },
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 38714,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "And then there's the intense sensory horror like the moment Loen is watching Varity just staring at "
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "fromFrame": 38966,
+      "durationFrames": 706,
+      "durationSeconds": 23.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 38966,
+          "durationFrames": 351,
+          "role": "setup",
+          "narration": "she suddenly notices the strong sharp smell of urine because Varity has soiled What's fascinating ab"
+        },
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 39317,
+          "durationFrames": 355,
+          "role": "reveal",
+          "narration": "Yeah. We usually talk about the uncanny valley in terms of robotics or AI or animation. When somethi"
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "fromFrame": 39672,
+      "durationFrames": 1018,
+      "durationSeconds": 33.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 39672,
+          "durationFrames": 211,
+          "role": "setup",
+          "narration": "A warning system that says disease or Varity's body becomes the ultimate uncanny object."
+        },
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 39883,
+          "durationFrames": 159,
+          "role": "question",
+          "narration": "She is breathing. Her eyes are open. She has a physical warm presence, but the person,"
+        },
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 40042,
+          "durationFrames": 345,
+          "role": "complication",
+          "narration": "the consciousness, is supposedly entirely It's like living with an unexloded bomb in your living roo"
+        },
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 40387,
+          "durationFrames": 303,
+          "role": "reveal",
+          "narration": "That's a perfect analogy. The sheer presence of it dictates your every single move. Varity exists in"
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "fromFrame": 40690,
+      "durationFrames": 1036,
+      "durationSeconds": 34.5,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 40690,
+          "durationFrames": 304,
+          "role": "setup",
+          "narration": "helpless victim of a catastrophic brain injury and a lethal, calculating mastermind who might just b"
+        },
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 40994,
+          "durationFrames": 348,
+          "role": "question",
+          "narration": "Exactly. The psychological tension comes from the complete and total lack of verifiable truth. Is Va"
+        },
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 41342,
+          "durationFrames": 384,
+          "role": "reveal",
+          "narration": "younger stranger goes through her intimate things and flirts with her grieving God, what a thought, "
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "fromFrame": 41726,
+      "durationFrames": 1085,
+      "durationSeconds": 36.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 41726,
+          "durationFrames": 341,
+          "role": "setup",
+          "narration": "Loan becomes so consumed by this paranoia that she feels compelled to physically test reality. She l"
+        },
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 42067,
+          "durationFrames": 281,
+          "role": "question",
+          "narration": "There's a scene where Loen is alone with Varity in the living room. Varity is sitting in her chair s"
+        },
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 42348,
+          "durationFrames": 274,
+          "role": "complication",
+          "narration": "wooden decorative ball from a bowl on the table, stands in front of Varity, and tosses it hard right"
+        },
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 42622,
+          "durationFrames": 189,
+          "role": "reveal",
+          "narration": "And she doesn't. Not a single muscle twitches. Her eyes don't even tart down. But here is the genius"
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "fromFrame": 42811,
+      "durationFrames": 1251,
+      "durationSeconds": 41.7,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 42811,
+          "durationFrames": 214,
+          "role": "setup",
+          "narration": "Instead of reassuring Loen that Varity is truly paralyzed, this lack of reaction somehow makes Loen "
+        },
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 43025,
+          "durationFrames": 271,
+          "role": "question",
+          "narration": "Of course it does. Her internal monologue immediately pivots. She thinks unless she's trained hersel"
+        },
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 43296,
+          "durationFrames": 240,
+          "role": "partial_answer",
+          "narration": "Loen's paranoia reaches such a fever pitch that she actually drags a heavy wooden chest across her b"
+        },
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 43536,
+          "durationFrames": 180,
+          "role": "complication",
+          "narration": "And eventually, she discovers that Jeremy has actually installed a physical lock on her bedroom door"
+        },
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 43716,
+          "durationFrames": 346,
+          "role": "reveal",
+          "narration": "which is such a brilliant dualmean detail. It really is because Jeremy presents this lock as a consi"
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "fromFrame": 44062,
+      "durationFrames": 489,
+      "durationSeconds": 16.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 44062,
+          "durationFrames": 165,
+          "role": "setup",
+          "narration": "But for Loen, the lock is undeniable confirmation that the house is inherently dangerous."
+        },
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 44227,
+          "durationFrames": 324,
+          "role": "reveal",
+          "narration": "she thinks she needs the lock to keep Varity out. But as she notes in the text, with a chilling lack"
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "fromFrame": 44551,
+      "durationFrames": 1126,
+      "durationSeconds": 37.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 44551,
+          "durationFrames": 175,
+          "role": "setup",
+          "narration": "Wait, really? Yeah. She admits she has a history of sleepwalking, of losing her grip on reality."
+        },
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 44726,
+          "durationFrames": 353,
+          "role": "question",
+          "narration": "Her paranoia about the physical varity upstairs is being constantly fed and validated by the darkest"
+        },
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 45079,
+          "durationFrames": 329,
+          "role": "complication",
+          "narration": "unsettling to completely monstrous. I mean, if the first few chapters of So Be It were about toxic r"
+        },
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 45408,
+          "durationFrames": 269,
+          "role": "reveal",
+          "narration": "hell. They really are. We dive into the most harrowing reveals of the entire source material, the ba"
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "fromFrame": 45677,
+      "durationFrames": 1075,
+      "durationSeconds": 35.8,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 45677,
+          "durationFrames": 336,
+          "role": "setup",
+          "narration": "This section of the source material is where the deep dive gets incredibly heavy because it forces u"
+        },
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 46013,
+          "durationFrames": 355,
+          "role": "question",
+          "narration": "and calculating cold-blooded philicide. In the manuscript, Varity details how Chaston, the first twi"
+        },
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 46368,
+          "durationFrames": 384,
+          "role": "reveal",
+          "narration": "allergy. And Varity's internal monologue, as written in the manuscript during this tragedy, is stoma"
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "fromFrame": 46752,
+      "durationFrames": 1046,
+      "durationSeconds": 34.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 46752,
+          "durationFrames": 216,
+          "role": "setup",
+          "narration": "It is. She felt the girls were a wedge, a distraction that kept Jeremy from loving her with the sing"
+        },
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 46968,
+          "durationFrames": 218,
+          "role": "question",
+          "narration": "Her only actual regret, she writes, was that she wished it had been Harper who died instead of Chast"
+        },
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 47186,
+          "durationFrames": 322,
+          "role": "complication",
+          "narration": "The sheer brutality of this writing is meticulously engineered by Hoover to push both the characters"
+        },
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 47508,
+          "durationFrames": 290,
+          "role": "reveal",
+          "narration": "Hoover is actively testing the limits of your empathy. How much ugliness can you read before you sim"
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "fromFrame": 47798,
+      "durationFrames": 1037,
+      "durationSeconds": 34.6,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 47798,
+          "durationFrames": 334,
+          "role": "setup",
+          "narration": "There is a highly specific visceral detail from the sources that just haunts me and I think it perfe"
+        },
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 48132,
+          "durationFrames": 341,
+          "role": "question",
+          "narration": "Oh, that scene is burned into my brain. In the manuscript, Varity writes about the moment Jeremy get"
+        },
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 48473,
+          "durationFrames": 362,
+          "role": "reveal",
+          "narration": "At that exact moment, Varity is at the kitchen sink washing a raw chicken for dinner. Mhm. Jeremy dr"
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "fromFrame": 48835,
+      "durationFrames": 667,
+      "durationSeconds": 22.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 48835,
+          "durationFrames": 331,
+          "role": "setup",
+          "narration": "And Varity, standing there holding this pale, dead bird under the faucet, writes that she is so over"
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 49166,
+          "durationFrames": 336,
+          "role": "reveal",
+          "narration": "the raw chicken in the It is a grotesque, unforgettable image, and it perfectly encapsulates the sic"
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "fromFrame": 49502,
+      "durationFrames": 1136,
+      "durationSeconds": 37.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 49502,
+          "durationFrames": 190,
+          "role": "setup",
+          "narration": "mundane domestic normaly washing a chicken for family dinner with absolute life shattering"
+        },
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 49692,
+          "durationFrames": 413,
+          "role": "question",
+          "narration": "Yeah, the contrast is just jarring. And crucially in the manuscript, Vary frames this vomiting not a"
+        },
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 50105,
+          "durationFrames": 269,
+          "role": "complication",
+          "narration": "a delay in getting his undivided love back focused solely on her. And somehow incredibly it gets wor"
+        },
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 50374,
+          "durationFrames": 264,
+          "role": "reveal",
+          "narration": "Varity meticulously details her thought process about wanting to murder the surviving twin She write"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "fromFrame": 50638,
+      "durationFrames": 1300,
+      "durationSeconds": 43.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 50638,
+          "durationFrames": 376,
+          "role": "setup",
+          "narration": "Yes. So when Harper eventually drowns after a canoe capsizes on the lake right in front of the house"
+        },
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 51014,
+          "durationFrames": 308,
+          "role": "question",
+          "narration": "Exactly. to regain her husband and remove the final obstacle to his complete devotion. I want to foc"
+        },
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 51322,
+          "durationFrames": 264,
+          "role": "complication",
+          "narration": "This absolute systematic destruction of empathy is a psychological weapon. How so? From an evolution"
+        },
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 51586,
+          "durationFrames": 352,
+          "role": "reveal",
+          "narration": "human beings are hardwired to protect children. When we see a mother not only fail to protect her ch"
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "fromFrame": 51938,
+      "durationFrames": 1102,
+      "durationSeconds": 36.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 51938,
+          "durationFrames": 197,
+          "role": "setup",
+          "narration": "that makes sense. The taboo is so incredibly strong, the revulsion so deep that we abandon all skept"
+        },
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 52135,
+          "durationFrames": 341,
+          "role": "question",
+          "narration": "It triggers a disgusted response that overrides the logical analytical part of her brain. Exactly. E"
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 52476,
+          "durationFrames": 254,
+          "role": "complication",
+          "narration": "Lock her up. Case Right. You just want her gone. The sheer unapologetic brutality of the writing pus"
+        },
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 52730,
+          "durationFrames": 310,
+          "role": "reveal",
+          "narration": "You simply do not want to defend a woman who writes about wanting to kill her child. And this absolu"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "fromFrame": 53040,
+      "durationFrames": 986,
+      "durationSeconds": 32.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 53040,
+          "durationFrames": 254,
+          "role": "setup",
+          "narration": "It gives Loen the ultimate moral high ground. She no longer has to view herself as an interloper or "
+        },
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 53294,
+          "durationFrames": 358,
+          "role": "question",
+          "narration": "coveting a married man's She could rebrand herself. Exactly. She sees herself as a righteous protect"
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 53652,
+          "durationFrames": 374,
+          "role": "reveal",
+          "narration": "which catapults us into the climax of the narrative. Loen's paranoia, her disgust, and her intense d"
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "fromFrame": 54026,
+      "durationFrames": 288,
+      "durationSeconds": 9.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 54026,
+          "durationFrames": 288,
+          "role": "reveal",
+          "narration": "no return. She takes the printed pages of the so be it manuscript, the pages detailing the murders o"
+        }
+      ]
+    },
+    {
+      "id": "seq-56",
+      "fromFrame": 54314,
+      "durationFrames": 1109,
+      "durationSeconds": 37,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 54314,
+          "durationFrames": 365,
+          "role": "setup",
+          "narration": "This is not a passive act. This is a highly calculated act of destruction. Loen knows exactly what t"
+        },
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 54679,
+          "durationFrames": 235,
+          "role": "question",
+          "narration": "his wife. By placing those pages there, she's weaponizing the manuscript. She is pulling the pin on "
+        },
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 54914,
+          "durationFrames": 324,
+          "role": "complication",
+          "narration": "And the explosion is instantaneous. Jeremy reads the pages and the transformation is utterly terrify"
+        },
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 55238,
+          "durationFrames": 185,
+          "role": "reveal",
+          "narration": "the entire book is gone in an instant. He just vanishes. He is replaced by an executioner."
+        }
+      ]
+    },
+    {
+      "id": "seq-57",
+      "fromFrame": 55423,
+      "durationFrames": 1097,
+      "durationSeconds": 36.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 55423,
+          "durationFrames": 341,
+          "role": "setup",
+          "narration": "The text describes how he storms into Varity's room and confronts her. He tests her reflexes violent"
+        },
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 55764,
+          "durationFrames": 250,
+          "role": "question",
+          "narration": "remains locked in that uncanny catatonia, he drags her by the We really need to define the epistemol"
+        },
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 56014,
+          "durationFrames": 249,
+          "role": "complication",
+          "narration": "trap. Break that down for us. Epistemology is the study of knowledge. How we know what is true and w"
+        },
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 56263,
+          "durationFrames": 257,
+          "role": "reveal",
+          "narration": "Loen has just driven herself into an epistemological nightmare. She has crossed a massive ethical an"
+        }
+      ]
+    },
+    {
+      "id": "seq-58",
+      "fromFrame": 56520,
+      "durationFrames": 1068,
+      "durationSeconds": 35.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 56520,
+          "durationFrames": 343,
+          "role": "setup",
+          "narration": "Yes. She has gone from being a voyer reading another woman's private thoughts to an active participa"
+        },
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 56863,
+          "durationFrames": 166,
+          "role": "question",
+          "narration": "climax of the narrative. Jeremy, fueled by the rage of reading the manuscript,"
+        },
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 57029,
+          "durationFrames": 211,
+          "role": "complication",
+          "narration": "forces Varity to choke on her own vomit. It is a brutal, agonizing death. And Loen doesn't stop him."
+        },
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 57240,
+          "durationFrames": 348,
+          "role": "reveal",
+          "narration": "She watches. And after Varity is dead, Loen actively assists Jeremy in staging the room and the body"
+        }
+      ]
+    },
+    {
+      "id": "seq-59",
+      "fromFrame": 57588,
+      "durationFrames": 1133,
+      "durationSeconds": 37.8,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 57588,
+          "durationFrames": 199,
+          "role": "setup",
+          "narration": "is why the concept of moral permission is the only way to understand the story. Lman needed the manu"
+        },
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 57787,
+          "durationFrames": 351,
+          "role": "question",
+          "narration": "She had to have it, right? Because if the manuscript is just a story or a twisted writing exercise o"
+        },
+        {
+          "index": 205,
+          "sceneId": "scene-205",
+          "fromFrame": 58138,
+          "durationFrames": 266,
+          "role": "complication",
+          "narration": "just absolutely shilling. But if the manuscript is true, if Varity really is a sociopathic baby kill"
+        },
+        {
+          "index": 206,
+          "sceneId": "scene-206",
+          "fromFrame": 58404,
+          "durationFrames": 317,
+          "role": "reveal",
+          "narration": "then Loen and Jeremy aren't murderers. They are deliverers of righteous justice. They are eradicatin"
+        }
+      ]
+    },
+    {
+      "id": "seq-60",
+      "fromFrame": 58721,
+      "durationFrames": 468,
+      "durationSeconds": 15.6,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 207,
+          "sceneId": "scene-207",
+          "fromFrame": 58721,
+          "durationFrames": 271,
+          "role": "setup",
+          "narration": "By making Jeremy the executioner, Loen keeps her own hands relatively clean, at least in the twisted"
+        },
+        {
+          "index": 208,
+          "sceneId": "scene-208",
+          "fromFrame": 58992,
+          "durationFrames": 197,
+          "role": "reveal",
+          "narration": "Jeremy did. She just showed him the truth. She secures her romantic tries. She gets the sprawling ho"
+        }
+      ]
+    },
+    {
+      "id": "seq-61",
+      "fromFrame": 59189,
+      "durationFrames": 1025,
+      "durationSeconds": 34.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 209,
+          "sceneId": "scene-209",
+          "fromFrame": 59189,
+          "durationFrames": 312,
+          "role": "setup",
+          "narration": "She gets the handsome husband. She gets the ready-made family with crew. All while convincing hersel"
+        },
+        {
+          "index": 210,
+          "sceneId": "scene-210",
+          "fromFrame": 59501,
+          "durationFrames": 379,
+          "role": "question",
+          "narration": "She believed the narrative that served her desires perfectly and she acted on it with lethal force. "
+        },
+        {
+          "index": 211,
+          "sceneId": "scene-211",
+          "fromFrame": 59880,
+          "durationFrames": 334,
+          "role": "reveal",
+          "narration": "has built her entire new perfect life upon is about to be completely irrevocably shattered. Oh man, "
+        }
+      ]
+    },
+    {
+      "id": "seq-62",
+      "fromFrame": 60214,
+      "durationFrames": 1209,
+      "durationSeconds": 40.3,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 212,
+          "sceneId": "scene-212",
+          "fromFrame": 60214,
+          "durationFrames": 204,
+          "role": "setup",
+          "narration": "dive. Let's fast forward 7 months. Loen and Jeremy are married. Loen is pregnant with Jeremy's child"
+        },
+        {
+          "index": 213,
+          "sceneId": "scene-213",
+          "fromFrame": 60418,
+          "durationFrames": 220,
+          "role": "partial_answer",
+          "narration": "They were living together in the Vermont house. Everything seems perfect. Everything is perfect. The"
+        },
+        {
+          "index": 214,
+          "sceneId": "scene-214",
+          "fromFrame": 60638,
+          "durationFrames": 178,
+          "role": "complication",
+          "narration": "But then Loen is looking for something under the floorboards in Varity's old room. And she finds a l"
+        },
+        {
+          "index": 215,
+          "sceneId": "scene-215",
+          "fromFrame": 60816,
+          "durationFrames": 242,
+          "role": "question",
+          "narration": "And hidden beneath it is a letter. A letter written by Varity. We have to unpack this letter very ca"
+        },
+        {
+          "index": 216,
+          "sceneId": "scene-216",
+          "fromFrame": 61058,
+          "durationFrames": 365,
+          "role": "reveal",
+          "narration": "Because it provides a complete 180°ree counternarrative to absolutely everything we've just disc. Bu"
+        }
+      ]
+    },
+    {
+      "id": "seq-63",
+      "fromFrame": 61423,
+      "durationFrames": 1128,
+      "durationSeconds": 37.6,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 217,
+          "sceneId": "scene-217",
+          "fromFrame": 61423,
+          "durationFrames": 334,
+          "role": "setup",
+          "narration": "laid on us. Varity writes that Jeremy found the manuscript before the car crash. Oh my god. This cha"
+        },
+        {
+          "index": 218,
+          "sceneId": "scene-218",
+          "fromFrame": 61757,
+          "durationFrames": 213,
+          "role": "question",
+          "narration": "gentle, patient demeanor is thrown into question. According to the letter, Jeremy read this antagoni"
+        },
+        {
+          "index": 219,
+          "sceneId": "scene-219",
+          "fromFrame": 61970,
+          "durationFrames": 190,
+          "role": "partial_answer",
+          "narration": "believed it was a true literal confession of murder, and flew into a homicidal"
+        },
+        {
+          "index": 220,
+          "sceneId": "scene-220",
+          "fromFrame": 62160,
+          "durationFrames": 166,
+          "role": "complication",
+          "narration": "uncontrollable rage. The letter details a horrific revelation of domestic violence."
+        },
+        {
+          "index": 221,
+          "sceneId": "scene-221",
+          "fromFrame": 62326,
+          "durationFrames": 225,
+          "role": "reveal",
+          "narration": "Varity writes that Jeremy confronted her with the manuscript, choked her, and then forced her into t"
+        }
+      ]
+    },
+    {
+      "id": "seq-64",
+      "fromFrame": 62551,
+      "durationFrames": 1085,
+      "durationSeconds": 36.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 222,
+          "sceneId": "scene-222",
+          "fromFrame": 62551,
+          "durationFrames": 219,
+          "role": "setup",
+          "narration": "He intentionally unbuckled her seat belt, floored the gas pedal, and drove the car head-on into a tr"
+        },
+        {
+          "index": 223,
+          "sceneId": "scene-223",
+          "fromFrame": 62770,
+          "durationFrames": 333,
+          "role": "question",
+          "narration": "A method, ironically and tragically, that she had brainstormed in her own manuscript. And the most d"
+        },
+        {
+          "index": 224,
+          "sceneId": "scene-224",
+          "fromFrame": 63103,
+          "durationFrames": 327,
+          "role": "complication",
+          "narration": "She claimed she actually survived the crash with relatively minor injuries. But when she woke up in "
+        },
+        {
+          "index": 225,
+          "sceneId": "scene-225",
+          "fromFrame": 63430,
+          "durationFrames": 206,
+          "role": "reveal",
+          "narration": "to kill her. Thought she killed their kids. Exactly. He believed she murdered their children and he "
+        }
+      ]
+    },
+    {
+      "id": "seq-65",
+      "fromFrame": 63636,
+      "durationFrames": 698,
+      "durationSeconds": 23.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 226,
+          "sceneId": "scene-226",
+          "fromFrame": 63636,
+          "durationFrames": 370,
+          "role": "setup",
+          "narration": "So, she made a split-second decision to fake the paralysis. She played catatonic for months, endurin"
+        },
+        {
+          "index": 227,
+          "sceneId": "scene-227",
+          "fromFrame": 64006,
+          "durationFrames": 328,
+          "role": "reveal",
+          "narration": "and to stay close to protect her remaining son crew from a man she now believed was a violent unhing"
+        }
+      ]
+    },
+    {
+      "id": "seq-66",
+      "fromFrame": 64334,
+      "durationFrames": 1080,
+      "durationSeconds": 36,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 228,
+          "sceneId": "scene-228",
+          "fromFrame": 64334,
+          "durationFrames": 363,
+          "role": "setup",
+          "narration": "of that narrative for a second. Just let it wash over you. If this letter is true, Loen didn't help "
+        },
+        {
+          "index": 229,
+          "sceneId": "scene-229",
+          "fromFrame": 64697,
+          "durationFrames": 314,
+          "role": "question",
+          "narration": "get brutally strangled to death by her abusive husband. And Loen, the hero of her own story, helped "
+        },
+        {
+          "index": 230,
+          "sceneId": "scene-230",
+          "fromFrame": 65011,
+          "durationFrames": 403,
+          "role": "reveal",
+          "narration": "unborn child, not as a tragic hero who saved her from a bloody crosswalk, but as a potential serial "
+        }
+      ]
+    },
+    {
+      "id": "seq-67",
+      "fromFrame": 65414,
+      "durationFrames": 982,
+      "durationSeconds": 32.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 231,
+          "sceneId": "scene-231",
+          "fromFrame": 65414,
+          "durationFrames": 221,
+          "role": "setup",
+          "narration": "And how does Loen react to this reality destroying information? Think about what you would do. Would"
+        },
+        {
+          "index": 232,
+          "sceneId": "scene-232",
+          "fromFrame": 65635,
+          "durationFrames": 231,
+          "role": "question",
+          "narration": "Would you pack your bags and run? Would you confront Jeremy and demand the truth? You'd think so, ri"
+        },
+        {
+          "index": 233,
+          "sceneId": "scene-233",
+          "fromFrame": 65866,
+          "durationFrames": 338,
+          "role": "complication",
+          "narration": "She destroys the letter. She takes the pages into the bathroom, rips them into tiny, unrecognizable "
+        },
+        {
+          "index": 234,
+          "sceneId": "scene-234",
+          "fromFrame": 66204,
+          "durationFrames": 192,
+          "role": "reveal",
+          "narration": "She swallows the evidence. She flushes the rest down the toilet. She physically destroys the truth t"
+        }
+      ]
+    },
+    {
+      "id": "seq-68",
+      "fromFrame": 66396,
+      "durationFrames": 1262,
+      "durationSeconds": 42.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 235,
+          "sceneId": "scene-235",
+          "fromFrame": 66396,
+          "durationFrames": 266,
+          "role": "setup",
+          "narration": "Because the cognitive dissonance is simply too massive for her human brain to bear. To accept the le"
+        },
+        {
+          "index": 236,
+          "sceneId": "scene-236",
+          "fromFrame": 66662,
+          "durationFrames": 377,
+          "role": "question",
+          "narration": "It is to accept that her marriage, her pregnancy, her entire future is built on the tortured corpse "
+        },
+        {
+          "index": 237,
+          "sceneId": "scene-237",
+          "fromFrame": 67039,
+          "durationFrames": 240,
+          "role": "complication",
+          "narration": "facts. She opts into the which leaves the reader trapped in the exact same epistemological nightmare"
+        },
+        {
+          "index": 238,
+          "sceneId": "scene-238",
+          "fromFrame": 67279,
+          "durationFrames": 379,
+          "role": "reveal",
+          "narration": "We are at the final insoluble dilemma of the book. We have team manuscript and we have plet letter. "
+        }
+      ]
+    },
+    {
+      "id": "seq-69",
+      "fromFrame": 67658,
+      "durationFrames": 1018,
+      "durationSeconds": 33.9,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 239,
+          "sceneId": "scene-239",
+          "fromFrame": 67658,
+          "durationFrames": 360,
+          "role": "setup",
+          "narration": "mathematically cancel each other out. They really do. There is absolutely no external evidence left "
+        },
+        {
+          "index": 240,
+          "sceneId": "scene-240",
+          "fromFrame": 68018,
+          "durationFrames": 353,
+          "role": "question",
+          "narration": "terrified trapped victim to take her wealth and her life. If the manuscript is true, Varity was a so"
+        },
+        {
+          "index": 241,
+          "sceneId": "scene-241",
+          "fromFrame": 68371,
+          "durationFrames": 305,
+          "role": "reveal",
+          "narration": "the floorboards to ruin Jeremy and Lohan's piece forever, knowing it would act as a psychological po"
+        }
+      ]
+    },
+    {
+      "id": "seq-70",
+      "fromFrame": 68676,
+      "durationFrames": 590,
+      "durationSeconds": 19.7,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 242,
+          "sceneId": "scene-242",
+          "fromFrame": 68676,
+          "durationFrames": 338,
+          "role": "setup",
+          "narration": "Because as a reader, you will inevitably lean toward one side. You will want one to be true. But Hoo"
+        },
+        {
+          "index": 243,
+          "sceneId": "scene-243",
+          "fromFrame": 69014,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "highlights a terrifying reality about human nature. People don't seek the truth. They seek the narra"
+        }
+      ]
+    },
+    {
+      "id": "seq-71",
+      "fromFrame": 69266,
+      "durationFrames": 1176,
+      "durationSeconds": 39.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 244,
+          "sceneId": "scene-244",
+          "fromFrame": 69266,
+          "durationFrames": 291,
+          "role": "setup",
+          "narration": "validates their preconceived notions, or allows them to sleep at night. It's the ultimate psychologi"
+        },
+        {
+          "index": 245,
+          "sceneId": "scene-245",
+          "fromFrame": 69557,
+          "durationFrames": 245,
+          "role": "question",
+          "narration": "says infinitely more about your own moral compass and what kind of darkness you're willing to forgiv"
+        },
+        {
+          "index": 246,
+          "sceneId": "scene-246",
+          "fromFrame": 69802,
+          "durationFrames": 369,
+          "role": "complication",
+          "narration": "If you choose the manuscript, you are justifying extrajudicial murder to protect a family. If you ch"
+        },
+        {
+          "index": 247,
+          "sceneId": "scene-247",
+          "fromFrame": 70171,
+          "durationFrames": 271,
+          "role": "reveal",
+          "narration": "protagonist you've been rooting for is a And this isn't just a fun exercise about a fictional thrill"
+        }
+      ]
+    },
+    {
+      "id": "seq-72",
+      "fromFrame": 70442,
+      "durationFrames": 1090,
+      "durationSeconds": 36.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 248,
+          "sceneId": "scene-248",
+          "fromFrame": 70442,
+          "durationFrames": 267,
+          "role": "setup",
+          "narration": "Yeah. Why is it? Because every single day, in big and small ways, we all construct and consume narra"
+        },
+        {
+          "index": 249,
+          "sceneId": "scene-249",
+          "fromFrame": 70709,
+          "durationFrames": 168,
+          "role": "question",
+          "narration": "We absolutely do. We curate our news feeds to only show us opinions we already hold."
+        },
+        {
+          "index": 250,
+          "sceneId": "scene-250",
+          "fromFrame": 70877,
+          "durationFrames": 345,
+          "role": "complication",
+          "narration": "We choose which gossip to believe about a co-orker we don't like. We frame our own past mistakes, ou"
+        },
+        {
+          "index": 251,
+          "sceneId": "scene-251",
+          "fromFrame": 71222,
+          "durationFrames": 310,
+          "role": "reveal",
+          "narration": "We are all highly deeply susceptible to believing the truth that makes us the hero of our own story."
+        }
+      ]
+    },
+    {
+      "id": "seq-73",
+      "fromFrame": 71532,
+      "durationFrames": 1068,
+      "durationSeconds": 35.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 252,
+          "sceneId": "scene-252",
+          "fromFrame": 71532,
+          "durationFrames": 367,
+          "role": "setup",
+          "narration": "We want that broken arm x-ray we talked about at the very beginning of this deep dive clean black li"
+        },
+        {
+          "index": 253,
+          "sceneId": "scene-253",
+          "fromFrame": 71899,
+          "durationFrames": 180,
+          "role": "question",
+          "narration": "is murky. The diagnostic landscape of human morality is muddy waters."
+        },
+        {
+          "index": 254,
+          "sceneId": "scene-254",
+          "fromFrame": 72079,
+          "durationFrames": 310,
+          "role": "complication",
+          "narration": "and Hoover forces us to swim in it. And I want to leave you with a final chilling thought to mull ov"
+        },
+        {
+          "index": 255,
+          "sceneId": "scene-255",
+          "fromFrame": 72389,
+          "durationFrames": 211,
+          "role": "reveal",
+          "narration": "We've spent this entire time debating whether the manuscript was true or if the letter was true, rig"
+        }
+      ]
+    },
+    {
+      "id": "seq-74",
+      "fromFrame": 72600,
+      "durationFrames": 1078,
+      "durationSeconds": 35.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 256,
+          "sceneId": "scene-256",
+          "fromFrame": 72600,
+          "durationFrames": 254,
+          "role": "setup",
+          "narration": "What if Varity was never a monster, but she wasn't innocent either? What if she simply wanted to lea"
+        },
+        {
+          "index": 257,
+          "sceneId": "scene-257",
+          "fromFrame": 72854,
+          "durationFrames": 312,
+          "role": "question",
+          "narration": "chaos? A puzzle with no solution, just to torture them from beyond the grave. Oh, that's dark. Or ev"
+        },
+        {
+          "index": 258,
+          "sceneId": "scene-258",
+          "fromFrame": 73166,
+          "durationFrames": 264,
+          "role": "complication",
+          "narration": "What if he intentionally left it under the loose floorboard, knowing Loen's snooping nature, just to"
+        },
+        {
+          "index": 259,
+          "sceneId": "scene-259",
+          "fromFrame": 73430,
+          "durationFrames": 248,
+          "role": "reveal",
+          "narration": "If he planted it and she destroyed it to protect him, then she passed his test. She proves she is ju"
+        }
+      ]
+    },
+    {
+      "id": "seq-75",
+      "fromFrame": 73678,
+      "durationFrames": 449,
+      "durationSeconds": 15,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 260,
+          "sceneId": "scene-260",
+          "fromFrame": 73678,
+          "durationFrames": 194,
+          "role": "setup",
+          "narration": "They are perfectly matched in their darkness. You are the jury in a trial where all the evidence has"
+        },
+        {
+          "index": 261,
+          "sceneId": "scene-261",
+          "fromFrame": 73872,
+          "durationFrames": 206,
+          "role": "question",
+          "narration": "The X-ray machine is broken, the jagged line is gone, and all you are left with is the dark, muddy w"
+        },
+        {
+          "index": 262,
+          "sceneId": "scene-262",
+          "fromFrame": 74078,
+          "durationFrames": 49,
+          "role": "reveal",
+          "narration": "Good luck rendering a verdict on"
+        }
+      ]
+    }
+  ]
+}

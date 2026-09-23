@@ -1,0 +1,1217 @@
+{
+  "slug": "verity",
+  "generatedAt": "2026-09-23T10:33:02.060Z",
+  "frozen": false,
+  "status": "FAIL",
+  "scenes": 263,
+  "strings": 177,
+  "violations": [
+    {
+      "sceneId": "scene-05",
+      "path": "texts[1]",
+      "text": "FRONT TODAY INCREDIBLY COMPLEX",
+      "code": "TELEGRAPHIC",
+      "message": "'FRONT TODAY INCREDIBLY COMPLEX' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-06",
+      "path": "texts[0]",
+      "text": "DISTURBING AUTOBIOGRAPHY CALLED UH",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: uh"
+    },
+    {
+      "sceneId": "scene-06",
+      "path": "texts[0]",
+      "text": "DISTURBING AUTOBIOGRAPHY CALLED UH",
+      "code": "TELEGRAPHIC",
+      "message": "'DISTURBING AUTOBIOGRAPHY CALLED UH' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-07",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'INNER TENSION' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-07",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "UNGROUNDED",
+      "message": "'INNER TENSION' is not said in this scene (missing: inner, tension)"
+    },
+    {
+      "sceneId": "scene-07",
+      "path": "diagram.labels[1]",
+      "text": "ABSOLUTELY EVERYTHING THOUGHT TRUE",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: absolutely"
+    },
+    {
+      "sceneId": "scene-07",
+      "path": "diagram.labels[1]",
+      "text": "ABSOLUTELY EVERYTHING THOUGHT TRUE",
+      "code": "TELEGRAPHIC",
+      "message": "'ABSOLUTELY EVERYTHING THOUGHT TRUE' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-08",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-08",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-08",
+      "path": "diagram.labels[1]",
+      "text": "TABLE ACTUALLY SYNTHESIZE",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: actually"
+    },
+    {
+      "sceneId": "scene-10",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-10",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-10",
+      "path": "diagram.labels[0]",
+      "text": "UM TERRIFYING CONCEPT",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: um"
+    },
+    {
+      "sceneId": "scene-17",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-18",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-18",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-18",
+      "path": "texts[1]",
+      "text": "OH THATS TRUE",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: oh"
+    },
+    {
+      "sceneId": "scene-21",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-21",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-21",
+      "path": "diagram.labels[0]",
+      "text": "DOESNT KNOW EASE AMBIGUITY",
+      "code": "TELEGRAPHIC",
+      "message": "'DOESNT KNOW EASE AMBIGUITY' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-21",
+      "path": "diagram.labels[0]",
+      "text": "DOESNT KNOW EASE AMBIGUITY",
+      "code": "FRAGMENT",
+      "message": "'DOESNT KNOW EASE AMBIGUITY' carries a spoken contraction ('doesnt')"
+    },
+    {
+      "sceneId": "scene-29",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-29",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-29",
+      "path": "diagram.labels[1]",
+      "text": "SAME PUBLISHING BUILDING LOWEN",
+      "code": "TELEGRAPHIC",
+      "message": "'SAME PUBLISHING BUILDING LOWEN' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-34",
+      "path": "texts[0]",
+      "text": "FIND NEAT LITTLE OUTLINE",
+      "code": "TELEGRAPHIC",
+      "message": "'FIND NEAT LITTLE OUTLINE' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-35",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-39",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'INNER TENSION' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-39",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "UNGROUNDED",
+      "message": "'INNER TENSION' is not said in this scene (missing: inner, tension)"
+    },
+    {
+      "sceneId": "scene-39",
+      "path": "diagram.labels[0]",
+      "text": "CATALYST ABSOLUTELY EVERYTHING FOLLOWS",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: absolutely"
+    },
+    {
+      "sceneId": "scene-39",
+      "path": "diagram.labels[0]",
+      "text": "CATALYST ABSOLUTELY EVERYTHING FOLLOWS",
+      "code": "TELEGRAPHIC",
+      "message": "'CATALYST ABSOLUTELY EVERYTHING FOLLOWS' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-39",
+      "path": "diagram.labels[1]",
+      "text": "ACTUALLY MADE PHYSICALLY RECOIL",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: actually"
+    },
+    {
+      "sceneId": "scene-39",
+      "path": "diagram.labels[1]",
+      "text": "ACTUALLY MADE PHYSICALLY RECOIL",
+      "code": "TELEGRAPHIC",
+      "message": "'ACTUALLY MADE PHYSICALLY RECOIL' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-47",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-47",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-49",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-49",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-49",
+      "path": "diagram.labels[0]",
+      "text": "INTRODUCING CONCEPT INVOLUNTARY INTIMACY",
+      "code": "TELEGRAPHIC",
+      "message": "'INTRODUCING CONCEPT INVOLUNTARY INTIMACY' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-49",
+      "path": "diagram.labels[1]",
+      "text": "UNPACK MECHANICS HAPPENING HERE",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: unpack"
+    },
+    {
+      "sceneId": "scene-52",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-52",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-52",
+      "path": "texts[1]",
+      "text": "JEREMY CREATES HIGHLY CHARGED",
+      "code": "TELEGRAPHIC",
+      "message": "'JEREMY CREATES HIGHLY CHARGED' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-53",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-54",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'INNER TENSION' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-54",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "UNGROUNDED",
+      "message": "'INNER TENSION' is not said in this scene (missing: inner, tension)"
+    },
+    {
+      "sceneId": "scene-54",
+      "path": "diagram.labels[0]",
+      "text": "VIOLENT TRAUMA BONDING SPEED",
+      "code": "TELEGRAPHIC",
+      "message": "'VIOLENT TRAUMA BONDING SPEED' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-54",
+      "path": "diagram.labels[1]",
+      "text": "THATS ONLY WAY DESCRIBE",
+      "code": "TELEGRAPHIC",
+      "message": "'THATS ONLY WAY DESCRIBE' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-54",
+      "path": "diagram.labels[1]",
+      "text": "THATS ONLY WAY DESCRIBE",
+      "code": "FRAGMENT",
+      "message": "'THATS ONLY WAY DESCRIBE' carries a spoken contraction ('thats')"
+    },
+    {
+      "sceneId": "scene-55",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-55",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-56",
+      "path": "texts[0]",
+      "text": "MAN WATCHES REFLECTION MIRROR",
+      "code": "TELEGRAPHIC",
+      "message": "'MAN WATCHES REFLECTION MIRROR' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-57",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-57",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-57",
+      "path": "diagram.labels[0]",
+      "text": "THOROUGHLY EMOTIONAL BOUNDARIES FOLLOW",
+      "code": "TELEGRAPHIC",
+      "message": "'THOROUGHLY EMOTIONAL BOUNDARIES FOLLOW' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-57",
+      "path": "diagram.labels[1]",
+      "text": "DOWN THEYRE BLOWN UP",
+      "code": "FRAGMENT",
+      "message": "'DOWN THEYRE BLOWN UP' carries a spoken contraction ('theyre')"
+    },
+    {
+      "sceneId": "scene-60",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-60",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-63",
+      "path": "texts[0]",
+      "text": "WAY VIEW HUMAN CONNECTION",
+      "code": "TELEGRAPHIC",
+      "message": "'WAY VIEW HUMAN CONNECTION' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-70",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-70",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-70",
+      "path": "diagram.labels[0]",
+      "text": "OWES SHES LITERALLY",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: literally"
+    },
+    {
+      "sceneId": "scene-70",
+      "path": "diagram.labels[0]",
+      "text": "OWES SHES LITERALLY",
+      "code": "FRAGMENT",
+      "message": "'OWES SHES LITERALLY' carries a spoken contraction ('shes')"
+    },
+    {
+      "sceneId": "scene-70",
+      "path": "diagram.labels[1]",
+      "text": "THATS CRUCIAL PIVOT",
+      "code": "FRAGMENT",
+      "message": "'THATS CRUCIAL PIVOT' carries a spoken contraction ('thats')"
+    },
+    {
+      "sceneId": "scene-70",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-72",
+      "path": "texts[0]",
+      "text": "SHORT-TERM ILLUSION",
+      "code": "UNGROUNDED",
+      "message": "'SHORT-TERM ILLUSION' is not said in this scene (missing: short, term, illusion)"
+    },
+    {
+      "sceneId": "scene-87",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-87",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-87",
+      "path": "texts[1]",
+      "text": "SHES LOOKING SOMETHING SLEEP",
+      "code": "TELEGRAPHIC",
+      "message": "'SHES LOOKING SOMETHING SLEEP' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-87",
+      "path": "texts[2]",
+      "text": "CRAWFORD REALY PUTS CRAWLS",
+      "code": "TELEGRAPHIC",
+      "message": "'CRAWFORD REALY PUTS CRAWLS' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-88",
+      "path": "texts[0]",
+      "text": "YOURE REFERRING BITE MARKS",
+      "code": "TELEGRAPHIC",
+      "message": "'YOURE REFERRING BITE MARKS' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-89",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-98",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-98",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-101",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-101",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-101",
+      "path": "diagram.labels[1]",
+      "text": "READ OPENING CREDO MANUSCRIPT",
+      "code": "TELEGRAPHIC",
+      "message": "'READ OPENING CREDO MANUSCRIPT' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-104",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-104",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-106",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-115",
+      "path": "texts[0]",
+      "text": "HARPER LITERAL MOMENT BORN",
+      "code": "TELEGRAPHIC",
+      "message": "'HARPER LITERAL MOMENT BORN' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-115",
+      "path": "texts[1]",
+      "text": "POSTPARTUM DEPRESSION FEEL NUMB",
+      "code": "TELEGRAPHIC",
+      "message": "'POSTPARTUM DEPRESSION FEEL NUMB' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-118",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-118",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-118",
+      "path": "diagram.labels[0]",
+      "text": "TRAGIC IRONY LOWEN CHARACTER",
+      "code": "TELEGRAPHIC",
+      "message": "'TRAGIC IRONY LOWEN CHARACTER' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-118",
+      "path": "diagram.labels[1]",
+      "text": "CHECK ACCEPTS GOSPEL TRUTH",
+      "code": "TELEGRAPHIC",
+      "message": "'CHECK ACCEPTS GOSPEL TRUTH' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-121",
+      "path": "texts[0]",
+      "text": "BECOMES GULLIBLE AUDIENCE MEMBER",
+      "code": "TELEGRAPHIC",
+      "message": "'BECOMES GULLIBLE AUDIENCE MEMBER' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-123",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-128",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-128",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-128",
+      "path": "texts[1]",
+      "text": "LOWEN SUBCONSCIOUS DESIRE REPLACE",
+      "code": "TELEGRAPHIC",
+      "message": "'LOWEN SUBCONSCIOUS DESIRE REPLACE' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-129",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-129",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-129",
+      "path": "diagram.labels[0]",
+      "text": "MARRIED HUSBAND IGNORING BOUNDARIES",
+      "code": "TELEGRAPHIC",
+      "message": "'MARRIED HUSBAND IGNORING BOUNDARIES' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-133",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'INNER TENSION' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-133",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "UNGROUNDED",
+      "message": "'INNER TENSION' is not said in this scene (missing: inner, tension)"
+    },
+    {
+      "sceneId": "scene-135",
+      "path": "texts[0]",
+      "text": "BUILDS TENSION JUMP SCARES",
+      "code": "TELEGRAPHIC",
+      "message": "'BUILDS TENSION JUMP SCARES' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-135",
+      "path": "texts[1]",
+      "text": "HIGHLY SPECIFIC DEEPLY UNSETTLING",
+      "code": "TELEGRAPHIC",
+      "message": "'HIGHLY SPECIFIC DEEPLY UNSETTLING' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-139",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-139",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-139",
+      "path": "diagram.labels[0]",
+      "text": "UNCANNY BODY UNCANNY BODY",
+      "code": "FRAGMENT",
+      "message": "'UNCANNY BODY UNCANNY BODY' repeats 'uncanny'"
+    },
+    {
+      "sceneId": "scene-139",
+      "path": "diagram.labels[0]",
+      "text": "UNCANNY BODY UNCANNY BODY",
+      "code": "TELEGRAPHIC",
+      "message": "'UNCANNY BODY UNCANNY BODY' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-139",
+      "path": "diagram.labels[1]",
+      "text": "STRONG SHARP SMELL URINE",
+      "code": "TELEGRAPHIC",
+      "message": "'STRONG SHARP SMELL URINE' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-140",
+      "path": "texts[0]",
+      "text": "TRIGGERS DEEP EVOLUTIONARY REVULSION",
+      "code": "TELEGRAPHIC",
+      "message": "'TRIGGERS DEEP EVOLUTIONARY REVULSION' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-141",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-146",
+      "path": "texts[0]",
+      "text": "UNIMAGINABLE TORMENT SCREAMING INSIDE",
+      "code": "TELEGRAPHIC",
+      "message": "'UNIMAGINABLE TORMENT SCREAMING INSIDE' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-146",
+      "path": "texts[1]",
+      "text": "TORMENT SCREAMING INSIDE WHILE",
+      "code": "FRAGMENT",
+      "message": "'TORMENT SCREAMING INSIDE WHILE' ends mid-phrase ('while')"
+    },
+    {
+      "sceneId": "scene-146",
+      "path": "texts[0]+texts[1]",
+      "text": "UNIMAGINABLE TORMENT SCREAMING INSIDE | TORMENT SCREAMING INSIDE WHILE",
+      "code": "PAIR_OVERLAP",
+      "message": "'UNIMAGINABLE TORMENT SCREAMING INSIDE' and 'TORMENT SCREAMING INSIDE WHILE' are the same idea"
+    },
+    {
+      "sceneId": "scene-153",
+      "path": "texts[0]",
+      "text": "INTERNAL MONOLOGUE IMMEDIATELY PIVOTS",
+      "code": "TELEGRAPHIC",
+      "message": "'INTERNAL MONOLOGUE IMMEDIATELY PIVOTS' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-153",
+      "path": "texts[1]",
+      "text": "REACT IMPOSSIBLE UNWINABLE SITUATION",
+      "code": "TELEGRAPHIC",
+      "message": "'REACT IMPOSSIBLE UNWINABLE SITUATION' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-156",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-156",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-156",
+      "path": "diagram.labels[0]",
+      "text": "SAFE STRANGE LARGE HOUSE",
+      "code": "TELEGRAPHIC",
+      "message": "'SAFE STRANGE LARGE HOUSE' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-156",
+      "path": "diagram.labels[1]",
+      "text": "SUCH BRILLIANT DUALMEAN DETAIL",
+      "code": "TELEGRAPHIC",
+      "message": "'SUCH BRILLIANT DUALMEAN DETAIL' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-158",
+      "path": "texts[1]",
+      "text": "CREW SAFE LOWEN HERSELF",
+      "code": "TELEGRAPHIC",
+      "message": "'CREW SAFE LOWEN HERSELF' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-158",
+      "path": "texts[0]+texts[1]",
+      "text": "CREW SAFE | CREW SAFE LOWEN HERSELF",
+      "code": "PAIR_OVERLAP",
+      "message": "'CREW SAFE' and 'CREW SAFE LOWEN HERSELF' are the same idea"
+    },
+    {
+      "sceneId": "scene-159",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-163",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-163",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-163",
+      "path": "diagram.labels[0]",
+      "text": "POSTPARTUM DEPRESSION MATERNAL RESENTMENT",
+      "code": "TELEGRAPHIC",
+      "message": "'POSTPARTUM DEPRESSION MATERNAL RESENTMENT' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-163",
+      "path": "diagram.labels[0]",
+      "text": "POSTPARTUM DEPRESSION MATERNAL RESENTMENT",
+      "code": "LENGTH",
+      "message": "'POSTPARTUM DEPRESSION MATERNAL RESENTMENT' is 4 words / 41 chars (max 5/40 for label)"
+    },
+    {
+      "sceneId": "scene-167",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-167",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-167",
+      "path": "texts[1]",
+      "text": "WRITES WISHED HARPER DIED",
+      "code": "TELEGRAPHIC",
+      "message": "'WRITES WISHED HARPER DIED' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-167",
+      "path": "texts[2]",
+      "text": "CHASTIN LIKED CHASTIN SLIGHTLY",
+      "code": "FRAGMENT",
+      "message": "'CHASTIN LIKED CHASTIN SLIGHTLY' repeats 'chastin'"
+    },
+    {
+      "sceneId": "scene-167",
+      "path": "texts[2]",
+      "text": "CHASTIN LIKED CHASTIN SLIGHTLY",
+      "code": "TELEGRAPHIC",
+      "message": "'CHASTIN LIKED CHASTIN SLIGHTLY' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-172",
+      "path": "texts[0]",
+      "text": "ATTENTION CAPTURE",
+      "code": "UNGROUNDED",
+      "message": "'ATTENTION CAPTURE' is not said in this scene (missing: attention, capture)"
+    },
+    {
+      "sceneId": "scene-175",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-176",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-176",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-176",
+      "path": "texts[1]",
+      "text": "VIEWS JEREMYS GRIEF PATHETIC",
+      "code": "TELEGRAPHIC",
+      "message": "'VIEWS JEREMYS GRIEF PATHETIC' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-177",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-177",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-179",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-179",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-179",
+      "path": "texts[1]",
+      "text": "NECESSITY CALCULATED NECESSARY MOVE",
+      "code": "TELEGRAPHIC",
+      "message": "'NECESSITY CALCULATED NECESSARY MOVE' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-182",
+      "path": "texts[0]",
+      "text": "FEEDBACK LOOP",
+      "code": "UNGROUNDED",
+      "message": "'FEEDBACK LOOP' is not said in this scene (missing: feedback, loop)"
+    },
+    {
+      "sceneId": "scene-182",
+      "path": "texts[1]",
+      "text": "ONLY FAIL PROTECT CHILD",
+      "code": "TELEGRAPHIC",
+      "message": "'ONLY FAIL PROTECT CHILD' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-182",
+      "path": "texts[2]",
+      "text": "CHILDS DEATH BRAINS PRACTICALLY",
+      "code": "TELEGRAPHIC",
+      "message": "'CHILDS DEATH BRAINS PRACTICALLY' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-186",
+      "path": "texts[2]",
+      "text": "NEEDS FINALIZE MORAL PERMISSION",
+      "code": "TELEGRAPHIC",
+      "message": "'NEEDS FINALIZE MORAL PERMISSION' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-191",
+      "path": "texts[1]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-191",
+      "path": "texts[1]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-191",
+      "path": "texts[2]",
+      "text": "LOVE CHILDREN LINGERING DEVOTION",
+      "code": "TELEGRAPHIC",
+      "message": "'LOVE CHILDREN LINGERING DEVOTION' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-191",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-195",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-195",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-195",
+      "path": "diagram.labels[1]",
+      "text": "ACT DOESNT RESPOND",
+      "code": "FRAGMENT",
+      "message": "'ACT DOESNT RESPOND' carries a spoken contraction ('doesnt')"
+    },
+    {
+      "sceneId": "scene-198",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'INNER TENSION' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-198",
+      "path": "diagram.title",
+      "text": "INNER TENSION",
+      "code": "UNGROUNDED",
+      "message": "'INNER TENSION' is not said in this scene (missing: inner, tension)"
+    },
+    {
+      "sceneId": "scene-198",
+      "path": "diagram.labels[0]",
+      "text": "DRIVEN HERSELF EPISTEMOLOGICAL NIGHTMARE",
+      "code": "TELEGRAPHIC",
+      "message": "'DRIVEN HERSELF EPISTEMOLOGICAL NIGHTMARE' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-198",
+      "path": "diagram.labels[1]",
+      "text": "ENTIRELY TEXT CANNOT WOW",
+      "code": "FILLER_TOKEN",
+      "message": "spoken filler on screen: wow"
+    },
+    {
+      "sceneId": "scene-198",
+      "path": "diagram.labels[1]",
+      "text": "ENTIRELY TEXT CANNOT WOW",
+      "code": "TELEGRAPHIC",
+      "message": "'ENTIRELY TEXT CANNOT WOW' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-209",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-210",
+      "path": "texts[0]",
+      "text": "EASILY MORAL JUSTIFICATION LOWEN",
+      "code": "TELEGRAPHIC",
+      "message": "'EASILY MORAL JUSTIFICATION LOWEN' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-216",
+      "path": "texts[0]",
+      "text": "BOMBSHELL CHANGES ENTIRE GET",
+      "code": "FRAGMENT",
+      "message": "'BOMBSHELL CHANGES ENTIRE GET' ends mid-phrase ('get')"
+    },
+    {
+      "sceneId": "scene-224",
+      "path": "texts[0]+texts[1]",
+      "text": "STOP | WOULD NEVER STOP TRYING",
+      "code": "PAIR_OVERLAP",
+      "message": "'STOP' and 'WOULD NEVER STOP TRYING' are the same idea"
+    },
+    {
+      "sceneId": "scene-228",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-230",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'NOT WHAT IT SEEMS' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-230",
+      "path": "texts[0]",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "UNGROUNDED",
+      "message": "'NOT WHAT IT SEEMS' is not said in this scene (missing: seems)"
+    },
+    {
+      "sceneId": "scene-230",
+      "path": "texts[1]",
+      "text": "HERO SAVED BLOODY CROSSWALK",
+      "code": "TELEGRAPHIC",
+      "message": "'HERO SAVED BLOODY CROSSWALK' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-230",
+      "path": "texts[2]",
+      "text": "SUCCESSFULLY COMPLETED EXPLICIT HELP",
+      "code": "TELEGRAPHIC",
+      "message": "'SUCCESSFULLY COMPLETED EXPLICIT HELP' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-235",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-235",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-240",
+      "path": "texts[0]",
+      "text": "THE HIDDEN COST",
+      "code": "UNGROUNDED",
+      "message": "'THE HIDDEN COST' is not said in this scene (missing: hidden, cost)"
+    },
+    {
+      "sceneId": "scene-244",
+      "path": "chapterCard.subtitle",
+      "text": "A NEW MENTAL MODEL",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'A NEW MENTAL MODEL' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-247",
+      "path": "texts[0]",
+      "text": "LISTENER MATTER REAL WORLD",
+      "code": "TELEGRAPHIC",
+      "message": "'LISTENER MATTER REAL WORLD' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-248",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "CONSTANT_TEMPLATE",
+      "message": "'TRIGGER → CONSEQUENCE' is a code template, not copy about this beat"
+    },
+    {
+      "sceneId": "scene-248",
+      "path": "diagram.title",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "UNGROUNDED",
+      "message": "'TRIGGER → CONSEQUENCE' is not said in this scene (missing: trigger, consequence)"
+    },
+    {
+      "sceneId": "scene-252",
+      "path": "texts[0]",
+      "text": "AGAINST INHERENTLY UNDENIABLY JUSTIFIED",
+      "code": "TELEGRAPHIC",
+      "message": "'AGAINST INHERENTLY UNDENIABLY JUSTIFIED' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-256",
+      "path": "texts[1]",
+      "text": "BEHIND LEGACY ABSOLUTE PSYCHOLOGICAL",
+      "code": "TELEGRAPHIC",
+      "message": "'BEHIND LEGACY ABSOLUTE PSYCHOLOGICAL' is keyword soup (no function word in 4 words)"
+    },
+    {
+      "sceneId": "scene-07",
+      "path": "*",
+      "text": "INNER TENSION",
+      "code": "BOOK_REPETITION",
+      "message": "'INNER TENSION' appears on 5 scenes (max 3)"
+    },
+    {
+      "sceneId": "scene-08",
+      "path": "*",
+      "text": "TRIGGER → CONSEQUENCE",
+      "code": "BOOK_REPETITION",
+      "message": "'TRIGGER → CONSEQUENCE' appears on 21 scenes (max 3)"
+    },
+    {
+      "sceneId": "scene-18",
+      "path": "*",
+      "text": "NOT WHAT IT SEEMS",
+      "code": "BOOK_REPETITION",
+      "message": "'NOT WHAT IT SEEMS' appears on 10 scenes (max 3)"
+    }
+  ],
+  "counts": {
+    "TELEGRAPHIC": 54,
+    "FILLER_TOKEN": 10,
+    "CONSTANT_TEMPLATE": 50,
+    "UNGROUNDED": 40,
+    "FRAGMENT": 10,
+    "PAIR_OVERLAP": 3,
+    "LENGTH": 1,
+    "BOOK_REPETITION": 3
+  }
+}
